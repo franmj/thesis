@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.5 $
+% $ biblatex bbl format version 2.4 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,129 @@
 
 
 \refsection{0}
-  \sortlist{nty}{nty}
+  \sortlist{}{}
+    \entry{kessel2010}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=09d96aa5b560f746a81c4f0086d6aeb4}{Kessel}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=adc989901810b45b4084e719b53e6668}{Ben-Tal}{B\bibinithyphendelim T\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=09d96aa5b560f746a81c4f0086d6aeb4}{Kessel}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=adc989901810b45b4084e719b53e6668}{Ben-Tal}{B\bibinithyphendelim T\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f607c969a2c8cea129a86878a4c3fb63}
+      \strng{fullhash}{f607c969a2c8cea129a86878a4c3fb63}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Introduction to Proteins: Structure, Function, and Motion}}
+      \field{isbn}{9781439810729}
+      \field{series}{Chapman {\&} Hall/CRC Mathematical and Computational Biology}
+      \field{title}{{Introduction to Proteins: Structure, Function, and Motion}}
+      \field{year}{2010}
+      \verb{url}
+      \verb https://books.google.es/books?id=cMMgypIrxocC
+      \endverb
+    \endentry
+    \entry{human2014}{article}{}
+      \name{labelname}{37}{}{%
+        {{hash=f567b6f663207c60f3de5458ba0d66cc}{Kim}{K\bibinitperiod}{Min-sik}{M\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=cb6d3dc59f585be8a246d7b7011668b1}{Pinto}{P\bibinitperiod}{Sneha\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=95ae1105e0c5447cd293e283f8611f02}{Getnet}{G\bibinitperiod}{Derese}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=482156254a560b22cfbf358131451c9c}{Nirujogi}{N\bibinitperiod}{Raja\bibnamedelima Sekhar}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=caf3caf27dbc02e6451846115ab8500b}{Manda}{M\bibinitperiod}{Srikanth\bibnamedelima S}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c562efc414187231499fcbfd16a3c44}{Chaerkady}{C\bibinitperiod}{Raghothama}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b9d5e4fafc5309f7b113c20459613234}{Madugundu}{M\bibinitperiod}{Anil\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=34eec8f11200f26f042cb41c3872bce1}{Kelkar}{K\bibinitperiod}{Dhanashree\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5d8f037bd00b3c4c89aba27c3d4fad2d}{Isserlin}{I\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5e4f0a41a2361e06666d9fe5da023a83}{Jain}{J\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a40fba22cfdfca3aeb3ff48476bf8171}{Thomas}{T\bibinitperiod}{Joji\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=681510aa36b5acd15a1c6c71fe154e8c}{Muthusamy}{M\bibinitperiod}{Babylakshmi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d43dd9537fff12f413f53b9fb968616c}{Leal-rojas}{L\bibinithyphendelim r\bibinitperiod}{Pamela}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ac5ce9110ee23fd70d895dc0641d6d97}{Kumar}{K\bibinitperiod}{Praveen}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=23c4d7a6a5b9a4b7a9ce4c30031f2038}{Sahasrabuddhe}{S\bibinitperiod}{Nandini\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07399858fa094f5e35b0ae9e477d1c84}{Balakrishnan}{B\bibinitperiod}{Lavanya}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7df166d085ae9650c659303094b3fc28}{Advani}{A\bibinitperiod}{Jayshree}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=66bdc2d16a044b99ab9de051fb111134}{George}{G\bibinitperiod}{Bijesh}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=4105319ee0c0035269efa109576f5fd3}{Renuse}{R\bibinitperiod}{Santosh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a28fd619c269a98f8973f293ed813d0a}{Selvan}{S\bibinitperiod}{Lakshmi\bibnamedelimb Dhevi\bibnamedelima N}{L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f4c35cb502a9d8ebc6b02d32335a9041}{Patil}{P\bibinitperiod}{Arun\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=5b289731fc74fb5c55cc125bf82b68e5}{Nanjappa}{N\bibinitperiod}{Vishalakshi}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=e46aaa07ff91581afaed15f86e8cdfd7}{Radhakrishnan}{R\bibinitperiod}{Aneesha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ca36b4e6a82c1b0e76e128e70b2c443b}{Prasad}{P\bibinitperiod}{Samarjeet}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b55b4a51c87b244a43a7fdcf580f678}{Jayaram}{J\bibinitperiod}{Savita}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=81ce2aafd8165d14306b21bd0a379480}{Rajagopalan}{R\bibinitperiod}{Pavithra}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=89bc735ebb4e3d7d8ae356b517755465}{Sharma}{S\bibinitperiod}{Jyoti}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=170d2c50ecf531c338655350c29de604}{Murthy}{M\bibinitperiod}{Krishna\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5399d61620244bc4780c9d8538ef7bc}{Syed}{S\bibinitperiod}{Nazia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=b2bd59fec4eafe5f2ef5422abad64ce9}{Goel}{G\bibinitperiod}{Renu}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=73d046c942924e8fe13f528101f32dd5}{Khan}{K\bibinitperiod}{Aafaque\bibnamedelima A}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=713ad73222ab41b4a2ba7a29da0dbba4}{Freed}{F\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=56763629ddbc7bebfb6999a64f16ffb4}{Zahari}{Z\bibinitperiod}{Muhammad\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5abd9a43a57e339e677483c15d8549c2}{Mukherjee}{M\bibinitperiod}{Kanchan\bibnamedelima K}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=14a19f3bcc3a10161cdcaffc8bee5c6c}{Shankar}{S\bibinitperiod}{Subramanian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=66368f6236a3c75210c90a45c679775c}{Mahadevan}{M\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d340b86c16232c474c78843c66549746}{Lam}{L\bibinitperiod}{Henry}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{37}{}{%
+        {{hash=f567b6f663207c60f3de5458ba0d66cc}{Kim}{K\bibinitperiod}{Min-sik}{M\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=cb6d3dc59f585be8a246d7b7011668b1}{Pinto}{P\bibinitperiod}{Sneha\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=95ae1105e0c5447cd293e283f8611f02}{Getnet}{G\bibinitperiod}{Derese}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=482156254a560b22cfbf358131451c9c}{Nirujogi}{N\bibinitperiod}{Raja\bibnamedelima Sekhar}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=caf3caf27dbc02e6451846115ab8500b}{Manda}{M\bibinitperiod}{Srikanth\bibnamedelima S}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c562efc414187231499fcbfd16a3c44}{Chaerkady}{C\bibinitperiod}{Raghothama}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b9d5e4fafc5309f7b113c20459613234}{Madugundu}{M\bibinitperiod}{Anil\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=34eec8f11200f26f042cb41c3872bce1}{Kelkar}{K\bibinitperiod}{Dhanashree\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5d8f037bd00b3c4c89aba27c3d4fad2d}{Isserlin}{I\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5e4f0a41a2361e06666d9fe5da023a83}{Jain}{J\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a40fba22cfdfca3aeb3ff48476bf8171}{Thomas}{T\bibinitperiod}{Joji\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=681510aa36b5acd15a1c6c71fe154e8c}{Muthusamy}{M\bibinitperiod}{Babylakshmi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d43dd9537fff12f413f53b9fb968616c}{Leal-rojas}{L\bibinithyphendelim r\bibinitperiod}{Pamela}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ac5ce9110ee23fd70d895dc0641d6d97}{Kumar}{K\bibinitperiod}{Praveen}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=23c4d7a6a5b9a4b7a9ce4c30031f2038}{Sahasrabuddhe}{S\bibinitperiod}{Nandini\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07399858fa094f5e35b0ae9e477d1c84}{Balakrishnan}{B\bibinitperiod}{Lavanya}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7df166d085ae9650c659303094b3fc28}{Advani}{A\bibinitperiod}{Jayshree}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=66bdc2d16a044b99ab9de051fb111134}{George}{G\bibinitperiod}{Bijesh}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=4105319ee0c0035269efa109576f5fd3}{Renuse}{R\bibinitperiod}{Santosh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a28fd619c269a98f8973f293ed813d0a}{Selvan}{S\bibinitperiod}{Lakshmi\bibnamedelimb Dhevi\bibnamedelima N}{L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f4c35cb502a9d8ebc6b02d32335a9041}{Patil}{P\bibinitperiod}{Arun\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=5b289731fc74fb5c55cc125bf82b68e5}{Nanjappa}{N\bibinitperiod}{Vishalakshi}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=e46aaa07ff91581afaed15f86e8cdfd7}{Radhakrishnan}{R\bibinitperiod}{Aneesha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ca36b4e6a82c1b0e76e128e70b2c443b}{Prasad}{P\bibinitperiod}{Samarjeet}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b55b4a51c87b244a43a7fdcf580f678}{Jayaram}{J\bibinitperiod}{Savita}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=81ce2aafd8165d14306b21bd0a379480}{Rajagopalan}{R\bibinitperiod}{Pavithra}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=89bc735ebb4e3d7d8ae356b517755465}{Sharma}{S\bibinitperiod}{Jyoti}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=170d2c50ecf531c338655350c29de604}{Murthy}{M\bibinitperiod}{Krishna\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5399d61620244bc4780c9d8538ef7bc}{Syed}{S\bibinitperiod}{Nazia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=b2bd59fec4eafe5f2ef5422abad64ce9}{Goel}{G\bibinitperiod}{Renu}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=73d046c942924e8fe13f528101f32dd5}{Khan}{K\bibinitperiod}{Aafaque\bibnamedelima A}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=713ad73222ab41b4a2ba7a29da0dbba4}{Freed}{F\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=56763629ddbc7bebfb6999a64f16ffb4}{Zahari}{Z\bibinitperiod}{Muhammad\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5abd9a43a57e339e677483c15d8549c2}{Mukherjee}{M\bibinitperiod}{Kanchan\bibnamedelima K}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=14a19f3bcc3a10161cdcaffc8bee5c6c}{Shankar}{S\bibinitperiod}{Subramanian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=66368f6236a3c75210c90a45c679775c}{Mahadevan}{M\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d340b86c16232c474c78843c66549746}{Lam}{L\bibinitperiod}{Henry}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fdcc313249b1adb7ca0fb38d90313b37}
+      \strng{fullhash}{9cf5f381b4aabec7306611abc4ee4cb0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A draft map of the human proteome}}
+      \field{title}{{A draft map of the human proteome}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1038/nature13302
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nature13302.pdf:pdf
+      \endverb
+    \endentry
     \entry{thecell2008}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f351b421c470c2f155156f0ed44b791f}{Alberts}{A\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
       \name{author}{1}{}{%
         {{hash=f351b421c470c2f155156f0ed44b791f}{Alberts}{A\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
       }
@@ -28,10 +149,9 @@
       }
       \strng{namehash}{f351b421c470c2f155156f0ed44b791f}
       \strng{fullhash}{f351b421c470c2f155156f0ed44b791f}
-      \field{sortinit}{A}
-      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{Molecular Biology of the Cell: Reference edition}
       \field{isbn}{9780815341116}
       \field{number}{v. 1}
       \field{series}{Molecular Biology of the Cell: Reference Edition}
@@ -39,6 +159,1222 @@
       \field{year}{2008}
       \verb{url}
       \verb https://books.google.es/books?id=iepqmRfP3ZoC
+      \endverb
+    \endentry
+    \entry{DSSP}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=fe52d1a32f8a4d5b93db74a3f31bdb50}{Sander}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=fe52d1a32f8a4d5b93db74a3f31bdb50}{Sander}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{5ce8be718914c8a388f5d1b1455152fc}
+      \strng{fullhash}{5ce8be718914c8a388f5d1b1455152fc}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features}}
+      \field{issn}{1097-0282}
+      \field{journaltitle}{Biopolymers}
+      \field{number}{12}
+      \field{title}{{Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features}}
+      \field{volume}{22}
+      \field{year}{1983}
+      \field{pages}{2577\bibrangedash 2637}
+      \verb{doi}
+      \verb 10.1002/bip.360221211
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/bip.360221211
+      \endverb
+    \endentry
+    \entry{Dill1990}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9a39ef1b41588121d5d2cefe3071d1b6}
+      \strng{fullhash}{9a39ef1b41588121d5d2cefe3071d1b6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dominant forces in protein folding.}}
+      \field{abstract}{PMID: 2207096}
+      \field{isbn}{0006-2960}
+      \field{issn}{0006-2960}
+      \field{journaltitle}{Biochemistry}
+      \field{number}{31}
+      \field{title}{{Dominant forces in protein folding.}}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{pages}{7133\bibrangedash 7155}
+      \verb{doi}
+      \verb 10.1021/bi00483a001
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/bi00483a001.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Richardson1981}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1942b77d65e62ed294185de18324007a}
+      \strng{fullhash}{1942b77d65e62ed294185de18324007a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Advances in Protein Chemistry Volume 34}}
+      \field{abstract}{This chapter investigates the anatomy and taxonomy of protein structures. A protein is a polypeptide chain made up of amino acid residues linked together in a definite sequence. Amino acids are {$\textquotedblleft$}handed,{$\textquotedblright$} and naturally occurring proteins contain only L-amino acids. A simple mnemonic for that purpose is the {$\textquotedblleft$}corncrib.{$\textquotedblright$} The sequence of side chains determines all that is unique about a particular protein, including its biological function and its specific three-dimensional structure. The major possible routes to knowledge of three-dimensional protein structure are prediction from the amino acid sequence and analysis of spectroscopic measurements such as circular dichroism, laser Raman spectroscopy, and nuclear magnetic resonance. The analysis and discussion of protein structure is based on the results of three-dimensional X-ray crystallography of globular proteins. The basic elements of protein structures are discussed. The most useful level at which protein structures are to be categorized is the domain, as there are many cases of multiple-domain proteins in which each separate domain resembles other entire smaller proteins. The simplest type of stable protein structure consists of polypeptide backbone wrapped more or less uniformly around the outside of a single hydrophobic core. The outline of the taxonomy is also provided in the chapter.}
+      \field{booktitle}{Advances in Protein Chemistry}
+      \field{isbn}{9780120342341}
+      \field{issn}{00653233}
+      \field{title}{{Advances in Protein Chemistry Volume 34}}
+      \field{volume}{34}
+      \field{year}{1981}
+      \field{pages}{167\bibrangedash 339}
+      \verb{doi}
+      \verb 10.1016/S0065-3233(08)60520-3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/richardson1981.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0065323308605203
+      \endverb
+    \endentry
+    \entry{That1991}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \strng{fullhash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Extracellular Proteins That}}
+      \field{isbn}{0014579391}
+      \field{number}{23}
+      \field{title}{{Extracellular Proteins That}}
+      \field{volume}{266}
+      \field{year}{1991}
+      \field{pages}{15\bibrangedash 18}
+      \verb{file}
+      \verb :home/fran/Downloads/feb2001457939180937x.pdf:pdf
+      \endverb
+    \endentry
+    \entry{DomainDef}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b7c7eb2a631e8b995a080136f28071f0}{Wetlaufer}{W\bibinitperiod}{D\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b7c7eb2a631e8b995a080136f28071f0}{Wetlaufer}{W\bibinitperiod}{D\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b7c7eb2a631e8b995a080136f28071f0}
+      \strng{fullhash}{b7c7eb2a631e8b995a080136f28071f0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Nucleation, rapid folding, and globular intrachain regions in proteins.}}
+      \field{abstract}{Distinct structural regions have been found in several globular proteins composed of single polypeptide chains. The existence of such regions and the continuity of peptide chain within them, coupled with kinetic arguments, suggests that the early stages of three-dimensional structure formation (nucleation) occur independently in separate parts of these molecules. A nucleus can grow rapidly by adding peptide chain segments that are close to the nucleus in aminoacid sequence. Such a process would generate three-dimensional (native) protein structures that contain separate regions of continuous peptide chain. Possible means of testing this hypothesis are discussed.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{3}
+      \field{title}{{Nucleation, rapid folding, and globular intrachain regions in proteins.}}
+      \field{volume}{70}
+      \field{year}{1973}
+      \field{pages}{697\bibrangedash 701}
+      \verb{doi}
+      \verb 10.1073/pnas.70.3.697
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-1973-Wetlaufer-697-701.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=433338%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Islam1995}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=60ec6bc1b20fb6fea05a648850a77b3a}{Islam}{I\bibinitperiod}{Suhail\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7669ad50b7c3c5960975148ae5ff650c}{Luo}{L\bibinitperiod}{Jingchu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ce3ba6c2553ffabc0b04f57ac5aa78c2}{Michael}{M\bibinitperiod}{J\bibnamedelima E\bibnamedelima S}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d607dd3bf84039e2eea05b6fd9db6}{Fields}{F\bibinitperiod}{Inn}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=352220d8df95e4341bb6fd1bd7a7824f}{Wca}{W\bibinitperiod}{London}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=60ec6bc1b20fb6fea05a648850a77b3a}{Islam}{I\bibinitperiod}{Suhail\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7669ad50b7c3c5960975148ae5ff650c}{Luo}{L\bibinitperiod}{Jingchu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ce3ba6c2553ffabc0b04f57ac5aa78c2}{Michael}{M\bibinitperiod}{J\bibnamedelima E\bibnamedelima S}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d607dd3bf84039e2eea05b6fd9db6}{Fields}{F\bibinitperiod}{Inn}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=352220d8df95e4341bb6fd1bd7a7824f}{Wca}{W\bibinitperiod}{London}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{88a4ab26d2afe794fca9bd47e80f5465}
+      \strng{fullhash}{61dd19938af845aba752b158acf1e2f6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification and analysis of domains in proteins presented to identify domains in proteins}}
+      \field{number}{6}
+      \field{title}{{Identification and analysis of domains in proteins presented to identify domains in proteins}}
+      \field{volume}{8}
+      \field{year}{1995}
+      \field{pages}{513\bibrangedash 525}
+      \verb{file}
+      \verb :home/fran/Downloads/islam1995.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Han2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=1a1fc9219f4ad5c54b013e9aedb81b96}{Han}{H\bibinitperiod}{Jung-Hoon}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dbfbb4cf0629c9e7fd499ce6fa01d6da}{Batey}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=80035313591885d16e25f8faafa989ce}{Nickson}{N\bibinitperiod}{Adrian\bibnamedelima a}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=1f7cf7004ea1f6288a78d10bcd247212}{Clarke}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1a1fc9219f4ad5c54b013e9aedb81b96}{Han}{H\bibinitperiod}{Jung-Hoon}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dbfbb4cf0629c9e7fd499ce6fa01d6da}{Batey}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=80035313591885d16e25f8faafa989ce}{Nickson}{N\bibinitperiod}{Adrian\bibnamedelima a}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=1f7cf7004ea1f6288a78d10bcd247212}{Clarke}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{34c454b290fbed90ebb25b13f611aff2}
+      \strng{fullhash}{2c4440340e1ff3b3831064ad7a75fe30}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The folding and evolution of multidomain proteins.}}
+      \field{abstract}{Analyses of genomes show that more than 70{\%} of eukaryotic proteins are composed of multiple domains. However, most studies of protein folding focus on individual domains and do not consider how interactions between domains might affect folding. Here, we address this by analysing the three-dimensional structures of multidomain proteins that have been characterized experimentally and observe that where the interface is small and loosely packed, or unstructured, the folding of the domains is independent. Furthermore, recent studies indicate that multidomain proteins have evolved mechanisms to minimize the problems of interdomain misfolding.}
+      \field{issn}{1471-0072}
+      \field{journaltitle}{Nature reviews. Molecular cell biology}
+      \field{number}{4}
+      \field{title}{{The folding and evolution of multidomain proteins.}}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{319\bibrangedash 330}
+      \verb{doi}
+      \verb 10.1038/nrm2144
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrm2144.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Chothia2003}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6407dacea043bf1cdf1480a479796cc6}
+      \strng{fullhash}{9433c49cf099ddc98c2612479ca165cc}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolution of the protein repertoire.}}
+      \field{issn}{1095-9203}
+      \field{journaltitle}{Science (New York, N.Y.)}
+      \field{number}{5626}
+      \field{title}{{Evolution of the protein repertoire.}}
+      \field{volume}{300}
+      \field{year}{2003}
+      \field{pages}{1701\bibrangedash 3}
+      \verb{doi}
+      \verb 10.1126/science.1085371
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1701.full.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/12805536
+      \endverb
+    \endentry
+    \entry{Vogel2004}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=567527bbc47ea3a86d781dbcfbeeecd5}{Bashton}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a14d3c6cfa9248bdd6df783471d74676}{Kerrison}{K\bibinitperiod}{Nicola\bibnamedelima D.}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=297bedd4a585ea429676a28716291cc1}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=567527bbc47ea3a86d781dbcfbeeecd5}{Bashton}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a14d3c6cfa9248bdd6df783471d74676}{Kerrison}{K\bibinitperiod}{Nicola\bibnamedelima D.}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=297bedd4a585ea429676a28716291cc1}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2fec1062bda54de126927ac9a9f99178}
+      \strng{fullhash}{39592d1af1fe60179c0e93bc784a8b9f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure, function and evolution of multidomain proteins}}
+      \field{abstract}{Proteins are composed of evolutionary units called domains; the majority of proteins consist of at least two domains. These domains and nature of their interactions determine the function of the protein. The roles that combinations of domains play in the formation of the protein repertoire have been found by analysis of domain assignments to genome sequences. Additional findings on the geometry of domains have been gained from examination of three-dimensional protein structures. Future work will require a domain-centric functional classification scheme and efforts to determine structures of domain combinations.}
+      \field{issn}{0959440X}
+      \field{journaltitle}{Current Opinion in Structural Biology}
+      \field{number}{2}
+      \field{title}{{Structure, function and evolution of multidomain proteins}}
+      \field{volume}{14}
+      \field{year}{2004}
+      \field{pages}{208\bibrangedash 216}
+      \verb{doi}
+      \verb 10.1016/j.sbi.2004.03.011
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/160{\_}cosb{\_}14{\_}208{\_}04.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Apic2001}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=efcbb06bb1ea6e9715bdd02e9dd88814}{Apic}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dd105c1a4f8e69affb33bb12ab748ccf}{Gough}{G\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d7ad71301f2645f8897b81854d6ab6cf}{Teichmann}{T\bibinitperiod}{S\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=efcbb06bb1ea6e9715bdd02e9dd88814}{Apic}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dd105c1a4f8e69affb33bb12ab748ccf}{Gough}{G\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d7ad71301f2645f8897b81854d6ab6cf}{Teichmann}{T\bibinitperiod}{S\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f431ae4c3e719ffdcaa9e8da5219bbba}
+      \strng{fullhash}{f431ae4c3e719ffdcaa9e8da5219bbba}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Domain combinations in archaeal, eubacterial and eukaryotic proteomes.}}
+      \field{abstract}{There is a limited repertoire of domain families that are duplicated and combined in different ways to form the set of proteins in a genome. Proteins are gene products, and at the level of genes, duplication, recombination, fusion and fission are the processes that produce new genes. We attempt to gain an overview of these processes by studying the evolutionary units in proteins, domains, in the protein sequences of 40 genomes. The domain and superfamily definitions in the Structural Classification of Proteins Database are used, so that we can view all pairs of adjacent domains in genome sequences in terms of their superfamily combinations. We find 783 out of the 859 superfamilies in SCOP in these genomes, and the 783 families occur in 1307 pairwise combinations. Most families are observed in combination with one or two other families, while a few families are very versatile in their combinatorial behaviour; 209 families do not make combinations with other families. This type of pattern can be described as a scale-free network. We also study the N to C-terminal orientation of domain pairs and domain repeats. The phylogenetic distribution of domain combinations is surveyed, to establish the extent of common and kingdom-specific combinations. Of the kingdom-specific combinations, significantly more combinations consist of families present in all three kingdoms than of families present in one or two kingdoms. Hence, we are led to conclude that recombination between common families, as compared to the invention of new families and recombination among these, has also been a major contribution to the evolution of kingdom-specific and species-specific functions in organisms in all three kingdoms. Finally, we compare the set of the domain combinations in the genomes to those in the RCSB Protein Data Bank, and discuss the implications for structural genomics.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{number}{2}
+      \field{title}{{Domain combinations in archaeal, eubacterial and eukaryotic proteomes.}}
+      \field{volume}{310}
+      \field{year}{2001}
+      \field{pages}{311\bibrangedash 325}
+      \verb{doi}
+      \verb 10.1006/jmbi.2001.4776
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S002228360194776X-main.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Murzin1995}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=42b7f51d15c595136efc59e73a14de59}{Murzin}{M\bibinitperiod}{Alexey\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa050d847c04a972f7923961fd20e5c}{Brenner}{B\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ea8c6f86565db567f286380a1200bde2}{Hubbard}{H\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=42b7f51d15c595136efc59e73a14de59}{Murzin}{M\bibinitperiod}{Alexey\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa050d847c04a972f7923961fd20e5c}{Brenner}{B\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ea8c6f86565db567f286380a1200bde2}{Hubbard}{H\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ee746f630cfdbaeb6b971463fe66ae82}
+      \strng{fullhash}{7e82c14f0c89c460f251127c1d401a0c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{SCOP: A structural classification of proteins database for the investigation of sequences and structures}}
+      \field{issn}{00222836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{number}{4}
+      \field{title}{{SCOP: A structural classification of proteins database for the investigation of sequences and structures}}
+      \field{volume}{247}
+      \field{year}{1995}
+      \field{pages}{536\bibrangedash 540}
+      \verb{doi}
+      \verb 10.1016/S0022-2836(05)80134-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/murzin1995.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Orengo1997}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=919c26011075f6007f9ab8fd83661920}{Orengo}{O\bibinitperiod}{Ca}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70bfe79af73cfaedcd77fd4a0f2f9904}{Michie}{M\bibinitperiod}{Ad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34ac6afd6fa2a04708410458765f2c91}{Jones}{J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3a16cbc5d72721281ac685fbeeb35975}{Jones}{J\bibinitperiod}{Dt}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884beffdd9846c9fb86206fddfe93a98}{Swindells}{S\bibinitperiod}{Mb}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=029dc3641f9bd9ee9f780eff69c66151}{Thornton}{T\bibinitperiod}{Jm}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=919c26011075f6007f9ab8fd83661920}{Orengo}{O\bibinitperiod}{Ca}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70bfe79af73cfaedcd77fd4a0f2f9904}{Michie}{M\bibinitperiod}{Ad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34ac6afd6fa2a04708410458765f2c91}{Jones}{J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3a16cbc5d72721281ac685fbeeb35975}{Jones}{J\bibinitperiod}{Dt}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884beffdd9846c9fb86206fddfe93a98}{Swindells}{S\bibinitperiod}{Mb}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=029dc3641f9bd9ee9f780eff69c66151}{Thornton}{T\bibinitperiod}{Jm}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{062fd1321b616555f7ae3d86dd31d88a}
+      \strng{fullhash}{642168b9f8af74b9310a4ec88457999f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{CATH - a hierarchic classification of protein domain structures}}
+      \field{isbn}{0969-2126}
+      \field{issn}{09692126}
+      \field{journaltitle}{Structure}
+      \field{number}{March}
+      \field{title}{{CATH - a hierarchic classification of protein domain structures}}
+      \field{year}{1997}
+      \field{pages}{1093\bibrangedash 1109}
+      \verb{doi}
+      \verb 10.1016/S0969-2126(97)00260-8
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S0969212697002608-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://discovery.ucl.ac.uk/170914/
+      \endverb
+    \endentry
+    \entry{Bateman2002}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=7aa94dfe398db505f1e5cac138d3ffc3}{Bateman}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=38d9b4f76963eda738134c8361436ae7}{Birney}{B\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cbaaf82c8572f48c8890546e7ee5c201}{Cerruti}{C\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=58b3b2b8cfe8430a48abcd1e3333ecf6}{Etwiller}{E\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=56e1e30c7e35ef73c9897f8bc5c82d2d}{Griffiths-Jones}{G\bibinithyphendelim J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a2db27cb04781e0fc0e516fdf26b7e7c}{Marshall}{M\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=7aa94dfe398db505f1e5cac138d3ffc3}{Bateman}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=38d9b4f76963eda738134c8361436ae7}{Birney}{B\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cbaaf82c8572f48c8890546e7ee5c201}{Cerruti}{C\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=58b3b2b8cfe8430a48abcd1e3333ecf6}{Etwiller}{E\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=56e1e30c7e35ef73c9897f8bc5c82d2d}{Griffiths-Jones}{G\bibinithyphendelim J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a2db27cb04781e0fc0e516fdf26b7e7c}{Marshall}{M\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ac1f75dec5abaa6fae284f3762a05a5a}
+      \strng{fullhash}{d1c9970cbfd214b3a3ff79f3f819a5aa}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The Pfam protein families database}}
+      \field{isbn}{1362-4962 (Electronic)}
+      \field{issn}{0305-1048 (Print) 0305-1048 (Linking)}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{number}{1}
+      \field{title}{{The Pfam protein families database}}
+      \field{volume}{28}
+      \field{year}{2002}
+      \field{pages}{276\bibrangedash 280}
+      \verb{doi}
+      \verb gkd038 [pii]
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/Nucl. Acids Res.-2002-Bateman-276-80.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve%7B%5C&%7Ddb=PubMed%7B%5C&%7Ddopt=Citation%7B%5C&%7Dlist%7B%5C_%7Duids=11752314%20http://www.ncbi.nlm.nih.gov/pubmed/10592242
+      \endverb
+    \endentry
+    \entry{Hunter2009}{article}{}
+      \name{labelname}{38}{}{%
+        {{hash=4232913ae552b928ff5101e7d581375f}{Hunter}{H\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88e451f539cb133a865445c7b4a72945}{Apweiler}{A\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0d2826c48375171a50da9d818710ac95}{Attwood}{A\bibinitperiod}{Teresa\bibnamedelima K.}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b2ebd3ba772b0e00ce7ff11062d7bb7e}{Bairoch}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced5c37e13ed96f4cb024911c267029}{Bateman}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ac693a590925614d5eab4124b16d815}{Binns}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=070cb6ad7a7d5d2d766209c073611eb1}{Das}{D\bibinitperiod}{Ujjwal}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=3181a4e63e23edf46ad3a0ab584a861d}{Daugherty}{D\bibinitperiod}{Louise}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a0324e3154f8264b92b921f82b7485ac}{Duquenne}{D\bibinitperiod}{Lauranne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0db7057368bb4f4edb12e97a28cbf3b}{Finn}{F\bibinitperiod}{Robert\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23f9faa75b1688ba9504d8cf32b1bfd}{Haft}{H\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=284b9e8e35db019d7497fde6cb5b9983}{Hulo}{H\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e703131d4a240ed85e6dc263888115bf}{Kahn}{K\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f8ed66e6c7d354ed4455da12896952be}{Kelly}{K\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=8492bc72a9da536e7e9f199a0fc1f4c9}{Laugraud}{L\bibinitperiod}{Aur??lie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=90a16251283487ab24f75284582c22c5}{Letunic}{L\bibinitperiod}{Ivica}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a56293848f9dcd3094d2283c3fc99db3}{Lonsdale}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{Lopez}{L\bibinitperiod}{Rodrigo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a4d3938b52ce74c36efbba638833ed1}{Madera}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0455dbb54f5f8b6810eacc4653fabbcc}{Maslen}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1286b3ab4e9a1d3695545852236fc928}{Mcanulla}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7954fac33104571b85919358e4bf2ad3}{McDowall}{M\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8ca0b214376f4df31410b35ef1c9fe1d}{Mistry}{M\bibinitperiod}{Jaina}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f91e7dd8020f782dbfef26202b0be20}{Mitchell}{M\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b8af15e2018255691770ceb0e69f4993}{Mulder}{M\bibinitperiod}{Nicola}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3c129c48ae7c6572216c11dddccbd601}{Natale}{N\bibinitperiod}{Darren}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1f1b82004db81a90bccbddfa0c38753}{Quinn}{Q\bibinitperiod}{Antony\bibnamedelima F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a4bdc6dab085ac91ceff07a8cadc05}{Selengut}{S\bibinitperiod}{Jeremy\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fe189056a4a73122866483d01a3cc1d0}{Sigrist}{S\bibinitperiod}{Christian\bibnamedelimb J\bibnamedelima A}{C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=150d07436146618a8d675e6dfd355c06}{Thimma}{T\bibinitperiod}{Manjula}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b059cba4d10ec33a57140580b6c247d0}{Thomas}{T\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=4abd71267b7194c5014fc3cef027d93d}{Valentin}{V\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f7787f6390ae7ef739a0836d9eb8c07a}{Wilson}{W\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=326b210a8fa7b9a4c03903af7b374ee7}{Wu}{W\bibinitperiod}{Cathy\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b8386d82c2d30d29a7c1f6ef50a8373}{Yeats}{Y\bibinitperiod}{Corin}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{38}{}{%
+        {{hash=4232913ae552b928ff5101e7d581375f}{Hunter}{H\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88e451f539cb133a865445c7b4a72945}{Apweiler}{A\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0d2826c48375171a50da9d818710ac95}{Attwood}{A\bibinitperiod}{Teresa\bibnamedelima K.}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b2ebd3ba772b0e00ce7ff11062d7bb7e}{Bairoch}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced5c37e13ed96f4cb024911c267029}{Bateman}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ac693a590925614d5eab4124b16d815}{Binns}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=070cb6ad7a7d5d2d766209c073611eb1}{Das}{D\bibinitperiod}{Ujjwal}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=3181a4e63e23edf46ad3a0ab584a861d}{Daugherty}{D\bibinitperiod}{Louise}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a0324e3154f8264b92b921f82b7485ac}{Duquenne}{D\bibinitperiod}{Lauranne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0db7057368bb4f4edb12e97a28cbf3b}{Finn}{F\bibinitperiod}{Robert\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23f9faa75b1688ba9504d8cf32b1bfd}{Haft}{H\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=284b9e8e35db019d7497fde6cb5b9983}{Hulo}{H\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e703131d4a240ed85e6dc263888115bf}{Kahn}{K\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f8ed66e6c7d354ed4455da12896952be}{Kelly}{K\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=8492bc72a9da536e7e9f199a0fc1f4c9}{Laugraud}{L\bibinitperiod}{Aur??lie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=90a16251283487ab24f75284582c22c5}{Letunic}{L\bibinitperiod}{Ivica}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a56293848f9dcd3094d2283c3fc99db3}{Lonsdale}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{Lopez}{L\bibinitperiod}{Rodrigo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a4d3938b52ce74c36efbba638833ed1}{Madera}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0455dbb54f5f8b6810eacc4653fabbcc}{Maslen}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1286b3ab4e9a1d3695545852236fc928}{Mcanulla}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7954fac33104571b85919358e4bf2ad3}{McDowall}{M\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8ca0b214376f4df31410b35ef1c9fe1d}{Mistry}{M\bibinitperiod}{Jaina}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f91e7dd8020f782dbfef26202b0be20}{Mitchell}{M\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b8af15e2018255691770ceb0e69f4993}{Mulder}{M\bibinitperiod}{Nicola}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3c129c48ae7c6572216c11dddccbd601}{Natale}{N\bibinitperiod}{Darren}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1f1b82004db81a90bccbddfa0c38753}{Quinn}{Q\bibinitperiod}{Antony\bibnamedelima F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a4bdc6dab085ac91ceff07a8cadc05}{Selengut}{S\bibinitperiod}{Jeremy\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fe189056a4a73122866483d01a3cc1d0}{Sigrist}{S\bibinitperiod}{Christian\bibnamedelimb J\bibnamedelima A}{C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=150d07436146618a8d675e6dfd355c06}{Thimma}{T\bibinitperiod}{Manjula}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b059cba4d10ec33a57140580b6c247d0}{Thomas}{T\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=4abd71267b7194c5014fc3cef027d93d}{Valentin}{V\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f7787f6390ae7ef739a0836d9eb8c07a}{Wilson}{W\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=326b210a8fa7b9a4c03903af7b374ee7}{Wu}{W\bibinitperiod}{Cathy\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b8386d82c2d30d29a7c1f6ef50a8373}{Yeats}{Y\bibinitperiod}{Corin}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{df938e0e62460dd9cefdb865bfd431cb}
+      \strng{fullhash}{c8ffd207d43b4a706de7f7ac7aeaf01e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{InterPro: The integrative protein signature database}}
+      \field{isbn}{1362-4962 (Electronic)$\backslash$r0305-1048 (Linking)}
+      \field{issn}{03051048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{number}{SUPPL. 1}
+      \field{title}{{InterPro: The integrative protein signature database}}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{211\bibrangedash 215}
+      \verb{doi}
+      \verb 10.1093/nar/gkn785
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/gkn785.pdf:pdf
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{none}{none}
+    \entry{kessel2010}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=09d96aa5b560f746a81c4f0086d6aeb4}{Kessel}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=adc989901810b45b4084e719b53e6668}{Ben-Tal}{B\bibinithyphendelim T\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=09d96aa5b560f746a81c4f0086d6aeb4}{Kessel}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=adc989901810b45b4084e719b53e6668}{Ben-Tal}{B\bibinithyphendelim T\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f607c969a2c8cea129a86878a4c3fb63}
+      \strng{fullhash}{f607c969a2c8cea129a86878a4c3fb63}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Introduction to Proteins: Structure, Function, and Motion}}
+      \field{isbn}{9781439810729}
+      \field{series}{Chapman {\&} Hall/CRC Mathematical and Computational Biology}
+      \field{title}{{Introduction to Proteins: Structure, Function, and Motion}}
+      \field{year}{2010}
+      \verb{url}
+      \verb https://books.google.es/books?id=cMMgypIrxocC
+      \endverb
+    \endentry
+    \entry{human2014}{article}{}
+      \name{labelname}{37}{}{%
+        {{hash=f567b6f663207c60f3de5458ba0d66cc}{Kim}{K\bibinitperiod}{Min-sik}{M\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=cb6d3dc59f585be8a246d7b7011668b1}{Pinto}{P\bibinitperiod}{Sneha\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=95ae1105e0c5447cd293e283f8611f02}{Getnet}{G\bibinitperiod}{Derese}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=482156254a560b22cfbf358131451c9c}{Nirujogi}{N\bibinitperiod}{Raja\bibnamedelima Sekhar}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=caf3caf27dbc02e6451846115ab8500b}{Manda}{M\bibinitperiod}{Srikanth\bibnamedelima S}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c562efc414187231499fcbfd16a3c44}{Chaerkady}{C\bibinitperiod}{Raghothama}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b9d5e4fafc5309f7b113c20459613234}{Madugundu}{M\bibinitperiod}{Anil\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=34eec8f11200f26f042cb41c3872bce1}{Kelkar}{K\bibinitperiod}{Dhanashree\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5d8f037bd00b3c4c89aba27c3d4fad2d}{Isserlin}{I\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5e4f0a41a2361e06666d9fe5da023a83}{Jain}{J\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a40fba22cfdfca3aeb3ff48476bf8171}{Thomas}{T\bibinitperiod}{Joji\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=681510aa36b5acd15a1c6c71fe154e8c}{Muthusamy}{M\bibinitperiod}{Babylakshmi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d43dd9537fff12f413f53b9fb968616c}{Leal-rojas}{L\bibinithyphendelim r\bibinitperiod}{Pamela}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ac5ce9110ee23fd70d895dc0641d6d97}{Kumar}{K\bibinitperiod}{Praveen}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=23c4d7a6a5b9a4b7a9ce4c30031f2038}{Sahasrabuddhe}{S\bibinitperiod}{Nandini\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07399858fa094f5e35b0ae9e477d1c84}{Balakrishnan}{B\bibinitperiod}{Lavanya}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7df166d085ae9650c659303094b3fc28}{Advani}{A\bibinitperiod}{Jayshree}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=66bdc2d16a044b99ab9de051fb111134}{George}{G\bibinitperiod}{Bijesh}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=4105319ee0c0035269efa109576f5fd3}{Renuse}{R\bibinitperiod}{Santosh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a28fd619c269a98f8973f293ed813d0a}{Selvan}{S\bibinitperiod}{Lakshmi\bibnamedelimb Dhevi\bibnamedelima N}{L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f4c35cb502a9d8ebc6b02d32335a9041}{Patil}{P\bibinitperiod}{Arun\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=5b289731fc74fb5c55cc125bf82b68e5}{Nanjappa}{N\bibinitperiod}{Vishalakshi}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=e46aaa07ff91581afaed15f86e8cdfd7}{Radhakrishnan}{R\bibinitperiod}{Aneesha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ca36b4e6a82c1b0e76e128e70b2c443b}{Prasad}{P\bibinitperiod}{Samarjeet}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b55b4a51c87b244a43a7fdcf580f678}{Jayaram}{J\bibinitperiod}{Savita}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=81ce2aafd8165d14306b21bd0a379480}{Rajagopalan}{R\bibinitperiod}{Pavithra}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=89bc735ebb4e3d7d8ae356b517755465}{Sharma}{S\bibinitperiod}{Jyoti}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=170d2c50ecf531c338655350c29de604}{Murthy}{M\bibinitperiod}{Krishna\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5399d61620244bc4780c9d8538ef7bc}{Syed}{S\bibinitperiod}{Nazia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=b2bd59fec4eafe5f2ef5422abad64ce9}{Goel}{G\bibinitperiod}{Renu}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=73d046c942924e8fe13f528101f32dd5}{Khan}{K\bibinitperiod}{Aafaque\bibnamedelima A}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=713ad73222ab41b4a2ba7a29da0dbba4}{Freed}{F\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=56763629ddbc7bebfb6999a64f16ffb4}{Zahari}{Z\bibinitperiod}{Muhammad\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5abd9a43a57e339e677483c15d8549c2}{Mukherjee}{M\bibinitperiod}{Kanchan\bibnamedelima K}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=14a19f3bcc3a10161cdcaffc8bee5c6c}{Shankar}{S\bibinitperiod}{Subramanian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=66368f6236a3c75210c90a45c679775c}{Mahadevan}{M\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d340b86c16232c474c78843c66549746}{Lam}{L\bibinitperiod}{Henry}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{37}{}{%
+        {{hash=f567b6f663207c60f3de5458ba0d66cc}{Kim}{K\bibinitperiod}{Min-sik}{M\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=cb6d3dc59f585be8a246d7b7011668b1}{Pinto}{P\bibinitperiod}{Sneha\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=95ae1105e0c5447cd293e283f8611f02}{Getnet}{G\bibinitperiod}{Derese}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=482156254a560b22cfbf358131451c9c}{Nirujogi}{N\bibinitperiod}{Raja\bibnamedelima Sekhar}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=caf3caf27dbc02e6451846115ab8500b}{Manda}{M\bibinitperiod}{Srikanth\bibnamedelima S}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c562efc414187231499fcbfd16a3c44}{Chaerkady}{C\bibinitperiod}{Raghothama}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b9d5e4fafc5309f7b113c20459613234}{Madugundu}{M\bibinitperiod}{Anil\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=34eec8f11200f26f042cb41c3872bce1}{Kelkar}{K\bibinitperiod}{Dhanashree\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5d8f037bd00b3c4c89aba27c3d4fad2d}{Isserlin}{I\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5e4f0a41a2361e06666d9fe5da023a83}{Jain}{J\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a40fba22cfdfca3aeb3ff48476bf8171}{Thomas}{T\bibinitperiod}{Joji\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=681510aa36b5acd15a1c6c71fe154e8c}{Muthusamy}{M\bibinitperiod}{Babylakshmi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d43dd9537fff12f413f53b9fb968616c}{Leal-rojas}{L\bibinithyphendelim r\bibinitperiod}{Pamela}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ac5ce9110ee23fd70d895dc0641d6d97}{Kumar}{K\bibinitperiod}{Praveen}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=23c4d7a6a5b9a4b7a9ce4c30031f2038}{Sahasrabuddhe}{S\bibinitperiod}{Nandini\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07399858fa094f5e35b0ae9e477d1c84}{Balakrishnan}{B\bibinitperiod}{Lavanya}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7df166d085ae9650c659303094b3fc28}{Advani}{A\bibinitperiod}{Jayshree}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=66bdc2d16a044b99ab9de051fb111134}{George}{G\bibinitperiod}{Bijesh}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=4105319ee0c0035269efa109576f5fd3}{Renuse}{R\bibinitperiod}{Santosh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a28fd619c269a98f8973f293ed813d0a}{Selvan}{S\bibinitperiod}{Lakshmi\bibnamedelimb Dhevi\bibnamedelima N}{L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f4c35cb502a9d8ebc6b02d32335a9041}{Patil}{P\bibinitperiod}{Arun\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=5b289731fc74fb5c55cc125bf82b68e5}{Nanjappa}{N\bibinitperiod}{Vishalakshi}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=e46aaa07ff91581afaed15f86e8cdfd7}{Radhakrishnan}{R\bibinitperiod}{Aneesha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ca36b4e6a82c1b0e76e128e70b2c443b}{Prasad}{P\bibinitperiod}{Samarjeet}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b55b4a51c87b244a43a7fdcf580f678}{Jayaram}{J\bibinitperiod}{Savita}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=81ce2aafd8165d14306b21bd0a379480}{Rajagopalan}{R\bibinitperiod}{Pavithra}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=89bc735ebb4e3d7d8ae356b517755465}{Sharma}{S\bibinitperiod}{Jyoti}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=170d2c50ecf531c338655350c29de604}{Murthy}{M\bibinitperiod}{Krishna\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5399d61620244bc4780c9d8538ef7bc}{Syed}{S\bibinitperiod}{Nazia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=b2bd59fec4eafe5f2ef5422abad64ce9}{Goel}{G\bibinitperiod}{Renu}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=73d046c942924e8fe13f528101f32dd5}{Khan}{K\bibinitperiod}{Aafaque\bibnamedelima A}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=713ad73222ab41b4a2ba7a29da0dbba4}{Freed}{F\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=56763629ddbc7bebfb6999a64f16ffb4}{Zahari}{Z\bibinitperiod}{Muhammad\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5abd9a43a57e339e677483c15d8549c2}{Mukherjee}{M\bibinitperiod}{Kanchan\bibnamedelima K}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=14a19f3bcc3a10161cdcaffc8bee5c6c}{Shankar}{S\bibinitperiod}{Subramanian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=66368f6236a3c75210c90a45c679775c}{Mahadevan}{M\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d340b86c16232c474c78843c66549746}{Lam}{L\bibinitperiod}{Henry}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fdcc313249b1adb7ca0fb38d90313b37}
+      \strng{fullhash}{9cf5f381b4aabec7306611abc4ee4cb0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A draft map of the human proteome}}
+      \field{title}{{A draft map of the human proteome}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1038/nature13302
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nature13302.pdf:pdf
+      \endverb
+    \endentry
+    \entry{thecell2008}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f351b421c470c2f155156f0ed44b791f}{Alberts}{A\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f351b421c470c2f155156f0ed44b791f}{Alberts}{A\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Garland Science}%
+      }
+      \strng{namehash}{f351b421c470c2f155156f0ed44b791f}
+      \strng{fullhash}{f351b421c470c2f155156f0ed44b791f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{Molecular Biology of the Cell: Reference edition}
+      \field{isbn}{9780815341116}
+      \field{number}{v. 1}
+      \field{series}{Molecular Biology of the Cell: Reference Edition}
+      \field{title}{Molecular Biology of the Cell: Reference edition}
+      \field{year}{2008}
+      \verb{url}
+      \verb https://books.google.es/books?id=iepqmRfP3ZoC
+      \endverb
+    \endentry
+    \entry{DSSP}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=fe52d1a32f8a4d5b93db74a3f31bdb50}{Sander}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=fe52d1a32f8a4d5b93db74a3f31bdb50}{Sander}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{5ce8be718914c8a388f5d1b1455152fc}
+      \strng{fullhash}{5ce8be718914c8a388f5d1b1455152fc}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features}}
+      \field{issn}{1097-0282}
+      \field{journaltitle}{Biopolymers}
+      \field{number}{12}
+      \field{title}{{Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features}}
+      \field{volume}{22}
+      \field{year}{1983}
+      \field{pages}{2577\bibrangedash 2637}
+      \verb{doi}
+      \verb 10.1002/bip.360221211
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/bip.360221211
+      \endverb
+    \endentry
+    \entry{Dill1990}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9a39ef1b41588121d5d2cefe3071d1b6}
+      \strng{fullhash}{9a39ef1b41588121d5d2cefe3071d1b6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dominant forces in protein folding.}}
+      \field{abstract}{PMID: 2207096}
+      \field{isbn}{0006-2960}
+      \field{issn}{0006-2960}
+      \field{journaltitle}{Biochemistry}
+      \field{number}{31}
+      \field{title}{{Dominant forces in protein folding.}}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{pages}{7133\bibrangedash 7155}
+      \verb{doi}
+      \verb 10.1021/bi00483a001
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/bi00483a001.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Richardson1981}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1942b77d65e62ed294185de18324007a}
+      \strng{fullhash}{1942b77d65e62ed294185de18324007a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Advances in Protein Chemistry Volume 34}}
+      \field{abstract}{This chapter investigates the anatomy and taxonomy of protein structures. A protein is a polypeptide chain made up of amino acid residues linked together in a definite sequence. Amino acids are {$\textquotedblleft$}handed,{$\textquotedblright$} and naturally occurring proteins contain only L-amino acids. A simple mnemonic for that purpose is the {$\textquotedblleft$}corncrib.{$\textquotedblright$} The sequence of side chains determines all that is unique about a particular protein, including its biological function and its specific three-dimensional structure. The major possible routes to knowledge of three-dimensional protein structure are prediction from the amino acid sequence and analysis of spectroscopic measurements such as circular dichroism, laser Raman spectroscopy, and nuclear magnetic resonance. The analysis and discussion of protein structure is based on the results of three-dimensional X-ray crystallography of globular proteins. The basic elements of protein structures are discussed. The most useful level at which protein structures are to be categorized is the domain, as there are many cases of multiple-domain proteins in which each separate domain resembles other entire smaller proteins. The simplest type of stable protein structure consists of polypeptide backbone wrapped more or less uniformly around the outside of a single hydrophobic core. The outline of the taxonomy is also provided in the chapter.}
+      \field{booktitle}{Advances in Protein Chemistry}
+      \field{isbn}{9780120342341}
+      \field{issn}{00653233}
+      \field{title}{{Advances in Protein Chemistry Volume 34}}
+      \field{volume}{34}
+      \field{year}{1981}
+      \field{pages}{167\bibrangedash 339}
+      \verb{doi}
+      \verb 10.1016/S0065-3233(08)60520-3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/richardson1981.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0065323308605203
+      \endverb
+    \endentry
+    \entry{That1991}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \strng{fullhash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Extracellular Proteins That}}
+      \field{isbn}{0014579391}
+      \field{number}{23}
+      \field{title}{{Extracellular Proteins That}}
+      \field{volume}{266}
+      \field{year}{1991}
+      \field{pages}{15\bibrangedash 18}
+      \verb{file}
+      \verb :home/fran/Downloads/feb2001457939180937x.pdf:pdf
+      \endverb
+    \endentry
+    \entry{DomainDef}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b7c7eb2a631e8b995a080136f28071f0}{Wetlaufer}{W\bibinitperiod}{D\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b7c7eb2a631e8b995a080136f28071f0}{Wetlaufer}{W\bibinitperiod}{D\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b7c7eb2a631e8b995a080136f28071f0}
+      \strng{fullhash}{b7c7eb2a631e8b995a080136f28071f0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Nucleation, rapid folding, and globular intrachain regions in proteins.}}
+      \field{abstract}{Distinct structural regions have been found in several globular proteins composed of single polypeptide chains. The existence of such regions and the continuity of peptide chain within them, coupled with kinetic arguments, suggests that the early stages of three-dimensional structure formation (nucleation) occur independently in separate parts of these molecules. A nucleus can grow rapidly by adding peptide chain segments that are close to the nucleus in aminoacid sequence. Such a process would generate three-dimensional (native) protein structures that contain separate regions of continuous peptide chain. Possible means of testing this hypothesis are discussed.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{3}
+      \field{title}{{Nucleation, rapid folding, and globular intrachain regions in proteins.}}
+      \field{volume}{70}
+      \field{year}{1973}
+      \field{pages}{697\bibrangedash 701}
+      \verb{doi}
+      \verb 10.1073/pnas.70.3.697
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-1973-Wetlaufer-697-701.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=433338%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Islam1995}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=60ec6bc1b20fb6fea05a648850a77b3a}{Islam}{I\bibinitperiod}{Suhail\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7669ad50b7c3c5960975148ae5ff650c}{Luo}{L\bibinitperiod}{Jingchu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ce3ba6c2553ffabc0b04f57ac5aa78c2}{Michael}{M\bibinitperiod}{J\bibnamedelima E\bibnamedelima S}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d607dd3bf84039e2eea05b6fd9db6}{Fields}{F\bibinitperiod}{Inn}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=352220d8df95e4341bb6fd1bd7a7824f}{Wca}{W\bibinitperiod}{London}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=60ec6bc1b20fb6fea05a648850a77b3a}{Islam}{I\bibinitperiod}{Suhail\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7669ad50b7c3c5960975148ae5ff650c}{Luo}{L\bibinitperiod}{Jingchu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ce3ba6c2553ffabc0b04f57ac5aa78c2}{Michael}{M\bibinitperiod}{J\bibnamedelima E\bibnamedelima S}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d607dd3bf84039e2eea05b6fd9db6}{Fields}{F\bibinitperiod}{Inn}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=352220d8df95e4341bb6fd1bd7a7824f}{Wca}{W\bibinitperiod}{London}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{88a4ab26d2afe794fca9bd47e80f5465}
+      \strng{fullhash}{61dd19938af845aba752b158acf1e2f6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification and analysis of domains in proteins presented to identify domains in proteins}}
+      \field{number}{6}
+      \field{title}{{Identification and analysis of domains in proteins presented to identify domains in proteins}}
+      \field{volume}{8}
+      \field{year}{1995}
+      \field{pages}{513\bibrangedash 525}
+      \verb{file}
+      \verb :home/fran/Downloads/islam1995.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Han2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=1a1fc9219f4ad5c54b013e9aedb81b96}{Han}{H\bibinitperiod}{Jung-Hoon}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dbfbb4cf0629c9e7fd499ce6fa01d6da}{Batey}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=80035313591885d16e25f8faafa989ce}{Nickson}{N\bibinitperiod}{Adrian\bibnamedelima a}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=1f7cf7004ea1f6288a78d10bcd247212}{Clarke}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1a1fc9219f4ad5c54b013e9aedb81b96}{Han}{H\bibinitperiod}{Jung-Hoon}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dbfbb4cf0629c9e7fd499ce6fa01d6da}{Batey}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=80035313591885d16e25f8faafa989ce}{Nickson}{N\bibinitperiod}{Adrian\bibnamedelima a}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=1f7cf7004ea1f6288a78d10bcd247212}{Clarke}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{34c454b290fbed90ebb25b13f611aff2}
+      \strng{fullhash}{2c4440340e1ff3b3831064ad7a75fe30}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The folding and evolution of multidomain proteins.}}
+      \field{abstract}{Analyses of genomes show that more than 70{\%} of eukaryotic proteins are composed of multiple domains. However, most studies of protein folding focus on individual domains and do not consider how interactions between domains might affect folding. Here, we address this by analysing the three-dimensional structures of multidomain proteins that have been characterized experimentally and observe that where the interface is small and loosely packed, or unstructured, the folding of the domains is independent. Furthermore, recent studies indicate that multidomain proteins have evolved mechanisms to minimize the problems of interdomain misfolding.}
+      \field{issn}{1471-0072}
+      \field{journaltitle}{Nature reviews. Molecular cell biology}
+      \field{number}{4}
+      \field{title}{{The folding and evolution of multidomain proteins.}}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{319\bibrangedash 330}
+      \verb{doi}
+      \verb 10.1038/nrm2144
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrm2144.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Chothia2003}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c2f5cd48e8daabc6e9d7f794465a9647}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6407dacea043bf1cdf1480a479796cc6}
+      \strng{fullhash}{9433c49cf099ddc98c2612479ca165cc}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolution of the protein repertoire.}}
+      \field{issn}{1095-9203}
+      \field{journaltitle}{Science (New York, N.Y.)}
+      \field{number}{5626}
+      \field{title}{{Evolution of the protein repertoire.}}
+      \field{volume}{300}
+      \field{year}{2003}
+      \field{pages}{1701\bibrangedash 3}
+      \verb{doi}
+      \verb 10.1126/science.1085371
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1701.full.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/12805536
+      \endverb
+    \endentry
+    \entry{Vogel2004}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=567527bbc47ea3a86d781dbcfbeeecd5}{Bashton}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a14d3c6cfa9248bdd6df783471d74676}{Kerrison}{K\bibinitperiod}{Nicola\bibnamedelima D.}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=297bedd4a585ea429676a28716291cc1}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=b631f76e3a5923ac7e82caac9f5d6600}{Vogel}{V\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=567527bbc47ea3a86d781dbcfbeeecd5}{Bashton}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a14d3c6cfa9248bdd6df783471d74676}{Kerrison}{K\bibinitperiod}{Nicola\bibnamedelima D.}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=297bedd4a585ea429676a28716291cc1}{Teichmann}{T\bibinitperiod}{Sarah\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2fec1062bda54de126927ac9a9f99178}
+      \strng{fullhash}{39592d1af1fe60179c0e93bc784a8b9f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure, function and evolution of multidomain proteins}}
+      \field{abstract}{Proteins are composed of evolutionary units called domains; the majority of proteins consist of at least two domains. These domains and nature of their interactions determine the function of the protein. The roles that combinations of domains play in the formation of the protein repertoire have been found by analysis of domain assignments to genome sequences. Additional findings on the geometry of domains have been gained from examination of three-dimensional protein structures. Future work will require a domain-centric functional classification scheme and efforts to determine structures of domain combinations.}
+      \field{issn}{0959440X}
+      \field{journaltitle}{Current Opinion in Structural Biology}
+      \field{number}{2}
+      \field{title}{{Structure, function and evolution of multidomain proteins}}
+      \field{volume}{14}
+      \field{year}{2004}
+      \field{pages}{208\bibrangedash 216}
+      \verb{doi}
+      \verb 10.1016/j.sbi.2004.03.011
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/160{\_}cosb{\_}14{\_}208{\_}04.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Apic2001}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=efcbb06bb1ea6e9715bdd02e9dd88814}{Apic}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dd105c1a4f8e69affb33bb12ab748ccf}{Gough}{G\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d7ad71301f2645f8897b81854d6ab6cf}{Teichmann}{T\bibinitperiod}{S\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=efcbb06bb1ea6e9715bdd02e9dd88814}{Apic}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dd105c1a4f8e69affb33bb12ab748ccf}{Gough}{G\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d7ad71301f2645f8897b81854d6ab6cf}{Teichmann}{T\bibinitperiod}{S\bibnamedelima a}{S\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f431ae4c3e719ffdcaa9e8da5219bbba}
+      \strng{fullhash}{f431ae4c3e719ffdcaa9e8da5219bbba}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Domain combinations in archaeal, eubacterial and eukaryotic proteomes.}}
+      \field{abstract}{There is a limited repertoire of domain families that are duplicated and combined in different ways to form the set of proteins in a genome. Proteins are gene products, and at the level of genes, duplication, recombination, fusion and fission are the processes that produce new genes. We attempt to gain an overview of these processes by studying the evolutionary units in proteins, domains, in the protein sequences of 40 genomes. The domain and superfamily definitions in the Structural Classification of Proteins Database are used, so that we can view all pairs of adjacent domains in genome sequences in terms of their superfamily combinations. We find 783 out of the 859 superfamilies in SCOP in these genomes, and the 783 families occur in 1307 pairwise combinations. Most families are observed in combination with one or two other families, while a few families are very versatile in their combinatorial behaviour; 209 families do not make combinations with other families. This type of pattern can be described as a scale-free network. We also study the N to C-terminal orientation of domain pairs and domain repeats. The phylogenetic distribution of domain combinations is surveyed, to establish the extent of common and kingdom-specific combinations. Of the kingdom-specific combinations, significantly more combinations consist of families present in all three kingdoms than of families present in one or two kingdoms. Hence, we are led to conclude that recombination between common families, as compared to the invention of new families and recombination among these, has also been a major contribution to the evolution of kingdom-specific and species-specific functions in organisms in all three kingdoms. Finally, we compare the set of the domain combinations in the genomes to those in the RCSB Protein Data Bank, and discuss the implications for structural genomics.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{number}{2}
+      \field{title}{{Domain combinations in archaeal, eubacterial and eukaryotic proteomes.}}
+      \field{volume}{310}
+      \field{year}{2001}
+      \field{pages}{311\bibrangedash 325}
+      \verb{doi}
+      \verb 10.1006/jmbi.2001.4776
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S002228360194776X-main.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Murzin1995}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=42b7f51d15c595136efc59e73a14de59}{Murzin}{M\bibinitperiod}{Alexey\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa050d847c04a972f7923961fd20e5c}{Brenner}{B\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ea8c6f86565db567f286380a1200bde2}{Hubbard}{H\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=42b7f51d15c595136efc59e73a14de59}{Murzin}{M\bibinitperiod}{Alexey\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa050d847c04a972f7923961fd20e5c}{Brenner}{B\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ea8c6f86565db567f286380a1200bde2}{Hubbard}{H\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=e7519839a5afb3dc61bb297b7fb4f313}{Chothia}{C\bibinitperiod}{Cyrus}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ee746f630cfdbaeb6b971463fe66ae82}
+      \strng{fullhash}{7e82c14f0c89c460f251127c1d401a0c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{SCOP: A structural classification of proteins database for the investigation of sequences and structures}}
+      \field{issn}{00222836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{number}{4}
+      \field{title}{{SCOP: A structural classification of proteins database for the investigation of sequences and structures}}
+      \field{volume}{247}
+      \field{year}{1995}
+      \field{pages}{536\bibrangedash 540}
+      \verb{doi}
+      \verb 10.1016/S0022-2836(05)80134-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/murzin1995.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Orengo1997}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=919c26011075f6007f9ab8fd83661920}{Orengo}{O\bibinitperiod}{Ca}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70bfe79af73cfaedcd77fd4a0f2f9904}{Michie}{M\bibinitperiod}{Ad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34ac6afd6fa2a04708410458765f2c91}{Jones}{J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3a16cbc5d72721281ac685fbeeb35975}{Jones}{J\bibinitperiod}{Dt}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884beffdd9846c9fb86206fddfe93a98}{Swindells}{S\bibinitperiod}{Mb}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=029dc3641f9bd9ee9f780eff69c66151}{Thornton}{T\bibinitperiod}{Jm}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=919c26011075f6007f9ab8fd83661920}{Orengo}{O\bibinitperiod}{Ca}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70bfe79af73cfaedcd77fd4a0f2f9904}{Michie}{M\bibinitperiod}{Ad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34ac6afd6fa2a04708410458765f2c91}{Jones}{J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3a16cbc5d72721281ac685fbeeb35975}{Jones}{J\bibinitperiod}{Dt}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884beffdd9846c9fb86206fddfe93a98}{Swindells}{S\bibinitperiod}{Mb}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=029dc3641f9bd9ee9f780eff69c66151}{Thornton}{T\bibinitperiod}{Jm}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{062fd1321b616555f7ae3d86dd31d88a}
+      \strng{fullhash}{642168b9f8af74b9310a4ec88457999f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{CATH - a hierarchic classification of protein domain structures}}
+      \field{isbn}{0969-2126}
+      \field{issn}{09692126}
+      \field{journaltitle}{Structure}
+      \field{number}{March}
+      \field{title}{{CATH - a hierarchic classification of protein domain structures}}
+      \field{year}{1997}
+      \field{pages}{1093\bibrangedash 1109}
+      \verb{doi}
+      \verb 10.1016/S0969-2126(97)00260-8
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S0969212697002608-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://discovery.ucl.ac.uk/170914/
+      \endverb
+    \endentry
+    \entry{Bateman2002}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=7aa94dfe398db505f1e5cac138d3ffc3}{Bateman}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=38d9b4f76963eda738134c8361436ae7}{Birney}{B\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cbaaf82c8572f48c8890546e7ee5c201}{Cerruti}{C\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=58b3b2b8cfe8430a48abcd1e3333ecf6}{Etwiller}{E\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=56e1e30c7e35ef73c9897f8bc5c82d2d}{Griffiths-Jones}{G\bibinithyphendelim J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a2db27cb04781e0fc0e516fdf26b7e7c}{Marshall}{M\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=7aa94dfe398db505f1e5cac138d3ffc3}{Bateman}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=38d9b4f76963eda738134c8361436ae7}{Birney}{B\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cbaaf82c8572f48c8890546e7ee5c201}{Cerruti}{C\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d0cc3bd390785b9edf80dd933ac556a2}{Durbin}{D\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=58b3b2b8cfe8430a48abcd1e3333ecf6}{Etwiller}{E\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b14e84d528aad327fd0a1a9a76072adb}{Eddy}{E\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=56e1e30c7e35ef73c9897f8bc5c82d2d}{Griffiths-Jones}{G\bibinithyphendelim J\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdc8511f53f0e6bc96be475c82c48b}{Howe}{H\bibinitperiod}{K\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a2db27cb04781e0fc0e516fdf26b7e7c}{Marshall}{M\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b5c7a880e14a298ece95f41d15ffc0c3}{Sonnhammer}{S\bibinitperiod}{E\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ac1f75dec5abaa6fae284f3762a05a5a}
+      \strng{fullhash}{d1c9970cbfd214b3a3ff79f3f819a5aa}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The Pfam protein families database}}
+      \field{isbn}{1362-4962 (Electronic)}
+      \field{issn}{0305-1048 (Print) 0305-1048 (Linking)}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{number}{1}
+      \field{title}{{The Pfam protein families database}}
+      \field{volume}{28}
+      \field{year}{2002}
+      \field{pages}{276\bibrangedash 280}
+      \verb{doi}
+      \verb gkd038 [pii]
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/Nucl. Acids Res.-2002-Bateman-276-80.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve%7B%5C&%7Ddb=PubMed%7B%5C&%7Ddopt=Citation%7B%5C&%7Dlist%7B%5C_%7Duids=11752314%20http://www.ncbi.nlm.nih.gov/pubmed/10592242
+      \endverb
+    \endentry
+    \entry{Hunter2009}{article}{}
+      \name{labelname}{38}{}{%
+        {{hash=4232913ae552b928ff5101e7d581375f}{Hunter}{H\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88e451f539cb133a865445c7b4a72945}{Apweiler}{A\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0d2826c48375171a50da9d818710ac95}{Attwood}{A\bibinitperiod}{Teresa\bibnamedelima K.}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b2ebd3ba772b0e00ce7ff11062d7bb7e}{Bairoch}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced5c37e13ed96f4cb024911c267029}{Bateman}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ac693a590925614d5eab4124b16d815}{Binns}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=070cb6ad7a7d5d2d766209c073611eb1}{Das}{D\bibinitperiod}{Ujjwal}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=3181a4e63e23edf46ad3a0ab584a861d}{Daugherty}{D\bibinitperiod}{Louise}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a0324e3154f8264b92b921f82b7485ac}{Duquenne}{D\bibinitperiod}{Lauranne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0db7057368bb4f4edb12e97a28cbf3b}{Finn}{F\bibinitperiod}{Robert\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23f9faa75b1688ba9504d8cf32b1bfd}{Haft}{H\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=284b9e8e35db019d7497fde6cb5b9983}{Hulo}{H\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e703131d4a240ed85e6dc263888115bf}{Kahn}{K\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f8ed66e6c7d354ed4455da12896952be}{Kelly}{K\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=8492bc72a9da536e7e9f199a0fc1f4c9}{Laugraud}{L\bibinitperiod}{Aur??lie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=90a16251283487ab24f75284582c22c5}{Letunic}{L\bibinitperiod}{Ivica}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a56293848f9dcd3094d2283c3fc99db3}{Lonsdale}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{Lopez}{L\bibinitperiod}{Rodrigo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a4d3938b52ce74c36efbba638833ed1}{Madera}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0455dbb54f5f8b6810eacc4653fabbcc}{Maslen}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1286b3ab4e9a1d3695545852236fc928}{Mcanulla}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7954fac33104571b85919358e4bf2ad3}{McDowall}{M\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8ca0b214376f4df31410b35ef1c9fe1d}{Mistry}{M\bibinitperiod}{Jaina}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f91e7dd8020f782dbfef26202b0be20}{Mitchell}{M\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b8af15e2018255691770ceb0e69f4993}{Mulder}{M\bibinitperiod}{Nicola}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3c129c48ae7c6572216c11dddccbd601}{Natale}{N\bibinitperiod}{Darren}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1f1b82004db81a90bccbddfa0c38753}{Quinn}{Q\bibinitperiod}{Antony\bibnamedelima F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a4bdc6dab085ac91ceff07a8cadc05}{Selengut}{S\bibinitperiod}{Jeremy\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fe189056a4a73122866483d01a3cc1d0}{Sigrist}{S\bibinitperiod}{Christian\bibnamedelimb J\bibnamedelima A}{C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=150d07436146618a8d675e6dfd355c06}{Thimma}{T\bibinitperiod}{Manjula}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b059cba4d10ec33a57140580b6c247d0}{Thomas}{T\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=4abd71267b7194c5014fc3cef027d93d}{Valentin}{V\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f7787f6390ae7ef739a0836d9eb8c07a}{Wilson}{W\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=326b210a8fa7b9a4c03903af7b374ee7}{Wu}{W\bibinitperiod}{Cathy\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b8386d82c2d30d29a7c1f6ef50a8373}{Yeats}{Y\bibinitperiod}{Corin}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{38}{}{%
+        {{hash=4232913ae552b928ff5101e7d581375f}{Hunter}{H\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88e451f539cb133a865445c7b4a72945}{Apweiler}{A\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0d2826c48375171a50da9d818710ac95}{Attwood}{A\bibinitperiod}{Teresa\bibnamedelima K.}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b2ebd3ba772b0e00ce7ff11062d7bb7e}{Bairoch}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced5c37e13ed96f4cb024911c267029}{Bateman}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ac693a590925614d5eab4124b16d815}{Binns}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=070cb6ad7a7d5d2d766209c073611eb1}{Das}{D\bibinitperiod}{Ujjwal}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=3181a4e63e23edf46ad3a0ab584a861d}{Daugherty}{D\bibinitperiod}{Louise}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a0324e3154f8264b92b921f82b7485ac}{Duquenne}{D\bibinitperiod}{Lauranne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0db7057368bb4f4edb12e97a28cbf3b}{Finn}{F\bibinitperiod}{Robert\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d555f8ccbc9d14ac20a0f70424b46e75}{Gough}{G\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23f9faa75b1688ba9504d8cf32b1bfd}{Haft}{H\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=284b9e8e35db019d7497fde6cb5b9983}{Hulo}{H\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e703131d4a240ed85e6dc263888115bf}{Kahn}{K\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f8ed66e6c7d354ed4455da12896952be}{Kelly}{K\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=8492bc72a9da536e7e9f199a0fc1f4c9}{Laugraud}{L\bibinitperiod}{Aur??lie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=90a16251283487ab24f75284582c22c5}{Letunic}{L\bibinitperiod}{Ivica}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a56293848f9dcd3094d2283c3fc99db3}{Lonsdale}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{Lopez}{L\bibinitperiod}{Rodrigo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a4d3938b52ce74c36efbba638833ed1}{Madera}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0455dbb54f5f8b6810eacc4653fabbcc}{Maslen}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1286b3ab4e9a1d3695545852236fc928}{Mcanulla}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7954fac33104571b85919358e4bf2ad3}{McDowall}{M\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8ca0b214376f4df31410b35ef1c9fe1d}{Mistry}{M\bibinitperiod}{Jaina}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f91e7dd8020f782dbfef26202b0be20}{Mitchell}{M\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b8af15e2018255691770ceb0e69f4993}{Mulder}{M\bibinitperiod}{Nicola}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3c129c48ae7c6572216c11dddccbd601}{Natale}{N\bibinitperiod}{Darren}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1f1b82004db81a90bccbddfa0c38753}{Quinn}{Q\bibinitperiod}{Antony\bibnamedelima F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a4bdc6dab085ac91ceff07a8cadc05}{Selengut}{S\bibinitperiod}{Jeremy\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fe189056a4a73122866483d01a3cc1d0}{Sigrist}{S\bibinitperiod}{Christian\bibnamedelimb J\bibnamedelima A}{C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=150d07436146618a8d675e6dfd355c06}{Thimma}{T\bibinitperiod}{Manjula}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b059cba4d10ec33a57140580b6c247d0}{Thomas}{T\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=4abd71267b7194c5014fc3cef027d93d}{Valentin}{V\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f7787f6390ae7ef739a0836d9eb8c07a}{Wilson}{W\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=326b210a8fa7b9a4c03903af7b374ee7}{Wu}{W\bibinitperiod}{Cathy\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b8386d82c2d30d29a7c1f6ef50a8373}{Yeats}{Y\bibinitperiod}{Corin}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{df938e0e62460dd9cefdb865bfd431cb}
+      \strng{fullhash}{c8ffd207d43b4a706de7f7ac7aeaf01e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{InterPro: The integrative protein signature database}}
+      \field{isbn}{1362-4962 (Electronic)$\backslash$r0305-1048 (Linking)}
+      \field{issn}{03051048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{number}{SUPPL. 1}
+      \field{title}{{InterPro: The integrative protein signature database}}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{211\bibrangedash 215}
+      \verb{doi}
+      \verb 10.1093/nar/gkn785
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/gkn785.pdf:pdf
       \endverb
     \endentry
   \endsortlist

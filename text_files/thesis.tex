@@ -1,7 +1,8 @@
 \documentclass[12pt, a4paper,twoside]{tesi_upf}
 
 
-\usepackage[applemac]{inputenc}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
 
 
 %IDIOMES
@@ -14,7 +15,7 @@
 \usepackage{times}
 %\usepackage{garamond}
 \pagestyle{plain}
-\usepackage[backend=biber,backref]{biblatex}
+\usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
 \usepackage{biblatex}
 \usepackage{makeidx}
 \makeindex
@@ -144,18 +145,28 @@ Consta de
 
 \chapter{Introduction} \label{introduction} 
 
-\section{Overview: Protein structure}
+\section{Protein overview}
 
 
-\par Proteins are essential macromolecules that play critical roles in the cell. They are not only the cell's building blocks, but also they perform nearly all the cell's functions.  A protein is a molecule made from a long chain of amino acids linked thorough a covalent peptide bond. Proteins are therefore also known as \textit{polypeptides}. Attached to this repetitive chain are those portions of the amino acids that are not involved in the covalent bond, the \textbf{side chains}. Side chains confer the different physico-chemical properties of each of the 20 types of amino acids \cite{thecell2008}. The composition of the amino acid sequence determines the function and the structure of a protein. That is because the unique sequence creates a specific pattern of attractive and repulsive forces between amino acids along the polypeptide that leads to a folding process resulting in a specific three-dimensional structure. These forces are usually non-covalent  interactions between the side chains of the amino acids. Non-covalent interactions are weaker than covalent ones, allowing the folded structure to certain degree of  conformation mobility i.e: to be dynamic. This phenomenon is really important to facilitate the interaction with other molecules as we will explore further in \ref{ligand_intect}.  
 
-\par Protein structures are complex conformation of atoms organized in a hierarchical manner \ref{fig:hierarchy_figure}. The first level of this hierarchy, referred to as the \textbf{primary structure}, is the ordered sequence of amino acids of the polypeptide. Certain segments of these chains, tend to form simple shapes such as helices, strands, turns or loops.  These folding patterns are referred to as secondary elements and collectively constitute the \textbf{secondary structure} of the protein. The two most frequent type of secondary elements are the $\alpha$-helixes and the $\beta$-strands [REF]. The overall chain tends to fold further into a three-dimensional  \textbf{tertiary structure}. Contrary to the secondary structure, the tertiary structure folding is driven by interactions from amino acids far apart in the sequence. The tertiary structure, is generally the most stable form of the protein, that is, the one that minimizes its free energy [REF]. Furthermore, the tertiary structure is also the biologically active form of the protein, and its unfolding usually leads towards partial o total inactivation of the protein. Finally, some proteins are composed by multiple folded chains. In such cases, each folded subunit fold independently and then join the others forming a biologically active complex. This type of organization is considered as the \textbf{quaternary structure}.
 
+\par The importance of proteins in biological chemistry is reflected by their name, coined by Jons Jacob Berzelius in 1838, and derived from the Greek word \textit{proteios} that means "of the first rank"\footnote{The term protein was first used by Gerardus Johannes Mulder, advised by Berzelius, in its publication  \textit{Bulletin des Sciences Physiques et Naturelles en N\'eerlande (1838). pg 104. SUR LA COMPOSITION DE QUELQUES SUBSTANCES ANIMALES}, where he observed that all proteins seemed to have the same empirical formula and came out to the erroneous idea that they might be composed of a single type of very large molecule. Berzelius proposed the name because the material seemed to be the primitive substance of animal nutrition that plants prepare for herbivores.}. Their presence is so essential that they  constitute most of the cell dry mass \cite{kessel2010}. They are not only the cell's building blocks, but also they perform nearly all the cell's functions. Some roles of proteins include serving as structural components of cells and tissues (e.g., \textit{keratin} or \textit{collagen}), transmission of information between cells by hormones such as the \textit{insulin} or the \textit{oxytocin}, facilitating the transport and storage of small molecules (e.g., the transport of oxygen by \textit{hemoglobin}) or providing a defense against foreign invaders (e.g., antibodies). Other proteins such as the \textit{actin} and the \textit{myosin} are responsible of muscle contraction and therefore our movement. However, the most fundamental role of proteins is their ability to act as enzymes, which, catalyzes most of the chemical reactions in biological systems. 
+\par There is experimental evidence of more than 30,000 human protein products derived from over 17,000 human genes \cite{human2014}. 
+
+\subsection{Protein structure}
+
+\par A protein is a molecule made from a long chain of amino acids linked thorough a covalent peptide bond. Proteins are therefore also known as \textit{polypeptides}. Attached to this repetitive chain are those portions of the amino acids that are not involved in the covalent bond, the \textbf{side chains}. Side chains confer the different physico-chemical properties of each of the 20 types of amino acids \cite{thecell2008}. The composition of the amino acid sequence determines the function and the structure of a protein. That is because the unique sequence creates a specific pattern of attractive and repulsive forces between amino acids along the polypeptide that leads to a folding process resulting in a specific three-dimensional structure. These forces are usually non-covalent  interactions between the side chains of the amino acids. Non-covalent interactions are weaker than covalent ones, allowing the folded structure to certain degree of  conformation mobility i.e: to be dynamic. This phenomenon is really important to facilitate the interaction with other molecules as we will explore further in \ref{ligand_intect}.  
+\par Protein structures are complex conformation of atoms organized in a hierarchical manner \ref{fig:hierarchy_figure}. The first level of this hierarchy, referred to as the \textbf{primary structure}, is the ordered sequence of amino acids of the polypeptide. Certain segments of these chains, tend to form simple shapes such as helices, strands, turns or loops.  These folding patterns are referred to as secondary elements and collectively constitute the \textbf{secondary structure} of the protein. The two most frequent type of secondary elements are the $\alpha$-helixes and the $\beta$-sheets \cite{DSSP}. The overall chain tends to fold further into a three-dimensional  \textbf{tertiary structure}. Contrary to the secondary structure, the tertiary structure folding is driven by interactions from amino acids far apart in the primary sequence. The tertiary structure, is generally the most stable form of the protein, that is, the one that minimizes its free energy \cite{Dill1990}. Furthermore, the tertiary structure is also the biologically active form of the protein, and its unfolding usually leads towards partial o total inactivation of the protein. Finally, some proteins are composed by multiple folded chains. In such cases, each folded subunit folds independently and then joins the others forming a biologically active complex. This type of organization is considered as the \textbf{quaternary structure}.
+% Structure more conserved than sequence to talk
+
+\subsubsection{Protein Structure Determination}
+
+\subsubsection{Protein Structure Prediction}
 \pagebreak
 \begin{figure}[h]
 
   \centering
-  	\includegraphics[scale=0.5]{/Users/fran/Documents/Work/tesis/figures/protein_structure_levels_en.png}
+  	\includegraphics[scale=0.75]{../figures/protein_structure_levels_en.png} % Figure was taking from...
 
 	\caption{Hierarchical distribution of layers in protein structure}
 	\label{fig:hierarchy_figure}
@@ -163,16 +174,19 @@ Consta de
 
 \subsection{Protein function}
 
-\par The structure of a protein determines its biological function. However, different \textit{regions} of the structure can perform semi-indepent functions from each other. These regions are referred to as \textbf{protein domains} [REFS!!!!]. A domain is substructure produced by any part of polypedtide chain that can fold independently into a compact and stable structure. Domains on average contain 80-250 residues [REF]. Estimates of the number of domains per protein say that  ~67\% of procaryotik proteins and ~80\% of eukaryotic proteins include more than one domain[REF 259,260 libro protein]. Domains are not only the basic functional units of proteins, but also the evolutionary units of protein evolution [REF]. As proteins have evolved, domains have been modified and combined to build new proteins [REF]. The study of protein domains have became such an important topic in biology  that several databases of protein domains are available. Some of them such as SCOP or CATh are purely based on the structure, while others such as PFAM or INTERPRO include information about the function in their classification. 
-\par Domains, and subsequently proteins; perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}. In the thesis, I will use ligand only for small-molecule compounds while proteins will be considered as equals and will be explicit named as protein-protein interaction[PIE DE NOTA].  The roles played by the ligands are diverse. Table X shows an example of the different functions that a small-molecule ligands can perform in a protein. 
+\par The structure of a protein determines its biological function. However, different \textit{regions} of the structure can perform semi-indepent functions from each other. These regions are referred to as \textbf{protein domains}. A domain is substructure produced by any part of polypedtide chain that can fold independently into a compact and stable structure \cite{Richardson1981, That1991, DomainDef}. Domains on average contain 80-250 residues \cite{Islam1995}. Estimates of the number of domains per protein say that nire than 70\% of procaryotik proteins and 80\% of eukaryotic proteins include more than one domain \cite{Han2007, Chothia2003}. Among this multi-domain proteins, 95\% of them contains only two to five protein domains \cite{Han2007}.  Domains are not only the basic functional units of proteins, but also the evolutionary units of protein evolution. As proteins have evolved, domains have been modified and combined to build new proteins \cite{Vogel2004, Apic2001}. 
+Such is the importance  of domains in protein evolution, that they have been included in current protein classification methods as one of the major classification parameters. Some of these domain classification methods such as SCOP \cite{Murzin1995} or CATH \cite{Orengo1997} are purely based on the structure, while others such as Pfam \cite{Bateman2002} or INTERPRO \cite{Hunter2009} include information about the function in their classification. 
+\par Domains, and consequently proteins, perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}. 
+%\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}.  
 
-\subsection{Protein-small molecule interaction} \label{ligand_intect}
 
+\subsection{Protein-Ligand Interactions} \label{ligand_intect}
+
+
+\par The roles played by the ligands are diverse. Table X shows an example of the different functions that a small-molecule ligands can perform in a protein. 
 Binding constants, allosteric and binding-site, induced fit model. Expandir. Imporatante. 
 
-\subsection{Protein modelling}
-
-3D-Structure modelling. 
+ 
 
 
 
@@ -180,7 +194,7 @@ Binding constants, allosteric and binding-site, induced fit model. Expandir. Imp
 \subsection{Protein-ligand prediction}
 
 
-\subsection{Drug discovery}
+\section{Drug discovery}
 
 
 
@@ -220,7 +234,7 @@ Subsection
 
 \begin{figure}[b]
   \centering
-  \includegraphics[scale=0.5]{/Users/fran/Documents/Work/tesis/figures/logo_upf.png}
+  \includegraphics[scale=0.5]{../figures/logo_upf.png}
     \caption{Example}
     \label{fig:logo}
 \end{figure}

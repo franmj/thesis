@@ -13,31 +13,35 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{CHAPTER \hbox to\@tempdima {1\hfil }\MakeUppercase {Introduction}}{3}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Overview: Protein structure}{3}{section.1.1}
+\contentsline {section}{\numberline {1.1}Protein overview}{3}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Protein function}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Protein structure}{3}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Protein-small molecule interaction}{6}{subsection.1.1.2}
+\contentsline {subsubsection}{Protein Structure Determination}{4}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Protein modelling}{6}{subsection.1.1.3}
+\contentsline {subsubsection}{Protein Structure Prediction}{4}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Protein function}{5}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Protein-Ligand Interactions}{6}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.4}Protein-ligand prediction}{6}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.5}Drug discovery}{6}{subsection.1.1.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.6}subsection}{6}{subsection.1.1.6}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Drug discovery}{6}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}In-silico methods in drug-discovery}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.1}subsection}{6}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Mycobacterium tuberculosis}{7}{section.1.3}
+\contentsline {section}{\numberline {1.3}Drug discovery}{6}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Tuberculosis treatments and PPcs}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.1}In-silico methods in drug-discovery}{6}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Drug resistance in cancer}{7}{section.1.4}
+\contentsline {section}{\numberline {1.4}Mycobacterium tuberculosis}{7}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Cancer Treatment and drugs}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.1}Tuberculosis treatments and PPcs}{7}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Drug resistance in cancer}{7}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}Cancer Treatment and drugs}{7}{subsection.1.5.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{CHAPTER \hbox to\@tempdima {2\hfil }\MakeUppercase {Objectives}}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 

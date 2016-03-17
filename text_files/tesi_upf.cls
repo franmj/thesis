@@ -225,7 +225,7 @@
     {\large \@supervisor} {\large Departament \@department} \par
     \vspace{3cm}
    \centering  
-    \fbox{\includegraphics[scale=0.4]{/Users/fran/Documents/Work/tesis/figures/logo_upf.png}}
+    \fbox{\includegraphics[scale=0.4]{../figures/logo_upf.png}}
    \end{flushleft}\par
 %  \@thanks
 % \vfil\null
