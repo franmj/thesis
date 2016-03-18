@@ -1,26 +1,26 @@
 [1] Config.pm:322> INFO - This is Biber 2.0 (beta)
-[2] Config.pm:325> INFO - Logfile is 'thesis.blg'
-[64] biber:277> INFO - === Thu Mar 17, 2016, 18:10:36
-[64] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[168] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[169] Biber.pm:635> INFO - Found 17 citekeys in bib section 0
-[197] Biber.pm:3051> INFO - Processing section 0
-[228] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
-[229] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[230] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
-[247] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
-[444] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[654] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
-[786] Utils.pm:144> WARN - BibTeX subsystem: /tmp/q_GwoPTCUk/library.bib_31043.utf8, line 6, warning: 172 characters of junk seen at toplevel
-[1074] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1075] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1075] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[1075] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[1347] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1347] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1347] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
-[1347] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[1406] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
-[1407] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[1508] bbl.pm:608> INFO - Output to thesis.bbl
-[1508] Biber.pm:106> INFO - WARNINGS: 2
+[1] Config.pm:325> INFO - Logfile is 'thesis.blg'
+[78] biber:277> INFO - === Fri Mar 18, 2016, 18:05:01
+[78] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[214] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[216] Biber.pm:635> INFO - Found 24 citekeys in bib section 0
+[246] Biber.pm:3051> INFO - Processing section 0
+[277] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
+[278] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[279] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
+[297] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
+[494] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[702] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
+[823] Utils.pm:144> WARN - BibTeX subsystem: /tmp/kKk4Ja5P1i/library.bib_7379.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[1136] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1137] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1137] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[1137] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1439] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1439] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1440] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
+[1440] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1499] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
+[1499] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[1590] bbl.pm:608> INFO - Output to thesis.bbl
+[1590] Biber.pm:106> INFO - WARNINGS: 2

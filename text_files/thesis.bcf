@@ -1942,24 +1942,33 @@
     <bcf:datasource type="file" datatype="bibtex">../bibliography/library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">kessel2010</bcf:citekey>
-    <bcf:citekey order="2">human2014</bcf:citekey>
+    <bcf:citekey order="2">kessel2010</bcf:citekey>
     <bcf:citekey order="3">thecell2008</bcf:citekey>
     <bcf:citekey order="4">DSSP</bcf:citekey>
     <bcf:citekey order="5">Dill1990</bcf:citekey>
-    <bcf:citekey order="6">Richardson1981</bcf:citekey>
-    <bcf:citekey order="6">That1991</bcf:citekey>
-    <bcf:citekey order="6">DomainDef</bcf:citekey>
-    <bcf:citekey order="7">Islam1995</bcf:citekey>
-    <bcf:citekey order="8">Han2007</bcf:citekey>
-    <bcf:citekey order="8">Chothia2003</bcf:citekey>
-    <bcf:citekey order="9">Han2007</bcf:citekey>
-    <bcf:citekey order="10">Vogel2004</bcf:citekey>
-    <bcf:citekey order="10">Apic2001</bcf:citekey>
-    <bcf:citekey order="11">Murzin1995</bcf:citekey>
-    <bcf:citekey order="12">Orengo1997</bcf:citekey>
-    <bcf:citekey order="13">Bateman2002</bcf:citekey>
-    <bcf:citekey order="14">Hunter2009</bcf:citekey>
+    <bcf:citekey order="6">StructureSequence</bcf:citekey>
+    <bcf:citekey order="7">conservPPI</bcf:citekey>
+    <bcf:citekey order="8">Raj2007</bcf:citekey>
+    <bcf:citekey order="9">Todd2001</bcf:citekey>
+    <bcf:citekey order="10">StructureSequence</bcf:citekey>
+    <bcf:citekey order="11">StructureSequence</bcf:citekey>
+    <bcf:citekey order="12">KENDREW1960</bcf:citekey>
+    <bcf:citekey order="13">Berman2000</bcf:citekey>
+    <bcf:citekey order="14">Norvell2007</bcf:citekey>
+    <bcf:citekey order="15">GIleadi2007</bcf:citekey>
+    <bcf:citekey order="16">Richardson1981</bcf:citekey>
+    <bcf:citekey order="16">That1991</bcf:citekey>
+    <bcf:citekey order="16">DomainDef</bcf:citekey>
+    <bcf:citekey order="17">Islam1995</bcf:citekey>
+    <bcf:citekey order="18">Han2007</bcf:citekey>
+    <bcf:citekey order="18">Chothia2003</bcf:citekey>
+    <bcf:citekey order="19">Han2007</bcf:citekey>
+    <bcf:citekey order="20">Vogel2004</bcf:citekey>
+    <bcf:citekey order="20">Apic2001</bcf:citekey>
+    <bcf:citekey order="21">Murzin1995</bcf:citekey>
+    <bcf:citekey order="22">Orengo1997</bcf:citekey>
+    <bcf:citekey order="23">Bateman2002</bcf:citekey>
+    <bcf:citekey order="24">Hunter2009</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="none">
   <bcf:sorting>

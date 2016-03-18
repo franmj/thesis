@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  17 MAR 2016 18:10
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  18 MAR 2016 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -571,7 +571,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 
 Package csquotes Warning: No style for language 'catalan'.
-(csquotes)                Using fallback style on input line 45.
+(csquotes)                Using fallback style on input line 44.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 Package biblatex Info: Trying to load language 'catalan'...
@@ -587,26 +587,26 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 ))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 44.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Info: Redefining \l on input line 45.
-LaTeX Info: Redefining \L on input line 45.
+LaTeX Info: Redefining \l on input line 44.
+LaTeX Info: Redefining \L on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -636,11 +636,11 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package crop Info: requested driver: `' on input line 45.
-Package crop Info: detected driver: `pdftex' on input line 45.
-Package crop Info: using `pdftex' graphics driver on input line 45.
+Package crop Info: requested driver: `' on input line 44.
+Package crop Info: detected driver: `pdftex' on input line 44.
+Package crop Info: using `pdftex' graphics driver on input line 44.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring OFF on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -650,9 +650,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count292
 )
-LaTeX Info: Redefining \ref on input line 45.
-LaTeX Info: Redefining \pageref on input line 45.
-LaTeX Info: Redefining \nameref on input line 45.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write5
@@ -671,9 +671,9 @@ Package biblatex Warning: File 'thesis.bbl' is wrong format version - expected
 
 Package biblatex Info: ... file 'thesis.bbl' found.
 (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 51.
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 50.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -681,7 +681,7 @@ File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 File: ../figures/logo_upf.png Graphic file (type png)
 
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 51.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 50.
 (pdftex.def)             Requested size: 14.45372pt x 5.2997pt.
  [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -700,22 +700,22 @@ Package pdftex.def Info: ../figures/logo_upf.png used on input line 51.
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 72.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 72.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 71.
  [7] [8
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 87.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 86.
 
 [9] [10
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 94.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 93.
  (./thesis.toc)
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
@@ -742,7 +742,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 115.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 114.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ) [1
@@ -755,24 +755,43 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ]
 Cap\'{\i }tol 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 156.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 155.
 [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-<../figures/protein_structure_levels_en.png, id=228, 250.9375pt x 437.635pt>
+<../figures/protein_structure_levels_en.png, id=222, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
 Package pdftex.def Info: ../figures/protein_structure_levels_en.png used on inp
-ut line 168.
+ut line 162.
 (pdftex.def)             Requested size: 188.20265pt x 328.22543pt.
- [5 <../figures/protein_structure_levels_en.png>] [6] [7] [8
 
 
-]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] <../figures/structure_vs_sequence.png, id=237, 451.6875pt x 432.61626pt>
+File: ../figures/structure_vs_sequence.png Graphic file (type png)
+
+<use ../figures/structure_vs_sequence.png>
+Package pdftex.def Info: ../figures/structure_vs_sequence.png used on input lin
+e 173.
+(pdftex.def)             Requested size: 225.84319pt x 216.3076pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <../figures/protein_structure_levels_en.png>]
+Underfull \vbox (badness 5741) has occurred while \output is active []
+
+ [6 <../figures/structure_vs_sequence.png>]
+Underfull \vbox (badness 3219) has occurred while \output is active []
+
+ [7]
+[8]
 Cap\'{\i }tol 2.
-[9] [10
+[9
+
+
+] [10
 
 
 ]
@@ -789,7 +808,7 @@ Cap\'{\i }tol 4.
 Cap\'{\i }tol 5.
 File: ../figures/logo_upf.png Graphic file (type png)
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 236.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 264.
 (pdftex.def)             Requested size: 18.06744pt x 6.62473pt.
  [15] [16
 
@@ -797,60 +816,74 @@ Package pdftex.def Info: ../figures/logo_upf.png used on input line 236.
 ]
 No file thesis.ind.
 
-Overfull \hbox (4.04623pt too wide) in paragraph at lines 253--253
+Overfull \hbox (4.04623pt too wide) in paragraph at lines 281--281
 \T1/ptm/m/n/12 struc-ture: Pat-tern recog-ni-tion of hydrogen-bonded and ge-o-m
 et-ri-cal fea-tures\T1/ptm/b/n/12 ?
  []
 
 
-Overfull \hbox (10.23618pt too wide) in paragraph at lines 253--253
+Overfull \hbox (10.23618pt too wide) in paragraph at lines 281--281
 \T1/ptm/m/n/12 (1990), pàg. 7133 - 7155. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 0
 006-2960. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1021 / bi0
 0483a001$[]
  []
 
+
+Overfull \hbox (4.58171pt too wide) in paragraph at lines 281--281
+\T1/ptm/m/n/12 Func-tion in Pro-tein Su-per-fam-i-lies , from a Struc-tural Per
+-spec-tive\T1/ptm/b/n/12 ? \T1/ptm/m/n/12 A: (2001).
+ []
+
+
+Overfull \hbox (11.04227pt too wide) in paragraph at lines 281--281
+\T1/ptm/m/n/12 Fouri-er Syn-the-sis at 2 [angst]. Res-o-lu-tion\T1/ptm/b/n/12 ?
+ \T1/ptm/m/n/12 A: \T1/ptm/m/it/12 Na-ture \T1/ptm/m/n/12 185.4711 (feb. de 196
+0),
+ []
+
 [17
 
 
-]
-Overfull \hbox (23.74715pt too wide) in paragraph at lines 253--253
+] [18]
+Overfull \hbox (23.74715pt too wide) in paragraph at lines 281--281
 \T1/ptm/m/n/12 A: \T1/ptm/m/it/12 Nu-cle-ic Acids Re-search \T1/ptm/m/n/12 37.S
 UP-PL. 1 (2009), pàg. 211 - 215. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 03051048.
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
-[18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+[19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 259.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 259.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7E664856E3530A4F1919B7F81C4DB372;1306.
+(rerunfilecheck)             Checksum: F55EF87FE355B530FF930352FA012AA8;1321.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  ) 
 Here is how much of TeX's memory you used:
- 13093 strings out of 495034
- 206122 string characters out of 6181677
- 647674 words of memory out of 5000000
- 16013 multiletter control sequences out of 15000+600000
+ 13124 strings out of 495034
+ 206825 string characters out of 6181677
+ 650090 words of memory out of 5000000
+ 16034 multiletter control sequences out of 15000+600000
  60280 words of font info for 69 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,10n,49p,1956b,2679s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
-lvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (34 pages, 195996 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic
+/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (35 pages, 235561 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 348 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 390 compressed objects within 4 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
