@@ -1956,19 +1956,23 @@
     <bcf:citekey order="13">Berman2000</bcf:citekey>
     <bcf:citekey order="14">Norvell2007</bcf:citekey>
     <bcf:citekey order="15">GIleadi2007</bcf:citekey>
-    <bcf:citekey order="16">Richardson1981</bcf:citekey>
-    <bcf:citekey order="16">That1991</bcf:citekey>
-    <bcf:citekey order="16">DomainDef</bcf:citekey>
-    <bcf:citekey order="17">Islam1995</bcf:citekey>
-    <bcf:citekey order="18">Han2007</bcf:citekey>
-    <bcf:citekey order="18">Chothia2003</bcf:citekey>
-    <bcf:citekey order="19">Han2007</bcf:citekey>
-    <bcf:citekey order="20">Vogel2004</bcf:citekey>
-    <bcf:citekey order="20">Apic2001</bcf:citekey>
-    <bcf:citekey order="21">Murzin1995</bcf:citekey>
-    <bcf:citekey order="22">Orengo1997</bcf:citekey>
-    <bcf:citekey order="23">Bateman2002</bcf:citekey>
-    <bcf:citekey order="24">Hunter2009</bcf:citekey>
+    <bcf:citekey order="16">Smyth2000</bcf:citekey>
+    <bcf:citekey order="17">Bill2011</bcf:citekey>
+    <bcf:citekey order="18">Yaffe2005</bcf:citekey>
+    <bcf:citekey order="19">Morris1992</bcf:citekey>
+    <bcf:citekey order="20">Richardson1981</bcf:citekey>
+    <bcf:citekey order="20">That1991</bcf:citekey>
+    <bcf:citekey order="20">DomainDef</bcf:citekey>
+    <bcf:citekey order="21">Islam1995</bcf:citekey>
+    <bcf:citekey order="22">Han2007</bcf:citekey>
+    <bcf:citekey order="22">Chothia2003</bcf:citekey>
+    <bcf:citekey order="23">Han2007</bcf:citekey>
+    <bcf:citekey order="24">Vogel2004</bcf:citekey>
+    <bcf:citekey order="24">Apic2001</bcf:citekey>
+    <bcf:citekey order="25">Murzin1995</bcf:citekey>
+    <bcf:citekey order="26">Orengo1997</bcf:citekey>
+    <bcf:citekey order="27">Bateman2002</bcf:citekey>
+    <bcf:citekey order="28">Hunter2009</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="none">
   <bcf:sorting>

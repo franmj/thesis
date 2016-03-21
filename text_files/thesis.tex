@@ -17,6 +17,9 @@
 \usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
 \usepackage{biblatex}
 \usepackage{makeidx}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{url}
 \makeindex
 
 
@@ -178,20 +181,43 @@ Consta de
  
 \subsubsection{Protein Structure Determination}
 
-\par Since in 1960, the Brithis biochemist John Kendrew determined the myoblobin structure \cite{KENDREW1960}, more than 37,000 different protein structures have been deposited in the Protein Data Bank (PDB) \cite{Berman2000}. The PDB is a repository created in the 1970s with the aim of storing all the 3D protein structures and unifying their format. Figure  shows the variation of the number of deposited structures over the time. The number of PDB structures has significantly been increased over the last years thanks to initiatives such as the Protein Structure Initiative (PSI) \cite{Norvell2007} or the structural genomics \cite{GIleadi2007}. The later, was born with the aim of determining the structure of all human proteins. However, soon after, they realized that the goal was unrealistic. Fortunately, the number of folds which represent the complete "fold space" observed in nature is much smaller that the number of proteins. Therefore, the current goal is to determine the structure of a representative set of proteins, that is, at least one protein per fold class. Once It is known the structure of one representative protein, and thanks to the \textit{homology modeling} methods, It is usually feasible infering the structure of other proteins belonging to the same fold class as  we will explore further in the next section \ref{structure_predicion}.
-%\begin{figure}[h]
+\par Since in 1960, the Brithis biochemist John Kendrew determined the myoblobin structure \cite{KENDREW1960}, more than 37,000 different protein structures have been deposited in the Protein Data Bank (PDB) \cite{Berman2000}. The PDB is a repository created in the 1970s with the aim of storing all the 3D protein structures and unifying their format. Figure \ref{fig:structures_pdb} shows the variation of the number of deposited structures over the time. The number of PDB structures has significantly been increased over the last years thanks to initiatives such as the Protein Structure Initiative (PSI) \cite{Norvell2007} or the structural genomics \cite{GIleadi2007}. The later, was born with the aim of determining the structure of all human proteins. However, soon after, they realized that the goal was unrealistic. Fortunately, the number of folds which represent the complete \textit{fold space} observed in nature is much smaller that the number of proteins. Therefore, the current goal is to determine the structure of a representative set of proteins, that is, at least one protein per fold class. Once It is known the structure of one representative protein, and thanks to the \textit{homology modeling} methods, It is usually feasible inferring the structure of other proteins belonging to the same fold class as  we will explore further in the next section \ref{structure_predicion}.
+\par Several methods are currently used to experimentally determine the 3D structure of a protein. More than 99$\%$ of structures deposited in the PDB have been determine by the three main methods:  X-ray crystallography \ref{Smyth2000, Yaffe2005}, nuclear magnetic resonance  spectroscopy (NMR) and electron microscopy (EM)[REF] \ref{fig:smethods_pie}. These methods provide experimental data that helps the scientist to elucidate the final structure of the protein. However, in most cases, the experimental data is not sufficient by itself to build an atomic model from scratch. Additional knowledge about the molecular structure most be added. For example, the preferred geometry of atoms in a standard protein, the patterns of repulsion and attraction of amino acids, etc. All this information allows the building of the final model that is consistent with both the experimental data and the prior knowledge of the 3D geometry of the molecules. We next briefly explain the three aforementioned methods:
 
- % \centering
- % 	\includegraphics[scale=0.5]{../figures/pdb_structures.png} % RE-DOfigure
+\begin{enumerate}[label=(\alph*)]
+\item \textbf{X-ray crystallography}. Currently, it is the most widely used method in protein structure determination. Almost 90$\%$ of the structures deposited in PDB come from X-ray crystallization (Figure \ref{fig:smethods_pie}). In this method, X-rays fired at a crystal of the molecule are diffracted by the electron clouds of the atoms in the crystal, forming an unique pattern that is printed as a picture of the atomic density map. Subsequently, the diffraction pattern is combined with other physio-chemical knowledge of the protein, such as composition or atomic geometrical restrictions, in order to build the final 3D model \cite{Smyth2000}. 
+\par Before the X-ray exposition, it is then necessary a prior step of crystallization of the molecule.  Unfortunately, the crystallization step introduces itself a great number of limitations.  The flexibility of proteins is one of the these limitations. The flexible nature of proteins makes really difficult the creation of an accurate and homogeneous alignment of multiple molecules used to create the crystal. Another important limitation is the different conditions required for crystallizing each different molecule. These limitation are especially noteworthy in membrane proteins. Despite of nearly 30$\%$ of eukaryotic proteins are membrane proteins, only 604 unique membrane protein structures have been solved to date (data extracted from \url{http://blanco.biomol.uci.edu/mpstruc/}; date 21-03-2016). As a consequence, alternative innovative developments are needed to overcome the numerous obstacles associated with X-ray structure determination of membrane proteins \cite{Bill2011}. 
+\par The accuracy of the final atomic structure relies on the quality of the generated crystals. Two important measures of the accuracy of a crystallographic structure are its atomic \textit{resolution}, which refers to the smallest separation between crystal lattice planes that is resolved in the diffraction pattern \cite{Yaffe2005}, and the \textit{R-factor}, which measures how well the refined structure predicts the observed data \cite{Morris1992}. 
 
-%	\caption{Number of deposited structures in PDB per year. Figure was taken from http://www.rcsb.org/pdb/statistics/contentGrowthChart.do?content=total&seqid=100}
-%	\label{fig:structures_pdb}
-%\end{figure}
+\item NMR spectroscopy
+
+\item Electron microscopy
+
+\end{enumerate}
  
 
-Methods. 
 
-To talk about bias in globular vs. membrane. 
+\begin{figure}[!tbp]
+  
+  \centering
+    \begin{subfigure}[b]{0.75\textwidth}
+	\includegraphics[width=1\linewidth]{../figures/pdbs_per_year.pdf}
+	\caption{}
+	\label{fig:structures_pdb}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.55\textwidth}
+	\includegraphics[width=1\linewidth]{../figures/pie_smethods.pdf}
+	\caption{}
+	\label{fig:smethods_pie}
+	\end{subfigure}
+   \caption{a) Growth of released structures per year. Data extracted from PDB. b) Pie chart with the percetange of structures determined by the different methods. Data extracted from PDB.}
+   
+	
+	
+\end{figure}
+
+
+ 
 
 \subsubsection{Protein Structure Prediction} \label{structure_predicion}
 \pagebreak

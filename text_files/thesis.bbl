@@ -363,6 +363,142 @@
       \verb :home/fran/Downloads/art{\%}3A10.1007{\%}2Fs10969-007-9027-2.pdf:pdf
       \endverb
     \endentry
+    \entry{Smyth2000}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=52c300e5d6fb78024ef538c5d298915a}{Smyth}{S\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=bfaa7649e6d28f67106ac1fbaa12b55b}{Martin}{M\bibinitperiod}{J\bibnamedelima H\bibnamedelima J}{J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=52c300e5d6fb78024ef538c5d298915a}{Smyth}{S\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=bfaa7649e6d28f67106ac1fbaa12b55b}{Martin}{M\bibinitperiod}{J\bibnamedelima H\bibnamedelima J}{J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e5f299614d3278c44659ca169ec477ed}
+      \strng{fullhash}{e5f299614d3278c44659ca169ec477ed}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{x Ray crystallography}}
+      \field{abstract}{x Ray crystallography is currently the most favoured technique for structure determination of proteins and biological macromolecules. Increasingly, those interested in all branches of the biological sciences require structural information to shed light on previously unanswered questions. Furthermore, the availability of a protein structure can provide a more detailed focus for future research. The extension of the technique to systems such as viruses, immune complexes, and protein--nucleic acid complexes serves only to widen the appeal of crystallography. Structure based drug design, site directed mutagenesis, elucidation of enzyme mechanisms, and specificity of protein--ligand interactions are just a few of the areas in which x ray crystallography has provided clarification.}
+      \field{annotation}{10.1136/mp.53.1.8}
+      \field{journaltitle}{Molecular Pathology}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{{x Ray crystallography}}
+      \field{volume}{53}
+      \field{year}{2000}
+      \field{pages}{8\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1136/mp.53.1.8
+      \endverb
+      \verb{url}
+      \verb http://mp.bmj.com/content/53/1/8.abstract
+      \endverb
+    \endentry
+    \entry{Bill2011}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=06a311949828d59b7e4b3b1a9efd3125}{Bill}{B\bibinitperiod}{Roslyn\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=503311d75248be397b1b4d4509d184f3}{Henderson}{H\bibinitperiod}{Peter\bibnamedelimb J\bibnamedelima F}{P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=ebe4aed96b9022ddfb50caed802e3801}{Iwata}{I\bibinitperiod}{So}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4503b328233c1043ca7a2b5960dea646}{Kunji}{K\bibinitperiod}{Edmund\bibnamedelimb R\bibnamedelima S}{E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=64b31a537509f887e6991ce1e6955272}{Michel}{M\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=8050fec8b521b49653b69709bdf45d26}{Neutze}{N\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=834ea5365b8a63582d9ddfad8736b1e8}{Newstead}{N\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c5b90a84288d961f7e7e5b88c0d01f9d}{Poolman}{P\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d0a773ead80f40a3aa3630081b806bc}{Tate}{T\bibinitperiod}{Christopher\bibnamedelima G}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=3e03ba5604e981fd33254810cf11ad35}{Vogel}{V\bibinitperiod}{Horst}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=06a311949828d59b7e4b3b1a9efd3125}{Bill}{B\bibinitperiod}{Roslyn\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=503311d75248be397b1b4d4509d184f3}{Henderson}{H\bibinitperiod}{Peter\bibnamedelimb J\bibnamedelima F}{P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=ebe4aed96b9022ddfb50caed802e3801}{Iwata}{I\bibinitperiod}{So}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4503b328233c1043ca7a2b5960dea646}{Kunji}{K\bibinitperiod}{Edmund\bibnamedelimb R\bibnamedelima S}{E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=64b31a537509f887e6991ce1e6955272}{Michel}{M\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=8050fec8b521b49653b69709bdf45d26}{Neutze}{N\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=834ea5365b8a63582d9ddfad8736b1e8}{Newstead}{N\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c5b90a84288d961f7e7e5b88c0d01f9d}{Poolman}{P\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d0a773ead80f40a3aa3630081b806bc}{Tate}{T\bibinitperiod}{Christopher\bibnamedelima G}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=3e03ba5604e981fd33254810cf11ad35}{Vogel}{V\bibinitperiod}{Horst}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7ca5bd6a5c186afc9d0627a4a279195e}
+      \strng{fullhash}{5cc7eef09f59e4a5d25c41ae1013ae0b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{issn}{1087-0156}
+      \field{journaltitle}{Nature Biotechnology}
+      \field{number}{4}
+      \field{title}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{volume}{29}
+      \field{year}{2011}
+      \field{pages}{335\bibrangedash 340}
+      \verb{doi}
+      \verb 10.1038/nbt.1833
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nbt.1833.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nbt.1833
+      \endverb
+    \endentry
+    \entry{Yaffe2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=784e1463079a6f278a7dd8546a176806}{Yaffe}{Y\bibinitperiod}{Michael\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=784e1463079a6f278a7dd8546a176806}{Yaffe}{Y\bibinitperiod}{Michael\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{784e1463079a6f278a7dd8546a176806}
+      \strng{fullhash}{784e1463079a6f278a7dd8546a176806}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{X-ray crystallography and structural biology}}
+      \field{issn}{0090-3493}
+      \field{journaltitle}{Critical Care Medicine}
+      \field{number}{12}
+      \field{title}{{X-ray crystallography and structural biology}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://journals.lww.com/ccmjournal/Fulltext/2005/12001/X%7B%5C_%7Dray%7B%5C_%7Dcrystallography%7B%5C_%7Dand%7B%5C_%7Dstructural%7B%5C_%7Dbiology.13.aspx
+      \endverb
+    \endentry
+    \entry{Morris1992}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=ca545d3f9551f8f6ce94efdbbc4a346c}{Morris}{M\bibinitperiod}{A\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5c4eb1cd238e391dc3c289863ad4ac4a}{MacArthur}{M\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9992b643c702bf350318bbcf30cb5d11}{Hutchinson}{H\bibinitperiod}{E\bibnamedelima G}{E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ca545d3f9551f8f6ce94efdbbc4a346c}{Morris}{M\bibinitperiod}{A\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5c4eb1cd238e391dc3c289863ad4ac4a}{MacArthur}{M\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9992b643c702bf350318bbcf30cb5d11}{Hutchinson}{H\bibinitperiod}{E\bibnamedelima G}{E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a62f2c8f696c5112bc444536a3637d4d}
+      \strng{fullhash}{7c4392cedd5e2971f3b15807f2e9aa91}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Stereochemical quality of protein structure coordinates.}}
+      \field{abstract}{Methods have been developed to assess the stereochemical quality of any protein structure both globally and locally using various criteria. Several parameters can be derived from the coordinates of a given structure. Global parameters include the distribution of phi, psi and chi 1 torsion angles, and hydrogen bond energies. There are clear correlations between these parameters and resolution; as the resolution improves, the distribution of the parameters becomes more clustered. These features show a broad distribution about ideal values derived from high-resolution structures. Some structures have tightly clustered distributions even at relatively low resolutions, while others show abnormal scatter though the data go to high resolution. Additional indicators of local irregularity include proline phi angles, peptide bond planarities, disulfide bond lengths, and their chi 3 torsion angles. These stereochemical parameters have been used to generate measures of stereochemical quality which provide a simple guide as to the reliability of a structure, in addition to the most important measures, resolution and R-factor. The parameters used in this evaluation are not novel, and are easily calculated from structure coordinates. A program suite is currently being developed which will quickly check a given structure, highlighting unusual stereochemistry and possible errors.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{Stereochemical quality of protein structure coordinates.}}
+      \field{volume}{12}
+      \field{year}{1992}
+      \field{pages}{345\bibrangedash 64}
+      \verb{doi}
+      \verb 10.1002/prot.340120407
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/1579569
+      \endverb
+    \endentry
     \entry{Richardson1981}{book}{}
       \name{labelname}{1}{}{%
         {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1184,6 +1320,142 @@
       \endverb
       \verb{file}
       \verb :home/fran/Downloads/art{\%}3A10.1007{\%}2Fs10969-007-9027-2.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Smyth2000}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=52c300e5d6fb78024ef538c5d298915a}{Smyth}{S\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=bfaa7649e6d28f67106ac1fbaa12b55b}{Martin}{M\bibinitperiod}{J\bibnamedelima H\bibnamedelima J}{J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=52c300e5d6fb78024ef538c5d298915a}{Smyth}{S\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=bfaa7649e6d28f67106ac1fbaa12b55b}{Martin}{M\bibinitperiod}{J\bibnamedelima H\bibnamedelima J}{J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e5f299614d3278c44659ca169ec477ed}
+      \strng{fullhash}{e5f299614d3278c44659ca169ec477ed}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{x Ray crystallography}}
+      \field{abstract}{x Ray crystallography is currently the most favoured technique for structure determination of proteins and biological macromolecules. Increasingly, those interested in all branches of the biological sciences require structural information to shed light on previously unanswered questions. Furthermore, the availability of a protein structure can provide a more detailed focus for future research. The extension of the technique to systems such as viruses, immune complexes, and protein--nucleic acid complexes serves only to widen the appeal of crystallography. Structure based drug design, site directed mutagenesis, elucidation of enzyme mechanisms, and specificity of protein--ligand interactions are just a few of the areas in which x ray crystallography has provided clarification.}
+      \field{annotation}{10.1136/mp.53.1.8}
+      \field{journaltitle}{Molecular Pathology}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{{x Ray crystallography}}
+      \field{volume}{53}
+      \field{year}{2000}
+      \field{pages}{8\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1136/mp.53.1.8
+      \endverb
+      \verb{url}
+      \verb http://mp.bmj.com/content/53/1/8.abstract
+      \endverb
+    \endentry
+    \entry{Bill2011}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=06a311949828d59b7e4b3b1a9efd3125}{Bill}{B\bibinitperiod}{Roslyn\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=503311d75248be397b1b4d4509d184f3}{Henderson}{H\bibinitperiod}{Peter\bibnamedelimb J\bibnamedelima F}{P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=ebe4aed96b9022ddfb50caed802e3801}{Iwata}{I\bibinitperiod}{So}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4503b328233c1043ca7a2b5960dea646}{Kunji}{K\bibinitperiod}{Edmund\bibnamedelimb R\bibnamedelima S}{E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=64b31a537509f887e6991ce1e6955272}{Michel}{M\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=8050fec8b521b49653b69709bdf45d26}{Neutze}{N\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=834ea5365b8a63582d9ddfad8736b1e8}{Newstead}{N\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c5b90a84288d961f7e7e5b88c0d01f9d}{Poolman}{P\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d0a773ead80f40a3aa3630081b806bc}{Tate}{T\bibinitperiod}{Christopher\bibnamedelima G}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=3e03ba5604e981fd33254810cf11ad35}{Vogel}{V\bibinitperiod}{Horst}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=06a311949828d59b7e4b3b1a9efd3125}{Bill}{B\bibinitperiod}{Roslyn\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=503311d75248be397b1b4d4509d184f3}{Henderson}{H\bibinitperiod}{Peter\bibnamedelimb J\bibnamedelima F}{P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=ebe4aed96b9022ddfb50caed802e3801}{Iwata}{I\bibinitperiod}{So}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4503b328233c1043ca7a2b5960dea646}{Kunji}{K\bibinitperiod}{Edmund\bibnamedelimb R\bibnamedelima S}{E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=64b31a537509f887e6991ce1e6955272}{Michel}{M\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=8050fec8b521b49653b69709bdf45d26}{Neutze}{N\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=834ea5365b8a63582d9ddfad8736b1e8}{Newstead}{N\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c5b90a84288d961f7e7e5b88c0d01f9d}{Poolman}{P\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d0a773ead80f40a3aa3630081b806bc}{Tate}{T\bibinitperiod}{Christopher\bibnamedelima G}{C\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=3e03ba5604e981fd33254810cf11ad35}{Vogel}{V\bibinitperiod}{Horst}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7ca5bd6a5c186afc9d0627a4a279195e}
+      \strng{fullhash}{5cc7eef09f59e4a5d25c41ae1013ae0b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{issn}{1087-0156}
+      \field{journaltitle}{Nature Biotechnology}
+      \field{number}{4}
+      \field{title}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{volume}{29}
+      \field{year}{2011}
+      \field{pages}{335\bibrangedash 340}
+      \verb{doi}
+      \verb 10.1038/nbt.1833
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nbt.1833.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nbt.1833
+      \endverb
+    \endentry
+    \entry{Yaffe2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=784e1463079a6f278a7dd8546a176806}{Yaffe}{Y\bibinitperiod}{Michael\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=784e1463079a6f278a7dd8546a176806}{Yaffe}{Y\bibinitperiod}{Michael\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{784e1463079a6f278a7dd8546a176806}
+      \strng{fullhash}{784e1463079a6f278a7dd8546a176806}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{X-ray crystallography and structural biology}}
+      \field{issn}{0090-3493}
+      \field{journaltitle}{Critical Care Medicine}
+      \field{number}{12}
+      \field{title}{{X-ray crystallography and structural biology}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://journals.lww.com/ccmjournal/Fulltext/2005/12001/X%7B%5C_%7Dray%7B%5C_%7Dcrystallography%7B%5C_%7Dand%7B%5C_%7Dstructural%7B%5C_%7Dbiology.13.aspx
+      \endverb
+    \endentry
+    \entry{Morris1992}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=ca545d3f9551f8f6ce94efdbbc4a346c}{Morris}{M\bibinitperiod}{A\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5c4eb1cd238e391dc3c289863ad4ac4a}{MacArthur}{M\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9992b643c702bf350318bbcf30cb5d11}{Hutchinson}{H\bibinitperiod}{E\bibnamedelima G}{E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ca545d3f9551f8f6ce94efdbbc4a346c}{Morris}{M\bibinitperiod}{A\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5c4eb1cd238e391dc3c289863ad4ac4a}{MacArthur}{M\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9992b643c702bf350318bbcf30cb5d11}{Hutchinson}{H\bibinitperiod}{E\bibnamedelima G}{E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a62f2c8f696c5112bc444536a3637d4d}
+      \strng{fullhash}{7c4392cedd5e2971f3b15807f2e9aa91}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Stereochemical quality of protein structure coordinates.}}
+      \field{abstract}{Methods have been developed to assess the stereochemical quality of any protein structure both globally and locally using various criteria. Several parameters can be derived from the coordinates of a given structure. Global parameters include the distribution of phi, psi and chi 1 torsion angles, and hydrogen bond energies. There are clear correlations between these parameters and resolution; as the resolution improves, the distribution of the parameters becomes more clustered. These features show a broad distribution about ideal values derived from high-resolution structures. Some structures have tightly clustered distributions even at relatively low resolutions, while others show abnormal scatter though the data go to high resolution. Additional indicators of local irregularity include proline phi angles, peptide bond planarities, disulfide bond lengths, and their chi 3 torsion angles. These stereochemical parameters have been used to generate measures of stereochemical quality which provide a simple guide as to the reliability of a structure, in addition to the most important measures, resolution and R-factor. The parameters used in this evaluation are not novel, and are easily calculated from structure coordinates. A program suite is currently being developed which will quickly check a given structure, highlighting unusual stereochemistry and possible errors.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{Stereochemical quality of protein structure coordinates.}}
+      \field{volume}{12}
+      \field{year}{1992}
+      \field{pages}{345\bibrangedash 64}
+      \verb{doi}
+      \verb 10.1002/prot.340120407
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/1579569
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}
