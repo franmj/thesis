@@ -499,6 +499,235 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/1579569
       \endverb
     \endentry
+    \entry{Wider2000}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ff508576e15ddc36a991d63efec7a65}{Wider}{W\bibinitperiod}{Gerhard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ff508576e15ddc36a991d63efec7a65}{Wider}{W\bibinitperiod}{Gerhard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ff508576e15ddc36a991d63efec7a65}
+      \strng{fullhash}{8ff508576e15ddc36a991d63efec7a65}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure Determination of Biological Macromolecules in Solution Using NMR spectroscopy}}
+      \field{title}{{Structure Determination of Biological Macromolecules in Solution Using NMR spectroscopy}}
+      \field{volume}{1294}
+      \field{year}{2000}
+      \field{pages}{1278\bibrangedash 1294}
+      \verb{file}
+      \verb :home/fran/Downloads/Guide-1997-Wider.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Gadian1993}{inbook}{}
+      \name{labelname}{4}{}{%
+        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=b883c437ea4b18bb330c9f183700926d}{Baethmann}{B\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=42cf7795e55b1bbb8433ec56e271ea90}{Kempski}{K\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=6d5b254ce5ca2b62a527c52392e63f66}{Sch{\"{u}}rer}{S\bibinitperiod}{Ludwig}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vienna}%
+      }
+      \strng{namehash}{cf3674bd64b3eb0f6d286a9085ce672b}
+      \strng{fullhash}{6161b0c0af55feabf8f34f4305d690c5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Secondary Brain Damage: Current State}}
+      \field{chapter}{NMR Spectr}
+      \field{isbn}{978-3-7091-9266-5}
+      \field{title}{{Mechanisms of Secondary Brain Damage: Current State}}
+      \field{year}{1993}
+      \field{pages}{1\bibrangedash 8}
+      \verb{doi}
+      \verb 10.1007/978-3-7091-9266-5{\_}1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-7091-9266-5%7B%5C_%7D1
+      \endverb
+    \endentry
+    \entry{CryoEM}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c9d0a219c4a539032eb0d79df4277ea3}{Up}{U\bibinitperiod}{Kicking}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d250e4bf2382052ed37179e39ab71c4e}{In}{I\bibinitperiod}{A\bibnamedelima Storm}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=37c7ce0c1e3d1f0f8cb1c3955b956511}{By}{B\bibinitperiod}{Biology}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=78ec7ea12d0fab6eff5bad8482c174d9}{The}{T\bibinitperiod}{Revealing}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c9d0a219c4a539032eb0d79df4277ea3}{Up}{U\bibinitperiod}{Kicking}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d250e4bf2382052ed37179e39ab71c4e}{In}{I\bibinitperiod}{A\bibnamedelima Storm}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=37c7ce0c1e3d1f0f8cb1c3955b956511}{By}{B\bibinitperiod}{Biology}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=78ec7ea12d0fab6eff5bad8482c174d9}{The}{T\bibinitperiod}{Revealing}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{805315148e84bccbed827e82f5ef10eb}
+      \strng{fullhash}{1e07bca05729a3ceb20708c44d371aa3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{THE REVOLUTION WILL NOT BE CRYSTALLIZED}}
+      \field{title}{{THE REVOLUTION WILL NOT BE CRYSTALLIZED}}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 9}
+      \verb{file}
+      \verb :home/fran/Downloads/525172a.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Khatter2015}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=1237b30a79f31cc24e88f9fb5b2a979c}{Khatter}{K\bibinitperiod}{Heena}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ab22a119ed136babaf1d53f74bcecc46}{Myasnikov}{M\bibinitperiod}{Alexander\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=7c017909f5c7c1d9050f654cdd840e71}{Natchiar}{N\bibinitperiod}{S\bibnamedelima Kundhavai}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7f33303a33f9674830d02e59631ee840}{Klaholz}{K\bibinitperiod}{Bruno\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=1237b30a79f31cc24e88f9fb5b2a979c}{Khatter}{K\bibinitperiod}{Heena}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ab22a119ed136babaf1d53f74bcecc46}{Myasnikov}{M\bibinitperiod}{Alexander\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=7c017909f5c7c1d9050f654cdd840e71}{Natchiar}{N\bibinitperiod}{S\bibnamedelima Kundhavai}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7f33303a33f9674830d02e59631ee840}{Klaholz}{K\bibinitperiod}{Bruno\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{ad25b6b27717e671bc5d8c3638b26d0a}
+      \strng{fullhash}{51acb4591ac4e0e4974e151566d9aa00}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure of the human 80S ribosome}}
+      \field{abstract}{Ribosomes are translational machineries that catalyse protein synthesis. Ribosome structures from various species are known at the atomic level, but obtaining the structure of the human ribosome has remained a challenge; efforts to address this would be highly relevant with regard to human diseases. Here we report the near-atomic structure of the human ribosome derived from high-resolution single-particle cryo-electron microscopy and atomic model building. The structure has an average resolution of 3.6 A, reaching 2.9 A resolution in the most stable regions. It provides unprecedented insights into ribosomal RNA entities and amino acid side chains, notably of the transfer RNA binding sites and specific molecular interactions with the exit site tRNA. It reveals atomic details of the subunit interface, which is seen to remodel strongly upon rotational movements of the ribosomal subunits. Furthermore, the structure paves the way for analysing antibiotic side effects and diseases associated with deregulated protein synthesis.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{04}
+      \field{number}{7549}
+      \field{title}{{Structure of the human 80S ribosome}}
+      \field{volume}{520}
+      \field{year}{2015}
+      \field{pages}{640\bibrangedash 645}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14427%2010.1038/nature14427
+      \endverb
+    \endentry
+    \entry{Zhao2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=69572537c7bd6eb7c3adb629938f30c0}{Zhao}{Z\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9e0844847d80f069f7d6f12741860d10}{Benlekbir}{B\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1b76f2f19d82e39b7328494a644bba77}{Rubinstein}{R\bibinitperiod}{John\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=69572537c7bd6eb7c3adb629938f30c0}{Zhao}{Z\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9e0844847d80f069f7d6f12741860d10}{Benlekbir}{B\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1b76f2f19d82e39b7328494a644bba77}{Rubinstein}{R\bibinitperiod}{John\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{71082dd705473c5fc1d8a14571322223}
+      \strng{fullhash}{71082dd705473c5fc1d8a14571322223}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Electron cryomicroscopy observation of rotational states in a eukaryotic V-ATPase}}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{05}
+      \field{number}{7551}
+      \field{title}{{Electron cryomicroscopy observation of rotational states in a eukaryotic V-ATPase}}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{241\bibrangedash 245}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14365%2010.1038/nature14365%20http://www.nature.com/nature/journal/v521/n7551/abs/nature14365.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Liao2013}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=89839d096b28899d33ce9b0189dc510c}{Liao}{L\bibinitperiod}{Maofu}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7043918d8850265dec994752bffd5273}{Cao}{C\bibinitperiod}{Erhu}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=40a54a2081cceaeb2d7b4dbbe61aae12}{Julius}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e02c0c0762e7a0f83481d4d0fd26fc71}{Cheng}{C\bibinitperiod}{Yifan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=89839d096b28899d33ce9b0189dc510c}{Liao}{L\bibinitperiod}{Maofu}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7043918d8850265dec994752bffd5273}{Cao}{C\bibinitperiod}{Erhu}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=40a54a2081cceaeb2d7b4dbbe61aae12}{Julius}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e02c0c0762e7a0f83481d4d0fd26fc71}{Cheng}{C\bibinitperiod}{Yifan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{bb30bf2bd4392e52357379a16d5fe8aa}
+      \strng{fullhash}{4ec89c1c903023c6b4bd70aa24e7454a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure of the TRPV1 ion channel determined by electron cryo-microscopy}}
+      \field{abstract}{Transient receptor potential (TRP) channels are sensors for a wide range of cellular and environmental signals, but elucidating how these channels respond to physical and chemical stimuli has been hampered by a lack of detailed structural information. Here we exploit advances in electron cryo-microscopy to determine the structure of a mammalian TRP channel, TRPV1, at 3.4[thinsp]A resolution, breaking the side-chain resolution barrier for membrane proteins without crystallization. Like voltage-gated channels, TRPV1 exhibits four-fold symmetry around a central ion pathway formed by transmembrane segments 5-6 (S5-S6) and the intervening pore loop, which is flanked by S1-S4 voltage-sensor-like domains. TRPV1 has a wide extracellular /`mouth/' with a short selectivity filter. The conserved /`TRP domain/' interacts with the S4-S5 linker, consistent with its contribution to allosteric modulation. Subunit organization is facilitated by interactions among cytoplasmic domains, including amino-terminal ankyrin repeats. These observations provide a structural blueprint for understanding unique aspects of TRP channel function.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{12}
+      \field{number}{7478}
+      \field{title}{{Structure of the TRPV1 ion channel determined by electron cryo-microscopy}}
+      \field{volume}{504}
+      \field{year}{2013}
+      \field{pages}{107\bibrangedash 112}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature12822%2010.1038/nature12822
+      \endverb
+    \endentry
+    \entry{Bai2015}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=618573f5c4d28040ba3d1987d367698d}{Bai}{B\bibinitperiod}{Xiao-chen}{X\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+        {{hash=a2499a066e63e3b7cb4dec037bb0ad0b}{Yan}{Y\bibinitperiod}{Chuangye}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a086c2fb30943a9ec11a79d3c7bb1cc6}{Yang}{Y\bibinitperiod}{Guanghui}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=480d6622a7b9e66fbafc3caca77c1649}{Lu}{L\bibinitperiod}{Peilong}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=943e61c0dd3e3cb0a693aed25ec1c0ce}{Ma}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a6dcdd240f56bc8f342b864416f1e18a}{Sun}{S\bibinitperiod}{Linfeng}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb7d456d9550085d585ecff364a3de5}{Zhou}{Z\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3e32b03d218a1690fd03a982dee8338e}{Scheres}{S\bibinitperiod}{Sjors\bibnamedelimb H\bibnamedelima W}{S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=14866a4828424fc08a8278c4dc04e309}{Shi}{S\bibinitperiod}{Yigong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=618573f5c4d28040ba3d1987d367698d}{Bai}{B\bibinitperiod}{Xiao-chen}{X\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+        {{hash=a2499a066e63e3b7cb4dec037bb0ad0b}{Yan}{Y\bibinitperiod}{Chuangye}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a086c2fb30943a9ec11a79d3c7bb1cc6}{Yang}{Y\bibinitperiod}{Guanghui}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=480d6622a7b9e66fbafc3caca77c1649}{Lu}{L\bibinitperiod}{Peilong}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=943e61c0dd3e3cb0a693aed25ec1c0ce}{Ma}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a6dcdd240f56bc8f342b864416f1e18a}{Sun}{S\bibinitperiod}{Linfeng}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb7d456d9550085d585ecff364a3de5}{Zhou}{Z\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3e32b03d218a1690fd03a982dee8338e}{Scheres}{S\bibinitperiod}{Sjors\bibnamedelimb H\bibnamedelima W}{S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=14866a4828424fc08a8278c4dc04e309}{Shi}{S\bibinitperiod}{Yigong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{34b482037e84f119ac569db9dfa544c1}
+      \strng{fullhash}{a473d7a9e4782bd0cc5bbebd22c09d17}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{An atomic structure of human [ggr]-secretase}}
+      \field{abstract}{Dysfunction of the intramembrane protease [ggr]-secretase is thought to cause Alzheimer/'s disease, with most mutations derived from Alzheimer/'s disease mapping to the catalytic subunit presenilin 1 (PS1). Here we report an atomic structure of human [ggr]-secretase at 3.4 A resolution, determined by single-particle cryo-electron microscopy. Mutations derived from Alzheimer/'s disease affect residues at two hotspots in PS1, each located at the centre of a distinct four transmembrane segment (TM) bundle. TM2 and, to a lesser extent, TM6 exhibit considerable flexibility, yielding a plastic active site and adaptable surrounding elements. The active site of PS1 is accessible from the convex side of the TM horseshoe, suggesting considerable conformational changes in nicastrin extracellular domain after substrate recruitment. Component protein APH-1 serves as a scaffold, anchoring the lone transmembrane helix from nicastrin and supporting the flexible conformation of PS1. Ordered phospholipids stabilize the complex inside the membrane. Our structure serves as a molecular basis for mechanistic understanding of [ggr]-secretase function.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{09}
+      \field{number}{7568}
+      \field{title}{{An atomic structure of human [ggr]-secretase}}
+      \field{volume}{525}
+      \field{year}{2015}
+      \field{pages}{212\bibrangedash 217}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892
+      \endverb
+    \endentry
     \entry{Richardson1981}{book}{}
       \name{labelname}{1}{}{%
         {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1456,6 +1685,235 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/1579569
+      \endverb
+    \endentry
+    \entry{Wider2000}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ff508576e15ddc36a991d63efec7a65}{Wider}{W\bibinitperiod}{Gerhard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ff508576e15ddc36a991d63efec7a65}{Wider}{W\bibinitperiod}{Gerhard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ff508576e15ddc36a991d63efec7a65}
+      \strng{fullhash}{8ff508576e15ddc36a991d63efec7a65}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure Determination of Biological Macromolecules in Solution Using NMR spectroscopy}}
+      \field{title}{{Structure Determination of Biological Macromolecules in Solution Using NMR spectroscopy}}
+      \field{volume}{1294}
+      \field{year}{2000}
+      \field{pages}{1278\bibrangedash 1294}
+      \verb{file}
+      \verb :home/fran/Downloads/Guide-1997-Wider.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Gadian1993}{inbook}{}
+      \name{labelname}{4}{}{%
+        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=b883c437ea4b18bb330c9f183700926d}{Baethmann}{B\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=42cf7795e55b1bbb8433ec56e271ea90}{Kempski}{K\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=6d5b254ce5ca2b62a527c52392e63f66}{Sch{\"{u}}rer}{S\bibinitperiod}{Ludwig}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vienna}%
+      }
+      \strng{namehash}{cf3674bd64b3eb0f6d286a9085ce672b}
+      \strng{fullhash}{6161b0c0af55feabf8f34f4305d690c5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Secondary Brain Damage: Current State}}
+      \field{chapter}{NMR Spectr}
+      \field{isbn}{978-3-7091-9266-5}
+      \field{title}{{Mechanisms of Secondary Brain Damage: Current State}}
+      \field{year}{1993}
+      \field{pages}{1\bibrangedash 8}
+      \verb{doi}
+      \verb 10.1007/978-3-7091-9266-5{\_}1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-7091-9266-5%7B%5C_%7D1
+      \endverb
+    \endentry
+    \entry{CryoEM}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c9d0a219c4a539032eb0d79df4277ea3}{Up}{U\bibinitperiod}{Kicking}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d250e4bf2382052ed37179e39ab71c4e}{In}{I\bibinitperiod}{A\bibnamedelima Storm}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=37c7ce0c1e3d1f0f8cb1c3955b956511}{By}{B\bibinitperiod}{Biology}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=78ec7ea12d0fab6eff5bad8482c174d9}{The}{T\bibinitperiod}{Revealing}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c9d0a219c4a539032eb0d79df4277ea3}{Up}{U\bibinitperiod}{Kicking}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d250e4bf2382052ed37179e39ab71c4e}{In}{I\bibinitperiod}{A\bibnamedelima Storm}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=37c7ce0c1e3d1f0f8cb1c3955b956511}{By}{B\bibinitperiod}{Biology}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=78ec7ea12d0fab6eff5bad8482c174d9}{The}{T\bibinitperiod}{Revealing}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{805315148e84bccbed827e82f5ef10eb}
+      \strng{fullhash}{1e07bca05729a3ceb20708c44d371aa3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{THE REVOLUTION WILL NOT BE CRYSTALLIZED}}
+      \field{title}{{THE REVOLUTION WILL NOT BE CRYSTALLIZED}}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 9}
+      \verb{file}
+      \verb :home/fran/Downloads/525172a.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Khatter2015}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=1237b30a79f31cc24e88f9fb5b2a979c}{Khatter}{K\bibinitperiod}{Heena}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ab22a119ed136babaf1d53f74bcecc46}{Myasnikov}{M\bibinitperiod}{Alexander\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=7c017909f5c7c1d9050f654cdd840e71}{Natchiar}{N\bibinitperiod}{S\bibnamedelima Kundhavai}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7f33303a33f9674830d02e59631ee840}{Klaholz}{K\bibinitperiod}{Bruno\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=1237b30a79f31cc24e88f9fb5b2a979c}{Khatter}{K\bibinitperiod}{Heena}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ab22a119ed136babaf1d53f74bcecc46}{Myasnikov}{M\bibinitperiod}{Alexander\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=7c017909f5c7c1d9050f654cdd840e71}{Natchiar}{N\bibinitperiod}{S\bibnamedelima Kundhavai}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7f33303a33f9674830d02e59631ee840}{Klaholz}{K\bibinitperiod}{Bruno\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{ad25b6b27717e671bc5d8c3638b26d0a}
+      \strng{fullhash}{51acb4591ac4e0e4974e151566d9aa00}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure of the human 80S ribosome}}
+      \field{abstract}{Ribosomes are translational machineries that catalyse protein synthesis. Ribosome structures from various species are known at the atomic level, but obtaining the structure of the human ribosome has remained a challenge; efforts to address this would be highly relevant with regard to human diseases. Here we report the near-atomic structure of the human ribosome derived from high-resolution single-particle cryo-electron microscopy and atomic model building. The structure has an average resolution of 3.6 A, reaching 2.9 A resolution in the most stable regions. It provides unprecedented insights into ribosomal RNA entities and amino acid side chains, notably of the transfer RNA binding sites and specific molecular interactions with the exit site tRNA. It reveals atomic details of the subunit interface, which is seen to remodel strongly upon rotational movements of the ribosomal subunits. Furthermore, the structure paves the way for analysing antibiotic side effects and diseases associated with deregulated protein synthesis.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{04}
+      \field{number}{7549}
+      \field{title}{{Structure of the human 80S ribosome}}
+      \field{volume}{520}
+      \field{year}{2015}
+      \field{pages}{640\bibrangedash 645}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14427%2010.1038/nature14427
+      \endverb
+    \endentry
+    \entry{Zhao2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=69572537c7bd6eb7c3adb629938f30c0}{Zhao}{Z\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9e0844847d80f069f7d6f12741860d10}{Benlekbir}{B\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1b76f2f19d82e39b7328494a644bba77}{Rubinstein}{R\bibinitperiod}{John\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=69572537c7bd6eb7c3adb629938f30c0}{Zhao}{Z\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9e0844847d80f069f7d6f12741860d10}{Benlekbir}{B\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1b76f2f19d82e39b7328494a644bba77}{Rubinstein}{R\bibinitperiod}{John\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{71082dd705473c5fc1d8a14571322223}
+      \strng{fullhash}{71082dd705473c5fc1d8a14571322223}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Electron cryomicroscopy observation of rotational states in a eukaryotic V-ATPase}}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{05}
+      \field{number}{7551}
+      \field{title}{{Electron cryomicroscopy observation of rotational states in a eukaryotic V-ATPase}}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{241\bibrangedash 245}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14365%2010.1038/nature14365%20http://www.nature.com/nature/journal/v521/n7551/abs/nature14365.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Liao2013}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=89839d096b28899d33ce9b0189dc510c}{Liao}{L\bibinitperiod}{Maofu}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7043918d8850265dec994752bffd5273}{Cao}{C\bibinitperiod}{Erhu}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=40a54a2081cceaeb2d7b4dbbe61aae12}{Julius}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e02c0c0762e7a0f83481d4d0fd26fc71}{Cheng}{C\bibinitperiod}{Yifan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=89839d096b28899d33ce9b0189dc510c}{Liao}{L\bibinitperiod}{Maofu}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7043918d8850265dec994752bffd5273}{Cao}{C\bibinitperiod}{Erhu}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=40a54a2081cceaeb2d7b4dbbe61aae12}{Julius}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e02c0c0762e7a0f83481d4d0fd26fc71}{Cheng}{C\bibinitperiod}{Yifan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{bb30bf2bd4392e52357379a16d5fe8aa}
+      \strng{fullhash}{4ec89c1c903023c6b4bd70aa24e7454a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure of the TRPV1 ion channel determined by electron cryo-microscopy}}
+      \field{abstract}{Transient receptor potential (TRP) channels are sensors for a wide range of cellular and environmental signals, but elucidating how these channels respond to physical and chemical stimuli has been hampered by a lack of detailed structural information. Here we exploit advances in electron cryo-microscopy to determine the structure of a mammalian TRP channel, TRPV1, at 3.4[thinsp]A resolution, breaking the side-chain resolution barrier for membrane proteins without crystallization. Like voltage-gated channels, TRPV1 exhibits four-fold symmetry around a central ion pathway formed by transmembrane segments 5-6 (S5-S6) and the intervening pore loop, which is flanked by S1-S4 voltage-sensor-like domains. TRPV1 has a wide extracellular /`mouth/' with a short selectivity filter. The conserved /`TRP domain/' interacts with the S4-S5 linker, consistent with its contribution to allosteric modulation. Subunit organization is facilitated by interactions among cytoplasmic domains, including amino-terminal ankyrin repeats. These observations provide a structural blueprint for understanding unique aspects of TRP channel function.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{12}
+      \field{number}{7478}
+      \field{title}{{Structure of the TRPV1 ion channel determined by electron cryo-microscopy}}
+      \field{volume}{504}
+      \field{year}{2013}
+      \field{pages}{107\bibrangedash 112}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature12822%2010.1038/nature12822
+      \endverb
+    \endentry
+    \entry{Bai2015}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=618573f5c4d28040ba3d1987d367698d}{Bai}{B\bibinitperiod}{Xiao-chen}{X\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+        {{hash=a2499a066e63e3b7cb4dec037bb0ad0b}{Yan}{Y\bibinitperiod}{Chuangye}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a086c2fb30943a9ec11a79d3c7bb1cc6}{Yang}{Y\bibinitperiod}{Guanghui}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=480d6622a7b9e66fbafc3caca77c1649}{Lu}{L\bibinitperiod}{Peilong}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=943e61c0dd3e3cb0a693aed25ec1c0ce}{Ma}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a6dcdd240f56bc8f342b864416f1e18a}{Sun}{S\bibinitperiod}{Linfeng}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb7d456d9550085d585ecff364a3de5}{Zhou}{Z\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3e32b03d218a1690fd03a982dee8338e}{Scheres}{S\bibinitperiod}{Sjors\bibnamedelimb H\bibnamedelima W}{S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=14866a4828424fc08a8278c4dc04e309}{Shi}{S\bibinitperiod}{Yigong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=618573f5c4d28040ba3d1987d367698d}{Bai}{B\bibinitperiod}{Xiao-chen}{X\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+        {{hash=a2499a066e63e3b7cb4dec037bb0ad0b}{Yan}{Y\bibinitperiod}{Chuangye}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a086c2fb30943a9ec11a79d3c7bb1cc6}{Yang}{Y\bibinitperiod}{Guanghui}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=480d6622a7b9e66fbafc3caca77c1649}{Lu}{L\bibinitperiod}{Peilong}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=943e61c0dd3e3cb0a693aed25ec1c0ce}{Ma}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a6dcdd240f56bc8f342b864416f1e18a}{Sun}{S\bibinitperiod}{Linfeng}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb7d456d9550085d585ecff364a3de5}{Zhou}{Z\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3e32b03d218a1690fd03a982dee8338e}{Scheres}{S\bibinitperiod}{Sjors\bibnamedelimb H\bibnamedelima W}{S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=14866a4828424fc08a8278c4dc04e309}{Shi}{S\bibinitperiod}{Yigong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{34b482037e84f119ac569db9dfa544c1}
+      \strng{fullhash}{a473d7a9e4782bd0cc5bbebd22c09d17}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{An atomic structure of human [ggr]-secretase}}
+      \field{abstract}{Dysfunction of the intramembrane protease [ggr]-secretase is thought to cause Alzheimer/'s disease, with most mutations derived from Alzheimer/'s disease mapping to the catalytic subunit presenilin 1 (PS1). Here we report an atomic structure of human [ggr]-secretase at 3.4 A resolution, determined by single-particle cryo-electron microscopy. Mutations derived from Alzheimer/'s disease affect residues at two hotspots in PS1, each located at the centre of a distinct four transmembrane segment (TM) bundle. TM2 and, to a lesser extent, TM6 exhibit considerable flexibility, yielding a plastic active site and adaptable surrounding elements. The active site of PS1 is accessible from the convex side of the TM horseshoe, suggesting considerable conformational changes in nicastrin extracellular domain after substrate recruitment. Component protein APH-1 serves as a scaffold, anchoring the lone transmembrane helix from nicastrin and supporting the flexible conformation of PS1. Ordered phospholipids stabilize the complex inside the membrane. Our structure serves as a molecular basis for mechanistic understanding of [ggr]-secretase function.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{09}
+      \field{number}{7568}
+      \field{title}{{An atomic structure of human [ggr]-secretase}}
+      \field{volume}{525}
+      \field{year}{2015}
+      \field{pages}{212\bibrangedash 217}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}

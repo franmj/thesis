@@ -1960,19 +1960,28 @@
     <bcf:citekey order="17">Bill2011</bcf:citekey>
     <bcf:citekey order="18">Yaffe2005</bcf:citekey>
     <bcf:citekey order="19">Morris1992</bcf:citekey>
-    <bcf:citekey order="20">Richardson1981</bcf:citekey>
-    <bcf:citekey order="20">That1991</bcf:citekey>
-    <bcf:citekey order="20">DomainDef</bcf:citekey>
-    <bcf:citekey order="21">Islam1995</bcf:citekey>
-    <bcf:citekey order="22">Han2007</bcf:citekey>
-    <bcf:citekey order="22">Chothia2003</bcf:citekey>
-    <bcf:citekey order="23">Han2007</bcf:citekey>
-    <bcf:citekey order="24">Vogel2004</bcf:citekey>
-    <bcf:citekey order="24">Apic2001</bcf:citekey>
-    <bcf:citekey order="25">Murzin1995</bcf:citekey>
-    <bcf:citekey order="26">Orengo1997</bcf:citekey>
-    <bcf:citekey order="27">Bateman2002</bcf:citekey>
-    <bcf:citekey order="28">Hunter2009</bcf:citekey>
+    <bcf:citekey order="20">Wider2000</bcf:citekey>
+    <bcf:citekey order="21">Wider2000</bcf:citekey>
+    <bcf:citekey order="21">Gadian1993</bcf:citekey>
+    <bcf:citekey order="22">Gadian1993</bcf:citekey>
+    <bcf:citekey order="23">CryoEM</bcf:citekey>
+    <bcf:citekey order="24">Khatter2015</bcf:citekey>
+    <bcf:citekey order="25">Zhao2015</bcf:citekey>
+    <bcf:citekey order="26">Liao2013</bcf:citekey>
+    <bcf:citekey order="27">Bai2015</bcf:citekey>
+    <bcf:citekey order="28">Richardson1981</bcf:citekey>
+    <bcf:citekey order="28">That1991</bcf:citekey>
+    <bcf:citekey order="28">DomainDef</bcf:citekey>
+    <bcf:citekey order="29">Islam1995</bcf:citekey>
+    <bcf:citekey order="30">Han2007</bcf:citekey>
+    <bcf:citekey order="30">Chothia2003</bcf:citekey>
+    <bcf:citekey order="31">Han2007</bcf:citekey>
+    <bcf:citekey order="32">Vogel2004</bcf:citekey>
+    <bcf:citekey order="32">Apic2001</bcf:citekey>
+    <bcf:citekey order="33">Murzin1995</bcf:citekey>
+    <bcf:citekey order="34">Orengo1997</bcf:citekey>
+    <bcf:citekey order="35">Bateman2002</bcf:citekey>
+    <bcf:citekey order="36">Hunter2009</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="none">
   <bcf:sorting>
