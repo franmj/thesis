@@ -202,7 +202,6 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 \end{enumerate}
  
 
-
 \begin{figure}[!tbp]
   
   \centering
@@ -223,13 +222,52 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 \end{figure}
 
 
- 
-
-\subsubsection{Protein Structure Prediction} \label{structure_predicion}
 \pagebreak
 
-Plot proteins predictable with homology vs. only structure determination. 
+\subsubsection{Protein Structure Prediction} \label{structure_predicion}
 
+
+\par Despite of the advances in methods for protein structure determination, most of the known proteins lack of structure in the PDB. There are 550,740 annotated and curated protein sequences in UniProtKB (\url{http://www.uniprot.org}, April 2016).  However, only 4$\%$ of them (23,195 different protein sequences) have a link to a PDB structure. Therefore, there is a gap between the number of known protein sequences and the number of determined structures: the \textit{sequence-structure gap}. 
+Computational methods for structure determination are helping to bridge this gap. The prediction of the 3D structure of a protein from its amino acid sequence has always been one of the most desirable goals in computational biology. It would save a lot of resources, and it would set a milestone in the structural biology field. Unfortunately, we are still far from being able to predict the structure of any protein from its primary protein sequence. Broadly, for different approaches are commonly used. The first, and most extensively used, is the \textit{homology} or \textit{comparative} modeling, that uses similar experimentally determined structures to model the structure of the protein of interest \ref{Homology_modeling}. Second, \textit{fold recognition} and \textit{threading} methods are used to model protein structures with low similarity to known protein structures \cite{Jones1992, Bowie1991}. Third, \textit{de novo} or \textit{ab initio} methods make their predictions by combining the principles of physics that rule protein folding, with information derived from known structures but without relying in any type of similarity or evolutionary relationship to known folds \cite{Lee2009}. Finally, the \textit{integrative} or \textit{hybrid} methods combines different computational and/or experimental sources to perform the structure prediction \cite{Russel2012}.   
+ 
+\subsubsection{Homology modeling} \label{Homology_modeling}
+
+
+\par This type of protein structure prediction methods exploits the evolutionary relationship between the \textit{target} protein (i.e. protein being modeled) and the \textit{templates} with known experimental structure. They are based on the biological premise that evolutionary related sequences tend to have similar 3D structures. The usual workflow of homology modeling consist on several consecutive steps: 
+\begin{enumerate}
+\item \textbf{Identification of suitable template structures related to the target protein}. This step consist on a search for similar sequences with known 3D structure. This task is easy when a close homologue of the target protein has been solved. Initiatives such as PSI\cite{Norvell2007} are helping in this issue in order to increase the number of modellable proteins. However, there are still many proteins with lack of homologous proteins in PDB. In these cases, alternative methods such as \texit{ab initio} should be used.  
+
+\item \textbf{Alignment between the target and the template(s) sequence(s)}. The sequence identity of the target-template alignment is the most frequently used measure for similarity. Consequently, the sequence identity is also a good predictor of the final 3D model quality. The overall accuracy of models calculated form aligments with sequence identity higher than 40$\%$ is usually good (i.e. RMSD\footnote{Root Mean Square Deviation is the measure of the average distance between the atoms of two superimposed proteins. Equation $RMSD=\sqrt[]{\frac{1}{N} \sum\limits_{i=1}^N \delta_i^2}$ where $\delta_i$ is the distance between the $N_i$ pair of equivalent atoms (usually the C$\alpha$).}  lower than 2.0\AA). In the 30$\%$-40$\%$ identity range, errors can be more severe and are often locate in loops and highly flexible regions. Below the 30$\%$ of sequence similarity, often referred to as \textit{twilight region}, serious errors occurs including the basic fold being mis-predicted \cite{Baker2001, twilight1996}.
+Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology modeling extracted from \cite{Sander1991}. The region below the curve covers those cases where the alignment does not carry enough information to model the 3D structure, while area above the threshold curve, include those cases where homology modeling is appropriate.  
+\item \textbf{Modeling of the structurally conserved regions and prediction of the structurally variable regions.}. There are different algorithms to assign the spatial coordinates of the target protein using the template(s)-target alignment information. Highly conserved regions are generally well modeled, while those regions with insertions or gaps are more prone to include errors and sub-optimal atomic orientations. 
+
+\item \textbf{Refinement of the initial model.} In this step the model is refined to idealize bond geometry and to remove errors that may have been introduced in the modeling step. The refinement process pursues the free energy minimization of the generated 3D protein model. Many different algorithms have been applied to perform the minimization step: molecular mechanics force fields \cite{PRO1410}, molecular dynamics \cite{Fiser2000}, Monte Carlo \cite{Kidera1995} and Genetic Algorithms\cite{McGarrah1993}.
+ 
+\item \textbf{Evaluation of the model(s).} Model evaluation seeks for the identification of the different errors that might have occurred during the modeling process. Numerous methods have been developed to assess the quality of a 3D model. In fact, 3D model assessment has a very such productive field for many years that it was included in the seventh edition of the CASP experiment \cite{PROT21669}. The general question of how accurate is a model can be reformulated by several more specialized questions: 
+\begin{enumerate}
+
+\end{enumerate}[label=\roman*]
+\item Is the selected fold correct? The fold assessment consist of deciding whether a given protein model has the right fold. Residue-based combined accessible surface and distance-dependent scoring function have shown the best performance in this task \cite{Melo2002}. 
+\item How do we select the best model among the set of decoys or alternative solutions? Several models can be generated by making changes in the template-target alignment, by selecting different template(s) structure(s) or by using different seeds in the refinement non-deterministic algorithms. Atom-based distance-depend scoring functions have proved to be useful for this particular task in some cases\cite{Samudrala1998}. However, there is not a gold standard for ranking the generated 3D models. Thus, the model selection eventually relies on the expertise of the person running the modeling. 
+\item Which is the overall accuracy of the model? This question can be addressed by defining a score that correlates with the RMSD after superimposing a model and its native structure. AKI
+\item Which is the accuracy of the model in particular regions of the model?
+\end{enumerate}
+
+\par limitations 
+
+\footnote{For a comprehensive review of homology modeling methods, limitations and applications please consider \cite{Marti-Renom2000, Malmstrom2010} 
+\end{enumerate}
+\begin{figure}[h]
+
+  \centering
+  	\includegraphics[scale=0.5]{../figures/homology_plot.pdf} % Figure was taking from...
+
+	\caption{Homology threshold curve as a function of alignment length. Data extracted from \cite{Sander1991}}
+	\label{fig:homology_modeling}
+\end{figure}
+Limitations
+Examples Modeller 
+[Citar libro]
 
 \subsection{Protein function}
 

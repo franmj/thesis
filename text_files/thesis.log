@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  22 MAR 2016 16:51
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  30 MAR 2016 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,7 +793,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-<../figures/protein_structure_levels_en.png, id=226, 250.9375pt x 437.635pt>
+<../figures/protein_structure_levels_en.png, id=231, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
@@ -804,7 +804,7 @@ ut line 167.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] <../figures/structure_vs_sequence.png, id=241, 451.6875pt x 432.61626pt>
+[4] <../figures/structure_vs_sequence.png, id=246, 451.6875pt x 432.61626pt>
 File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
@@ -815,129 +815,168 @@ e 178.
 Underfull \vbox (badness 4328) has occurred while \output is active []
 
  [5 <../figures/protein_structure_levels_en.png>] [6 <../figures/structure_vs_s
-equence.png>] [7] [8] <../figures/pdbs_per_year.pdf, id=307, 578.16pt x 433.62p
+equence.png>] [7] [8] <../figures/pdbs_per_year.pdf, id=313, 578.16pt x 433.62p
 t>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
-Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 210.
+Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 209.
 (pdftex.def)             Requested size: 292.5pt x 219.37006pt.
 
-<../figures/pie_smethods.pdf, id=308, 1027.84pt x 770.88pt>
+<../figures/pie_smethods.pdf, id=314, 1027.84pt x 770.88pt>
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
-Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 215.
+Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 214.
 (pdftex.def)             Requested size: 214.50119pt x 160.86623pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-[10 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>] [11] [12]
-Cap\'{\i }tol 2.
-[13
+[10 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>] [11]
+<../figures/homology_plot.pdf, id=457, 895.345pt x 575.14874pt>
+File: ../figures/homology_plot.pdf Graphic file (type pdf)
+
+<use ../figures/homology_plot.pdf>
+Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 252.
+(pdftex.def)             Requested size: 447.6714pt x 287.57367pt.
+
+Overfull \hbox (57.6714pt too wide) in paragraph at lines 252--253
+ [][] 
+ []
 
 
-] [14
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
-Cap\'{\i }tol 3.
+ [13 <../figures/homology_plot.pdf>]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [14]
 [15] [16
 
 
 ]
-Cap\'{\i }tol 4.
+Cap\'{\i }tol 2.
 [17] [18
+
+
+]
+Cap\'{\i }tol 3.
+[19] [20
+
+
+]
+Cap\'{\i }tol 4.
+[21] [22
 
 
 ]
 Cap\'{\i }tol 5.
 File: ../figures/logo_upf.png Graphic file (type png)
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 296.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 323.
 (pdftex.def)             Requested size: 18.06744pt x 6.62473pt.
- [19] [20
+ [23] [24
 
 
 ]
 No file thesis.ind.
 
-Overfull \hbox (4.04623pt too wide) in paragraph at lines 313--313
+Overfull \hbox (4.04623pt too wide) in paragraph at lines 340--340
 \T1/ptm/m/n/12 struc-ture: Pat-tern recog-ni-tion of hydrogen-bonded and ge-o-m
 et-ri-cal fea-tures\T1/ptm/b/n/12 ?
  []
 
 
-Overfull \hbox (10.23618pt too wide) in paragraph at lines 313--313
+Overfull \hbox (10.23618pt too wide) in paragraph at lines 340--340
 \T1/ptm/m/n/12 (1990), pàg. 7133 - 7155. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 0
 006-2960. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1021 / bi0
 0483a001$[]
  []
 
 
-Overfull \hbox (4.58171pt too wide) in paragraph at lines 313--313
+Overfull \hbox (4.58171pt too wide) in paragraph at lines 340--340
 \T1/ptm/m/n/12 Func-tion in Pro-tein Su-per-fam-i-lies , from a Struc-tural Per
 -spec-tive\T1/ptm/b/n/12 ? \T1/ptm/m/n/12 A: (2001).
  []
 
 
-Overfull \hbox (11.04227pt too wide) in paragraph at lines 313--313
+Overfull \hbox (11.04227pt too wide) in paragraph at lines 340--340
 \T1/ptm/m/n/12 Fouri-er Syn-the-sis at 2 [angst]. Res-o-lu-tion\T1/ptm/b/n/12 ?
  \T1/ptm/m/n/12 A: \T1/ptm/m/it/12 Na-ture \T1/ptm/m/n/12 185.4711 (feb. de 196
 0),
  []
 
-[21
+[25
 
 
 ]
-Overfull \hbox (5.02061pt too wide) in paragraph at lines 313--313
+Overfull \hbox (5.02061pt too wide) in paragraph at lines 340--340
 []\T1/ptm/m/n/12 Kicking Up et al. \T1/ptm/b/n/12 ?  \T1/ptm/m/n/12 THE REV-O-L
 U-TION WILL NOT BE CRYS-TAL-LIZED\T1/ptm/b/n/12 ?
  []
 
-[22] [23]
-Overfull \hbox (23.74715pt too wide) in paragraph at lines 313--313
+[26]
+Overfull \hbox (5.86107pt too wide) in paragraph at lines 340--340
+\T1/ptm/m/n/12 tion with Bioin-for-mat-ics\T1/ptm/b/n/12 ? \T1/ptm/m/n/12 A: ed
+. de Daniel John Rig-den. Dor-drecht: Springer
+ []
+
+
+Overfull \hbox (1.0062pt too wide) in paragraph at lines 340--340
+\T1/ptm/m/n/12 of pro-tein se-quence ho-mol-o-gy\T1/ptm/b/n/12 ? \T1/ptm/m/n/12
+ A: \T1/ptm/m/it/12 Struc-ture \T1/ptm/m/n/12 4.10 (oct. de 1996), pàg. 1123 -
+ []
+
+[27]
+Overfull \hbox (23.74715pt too wide) in paragraph at lines 340--340
 \T1/ptm/m/n/12 A: \T1/ptm/m/it/12 Nu-cle-ic Acids Re-search \T1/ptm/m/n/12 37.S
 UP-PL. 1 (2009), pàg. 211 - 215. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 03051048.
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
-[24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
+[28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: F55EF87FE355B530FF930352FA012AA8;1321.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 346.
  ) 
 Here is how much of TeX's memory you used:
- 14522 strings out of 495034
- 232042 string characters out of 6181677
- 677063 words of memory out of 5000000
- 17396 multiletter control sequences out of 15000+600000
+ 14562 strings out of 495034
+ 232733 string characters out of 6181677
+ 677373 words of memory out of 5000000
+ 17416 multiletter control sequences out of 15000+600000
  63002 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,10n,49p,1956b,2679s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
-vetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (40 pages, 291887 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
+rw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on thesis.pdf (44 pages, 417202 bytes).
 PDF statistics:
- 640 PDF objects out of 1000 (max. 8388607)
- 522 compressed objects within 6 object streams
- 118 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 738 PDF objects out of 1000 (max. 8388607)
+ 605 compressed objects within 7 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 

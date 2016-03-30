@@ -728,6 +728,237 @@
       \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892
       \endverb
     \endentry
+    \entry{Jones1992}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=af16bd4867635ba09445f9fff6c0335a}{Jones}{J\bibinitperiod}{D\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4d2e06bbca95a0136a88c069edaf5605}{Taylort}{T\bibinitperiod}{W\bibnamedelima R}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=af16bd4867635ba09445f9fff6c0335a}{Jones}{J\bibinitperiod}{D\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4d2e06bbca95a0136a88c069edaf5605}{Taylort}{T\bibinitperiod}{W\bibnamedelima R}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9efd91eb936bd31081c84ffa45dba8ba}
+      \strng{fullhash}{9efd91eb936bd31081c84ffa45dba8ba}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new approach to protein fold recognition}}
+      \field{annotation}{10.1038/358086a0}
+      \field{journaltitle}{Nature}
+      \field{month}{07}
+      \field{number}{6381}
+      \field{title}{{A new approach to protein fold recognition}}
+      \field{volume}{358}
+      \field{year}{1992}
+      \field{pages}{86\bibrangedash 89}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/358086a0
+      \endverb
+    \endentry
+    \entry{Bowie1991}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d4bd76546b4d6b82d6d0c044b5b616d5}{Bowie}{B\bibinitperiod}{J\bibnamedelima U}{J\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=fa8afe37484dda68472af72f14bedb31}{Luthy}{L\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5011b825249e7610f91f155dda93271e}{Eisenberg}{E\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d4bd76546b4d6b82d6d0c044b5b616d5}{Bowie}{B\bibinitperiod}{J\bibnamedelima U}{J\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=fa8afe37484dda68472af72f14bedb31}{Luthy}{L\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5011b825249e7610f91f155dda93271e}{Eisenberg}{E\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{661ebff2c790fa080dede730f9e75a72}
+      \strng{fullhash}{661ebff2c790fa080dede730f9e75a72}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A method to identify protein sequences that fold into a known three-dimensional structure}}
+      \field{abstract}{The inverse protein folding problem, the problem of finding which amino acid sequences fold into a known three-dimensional (3D) structure, can be effectively attacked by finding sequences that are most compatible with the environments of the residues in the 3D structure. The environments are described by: (i) the area of the residue buried in the protein and inaccessible to solvent; (ii) the fraction of side-chain area that is covered by polar atoms (O and N); and (iii) the local secondary structure. Examples of this 3D profile method are presented for four families of proteins: the globins, cyclic AMP (adenosine 3',5'-monophosphate) receptor-like proteins, the periplasmic binding proteins, and the actins. This method is able to detect the structural similarity of the actins and 70- kilodalton heat shock proteins, even though these protein families share no detectable sequence similarity.}
+      \field{journaltitle}{Science}
+      \field{month}{07}
+      \field{number}{5016}
+      \field{title}{{A method to identify protein sequences that fold into a known three-dimensional structure}}
+      \field{volume}{253}
+      \field{year}{1991}
+      \field{pages}{164\bibrangedash 170}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/253/5016/164.abstract
+      \endverb
+    \endentry
+    \entry{Lee2009}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=5b2f0d528aea9e816f7016945db7adf6}{Lee}{L\bibinitperiod}{Jooyoung}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4ebdd0f614f53d548b9dd8d0f9159c}{Wu}{W\bibinitperiod}{Sitao}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5b2f0d528aea9e816f7016945db7adf6}{Lee}{L\bibinitperiod}{Jooyoung}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4ebdd0f614f53d548b9dd8d0f9159c}{Wu}{W\bibinitperiod}{Sitao}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a072ee8766bfb7d578e1e2752d5a1260}{Rigden}{R\bibinitperiod}{Daniel\bibnamedelima John}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{db657250955c52e88732249c8c7c252e}
+      \strng{fullhash}{db657250955c52e88732249c8c7c252e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{From Protein Structure to Function with Bioinformatics}}
+      \field{chapter}{Ab Initio}
+      \field{isbn}{978-1-4020-9058-5}
+      \field{title}{{From Protein Structure to Function with Bioinformatics}}
+      \field{year}{2009}
+      \field{pages}{3\bibrangedash 25}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-9058-5{\_}1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-1-4020-9058-5%7B%5C_%7D1
+      \endverb
+    \endentry
+    \entry{Russel2012}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=f03be77275b8afe021f4c417188f9554}{Russel}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f89fb0914c74069d2ac17a2c57dff5fc}{Lasker}{L\bibinitperiod}{Keren}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc9460302d940cf170600a38d4053d9}{Vel{\'{a}}zquez-Muriel}{V\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7ff375921119bc24ba872b664b0f66}{Tjioe}{T\bibinitperiod}{Elina}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1e1d535f241b3723b64dee3eb90da671}{Schneidman-Duhovny}{S\bibinithyphendelim D\bibinitperiod}{Dina}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3402d6e6862fca8a38f6ce7b41f181b6}{Peterson}{P\bibinitperiod}{Bret}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=f03be77275b8afe021f4c417188f9554}{Russel}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f89fb0914c74069d2ac17a2c57dff5fc}{Lasker}{L\bibinitperiod}{Keren}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc9460302d940cf170600a38d4053d9}{Vel{\'{a}}zquez-Muriel}{V\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7ff375921119bc24ba872b664b0f66}{Tjioe}{T\bibinitperiod}{Elina}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1e1d535f241b3723b64dee3eb90da671}{Schneidman-Duhovny}{S\bibinithyphendelim D\bibinitperiod}{Dina}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3402d6e6862fca8a38f6ce7b41f181b6}{Peterson}{P\bibinitperiod}{Bret}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, USA}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{5507ec60e7c19a3fb2f0f99ecc5b6b00}
+      \strng{fullhash}{f5716bdb278d1800851f7a5fc72bed65}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Putting the Pieces Together: Integrative Modeling Platform Software for Structure Determination of Macromolecular Assemblies}}
+      \field{abstract}{A set of software tools for building and distributing models of macromolecular assemblies uses an integrative structure modeling approach, which casts the building of models as a computational optimization problem where information is encoded into a scoring function used to evaluate candidate models.}
+      \field{issn}{1544-9173}
+      \field{journaltitle}{PLoS Biology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Putting the Pieces Together: Integrative Modeling Platform Software for Structure Determination of Macromolecular Assemblies}}
+      \field{volume}{10}
+      \field{year}{2012}
+      \field{pages}{e1001244}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.1001244
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260315/
+      \endverb
+    \endentry
+    \entry{Baker2001}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a4ae2debe1c7f5174d0b3d98accdb733}
+      \strng{fullhash}{a4ae2debe1c7f5174d0b3d98accdb733}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure prediction and structural genomics}}
+      \field{abstract}{Genome sequencing projects are producing linear amino acid sequences, but full understanding of the biological role of these proteins will require knowledge of their structure and function. Although experimental structure determination methods are providing high-resolution structure information about a subset of the proteins, computational structure prediction methods will provide valuable information for the large fraction of sequences whose structures will not be determined experimentally. The first class of protein structure prediction methods, including threading and comparative modeling, rely on detectable similarity spanning most of the modeled sequence and at least one known structure. The second class of methods, de novo or ab initio methods, predict the structure from sequence alone, without relying on similarity at the fold level between the modeled sequence and any of the known structures. In this Viewpoint, we begin by describing the essential features of the methods, the accuracy of the models, and their application to the prediction and understanding of protein function, both for single proteins and on the scale of whole genomes. We then discuss the important role that protein structure prediction methods play in the growing worldwide effort in structural genomics.}
+      \field{isbn}{0036-8075 (Print)$\backslash$n0036-8075 (Linking)}
+      \field{issn}{00368075}
+      \field{journaltitle}{Science}
+      \field{title}{{Protein structure prediction and structural genomics}}
+      \field{volume}{294}
+      \field{year}{2001}
+      \field{pages}{93\bibrangedash 96}
+      \verb{doi}
+      \verb 10.1126/science.1065659
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/93.full.pdf:pdf
+      \endverb
+    \endentry
+    \entry{twilight1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=33b59b34f9681453b77f82a576780fe1}{Chung}{C\bibinitperiod}{Su\bibnamedelima Yun}{S\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=56286ad2cb905e2bba8546f13b6487aa}{Subbiah}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=33b59b34f9681453b77f82a576780fe1}{Chung}{C\bibinitperiod}{Su\bibnamedelima Yun}{S\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=56286ad2cb905e2bba8546f13b6487aa}{Subbiah}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fa4026a43546ea25682396e3985f69cf}
+      \strng{fullhash}{fa4026a43546ea25682396e3985f69cf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A structural explanation for the twilight zone of protein sequence homology}}
+      \field{abstract}{Homology modeling of protein structures as a function of sequence breaks down at the twilight zone limit of sequence identity between the template and target proteins. Our results suggest that protein sequences that have diverged from a common ancestor beyond the twilight zone may adopt side-chain interactions that are very different from those endowed by the ancestral sequence.}
+      \field{issn}{09692126}
+      \field{journaltitle}{Structure}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{A structural explanation for the twilight zone of protein sequence homology}}
+      \field{volume}{4}
+      \field{year}{1996}
+      \field{pages}{1123\bibrangedash 1127}
+      \verb{doi}
+      \verb 10.1016/S0969-2126(96)00119-0
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chung, Subbiah - 1996 - A structural explanation for the twilight zone of protein sequence homology.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0969212696001190
+      \endverb
+    \endentry
+    \entry{Sander1991}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a00cee35baadb952574e0c6f19b304c0}{Schneider}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a00cee35baadb952574e0c6f19b304c0}{Schneider}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d628a87baec1b75e4e30b019f12c7a26}
+      \strng{fullhash}{d628a87baec1b75e4e30b019f12c7a26}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Database of homology-derived protein structures and the structural meaning of sequence alignment.}}
+      \field{abstract}{The database of known protein three-dimensional structures can be significantly increased by the use of sequence homology, based on the following observations. (1) The database of known sequences, currently at more than 12,000 proteins, is two orders of magnitude larger than the database of known structures. (2) The currently most powerful method of predicting protein structures is model building by homology. (3) Structural homology can be inferred from the level of sequence similarity. (4) The threshold of sequence similarity sufficient for structural homology depends strongly on the length of the alignment. Here, we first quantify the relation between sequence similarity, structure similarity, and alignment length by an exhaustive survey of alignments between proteins of known structure and report a homology threshold curve as a function of alignment length. We then produce a database of homology-derived secondary structure of proteins (HSSP) by aligning to each protein of known structure all sequences deemed homologous on the basis of the threshold curve. For each known protein structure, the derived database contains the aligned sequences, secondary structure, sequence variability, and sequence profile. Tertiary structures of the aligned sequences are implied, but not modeled explicitly. The database effectively increases the number of known protein structures by a factor of five to more than 1800. The results may be useful in assessing the structural significance of matches in sequence database searches, in deriving preferences and patterns for structure prediction, in elucidating the structural role of conserved residues, and in modeling three-dimensional detail by homology.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Database of homology-derived protein structures and the structural meaning of sequence alignment.}}
+      \field{volume}{9}
+      \field{year}{1991}
+      \field{pages}{56\bibrangedash 68}
+      \verb{doi}
+      \verb 10.1002/prot.340090107
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2017436
+      \endverb
+    \endentry
     \entry{Richardson1981}{book}{}
       \name{labelname}{1}{}{%
         {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1914,6 +2145,237 @@
       \field{pages}{212\bibrangedash 217}
       \verb{url}
       \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892
+      \endverb
+    \endentry
+    \entry{Jones1992}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=af16bd4867635ba09445f9fff6c0335a}{Jones}{J\bibinitperiod}{D\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4d2e06bbca95a0136a88c069edaf5605}{Taylort}{T\bibinitperiod}{W\bibnamedelima R}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=af16bd4867635ba09445f9fff6c0335a}{Jones}{J\bibinitperiod}{D\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4d2e06bbca95a0136a88c069edaf5605}{Taylort}{T\bibinitperiod}{W\bibnamedelima R}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=4e0a85c4306de0b0c0b90e73ab079396}{Thornton}{T\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9efd91eb936bd31081c84ffa45dba8ba}
+      \strng{fullhash}{9efd91eb936bd31081c84ffa45dba8ba}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new approach to protein fold recognition}}
+      \field{annotation}{10.1038/358086a0}
+      \field{journaltitle}{Nature}
+      \field{month}{07}
+      \field{number}{6381}
+      \field{title}{{A new approach to protein fold recognition}}
+      \field{volume}{358}
+      \field{year}{1992}
+      \field{pages}{86\bibrangedash 89}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/358086a0
+      \endverb
+    \endentry
+    \entry{Bowie1991}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d4bd76546b4d6b82d6d0c044b5b616d5}{Bowie}{B\bibinitperiod}{J\bibnamedelima U}{J\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=fa8afe37484dda68472af72f14bedb31}{Luthy}{L\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5011b825249e7610f91f155dda93271e}{Eisenberg}{E\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d4bd76546b4d6b82d6d0c044b5b616d5}{Bowie}{B\bibinitperiod}{J\bibnamedelima U}{J\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=fa8afe37484dda68472af72f14bedb31}{Luthy}{L\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5011b825249e7610f91f155dda93271e}{Eisenberg}{E\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{661ebff2c790fa080dede730f9e75a72}
+      \strng{fullhash}{661ebff2c790fa080dede730f9e75a72}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A method to identify protein sequences that fold into a known three-dimensional structure}}
+      \field{abstract}{The inverse protein folding problem, the problem of finding which amino acid sequences fold into a known three-dimensional (3D) structure, can be effectively attacked by finding sequences that are most compatible with the environments of the residues in the 3D structure. The environments are described by: (i) the area of the residue buried in the protein and inaccessible to solvent; (ii) the fraction of side-chain area that is covered by polar atoms (O and N); and (iii) the local secondary structure. Examples of this 3D profile method are presented for four families of proteins: the globins, cyclic AMP (adenosine 3',5'-monophosphate) receptor-like proteins, the periplasmic binding proteins, and the actins. This method is able to detect the structural similarity of the actins and 70- kilodalton heat shock proteins, even though these protein families share no detectable sequence similarity.}
+      \field{journaltitle}{Science}
+      \field{month}{07}
+      \field{number}{5016}
+      \field{title}{{A method to identify protein sequences that fold into a known three-dimensional structure}}
+      \field{volume}{253}
+      \field{year}{1991}
+      \field{pages}{164\bibrangedash 170}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/253/5016/164.abstract
+      \endverb
+    \endentry
+    \entry{Lee2009}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=5b2f0d528aea9e816f7016945db7adf6}{Lee}{L\bibinitperiod}{Jooyoung}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4ebdd0f614f53d548b9dd8d0f9159c}{Wu}{W\bibinitperiod}{Sitao}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5b2f0d528aea9e816f7016945db7adf6}{Lee}{L\bibinitperiod}{Jooyoung}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4ebdd0f614f53d548b9dd8d0f9159c}{Wu}{W\bibinitperiod}{Sitao}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a072ee8766bfb7d578e1e2752d5a1260}{Rigden}{R\bibinitperiod}{Daniel\bibnamedelima John}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{db657250955c52e88732249c8c7c252e}
+      \strng{fullhash}{db657250955c52e88732249c8c7c252e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{From Protein Structure to Function with Bioinformatics}}
+      \field{chapter}{Ab Initio}
+      \field{isbn}{978-1-4020-9058-5}
+      \field{title}{{From Protein Structure to Function with Bioinformatics}}
+      \field{year}{2009}
+      \field{pages}{3\bibrangedash 25}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-9058-5{\_}1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-1-4020-9058-5%7B%5C_%7D1
+      \endverb
+    \endentry
+    \entry{Russel2012}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=f03be77275b8afe021f4c417188f9554}{Russel}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f89fb0914c74069d2ac17a2c57dff5fc}{Lasker}{L\bibinitperiod}{Keren}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc9460302d940cf170600a38d4053d9}{Vel{\'{a}}zquez-Muriel}{V\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7ff375921119bc24ba872b664b0f66}{Tjioe}{T\bibinitperiod}{Elina}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1e1d535f241b3723b64dee3eb90da671}{Schneidman-Duhovny}{S\bibinithyphendelim D\bibinitperiod}{Dina}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3402d6e6862fca8a38f6ce7b41f181b6}{Peterson}{P\bibinitperiod}{Bret}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=f03be77275b8afe021f4c417188f9554}{Russel}{R\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f89fb0914c74069d2ac17a2c57dff5fc}{Lasker}{L\bibinitperiod}{Keren}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc9460302d940cf170600a38d4053d9}{Vel{\'{a}}zquez-Muriel}{V\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7ff375921119bc24ba872b664b0f66}{Tjioe}{T\bibinitperiod}{Elina}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1e1d535f241b3723b64dee3eb90da671}{Schneidman-Duhovny}{S\bibinithyphendelim D\bibinitperiod}{Dina}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3402d6e6862fca8a38f6ce7b41f181b6}{Peterson}{P\bibinitperiod}{Bret}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, USA}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{5507ec60e7c19a3fb2f0f99ecc5b6b00}
+      \strng{fullhash}{f5716bdb278d1800851f7a5fc72bed65}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Putting the Pieces Together: Integrative Modeling Platform Software for Structure Determination of Macromolecular Assemblies}}
+      \field{abstract}{A set of software tools for building and distributing models of macromolecular assemblies uses an integrative structure modeling approach, which casts the building of models as a computational optimization problem where information is encoded into a scoring function used to evaluate candidate models.}
+      \field{issn}{1544-9173}
+      \field{journaltitle}{PLoS Biology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Putting the Pieces Together: Integrative Modeling Platform Software for Structure Determination of Macromolecular Assemblies}}
+      \field{volume}{10}
+      \field{year}{2012}
+      \field{pages}{e1001244}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.1001244
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260315/
+      \endverb
+    \endentry
+    \entry{Baker2001}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a4ae2debe1c7f5174d0b3d98accdb733}
+      \strng{fullhash}{a4ae2debe1c7f5174d0b3d98accdb733}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure prediction and structural genomics}}
+      \field{abstract}{Genome sequencing projects are producing linear amino acid sequences, but full understanding of the biological role of these proteins will require knowledge of their structure and function. Although experimental structure determination methods are providing high-resolution structure information about a subset of the proteins, computational structure prediction methods will provide valuable information for the large fraction of sequences whose structures will not be determined experimentally. The first class of protein structure prediction methods, including threading and comparative modeling, rely on detectable similarity spanning most of the modeled sequence and at least one known structure. The second class of methods, de novo or ab initio methods, predict the structure from sequence alone, without relying on similarity at the fold level between the modeled sequence and any of the known structures. In this Viewpoint, we begin by describing the essential features of the methods, the accuracy of the models, and their application to the prediction and understanding of protein function, both for single proteins and on the scale of whole genomes. We then discuss the important role that protein structure prediction methods play in the growing worldwide effort in structural genomics.}
+      \field{isbn}{0036-8075 (Print)$\backslash$n0036-8075 (Linking)}
+      \field{issn}{00368075}
+      \field{journaltitle}{Science}
+      \field{title}{{Protein structure prediction and structural genomics}}
+      \field{volume}{294}
+      \field{year}{2001}
+      \field{pages}{93\bibrangedash 96}
+      \verb{doi}
+      \verb 10.1126/science.1065659
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/93.full.pdf:pdf
+      \endverb
+    \endentry
+    \entry{twilight1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=33b59b34f9681453b77f82a576780fe1}{Chung}{C\bibinitperiod}{Su\bibnamedelima Yun}{S\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=56286ad2cb905e2bba8546f13b6487aa}{Subbiah}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=33b59b34f9681453b77f82a576780fe1}{Chung}{C\bibinitperiod}{Su\bibnamedelima Yun}{S\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=56286ad2cb905e2bba8546f13b6487aa}{Subbiah}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fa4026a43546ea25682396e3985f69cf}
+      \strng{fullhash}{fa4026a43546ea25682396e3985f69cf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A structural explanation for the twilight zone of protein sequence homology}}
+      \field{abstract}{Homology modeling of protein structures as a function of sequence breaks down at the twilight zone limit of sequence identity between the template and target proteins. Our results suggest that protein sequences that have diverged from a common ancestor beyond the twilight zone may adopt side-chain interactions that are very different from those endowed by the ancestral sequence.}
+      \field{issn}{09692126}
+      \field{journaltitle}{Structure}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{A structural explanation for the twilight zone of protein sequence homology}}
+      \field{volume}{4}
+      \field{year}{1996}
+      \field{pages}{1123\bibrangedash 1127}
+      \verb{doi}
+      \verb 10.1016/S0969-2126(96)00119-0
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chung, Subbiah - 1996 - A structural explanation for the twilight zone of protein sequence homology.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0969212696001190
+      \endverb
+    \endentry
+    \entry{Sander1991}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a00cee35baadb952574e0c6f19b304c0}{Schneider}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a00cee35baadb952574e0c6f19b304c0}{Schneider}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d628a87baec1b75e4e30b019f12c7a26}
+      \strng{fullhash}{d628a87baec1b75e4e30b019f12c7a26}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Database of homology-derived protein structures and the structural meaning of sequence alignment.}}
+      \field{abstract}{The database of known protein three-dimensional structures can be significantly increased by the use of sequence homology, based on the following observations. (1) The database of known sequences, currently at more than 12,000 proteins, is two orders of magnitude larger than the database of known structures. (2) The currently most powerful method of predicting protein structures is model building by homology. (3) Structural homology can be inferred from the level of sequence similarity. (4) The threshold of sequence similarity sufficient for structural homology depends strongly on the length of the alignment. Here, we first quantify the relation between sequence similarity, structure similarity, and alignment length by an exhaustive survey of alignments between proteins of known structure and report a homology threshold curve as a function of alignment length. We then produce a database of homology-derived secondary structure of proteins (HSSP) by aligning to each protein of known structure all sequences deemed homologous on the basis of the threshold curve. For each known protein structure, the derived database contains the aligned sequences, secondary structure, sequence variability, and sequence profile. Tertiary structures of the aligned sequences are implied, but not modeled explicitly. The database effectively increases the number of known protein structures by a factor of five to more than 1800. The results may be useful in assessing the structural significance of matches in sequence database searches, in deriving preferences and patterns for structure prediction, in elucidating the structural role of conserved residues, and in modeling three-dimensional detail by homology.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Database of homology-derived protein structures and the structural meaning of sequence alignment.}}
+      \field{volume}{9}
+      \field{year}{1991}
+      \field{pages}{56\bibrangedash 68}
+      \verb{doi}
+      \verb 10.1002/prot.340090107
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2017436
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}
