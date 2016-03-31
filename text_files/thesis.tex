@@ -20,6 +20,11 @@
 \usepackage{subcaption}
 \usepackage{enumitem}
 \usepackage{url}
+\usepackage{tabularx}
+\usepackage{adjustbox}
+\usepackage{tabu}
+\newcommand\tr{\rule{0pt}{3.5ex}}
+\newcommand\br{\rule[-3ex]{0pt}{3ex}}
 \makeindex
 
 
@@ -183,12 +188,12 @@ Consta de
  
 \subsubsection{Protein Structure Determination}
 
-\par Since in 1960, the Brithis biochemist John Kendrew determined the myoblobin structure \cite{KENDREW1960}, more than 37,000 different protein structures have been deposited in the Protein Data Bank (PDB) \cite{Berman2000}. The PDB is a repository created in the 1970s with the aim of storing all the 3D protein structures and unifying their format. Figure \ref{fig:structures_pdb} shows the variation of the number of deposited structures over the time. The number of PDB structures has significantly been increased over the last years thanks to initiatives such as the Protein Structure Initiative (PSI) \cite{Norvell2007} or the structural genomics \cite{GIleadi2007}. The later, was born with the aim of determining the structure of all human proteins. However, soon after, they realized that the goal was unrealistic. Fortunately, the number of folds which represent the complete \textit{fold space} observed in nature is much smaller that the number of proteins. Therefore, the current goal is to determine the structure of a representative set of proteins, that is, at least one protein per fold class. Once It is known the structure of one representative protein, and thanks to the \textit{homology modeling} methods, It is usually feasible inferring the structure of other proteins belonging to the same fold class as  we will explore further in the next section \ref{structure_predicion}.
+\par Since in 1960, the Brithis biochemist John Kendrew determined the myoblobin structure \cite{KENDREW1960}, more than 37,000 different protein structures have been deposited in the Protein Data Bank (PDB) \cite{Berman2000}. The PDB is a repository created in the 1970s with the aim of storing all the 3D protein structures and unifying their format. Figure \ref{fig:structures_pdb} shows the variation of the number of deposited structures over the time. The number of PDB structures has significantly been increased over the last years thanks to initiatives such as the Protein Structure Initiative (PSI) \cite{Norvell2007} or the structural genomics \cite{GIleadi2007}. The later, was born with the aim of determining the structure of all human proteins. However, soon after, they realized that the goal was unrealistic. Fortunately, the number of folds which represent the complete \textit{fold space} observed in nature is much smaller that the number of proteins. Therefore, the current goal is to determine the structure of a representative set of proteins, that is, at least one protein per fold class. Once It is known the structure of one representative protein, and thanks to the \textit{homology modeling} methods\ref{Homology_modeling}, It is usually feasible inferring the structure of other proteins belonging to the same fold class as  we will explore further in the next section \ref{structure_predicion}.
 \par Several methods are currently used to experimentally determine the 3D structure of a protein. More than 99$\%$ of structures deposited in the PDB have been determine by the three main methods:  X-ray crystallography, nuclear magnetic resonance  spectroscopy (NMR) and electron microscopy (EM) (Figure \ref{fig:smethods_pie}). These methods provide experimental data that helps the scientist to elucidate the final structure of the protein. However, in most cases, the experimental data is not sufficient by itself to build an atomic model from scratch. Additional knowledge about the molecular structure most be added. For example, the preferred geometry of atoms in a standard protein, the patterns of repulsion and attraction of amino acids, etc. All this information allows the building of the final model that is consistent with both the experimental data and the prior knowledge of the 3D geometry of the molecules. We next briefly explain the three aforementioned methods:
 
 \begin{enumerate}[label=(\alph*)]
 \item \textbf{X-ray crystallography}. Currently, it is the most widely used method in protein structure determination. Almost 90$\%$ of the structures deposited in PDB come from X-ray crystallization (Figure \ref{fig:smethods_pie}). In this method, X-rays fired at a crystal of the molecule are diffracted by the electron clouds of the atoms in the crystal, forming an unique pattern that is printed as a picture of the atomic density map. Subsequently, the diffraction pattern is combined with other physio-chemical knowledge of the protein, such as composition or atomic geometrical restrictions, in order to build the final 3D model \cite{Smyth2000}. 
-\par Before the X-ray exposition, it is then necessary a prior step of crystallization of the molecule.  Unfortunately, the crystallization step introduces itself a great number of limitations.  The flexibility of proteins is one of the these limitations. The flexible nature of proteins makes really difficult the creation of an accurate and homogeneous alignment of multiple molecules used to create the crystal. Another important limitation is the different conditions required for crystallizing each different molecule. These limitation are especially noteworthy in membrane proteins. Despite of nearly 30$\%$ of eukaryotic proteins are membrane proteins, only 604 unique membrane protein structures have been solved to date (data extracted from \url{http://blanco.biomol.uci.edu/mpstruc/}; date 21-03-2016). As a consequence, alternative innovative developments are needed to overcome the numerous obstacles associated with X-ray structure determination of membrane proteins \cite{Bill2011}. 
+\par Before the X-ray exposition, it is then necessary a prior step of crystallization of the molecule.  Unfortunately, the crystallization step introduces itself a great number of limitations.  The flexibility of proteins is one of the these limitations. The flexible nature of proteins makes really difficult the creation of an accurate and homogeneous alignment of multiple molecules used to create the crystal. Another important limitation is the different conditions required for crystallizing each different molecule. These limitation are especially noteworthy in membrane proteins. Despite of nearly 30$\%$ of eukaryotic proteins are membrane proteins, only 604 unique membrane protein structures have been solved to date (data extracted from \url{http://blanco.biomol.uci.edu/mpstruc/}; March 2016). As a consequence, alternative innovative developments are needed to overcome the numerous obstacles associated with X-ray structure determination of membrane proteins \cite{Bill2011}. 
 \par The accuracy of the final atomic structure relies on the quality of the generated crystals. Two important measures of the accuracy of a crystallographic structure are its atomic \textit{resolution}, which refers to the smallest separation between crystal lattice planes that is resolved in the diffraction pattern \cite{Yaffe2005}, and the \textit{R-factor}, which measures how well the refined structure predicts the observed data \cite{Morris1992}. 
 
 \item \textbf{NMR spectroscopy}. The NMR spectroscopy technique has been used for years to determine the structure of proteins. Currently, almost 10$\%$ of the structures deposited in PDB have been determined by this method (Figure \ref{fig:smethods_pie}). In NMR spectroscopy, the protein is purified, placed in a strong magnetic field, and eventually probed with radio waves. The observed set of atomic resonances is then analyzed to retrieve a list of atomic nuclei that are close in the space. Similarly to X-ray crystallography, this set of restrains is subsequently used to build the structural model of the protein that contains the 3D conformation of each atom in the space \cite{Wider2000}.   
@@ -235,28 +240,56 @@ Computational methods for structure determination are helping to bridge this gap
 
 \par This type of protein structure prediction methods exploits the evolutionary relationship between the \textit{target} protein (i.e. protein being modeled) and the \textit{templates} with known experimental structure. They are based on the biological premise that evolutionary related sequences tend to have similar 3D structures. The usual workflow of homology modeling consist on several consecutive steps: 
 \begin{enumerate}
-\item \textbf{Identification of suitable template structures related to the target protein}. This step consist on a search for similar sequences with known 3D structure. This task is easy when a close homologue of the target protein has been solved. Initiatives such as PSI\cite{Norvell2007} are helping in this issue in order to increase the number of modellable proteins. However, there are still many proteins with lack of homologous proteins in PDB. In these cases, alternative methods such as \texit{ab initio} should be used.  
+\item \textbf{Identification of suitable template structures related to the target protein}. This step consist on a search for similar sequences with known 3D structure. This task is easy when a close homologue of the target protein has been solved. Initiatives such as PSI\cite{Norvell2007} are helping in this issue in order to increase the number of modellable proteins. However, there are still many proteins with lack of homologous proteins in PDB. In these cases, alternative methods such as \textit{ab initio} should be used.  
 
-\item \textbf{Alignment between the target and the template(s) sequence(s)}. The sequence identity of the target-template alignment is the most frequently used measure for similarity. Consequently, the sequence identity is also a good predictor of the final 3D model quality. The overall accuracy of models calculated form aligments with sequence identity higher than 40$\%$ is usually good (i.e. RMSD\footnote{Root Mean Square Deviation is the measure of the average distance between the atoms of two superimposed proteins. Equation $RMSD=\sqrt[]{\frac{1}{N} \sum\limits_{i=1}^N \delta_i^2}$ where $\delta_i$ is the distance between the $N_i$ pair of equivalent atoms (usually the C$\alpha$).}  lower than 2.0\AA). In the 30$\%$-40$\%$ identity range, errors can be more severe and are often locate in loops and highly flexible regions. Below the 30$\%$ of sequence similarity, often referred to as \textit{twilight region}, serious errors occurs including the basic fold being mis-predicted \cite{Baker2001, twilight1996}.
+\item \textbf{Alignment between the target and the template(s) sequence(s)}. The sequence identity of the target-template alignment is the most frequently used measure for similarity. Consequently, the sequence identity is also a good predictor of the final 3D model quality. The overall accuracy of models calculated form alignments with sequence identity higher than 40$\%$ is usually good (i.e. RMSD\footnote{Root Mean Square Deviation is the measure of the average distance between the atoms of two superimposed proteins. Equation $RMSD=\sqrt[]{\frac{1}{N} \sum\limits_{i=1}^N \delta_i^2}$ where $\delta_i$ is the distance between the $N_i$ pair of equivalent atoms (usually the C$\alpha$).}  lower than 2.0\AA). In the 30$\%$-40$\%$ identity range, errors can be more severe and are often locate in loops and highly flexible regions. Below the 30$\%$ of sequence similarity, often referred to as \textit{twilight region}, serious errors occurs including the basic fold being mis-predicted \cite{Baker2001, twilight1996}.
 Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology modeling extracted from \cite{Sander1991}. The region below the curve covers those cases where the alignment does not carry enough information to model the 3D structure, while area above the threshold curve, include those cases where homology modeling is appropriate.  
 \item \textbf{Modeling of the structurally conserved regions and prediction of the structurally variable regions.}. There are different algorithms to assign the spatial coordinates of the target protein using the template(s)-target alignment information. Highly conserved regions are generally well modeled, while those regions with insertions or gaps are more prone to include errors and sub-optimal atomic orientations. 
 
 \item \textbf{Refinement of the initial model.} In this step the model is refined to idealize bond geometry and to remove errors that may have been introduced in the modeling step. The refinement process pursues the free energy minimization of the generated 3D protein model. Many different algorithms have been applied to perform the minimization step: molecular mechanics force fields \cite{PRO1410}, molecular dynamics \cite{Fiser2000}, Monte Carlo \cite{Kidera1995} and Genetic Algorithms\cite{McGarrah1993}.
  
 \item \textbf{Evaluation of the model(s).} Model evaluation seeks for the identification of the different errors that might have occurred during the modeling process. Numerous methods have been developed to assess the quality of a 3D model. In fact, 3D model assessment has a very such productive field for many years that it was included in the seventh edition of the CASP experiment \cite{PROT21669}. The general question of how accurate is a model can be reformulated by several more specialized questions: 
-\begin{enumerate}
 
-\end{enumerate}[label=\roman*]
+
+\begin{enumerate}[label=\roman*]
 \item Is the selected fold correct? The fold assessment consist of deciding whether a given protein model has the right fold. Residue-based combined accessible surface and distance-dependent scoring function have shown the best performance in this task \cite{Melo2002}. 
 \item How do we select the best model among the set of decoys or alternative solutions? Several models can be generated by making changes in the template-target alignment, by selecting different template(s) structure(s) or by using different seeds in the refinement non-deterministic algorithms. Atom-based distance-depend scoring functions have proved to be useful for this particular task in some cases\cite{Samudrala1998}. However, there is not a gold standard for ranking the generated 3D models. Thus, the model selection eventually relies on the expertise of the person running the modeling. 
-\item Which is the overall accuracy of the model? This question can be addressed by defining a score that correlates with the RMSD after superimposing a model and its native structure. AKI
-\item Which is the accuracy of the model in particular regions of the model?
+\item Which is the overall accuracy of the model? Which is the accuracy of the model in particular regions of the model? These questions can be addressed by defining scores that correlates with the RMSD after superimposing a model and its native structure. Numerous scoring functions have been implemented to address this issue. Some of them, the physics-based scoring functions, attempt  to  approximately  calculate the  atomic  interaction  energies  in  the  system.  These scoring functions usually encode a set of parameters that describes the energy of a system of particles. Examples of these scoring functions are AMBER \cite{CASE2005}, CHARMM\cite{Brooks1983} or MM-PDBSA\cite{Fogolari2003}. Differently the \textit{knowledge-based potentials} or \textit{potentials mean force} are scoring functions derived from an analysis of empirical information. Although the obtained scores are often considered approximations of the free energy, this physical interpretation is incorrect \cite{Thomas1996}. Nevertheless, since they frequently correlate with the actual free energy differences they have been broadly used with significant success \cite{Shen2006, Zhou2002, Sippl1995}. 
 \end{enumerate}
-
-\par limitations 
-
-\footnote{For a comprehensive review of homology modeling methods, limitations and applications please consider \cite{Marti-Renom2000, Malmstrom2010} 
 \end{enumerate}
+\par The application of comparative modeling is limited by several aspects. The first one, is the availability of a suitable template. Despite of the efforts made to determine at least one structure per known fold \cite{Norvell2007}, divergences between the template and the target hampers the modeling of a correct 3D structure. In fact, models based on aligment below 30$\%$ have been shown to be unsatisfactory \ref{fig:homology_modeling}. The lack of template problem is more noticeable in membrane proteins. The limited number available known membrane proteins structures is hampering the modeling of many membrane proteins that have been shown its potential in diverse therapeutic areas \cite{Du2012, Kampen2011}. Another aspect that restricts the success of homology modeling is the innate flexibility of proteins. Highly flexible regions are more difficult to model and consequently are more prone to errors than more rigid parts of the structure. Despite of these limitations, homology modeling has been successfully applied to many proteins and its currently the main approach to computationally model the 3D structure of proteins. 
+\par There are many computational methods for predicting the 3D structure of proteins. Table \ref{table:table_software} shows some of the most famous ones alongside its websites and references. In the next section, we will focus on Modeller \cite{Eswar2007} since its the modeling software I have working with during my thesis\footnote{For a comprehensive review of homology modeling methods, limitations and applications please consider \cite{Marti-Renom2000, Malmstrom2010}}.
+\renewcommand{\arraystretch}{1.2} %<- modify value to suit your needs
+
+\begin{table}[h!]\label{table:table_software}
+ \centering
+ \begin{adjustbox}{width=1\textwidth}
+ \begin{tabular}{||c | c |c||} 
+ \hline
+ \tr\textbf{Modeling Tool}\br & \tr\textbf{Website}\br & \tr\textbf{Reference(s)}\br\\  
+ \hline
+ Modeller & \url{https://salilab.org/modeller/} & \cite{Eswar2007, Sali1993}  \\ 
+ \hline
+ SwissModel & \url{http://swissmodel.expasy.org} & \cite{Biasini2014} \\
+ \hline
+ HHPred & \url{http://toolkit.tuebingen.mpg.de/hhpred} & \cite{Soding2005}  \\
+ \hline
+ I-Tasser & \url{http://zhanglab.ccmb.med.umich.edu/I-TASSER/} & \cite{Yang2015a, Roy2010, Zhang2008}  \\
+ \hline
+ Rosetta & \url{http://robetta.bakerlab.org/} & \cite{Kim2004}   \\ 
+ \hline
+\end{tabular}
+\end{adjustbox}
+
+\caption{List of the public Protein Modeling Tools}
+\end{table}
+
+  
+
+
+\subsubsection{Modeller}\label{modeller}
+ 
+
 \begin{figure}[h]
 
   \centering

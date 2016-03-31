@@ -132,7 +132,7 @@
 \setlength\normallineskip{1\p@}
 \renewcommand\baselinestretch{}
 \setlength\parskip{0\p@ \@plus \p@}
-\setlength{\parindent}{5ex}
+
 \@lowpenalty   51
 \@medpenalty  151
 \@highpenalty 301
@@ -792,6 +792,7 @@
     \@afterheading
   \fi
 }
+
 \def\@makechapterhead#1{%
   \vspace*{50\p@}%
   {\parindent \z@ \raggedright \normalfont

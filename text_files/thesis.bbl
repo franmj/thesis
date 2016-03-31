@@ -959,6 +959,906 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/2017436
       \endverb
     \endentry
+    \entry{PRO1410}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ed874de6afebf6119f7e51dd153e71cd}{Ferrada}{F\bibinitperiod}{Evandro}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ed874de6afebf6119f7e51dd153e71cd}{Ferrada}{F\bibinitperiod}{Evandro}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{0f90a37fb41046e4f0175876923e05c9}
+      \strng{fullhash}{0f90a37fb41046e4f0175876923e05c9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Nonbonded terms extrapolated from nonlocal knowledge-based energy functions improve error detection in near-native protein structure models}}
+      \field{issn}{1469-896X}
+      \field{journaltitle}{Protein Science}
+      \field{number}{7}
+      \field{title}{{Nonbonded terms extrapolated from nonlocal knowledge-based energy functions improve error detection in near-native protein structure models}}
+      \field{volume}{16}
+      \field{year}{2007}
+      \field{pages}{1410\bibrangedash 1421}
+      \verb{doi}
+      \verb 10.1110/ps.062735907
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1110/ps.062735907
+      \endverb
+    \endentry
+    \entry{Fiser2000}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=e517b392b84f852e678aa3386139ef84}{Fiser}{F\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=62cbc31614526d6298eb31e942719390}{Do}{D\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e517b392b84f852e678aa3386139ef84}{Fiser}{F\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=62cbc31614526d6298eb31e942719390}{Do}{D\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8353bfb31ac3e76ac7c791a114f69de7}
+      \strng{fullhash}{8353bfb31ac3e76ac7c791a114f69de7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Modeling of loops in protein structures.}}
+      \field{abstract}{Comparative protein structure prediction is limited mostly by the errors in alignment and loop modeling. We describe here a new automated modeling technique that significantly improves the accuracy of loop predictions in protein structures. The positions of all nonhydrogen atoms of the loop are optimized in a fixed environment with respect to a pseudo energy function. The energy is a sum of many spatial restraints that include the bond length, bond angle, and improper dihedral angle terms from the CHARMM-22 force field, statistical preferences for the main-chain and side-chain dihedral angles, and statistical preferences for nonbonded atomic contacts that depend on the two atom types, their distance through space, and separation in sequence. The energy function is optimized with the method of conjugate gradients combined with molecular dynamics and simulated annealing. Typically, the predicted loop conformation corresponds to the lowest energy conformation among 500 independent optimizations. Predictions were made for 40 loops of known structure at each length from 1 to 14 residues. The accuracy of loop predictions is evaluated as a function of thoroughness of conformational sampling, loop length, and structural properties of native loops. When accuracy is measured by local superposition of the model on the native loop, 100, 90, and 30{\%} of 4-, 8-, and 12-residue loop predictions, respectively, had <2 A RMSD error for the mainchain N, C(alpha), C, and O atoms; the average accuracies were 0.59 +/- 0.05, 1.16 +/- 0.10, and 2.61 +/- 0.16 A, respectively. To simulate real comparative modeling problems, the method was also evaluated by predicting loops of known structure in only approximately correct environments with errors typical of comparative modeling without misalignment. When the RMSD distortion of the main-chain stem atoms is 2.5 A, the average loop prediction error increased by 180, 25, and 3{\%} for 4-, 8-, and 12-residue loops, respectively. The accuracy of the lowest energy prediction for a given loop can be estimated from the structural variability among a number of low energy predictions. The relative value of the present method is gauged by (1) comparing it with one of the most successful previously described methods, and (2) describing its accuracy in recent blind predictions of protein structure. Finally, it is shown that the average accuracy of prediction is limited primarily by the accuracy of the energy function rather than by the extent of conformational sampling.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{{Modeling of loops in protein structures.}}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{pages}{1753\bibrangedash 73}
+      \verb{doi}
+      \verb 10.1110/ps.9.9.1753
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Fiser, Do, Sali - 2000 - Modeling of loops in protein structures.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1110/ps.9.9.1753
+      \endverb
+    \endentry
+    \entry{Kidera1995}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c8282476e68c4b209aeb46e585725654}{Kidera}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c8282476e68c4b209aeb46e585725654}{Kidera}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c8282476e68c4b209aeb46e585725654}
+      \strng{fullhash}{c8282476e68c4b209aeb46e585725654}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enhanced conformational sampling in Monte Carlo simulations of proteins: application to a constrained peptide.}}
+      \field{abstract}{A Monte Carlo simulation method for globular proteins, called extended-scaled-collective-variable (ESCV) Monte Carlo, is proposed. This method combines two Monte Carlo algorithms known as entropy-sampling and scaled-collective-variable algorithms. Entropy-sampling Monte Carlo is able to sample a large configurational space even in a disordered system that has a large number of potential barriers. In contrast, scaled-collective-variable Monte Carlo provides an efficient sampling for a system whose dynamics is highly cooperative. Because a globular protein is a disordered system whose dynamics is characterized by collective motions, a combination of these two algorithms could provide an optimal Monte Carlo simulation for a globular protein. As a test case, we have carried out an ESCV Monte Carlo simulation for a cell adhesive Arg-Gly-Asp-containing peptide, Lys-Arg-Cys-Arg-Gly-Asp-Cys-Met-Asp, and determined the conformational distribution at 300 K. The peptide contains a disulfide bridge between the two cysteine residues. This bond mimics the strong geometrical constraints that result from a protein's globular nature and give rise to highly cooperative dynamics. Computation results show that the ESCV Monte Carlo was not trapped at any local minimum and that the canonical distribution was correctly determined.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{{Enhanced conformational sampling in Monte Carlo simulations of proteins: application to a constrained peptide.}}
+      \field{volume}{92}
+      \field{year}{1995}
+      \field{pages}{9886\bibrangedash 9889}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC40907/
+      \endverb
+    \endentry
+    \entry{McGarrah1993}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=afa2565c534a053018d91d67a2814411}{McGarrah}{M\bibinitperiod}{D.B.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7bf5a3f7da10e7f2d2b6890edcb1a7e7}{Judson}{J\bibinitperiod}{R.S.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=afa2565c534a053018d91d67a2814411}{McGarrah}{M\bibinitperiod}{D.B.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7bf5a3f7da10e7f2d2b6890edcb1a7e7}{Judson}{J\bibinitperiod}{R.S.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b557d80f46ce10a1e6cf0a02d5e9542e}
+      \strng{fullhash}{b557d80f46ce10a1e6cf0a02d5e9542e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Analysis of the genetic algorithm method of molecular conformation determination}}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Analysis of the genetic algorithm method of molecular conformation determination}}
+      \field{volume}{14}
+      \field{year}{1993}
+      \field{pages}{1385\bibrangedash 1395}
+      \verb{doi}
+      \verb 10.1002/jcc.540141115
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/jcc.540141115
+      \endverb
+    \endentry
+    \entry{PROT21669}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=12359cfa1c314fa9ffa69f64abcf8575}{Cozzetto}{C\bibinitperiod}{Domenico}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6a5be81953dca645cba617720be57e}{Kryshtafovych}{K\bibinitperiod}{Andriy}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=27c340ebfd002c512570fec269643a08}{Ceriani}{C\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5d268ce86b3c3897806533826d1f6dbf}{Tramontano}{T\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=12359cfa1c314fa9ffa69f64abcf8575}{Cozzetto}{C\bibinitperiod}{Domenico}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6a5be81953dca645cba617720be57e}{Kryshtafovych}{K\bibinitperiod}{Andriy}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=27c340ebfd002c512570fec269643a08}{Ceriani}{C\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5d268ce86b3c3897806533826d1f6dbf}{Tramontano}{T\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{b427c3b1eca69ff97cfa451eb3b896bf}
+      \strng{fullhash}{873712a7e5f4ae4075b44fd1321b4c3e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Assessment of predictions in the model quality assessment category}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{number}{S8}
+      \field{title}{{Assessment of predictions in the model quality assessment category}}
+      \field{volume}{69}
+      \field{year}{2007}
+      \field{pages}{175\bibrangedash 183}
+      \verb{doi}
+      \verb 10.1002/prot.21669
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/prot.21669
+      \endverb
+    \endentry
+    \entry{Melo2002}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb2016e390357806a2ae00bb310baf4f}
+      \strng{fullhash}{cb2016e390357806a2ae00bb310baf4f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potentials for fold assessment.}}
+      \field{abstract}{A protein structure model generally needs to be evaluated to assess whether or not it has the correct fold. To improve fold assessment, four types of a residue-level statistical potential were optimized, including distance-dependent, contact, Phi/Psi dihedral angle, and accessible surface statistical potentials. Approximately 10,000 test models with the correct and incorrect folds were built by automated comparative modeling of protein sequences of known structure. The criterion used to discriminate between the correct and incorrect models was the Z-score of the model energy. The performance of a Z-score was determined as a function of many variables in the derivation and use of the corresponding statistical potential. The performance was measured by the fractions of the correctly and incorrectly assessed test models. The most discriminating combination of any one of the four tested potentials is the sum of the normalized distance-dependent and accessible surface potentials. The distance-dependent potential that is optimal for assessing models of all sizes uses both C(alpha) and C(beta) atoms as interaction centers, distinguishes between all 20 standard residue types, has the distance range of 30 A, and is derived and used by taking into account the sequence separation of the interacting atom pairs. The terms for the sequentially local interactions are significantly less informative than those for the sequentially nonlocal interactions. The accessible surface potential that is optimal for assessing models of all sizes uses C(beta) atoms as interaction centers and distinguishes between all 20 standard residue types. The performance of the tested statistical potentials is not likely to improve significantly with an increase in the number of known protein structures used in their derivation. The parameters of fold assessment whose optimal values vary significantly with model size include the size of the known protein structures used to derive the potential and the distance range of the accessible surface potential. Fold assessment by statistical potentials is most difficult for the very small models. This difficulty presents a challenge to fold assessment in large-scale comparative modeling, which produces many small and incomplete models. The results described in this study provide a basis for an optimal use of statistical potentials in fold assessment.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Statistical potentials for fold assessment.}}
+      \field{volume}{11}
+      \field{year}{2002}
+      \field{pages}{430\bibrangedash 48}
+      \verb{doi}
+      \verb 10.1002/pro.110430
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Melo, S{\'{a}}nchez, Sali - 2002 - Statistical potentials for fold assessment.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2373452%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Samudrala1998}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4686b65e891cc32a515a532dc45bdd4d}{Samudrala}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9caa6978492f08cfed191ff7c57cc8}{Moult}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4686b65e891cc32a515a532dc45bdd4d}{Samudrala}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9caa6978492f08cfed191ff7c57cc8}{Moult}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0b201f2a39a0643ac8358aefca502064}
+      \strng{fullhash}{0b201f2a39a0643ac8358aefca502064}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{An all-atom distance-dependent conditional probability discriminatory function for protein structure prediction.}}
+      \field{abstract}{We present a formalism to compute the probability of an amino acid sequence conformation being native-like, given a set of pairwise atom-atom distances. The formalism is used to derive three discriminatory functions with different types of representations for the atom-atom contacts observed in a database of protein structures. These functions include two virtual atom representations and one all-heavy atom representation. When applied to six different decoy sets containing a range of correct and incorrect conformations of amino acid sequences, the all-atom distance-dependent discriminatory function is able to identify correct from incorrect more often than the discriminatory functions using approximate representations. We illustrate the importance of using a detailed atomic description for obtaining the most accurate discrimination, and the necessity for testing discriminatory functions against a wide variety of decoys. The discriminatory function is also shown to be capable of capturing the fine details of atom-atom preferences. These results suggest that the all-atom distance-dependent discriminatory function will be useful for protein structure prediction and model refinement.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{{An all-atom distance-dependent conditional probability discriminatory function for protein structure prediction.}}
+      \field{volume}{275}
+      \field{year}{1998}
+      \field{pages}{895\bibrangedash 916}
+      \verb{doi}
+      \verb 10.1006/jmbi.1997.1479
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Samudrala, Moult - 1998 - An all-atom distance-dependent conditional probability discriminatory function for protein structure predictio.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283697914790
+      \endverb
+    \endentry
+    \entry{CASE2005}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=afbf75d7017415fc860e6a64510eabb9}{CASE}{C\bibinitperiod}{DAVID\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a3b350b0d9f9a1caeee0850b8f68133}{CHEATHAM}{C\bibinitperiod}{THOMAS\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=520a880201c03cb5ffb801d8f0b42aaf}{DARDEN}{D\bibinitperiod}{T\bibnamedelima O\bibnamedelima M}{T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=cf891775c1d840e5e86598f49a71c507}{GOHLKE}{G\bibinitperiod}{HOLGER}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=054487ae1fa27aa51403cd95b63e5353}{LUO}{L\bibinitperiod}{R\bibnamedelima A\bibnamedelima Y}{R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=73373d35a0232230946c0e7be8c66e9d}{MERZ}{M\bibinitperiod}{KENNETH\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc15a926f24420e0d9e9d7f1f5f40a8}{ONUFRIEV}{O\bibinitperiod}{ALEXEY}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2b5ec1ebee175aa142c3339abd5ea0}{SIMMERLING}{S\bibinitperiod}{CARLOS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27e5b55bf04eafe15cfcbd85e82afa2a}{WANG}{W\bibinitperiod}{BING}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d8b8461422b971d2decef4f1c5c50780}{WOODS}{W\bibinitperiod}{ROBERT\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=afbf75d7017415fc860e6a64510eabb9}{CASE}{C\bibinitperiod}{DAVID\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a3b350b0d9f9a1caeee0850b8f68133}{CHEATHAM}{C\bibinitperiod}{THOMAS\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=520a880201c03cb5ffb801d8f0b42aaf}{DARDEN}{D\bibinitperiod}{T\bibnamedelima O\bibnamedelima M}{T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=cf891775c1d840e5e86598f49a71c507}{GOHLKE}{G\bibinitperiod}{HOLGER}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=054487ae1fa27aa51403cd95b63e5353}{LUO}{L\bibinitperiod}{R\bibnamedelima A\bibnamedelima Y}{R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=73373d35a0232230946c0e7be8c66e9d}{MERZ}{M\bibinitperiod}{KENNETH\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc15a926f24420e0d9e9d7f1f5f40a8}{ONUFRIEV}{O\bibinitperiod}{ALEXEY}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2b5ec1ebee175aa142c3339abd5ea0}{SIMMERLING}{S\bibinitperiod}{CARLOS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27e5b55bf04eafe15cfcbd85e82afa2a}{WANG}{W\bibinitperiod}{BING}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d8b8461422b971d2decef4f1c5c50780}{WOODS}{W\bibinitperiod}{ROBERT\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d6ab83104171a1ae7f329995dbd3efa5}
+      \strng{fullhash}{8fac7a6e9fe4cd0745d478213ab1aadf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The Amber Biomolecular Simulation Programs}}
+      \field{abstract}{We describe the development, current features, and some directions for future development of the Amber package of computer programs. This package evolved from a program that was constructed in the late 1970s to do Assisted Model Building with Energy Refinement, and now contains a group of programs embodying a number of powerful tools of modern computational chemistry, focused on molecular dynamics and free energy calculations of proteins, nucleic acids, and carbohydrates.}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of computational chemistry}
+      \field{month}{12}
+      \field{number}{16}
+      \field{title}{{The Amber Biomolecular Simulation Programs}}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{pages}{1668\bibrangedash 1688}
+      \verb{doi}
+      \verb 10.1002/jcc.20290
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1989667/
+      \endverb
+    \endentry
+    \entry{Brooks1983}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=1389ef60927aa2662a371d4342c55037}{Brooks}{B\bibinitperiod}{Bernard\bibnamedelima R.}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2417da553beb849755a5b169592d1baf}{Bruccoleri}{B\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d2dab0cdd0820888b399d5fdc25a32af}{Olafson}{O\bibinitperiod}{Barry\bibnamedelima D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d44b9be3654b44a716d9118bdfbe8708}{States}{S\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f73c3ad8bb4bba4c8dbd40ecf5a28662}{Swaminathan}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5743d79be0ffa377a441f1fe37a0d8cd}{Karplus}{K\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=1389ef60927aa2662a371d4342c55037}{Brooks}{B\bibinitperiod}{Bernard\bibnamedelima R.}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2417da553beb849755a5b169592d1baf}{Bruccoleri}{B\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d2dab0cdd0820888b399d5fdc25a32af}{Olafson}{O\bibinitperiod}{Barry\bibnamedelima D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d44b9be3654b44a716d9118bdfbe8708}{States}{S\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f73c3ad8bb4bba4c8dbd40ecf5a28662}{Swaminathan}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5743d79be0ffa377a441f1fe37a0d8cd}{Karplus}{K\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b84e15f99b2ac77e2514f794aaa3250}
+      \strng{fullhash}{03869cc9823daab579933399e29b261e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{CHARMM: A program for macromolecular energy, minimization, and dynamics calculations}}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{number}{2}
+      \field{title}{{CHARMM: A program for macromolecular energy, minimization, and dynamics calculations}}
+      \field{volume}{4}
+      \field{year}{1983}
+      \field{pages}{187\bibrangedash 217}
+      \verb{doi}
+      \verb 10.1002/jcc.540040211
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/jcc.540040211
+      \endverb
+    \endentry
+    \entry{Fogolari2003}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=b0a19adab2b43ba18a8d19175bf30eec}{Fogolari}{F\bibinitperiod}{Federico}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3fc9fe51666c0f664516555fa88b7f00}{Brigo}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dcdabdb877b70c13a41d1aec410043b9}{Molinari}{M\bibinitperiod}{Henriette}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=b0a19adab2b43ba18a8d19175bf30eec}{Fogolari}{F\bibinitperiod}{Federico}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3fc9fe51666c0f664516555fa88b7f00}{Brigo}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dcdabdb877b70c13a41d1aec410043b9}{Molinari}{M\bibinitperiod}{Henriette}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e30fd074a9b6ff83afefc3e237d489e2}
+      \strng{fullhash}{e30fd074a9b6ff83afefc3e237d489e2}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protocol for MM/PBSA molecular dynamics simulations of proteins.}}
+      \field{abstract}{Continuum solvent models have been employed in past years for understanding processes such as protein folding or biomolecular association. In the last decade, several attempts have been made to merge atomic detail molecular dynamics simulations with solvent continuum models. Among continuum models, the Poisson-Boltzmann solvent accessible surface area model is one of the oldest and most fundamental. Notwithstanding its wide usage for simulation of biomolecular electrostatic potential, the Poisson-Boltzmann equation has been very seldom used to obtain solvation forces for molecular dynamics simulation. We propose here a fast and reliable methodology to implement continuum forces in standard molecular mechanics and dynamics algorithms. Results for a totally unrestrained 1 ns molecular dynamics simulation of a small protein are quantitatively similar to results obtained by explicit solvent molecular dynamics simulations.}
+      \field{issn}{0006-3495}
+      \field{journaltitle}{Biophysical journal}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Protocol for MM/PBSA molecular dynamics simulations of proteins.}}
+      \field{volume}{85}
+      \field{year}{2003}
+      \field{pages}{159\bibrangedash 66}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(03)74462-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Fogolari, Brigo, Molinari - 2003 - Protocol for MMPBSA molecular dynamics simulations of proteins.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0006349503744622
+      \endverb
+    \endentry
+    \entry{Thomas1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1113f5f32914572528c35375f4f2235e}{Thomas}{T\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1113f5f32914572528c35375f4f2235e}{Thomas}{T\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d422cf20eb10f05439de205b25a7a2d}
+      \strng{fullhash}{3d422cf20eb10f05439de205b25a7a2d}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potentials extracted from protein structures: how accurate are they?}}
+      \field{abstract}{"Statistical potentials" are energies widely used in computer algorithms to fold, dock, or recognize protein structures. They are derived from: (1) observed pairing frequencies of the 20 amino acids in databases of known protein structures, and (2) approximations and assumptions about the physical process that these quantities measure. Using exact lattice models, we construct a rigorous test of those assumptions and approximations. We find that statistical potentials often correctly rank-order the relative strengths of interresidue interactions, but they do not reflect the true underlying energies because of systematic errors arising from the neglect of excluded volume in proteins. We find that complex residue-residue distance dependences observed in statistical potentials, even those among charged groups, can be largely explained as an indirect consequence of the burial of non-polar groups. Our results suggest that current statistical potentials may have limited value in protein folding algorithms and wherever they are used to provide energy-like quantities.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Statistical potentials extracted from protein structures: how accurate are they?}}
+      \field{volume}{257}
+      \field{year}{1996}
+      \field{pages}{457\bibrangedash 69}
+      \verb{doi}
+      \verb 10.1006/jmbi.1996.0175
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Thomas, Dill - 1996 - Statistical potentials extracted from protein structures how accurate are they.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283696901758
+      \endverb
+    \endentry
+    \entry{Shen2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6529665068922e70b8d60070c8f3c1bc}{Shen}{S\bibinitperiod}{Min-yi}{M\bibinithyphendelim y\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6529665068922e70b8d60070c8f3c1bc}{Shen}{S\bibinitperiod}{Min-yi}{M\bibinithyphendelim y\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing}%
+      }
+      \strng{namehash}{d980f1da7c156433669b8b153bf33028}
+      \strng{fullhash}{d980f1da7c156433669b8b153bf33028}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potential for assessment and prediction of protein structures}}
+      \field{abstract}{Protein structures in the Protein Data Bank provide a wealth of data about the interactions that determine the native states of proteins. Using the probability theory, we derive an atomic distance-dependent statistical potential from a sample of native structures that does not depend on any adjustable parameters (Discrete Optimized Protein Energy, or DOPE). DOPE is based on an improved reference state that corresponds to noninteracting atoms in a homogeneous sphere with the radius dependent on a sample native structure; it thus accounts for the finite and spherical shape of the native structures. The DOPE potential was extracted from a nonredundant set of 1472 crystallographic structures. We tested DOPE and five other scoring functions by the detection of the native state among six multiple target decoy sets, the correlation between the score and model error, and the identification of the most accurate non-native structure in the decoy set. For all decoy sets, DOPE is the best performing function in terms of all criteria, except for a tie in one criterion for one decoy set. To facilitate its use in various applications, such as model assessment, loop modeling, and fitting into cryo-electron microscopy mass density maps combined with comparative protein structure modeling, DOPE was incorporated into the modeling package MODELLER-8.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein Science : A Publication of the Protein Society}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Statistical potential for assessment and prediction of protein structures}}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{2507\bibrangedash 2524}
+      \verb{doi}
+      \verb 10.1110/ps.062416606
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242414/
+      \endverb
+    \endentry
+    \entry{Zhou2002}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=df8e91a61dfc6515a464839aaba565ce}{Zhou}{Z\bibinitperiod}{Hongyi}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ce7558f60198035c0f0a04b2acfdca0f}{Zhou}{Z\bibinitperiod}{Yaoqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=df8e91a61dfc6515a464839aaba565ce}{Zhou}{Z\bibinitperiod}{Hongyi}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ce7558f60198035c0f0a04b2acfdca0f}{Zhou}{Z\bibinitperiod}{Yaoqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{45802cd4f4878477bd12b4fe648e19ae}
+      \strng{fullhash}{45802cd4f4878477bd12b4fe648e19ae}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure selection and stability prediction.}}
+      \field{abstract}{The distance-dependent structure-derived potentials developed so far all employed a reference state that can be characterized as a residue (atom)-averaged state. Here, we establish a new reference state called the distance-scaled, finite ideal-gas reference (DFIRE) state. The reference state is used to construct a residue-specific all-atom potential of mean force from a database of 1011 nonhomologous (less than 30{\%} homology) protein structures with resolution less than 2 A. The new all-atom potential recognizes more native proteins from 32 multiple decoy sets, and raises an average Z-score by 1.4 units more than two previously developed, residue-specific, all-atom knowledge-based potentials. When only backbone and C(beta) atoms are used in scoring, the performance of the DFIRE-based potential, although is worse than that of the all-atom version, is comparable to those of the previously developed potentials on the all-atom level. In addition, the DFIRE-based all-atom potential provides the most accurate prediction of the stabilities of 895 mutants among three knowledge-based all-atom potentials. Comparison with several physical-based potentials is made.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{12}
+      \field{number}{11}
+      \field{title}{{Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure selection and stability prediction.}}
+      \field{volume}{11}
+      \field{year}{2002}
+      \field{pages}{2714\bibrangedash 26}
+      \verb{doi}
+      \verb 10.1110/ps.0217002
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhou, Zhou - 2002 - Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2373736%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Sippl1995}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8e55892f5d151274795af5e5648e0d79}{Sippl}{S\bibinitperiod}{Manfred\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8e55892f5d151274795af5e5648e0d79}{Sippl}{S\bibinitperiod}{Manfred\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8e55892f5d151274795af5e5648e0d79}
+      \strng{fullhash}{8e55892f5d151274795af5e5648e0d79}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Knowledge-based potentials for proteins}}
+      \field{abstract}{Knowledge based potentials and energy functions are extracted from a number of databases of known protein structures. Recent developments have shown that this type of potential is successful in many areas of protein structure research. Among these are quality assessment and error recognition of folds and the prediction of unknown structures by fold-recognition techniques.}
+      \field{issn}{0959440X}
+      \field{journaltitle}{Current Opinion in Structural Biology}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{{Knowledge-based potentials for proteins}}
+      \field{volume}{5}
+      \field{year}{1995}
+      \field{pages}{229\bibrangedash 235}
+      \verb{doi}
+      \verb 10.1016/0959-440X(95)80081-6
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Sippl - 1995 - Knowledge-based potentials for proteins.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0959440X95800816
+      \endverb
+    \endentry
+    \entry{Du2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2736bf88ecd6e7286f45cd9d073cbc29}{Du}{D\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=575a5ee21fb18fa9d777a9a1a1c55273}{Xie}{X\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2736bf88ecd6e7286f45cd9d073cbc29}{Du}{D\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=575a5ee21fb18fa9d777a9a1a1c55273}{Xie}{X\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences}%
+      }
+      \strng{namehash}{5cb5b09bb0795e7d48f5943207b56549}
+      \strng{fullhash}{5cb5b09bb0795e7d48f5943207b56549}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{G protein-coupled receptors as therapeutic targets for multiple sclerosis}}
+      \field{issn}{1001-0602}
+      \field{journaltitle}{Cell Res}
+      \field{month}{06}
+      \field{number}{7}
+      \field{title}{{G protein-coupled receptors as therapeutic targets for multiple sclerosis}}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{1108\bibrangedash 1128}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/cr.2012.87
+      \endverb
+    \endentry
+    \entry{Kampen2011}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6faf1f529ac51f2ada4a7ef12dc34733}{Kampen}{K\bibinitperiod}{Kim\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6faf1f529ac51f2ada4a7ef12dc34733}{Kampen}{K\bibinitperiod}{Kim\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6faf1f529ac51f2ada4a7ef12dc34733}
+      \strng{fullhash}{6faf1f529ac51f2ada4a7ef12dc34733}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Membrane Proteins: The Key Players of a Cancer Cell}}
+      \field{abstract}{Membrane proteins are involved in the prognosis of the most common forms of cancer. Membrane proteins are the hallmark of a cancer cell. The overexpressed membrane receptors are becoming increasingly important in cancer cell therapy. Current renewing therapy approaches based on receptor overexpression include; antibody therapy, nanocarrier drug delivery, and fluorescent tumor imaging in surgery. Gene profiling reveals cancer specific signatures and may identify membrane proteins that are related to cancer progression and lead to the development of improved therapy strategies in the future.}
+      \field{issn}{1432-1424}
+      \field{journaltitle}{The Journal of Membrane Biology}
+      \field{number}{2}
+      \field{title}{{Membrane Proteins: The Key Players of a Cancer Cell}}
+      \field{volume}{242}
+      \field{year}{2011}
+      \field{pages}{69\bibrangedash 74}
+      \verb{doi}
+      \verb 10.1007/s00232-011-9381-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00232-011-9381-7
+      \endverb
+    \endentry
+    \entry{Eswar2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
+      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
+      \field{isbn}{9780471140863}
+      \field{issn}{1934-3663}
+      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
+      \field{month}{12}
+      \field{title}{{Comparative protein structure modeling using MODELLER.}}
+      \field{volume}{Chapter 2}
+      \field{year}{2007}
+      \field{pages}{Unit 2.9}
+      \verb{doi}
+      \verb 10.1002/0471140864.ps0209s50
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \endverb
+    \endentry
+    \entry{Marti-Renom2000}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=5461b6b5d70b5f6a29c839ffa86a0f19}{Mart{\'{\i}}-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35af4cbf9d6f921414f47c2a8ed0bba3}{Stuart}{S\bibinitperiod}{Ashley\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=99fdd219dd063e730ce1c4561adc7bce}{Fiser}{F\bibinitperiod}{Andr{\'{a}}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e3a033f64b8a1952a2f23a82a0e89b0d}{{\v{S}}ali}{\v{S}\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=5461b6b5d70b5f6a29c839ffa86a0f19}{Mart{\'{\i}}-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35af4cbf9d6f921414f47c2a8ed0bba3}{Stuart}{S\bibinitperiod}{Ashley\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=99fdd219dd063e730ce1c4561adc7bce}{Fiser}{F\bibinitperiod}{Andr{\'{a}}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e3a033f64b8a1952a2f23a82a0e89b0d}{{\v{S}}ali}{\v{S}\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{f41a3e5a842bfad97bea612d8fb25b3a}
+      \strng{fullhash}{fbf17a2a63c3d668cc93a16c3e4bf91a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative Protein Structure Modeling of Genes and Genomes}}
+      \field{annotation}{doi: 10.1146/annurev.biophys.29.1.291}
+      \field{issn}{1056-8700}
+      \field{journaltitle}{Annual Review of Biophysics and Biomolecular Structure}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Comparative Protein Structure Modeling of Genes and Genomes}}
+      \field{volume}{29}
+      \field{year}{2000}
+      \field{pages}{291\bibrangedash 325}
+      \verb{doi}
+      \verb 10.1146/annurev.biophys.29.1.291
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.biophys.29.1.291
+      \endverb
+    \endentry
+    \entry{Malmstrom2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=50909ec1aeaa7f40002966c164db28a1}{Malmstr{\"{o}}m}{M\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b7abecd7ba3e2d20a76b6aa99be8a0c7}{Goodlett}{G\bibinitperiod}{David\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=50909ec1aeaa7f40002966c164db28a1}{Malmstr{\"{o}}m}{M\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b7abecd7ba3e2d20a76b6aa99be8a0c7}{Goodlett}{G\bibinitperiod}{David\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ac46e7b81e0b55e9135150d2281a4e9}
+      \strng{fullhash}{6ac46e7b81e0b55e9135150d2281a4e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure modeling.}}
+      \field{abstract}{The tertiary structure of proteins can reveal information that is hard to detect in a linear sequence. Knowing the tertiary structure is valuable when generating hypothesis and interpreting data. Unfortunately, the gap between the number of known protein sequences and their associated structures is widening. One way to bridge this gap is to use computer-generated structure models of proteins. Here we present concepts and online resources that can be used to identify structural domains in proteins and to create structure models of those domains.}
+      \field{isbn}{9789812778772}
+      \field{issn}{1940-6029}
+      \field{journaltitle}{Methods in molecular biology (Clifton, N.J.)}
+      \field{title}{{Protein structure modeling.}}
+      \field{volume}{673}
+      \field{year}{2010}
+      \field{pages}{63\bibrangedash 72}
+      \verb{doi}
+      \verb 10.1007/978-1-60761-842-3{\_}5
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/6659{\_}chap01.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Sali1993}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=22bf569e666f3d049884d611ba3c6232}{Blundell}{B\bibinitperiod}{T\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=22bf569e666f3d049884d611ba3c6232}{Blundell}{B\bibinitperiod}{T\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d8f75433cffdb520aad9363ee32a09d}
+      \strng{fullhash}{0d8f75433cffdb520aad9363ee32a09d}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein modelling by satisfaction of spatial restraints.}}
+      \field{abstract}{We describe a comparative protein modelling method designed to find the most probable structure for a sequence given its alignment with related structures. The three-dimensional (3D) model is obtained by optimally satisfying spatial restraints derived from the alignment and expressed as probability density functions (pdfs) for the features restrained. For example, the probabilities for main-chain conformations of a modelled residue may be restrained by its residue type, main-chain conformation of an equivalent residue in a related protein, and the local similarity between the two sequences. Several such pdfs are obtained from the correlations between structural features in 17 families of homologous proteins which have been aligned on the basis of their 3D structures. The pdfs restrain C alpha-C alpha distances, main-chain N-O distances, main-chain and side-chain dihedral angles. A smoothing procedure is used in the derivation of these relationships to minimize the problem of a sparse database. The 3D model of a protein is obtained by optimization of the molecular pdf such that the model violates the input restraints as little as possible. The molecular pdf is derived as a combination of pdfs restraining individual spatial features of the whole molecule. The optimization procedure is a variable target function method that applies the conjugate gradients algorithm to positions of all non-hydrogen atoms. The method is automated and is illustrated by the modelling of trypsin from two other serine proteinases.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{{Comparative protein modelling by satisfaction of spatial restraints.}}
+      \field{volume}{234}
+      \field{year}{1993}
+      \field{pages}{779\bibrangedash 815}
+      \verb{doi}
+      \verb 10.1006/jmbi.1993.1626
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Sali, Blundell - 1993 - Comparative protein modelling by satisfaction of spatial restraints.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283683716268
+      \endverb
+    \endentry
+    \entry{Biasini2014}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=8c5c2e3281ac90e7e047326cb8521061}{Biasini}{B\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e17c8faf02e044a87dc3538d9eaa17ad}{Bienert}{B\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3f5f2d064275270f946fff614f447695}{Waterhouse}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bb290d8c6f623fe5716fac818a936550}{Arnold}{A\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced0d8807b5d18b90fa0eff110760ec}{Studer}{S\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b30253c75a6934483ba798b3afe56cd3}{Schmidt}{S\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f06671679c5a76978a676d7e876574}{Kiefer}{K\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5f57a74cb6d6e11dd14892836edd8945}{Cassarino}{C\bibinitperiod}{Tiziano\bibnamedelima Gallo}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=576452f85aa87f2c057793940f04cbba}{Bertoni}{B\bibinitperiod}{Martino}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bb7862e6edfdd811260dee5da9e55634}{Bordoli}{B\bibinitperiod}{Lorenza}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac78e4bbb3a5578563150b327b14e1b8}{Schwede}{S\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8c5c2e3281ac90e7e047326cb8521061}{Biasini}{B\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e17c8faf02e044a87dc3538d9eaa17ad}{Bienert}{B\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3f5f2d064275270f946fff614f447695}{Waterhouse}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bb290d8c6f623fe5716fac818a936550}{Arnold}{A\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced0d8807b5d18b90fa0eff110760ec}{Studer}{S\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b30253c75a6934483ba798b3afe56cd3}{Schmidt}{S\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f06671679c5a76978a676d7e876574}{Kiefer}{K\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5f57a74cb6d6e11dd14892836edd8945}{Cassarino}{C\bibinitperiod}{Tiziano\bibnamedelima Gallo}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=576452f85aa87f2c057793940f04cbba}{Bertoni}{B\bibinitperiod}{Martino}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bb7862e6edfdd811260dee5da9e55634}{Bordoli}{B\bibinitperiod}{Lorenza}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac78e4bbb3a5578563150b327b14e1b8}{Schwede}{S\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fc6df58544ad5fe1e1fcdf8f6d018e7b}
+      \strng{fullhash}{2d0b0732151e429a0a1fe908e52e33ef}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{SWISS-MODEL: modelling protein tertiary and quaternary structure using evolutionary information}}
+      \field{abstract}{Protein structure homology modelling has become a routine technique to generate 3D models for proteins when experimental structures are not available. Fully automated servers such as SWISS-MODEL with user-friendly web interfaces generate reliable models without the need for complex software packages or downloading large databases. Here, we describe the latest version of the SWISS-MODEL expert system for protein structure modelling. The SWISS-MODEL template library provides annotation of quaternary structure and essential ligands and co-factors to allow for building of complete structural models, including their oligomeric structure. The improved SWISS-MODEL pipeline makes extensive use of model quality estimation for selection of the most suitable templates and provides estimates of the expected accuracy of the resulting models. The accuracy of the models generated by SWISS-MODEL is continuously evaluated by the CAMEO system. The new web site allows users to interactively search for templates, cluster them by sequence similarity, structurally compare alternative templates and select the ones to be used for model building. In cases where multiple alternative template structures are available for a protein of interest, a user-guided template selection step allows building models in different functional states. SWISS-MODEL is available at http://swissmodel.expasy.org/.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{SWISS-MODEL: modelling protein tertiary and quaternary structure using evolutionary information}}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{pages}{W252\bibrangedash W258}
+      \verb{doi}
+      \verb 10.1093/nar/gku340
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4086089/
+      \endverb
+    \endentry
+    \entry{Soding2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=61f1ee7ce63e60c4b4dae9a4a0cfaef0}{S{\"{o}}ding}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6486032f1fd7b53b2499d56d8a872253}{Biegert}{B\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8081813a444f5747b912efbb7db96323}{Lupas}{L\bibinitperiod}{Andrei\bibnamedelima N}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=61f1ee7ce63e60c4b4dae9a4a0cfaef0}{S{\"{o}}ding}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6486032f1fd7b53b2499d56d8a872253}{Biegert}{B\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8081813a444f5747b912efbb7db96323}{Lupas}{L\bibinitperiod}{Andrei\bibnamedelima N}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{0f06a60cfcf41812e52313df1fdf7c89}
+      \strng{fullhash}{0f06a60cfcf41812e52313df1fdf7c89}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The HHpred interactive server for protein homology detection and structure prediction}}
+      \field{abstract}{HHpred is a fast server for remote protein homology detection and structure prediction and is the first to implement pairwise comparison of profile hidden Markov models (HMMs). It allows to search a wide choice of databases, such as the PDB, SCOP, Pfam, SMART, COGs and CDD. It accepts a single query sequence or a multiple alignment as input. Within only a few minutes it returns the search results in a user-friendly format similar to that of PSI-BLAST. Search options include local or global alignment and scoring secondary structure similarity. HHpred can produce pairwise query-template alignments, multiple alignments of the query with a set of templates selected from the search results, as well as 3D structural models that are calculated by the MODELLER software from these alignments. A detailed help facility is available. As a demonstration, we analyze the sequence of SpoVT, a transcriptional regulator from Bacillus subtilis. HHpred can be accessed at .}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{The HHpred interactive server for protein homology detection and structure prediction}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \field{pages}{W244\bibrangedash W248}
+      \verb{doi}
+      \verb 10.1093/nar/gki408
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160169/
+      \endverb
+    \endentry
+    \entry{Yang2015a}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=382479cb8879c413d413cc0d65c513e6}{Yang}{Y\bibinitperiod}{Jianyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2d6f2067dafb0b13323e1d1b1f3d9de9}{Yan}{Y\bibinitperiod}{Renxiang}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=be17c750657847fd489802d414210d61}{Xu}{X\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=69ee6e7891fcac9735315c26f786415d}{Poisson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=382479cb8879c413d413cc0d65c513e6}{Yang}{Y\bibinitperiod}{Jianyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2d6f2067dafb0b13323e1d1b1f3d9de9}{Yan}{Y\bibinitperiod}{Renxiang}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=be17c750657847fd489802d414210d61}{Xu}{X\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=69ee6e7891fcac9735315c26f786415d}{Poisson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{2a370f297e2c905c67d9f3acea8245a9}
+      \strng{fullhash}{6410a1a9ea2bbeb9b8536a073ecb62c9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The I-TASSER Suite: protein structure and function prediction}}
+      \field{issn}{1548-7091}
+      \field{journaltitle}{Nat Meth}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{The I-TASSER Suite: protein structure and function prediction}}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 8}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nmeth.3213%2010.1038/nmeth.3213%20http://www.nature.com/nmeth/journal/v12/n1/abs/nmeth.3213.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Roy2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4c65e01cb598a5ee95e78fa42f50b50e}{Kucukural}{K\bibinitperiod}{Alper}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4c65e01cb598a5ee95e78fa42f50b50e}{Kucukural}{K\bibinitperiod}{Alper}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eab520074224de5113b6a930159d48da}
+      \strng{fullhash}{eab520074224de5113b6a930159d48da}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{I-TASSER: a unified platform for automated protein structure and function prediction}}
+      \field{abstract}{The I-TASSER server is an integrated platform for automated protein structure and function prediction based on the sequence-to-structure-to-function paradigm. Starting from an amino acid sequence, I-TASSER first generates three-dimensional atomic models from multiple threading alignments and iterative structural assembly simulations. The function of the protein is then inferred by structurally matching the 3D models with other known proteins. The output from a typical server run contains full-length secondary and tertiary structure predictions, and functional annotations on ligand-binding sites, Enzyme Commission numbers and Gene Ontology terms. An estimate of accuracy of the predictions is provided based on the confidence score of the modeling. This protocol provides new insights and guidelines for designing of on-line server systems for the state-of-the-art protein structure and function predictions. The server is available at http://zhang.bioinformatics.ku.edu/I-TASSER.}
+      \field{issn}{1754-2189}
+      \field{journaltitle}{Nature protocols}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{I-TASSER: a unified platform for automated protein structure and function prediction}}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{725\bibrangedash 738}
+      \verb{doi}
+      \verb 10.1038/nprot.2010.5
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849174/
+      \endverb
+    \endentry
+    \entry{Zhang2008}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{e760d38078aff4a5b24c867aa5178c26}
+      \strng{fullhash}{e760d38078aff4a5b24c867aa5178c26}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{I-TASSER server for protein 3D structure prediction}}
+      \field{abstract}{BACKGROUND: Prediction of 3-dimensional protein structures from amino acid sequences represents one of the most important problems in computational structural biology. The community-wide Critical Assessment of Structure Prediction (CASP) experiments have been designed to obtain an objective assessment of the state-of-the-art of the field, where I-TASSER was ranked as the best method in the server section of the recent 7th CASP experiment. Our laboratory has since then received numerous requests about the public availability of the I-TASSER algorithm and the usage of the I-TASSER predictions. RESULTS: An on-line version of I-TASSER is developed at the KU Center for Bioinformatics which has generated protein structure predictions for thousands of modeling requests from more than 35 countries. A scoring function (C-score) based on the relative clustering structural density and the consensus significance score of multiple threading templates is introduced to estimate the accuracy of the I-TASSER predictions. A large-scale benchmark test demonstrates a strong correlation between the C-score and the TM-score (a structural similarity measurement with values in [0, 1]) of the first models with a correlation coefficient of 0.91. Using a C-score cutoff > -1.5 for the models of correct topology, both false positive and false negative rates are below 0.1. Combining C-score and protein length, the accuracy of the I-TASSER models can be predicted with an average error of 0.08 for TM-score and 2 {\r{A}} for RMSD. CONCLUSION: The I-TASSER server has been developed to generate automated full-length 3D protein structural predictions where the benchmarked scoring system helps users to obtain quantitative assessments of the I-TASSER models. The output of the I-TASSER server for each query includes up to five full-length models, the confidence score, the estimated TM-score and RMSD, and the standard deviation of the estimations. The I-TASSER server is freely available to the academic community at .}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{01}
+      \field{title}{{I-TASSER server for protein 3D structure prediction}}
+      \field{volume}{9}
+      \field{year}{2008}
+      \field{pages}{40}
+      \verb{doi}
+      \verb 10.1186/1471-2105-9-40
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245901/
+      \endverb
+    \endentry
+    \entry{Kim2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=339e12ef3231908dc13e1e8d9f327d03}{Kim}{K\bibinitperiod}{David\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=384871ed5ad08f441a9752c0ef6144f0}{Chivian}{C\bibinitperiod}{Dylan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=db711af07f28528a9ee5cf2922c529a3}{Baker}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=339e12ef3231908dc13e1e8d9f327d03}{Kim}{K\bibinitperiod}{David\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=384871ed5ad08f441a9752c0ef6144f0}{Chivian}{C\bibinitperiod}{Dylan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=db711af07f28528a9ee5cf2922c529a3}{Baker}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{69f279c6d47da3b36a34d9bdf2e8d521}
+      \strng{fullhash}{69f279c6d47da3b36a34d9bdf2e8d521}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure prediction and analysis using the Robetta server}}
+      \field{abstract}{The Robetta server (http://robetta.bakerlab.org) provides automated tools for protein structure prediction and analysis. For structure prediction, sequences submitted to the server are parsed into putative domains and structural models are generated using either comparative modeling or de novo structure prediction methods. If a confident match to a protein of known structure is found using BLAST, PSI-BLAST, FFAS03 or 3D-Jury, it is used as a template for comparative modeling. If no match is found, structure predictions are made using the de novo Rosetta fragment insertion method. Experimental nuclear magnetic resonance (NMR) constraints data can also be submitted with a query sequence for RosettaNMR de novo structure determination. Other current capabilities include the prediction of the effects of mutations on protein--protein interactions using computational interface alanine scanning. The Rosetta protein design and protein--protein docking methodologies will soon be available through the server as well.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{Protein structure prediction and analysis using the Robetta server}}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{pages}{W526\bibrangedash W531}
+      \verb{doi}
+      \verb 10.1093/nar/gkh468
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC441606/
+      \endverb
+    \endentry
     \entry{Richardson1981}{book}{}
       \name{labelname}{1}{}{%
         {{hash=1942b77d65e62ed294185de18324007a}{Richardson}{R\bibinitperiod}{Jane\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -2376,6 +3276,906 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/2017436
+      \endverb
+    \endentry
+    \entry{PRO1410}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ed874de6afebf6119f7e51dd153e71cd}{Ferrada}{F\bibinitperiod}{Evandro}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ed874de6afebf6119f7e51dd153e71cd}{Ferrada}{F\bibinitperiod}{Evandro}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{0f90a37fb41046e4f0175876923e05c9}
+      \strng{fullhash}{0f90a37fb41046e4f0175876923e05c9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Nonbonded terms extrapolated from nonlocal knowledge-based energy functions improve error detection in near-native protein structure models}}
+      \field{issn}{1469-896X}
+      \field{journaltitle}{Protein Science}
+      \field{number}{7}
+      \field{title}{{Nonbonded terms extrapolated from nonlocal knowledge-based energy functions improve error detection in near-native protein structure models}}
+      \field{volume}{16}
+      \field{year}{2007}
+      \field{pages}{1410\bibrangedash 1421}
+      \verb{doi}
+      \verb 10.1110/ps.062735907
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1110/ps.062735907
+      \endverb
+    \endentry
+    \entry{Fiser2000}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=e517b392b84f852e678aa3386139ef84}{Fiser}{F\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=62cbc31614526d6298eb31e942719390}{Do}{D\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e517b392b84f852e678aa3386139ef84}{Fiser}{F\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=62cbc31614526d6298eb31e942719390}{Do}{D\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8353bfb31ac3e76ac7c791a114f69de7}
+      \strng{fullhash}{8353bfb31ac3e76ac7c791a114f69de7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Modeling of loops in protein structures.}}
+      \field{abstract}{Comparative protein structure prediction is limited mostly by the errors in alignment and loop modeling. We describe here a new automated modeling technique that significantly improves the accuracy of loop predictions in protein structures. The positions of all nonhydrogen atoms of the loop are optimized in a fixed environment with respect to a pseudo energy function. The energy is a sum of many spatial restraints that include the bond length, bond angle, and improper dihedral angle terms from the CHARMM-22 force field, statistical preferences for the main-chain and side-chain dihedral angles, and statistical preferences for nonbonded atomic contacts that depend on the two atom types, their distance through space, and separation in sequence. The energy function is optimized with the method of conjugate gradients combined with molecular dynamics and simulated annealing. Typically, the predicted loop conformation corresponds to the lowest energy conformation among 500 independent optimizations. Predictions were made for 40 loops of known structure at each length from 1 to 14 residues. The accuracy of loop predictions is evaluated as a function of thoroughness of conformational sampling, loop length, and structural properties of native loops. When accuracy is measured by local superposition of the model on the native loop, 100, 90, and 30{\%} of 4-, 8-, and 12-residue loop predictions, respectively, had <2 A RMSD error for the mainchain N, C(alpha), C, and O atoms; the average accuracies were 0.59 +/- 0.05, 1.16 +/- 0.10, and 2.61 +/- 0.16 A, respectively. To simulate real comparative modeling problems, the method was also evaluated by predicting loops of known structure in only approximately correct environments with errors typical of comparative modeling without misalignment. When the RMSD distortion of the main-chain stem atoms is 2.5 A, the average loop prediction error increased by 180, 25, and 3{\%} for 4-, 8-, and 12-residue loops, respectively. The accuracy of the lowest energy prediction for a given loop can be estimated from the structural variability among a number of low energy predictions. The relative value of the present method is gauged by (1) comparing it with one of the most successful previously described methods, and (2) describing its accuracy in recent blind predictions of protein structure. Finally, it is shown that the average accuracy of prediction is limited primarily by the accuracy of the energy function rather than by the extent of conformational sampling.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{{Modeling of loops in protein structures.}}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{pages}{1753\bibrangedash 73}
+      \verb{doi}
+      \verb 10.1110/ps.9.9.1753
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Fiser, Do, Sali - 2000 - Modeling of loops in protein structures.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1110/ps.9.9.1753
+      \endverb
+    \endentry
+    \entry{Kidera1995}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c8282476e68c4b209aeb46e585725654}{Kidera}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c8282476e68c4b209aeb46e585725654}{Kidera}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c8282476e68c4b209aeb46e585725654}
+      \strng{fullhash}{c8282476e68c4b209aeb46e585725654}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enhanced conformational sampling in Monte Carlo simulations of proteins: application to a constrained peptide.}}
+      \field{abstract}{A Monte Carlo simulation method for globular proteins, called extended-scaled-collective-variable (ESCV) Monte Carlo, is proposed. This method combines two Monte Carlo algorithms known as entropy-sampling and scaled-collective-variable algorithms. Entropy-sampling Monte Carlo is able to sample a large configurational space even in a disordered system that has a large number of potential barriers. In contrast, scaled-collective-variable Monte Carlo provides an efficient sampling for a system whose dynamics is highly cooperative. Because a globular protein is a disordered system whose dynamics is characterized by collective motions, a combination of these two algorithms could provide an optimal Monte Carlo simulation for a globular protein. As a test case, we have carried out an ESCV Monte Carlo simulation for a cell adhesive Arg-Gly-Asp-containing peptide, Lys-Arg-Cys-Arg-Gly-Asp-Cys-Met-Asp, and determined the conformational distribution at 300 K. The peptide contains a disulfide bridge between the two cysteine residues. This bond mimics the strong geometrical constraints that result from a protein's globular nature and give rise to highly cooperative dynamics. Computation results show that the ESCV Monte Carlo was not trapped at any local minimum and that the canonical distribution was correctly determined.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{{Enhanced conformational sampling in Monte Carlo simulations of proteins: application to a constrained peptide.}}
+      \field{volume}{92}
+      \field{year}{1995}
+      \field{pages}{9886\bibrangedash 9889}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC40907/
+      \endverb
+    \endentry
+    \entry{McGarrah1993}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=afa2565c534a053018d91d67a2814411}{McGarrah}{M\bibinitperiod}{D.B.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7bf5a3f7da10e7f2d2b6890edcb1a7e7}{Judson}{J\bibinitperiod}{R.S.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=afa2565c534a053018d91d67a2814411}{McGarrah}{M\bibinitperiod}{D.B.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7bf5a3f7da10e7f2d2b6890edcb1a7e7}{Judson}{J\bibinitperiod}{R.S.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b557d80f46ce10a1e6cf0a02d5e9542e}
+      \strng{fullhash}{b557d80f46ce10a1e6cf0a02d5e9542e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Analysis of the genetic algorithm method of molecular conformation determination}}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Analysis of the genetic algorithm method of molecular conformation determination}}
+      \field{volume}{14}
+      \field{year}{1993}
+      \field{pages}{1385\bibrangedash 1395}
+      \verb{doi}
+      \verb 10.1002/jcc.540141115
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/jcc.540141115
+      \endverb
+    \endentry
+    \entry{PROT21669}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=12359cfa1c314fa9ffa69f64abcf8575}{Cozzetto}{C\bibinitperiod}{Domenico}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6a5be81953dca645cba617720be57e}{Kryshtafovych}{K\bibinitperiod}{Andriy}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=27c340ebfd002c512570fec269643a08}{Ceriani}{C\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5d268ce86b3c3897806533826d1f6dbf}{Tramontano}{T\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=12359cfa1c314fa9ffa69f64abcf8575}{Cozzetto}{C\bibinitperiod}{Domenico}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6a5be81953dca645cba617720be57e}{Kryshtafovych}{K\bibinitperiod}{Andriy}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=27c340ebfd002c512570fec269643a08}{Ceriani}{C\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5d268ce86b3c3897806533826d1f6dbf}{Tramontano}{T\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{b427c3b1eca69ff97cfa451eb3b896bf}
+      \strng{fullhash}{873712a7e5f4ae4075b44fd1321b4c3e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Assessment of predictions in the model quality assessment category}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{number}{S8}
+      \field{title}{{Assessment of predictions in the model quality assessment category}}
+      \field{volume}{69}
+      \field{year}{2007}
+      \field{pages}{175\bibrangedash 183}
+      \verb{doi}
+      \verb 10.1002/prot.21669
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/prot.21669
+      \endverb
+    \endentry
+    \entry{Melo2002}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb2016e390357806a2ae00bb310baf4f}
+      \strng{fullhash}{cb2016e390357806a2ae00bb310baf4f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potentials for fold assessment.}}
+      \field{abstract}{A protein structure model generally needs to be evaluated to assess whether or not it has the correct fold. To improve fold assessment, four types of a residue-level statistical potential were optimized, including distance-dependent, contact, Phi/Psi dihedral angle, and accessible surface statistical potentials. Approximately 10,000 test models with the correct and incorrect folds were built by automated comparative modeling of protein sequences of known structure. The criterion used to discriminate between the correct and incorrect models was the Z-score of the model energy. The performance of a Z-score was determined as a function of many variables in the derivation and use of the corresponding statistical potential. The performance was measured by the fractions of the correctly and incorrectly assessed test models. The most discriminating combination of any one of the four tested potentials is the sum of the normalized distance-dependent and accessible surface potentials. The distance-dependent potential that is optimal for assessing models of all sizes uses both C(alpha) and C(beta) atoms as interaction centers, distinguishes between all 20 standard residue types, has the distance range of 30 A, and is derived and used by taking into account the sequence separation of the interacting atom pairs. The terms for the sequentially local interactions are significantly less informative than those for the sequentially nonlocal interactions. The accessible surface potential that is optimal for assessing models of all sizes uses C(beta) atoms as interaction centers and distinguishes between all 20 standard residue types. The performance of the tested statistical potentials is not likely to improve significantly with an increase in the number of known protein structures used in their derivation. The parameters of fold assessment whose optimal values vary significantly with model size include the size of the known protein structures used to derive the potential and the distance range of the accessible surface potential. Fold assessment by statistical potentials is most difficult for the very small models. This difficulty presents a challenge to fold assessment in large-scale comparative modeling, which produces many small and incomplete models. The results described in this study provide a basis for an optimal use of statistical potentials in fold assessment.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Statistical potentials for fold assessment.}}
+      \field{volume}{11}
+      \field{year}{2002}
+      \field{pages}{430\bibrangedash 48}
+      \verb{doi}
+      \verb 10.1002/pro.110430
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Melo, S{\'{a}}nchez, Sali - 2002 - Statistical potentials for fold assessment.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2373452%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Samudrala1998}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4686b65e891cc32a515a532dc45bdd4d}{Samudrala}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9caa6978492f08cfed191ff7c57cc8}{Moult}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4686b65e891cc32a515a532dc45bdd4d}{Samudrala}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9caa6978492f08cfed191ff7c57cc8}{Moult}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0b201f2a39a0643ac8358aefca502064}
+      \strng{fullhash}{0b201f2a39a0643ac8358aefca502064}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{An all-atom distance-dependent conditional probability discriminatory function for protein structure prediction.}}
+      \field{abstract}{We present a formalism to compute the probability of an amino acid sequence conformation being native-like, given a set of pairwise atom-atom distances. The formalism is used to derive three discriminatory functions with different types of representations for the atom-atom contacts observed in a database of protein structures. These functions include two virtual atom representations and one all-heavy atom representation. When applied to six different decoy sets containing a range of correct and incorrect conformations of amino acid sequences, the all-atom distance-dependent discriminatory function is able to identify correct from incorrect more often than the discriminatory functions using approximate representations. We illustrate the importance of using a detailed atomic description for obtaining the most accurate discrimination, and the necessity for testing discriminatory functions against a wide variety of decoys. The discriminatory function is also shown to be capable of capturing the fine details of atom-atom preferences. These results suggest that the all-atom distance-dependent discriminatory function will be useful for protein structure prediction and model refinement.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{{An all-atom distance-dependent conditional probability discriminatory function for protein structure prediction.}}
+      \field{volume}{275}
+      \field{year}{1998}
+      \field{pages}{895\bibrangedash 916}
+      \verb{doi}
+      \verb 10.1006/jmbi.1997.1479
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Samudrala, Moult - 1998 - An all-atom distance-dependent conditional probability discriminatory function for protein structure predictio.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283697914790
+      \endverb
+    \endentry
+    \entry{CASE2005}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=afbf75d7017415fc860e6a64510eabb9}{CASE}{C\bibinitperiod}{DAVID\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a3b350b0d9f9a1caeee0850b8f68133}{CHEATHAM}{C\bibinitperiod}{THOMAS\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=520a880201c03cb5ffb801d8f0b42aaf}{DARDEN}{D\bibinitperiod}{T\bibnamedelima O\bibnamedelima M}{T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=cf891775c1d840e5e86598f49a71c507}{GOHLKE}{G\bibinitperiod}{HOLGER}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=054487ae1fa27aa51403cd95b63e5353}{LUO}{L\bibinitperiod}{R\bibnamedelima A\bibnamedelima Y}{R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=73373d35a0232230946c0e7be8c66e9d}{MERZ}{M\bibinitperiod}{KENNETH\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc15a926f24420e0d9e9d7f1f5f40a8}{ONUFRIEV}{O\bibinitperiod}{ALEXEY}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2b5ec1ebee175aa142c3339abd5ea0}{SIMMERLING}{S\bibinitperiod}{CARLOS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27e5b55bf04eafe15cfcbd85e82afa2a}{WANG}{W\bibinitperiod}{BING}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d8b8461422b971d2decef4f1c5c50780}{WOODS}{W\bibinitperiod}{ROBERT\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=afbf75d7017415fc860e6a64510eabb9}{CASE}{C\bibinitperiod}{DAVID\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a3b350b0d9f9a1caeee0850b8f68133}{CHEATHAM}{C\bibinitperiod}{THOMAS\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=520a880201c03cb5ffb801d8f0b42aaf}{DARDEN}{D\bibinitperiod}{T\bibnamedelima O\bibnamedelima M}{T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=cf891775c1d840e5e86598f49a71c507}{GOHLKE}{G\bibinitperiod}{HOLGER}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=054487ae1fa27aa51403cd95b63e5353}{LUO}{L\bibinitperiod}{R\bibnamedelima A\bibnamedelima Y}{R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=73373d35a0232230946c0e7be8c66e9d}{MERZ}{M\bibinitperiod}{KENNETH\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc15a926f24420e0d9e9d7f1f5f40a8}{ONUFRIEV}{O\bibinitperiod}{ALEXEY}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2b5ec1ebee175aa142c3339abd5ea0}{SIMMERLING}{S\bibinitperiod}{CARLOS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27e5b55bf04eafe15cfcbd85e82afa2a}{WANG}{W\bibinitperiod}{BING}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=d8b8461422b971d2decef4f1c5c50780}{WOODS}{W\bibinitperiod}{ROBERT\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d6ab83104171a1ae7f329995dbd3efa5}
+      \strng{fullhash}{8fac7a6e9fe4cd0745d478213ab1aadf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The Amber Biomolecular Simulation Programs}}
+      \field{abstract}{We describe the development, current features, and some directions for future development of the Amber package of computer programs. This package evolved from a program that was constructed in the late 1970s to do Assisted Model Building with Energy Refinement, and now contains a group of programs embodying a number of powerful tools of modern computational chemistry, focused on molecular dynamics and free energy calculations of proteins, nucleic acids, and carbohydrates.}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of computational chemistry}
+      \field{month}{12}
+      \field{number}{16}
+      \field{title}{{The Amber Biomolecular Simulation Programs}}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{pages}{1668\bibrangedash 1688}
+      \verb{doi}
+      \verb 10.1002/jcc.20290
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1989667/
+      \endverb
+    \endentry
+    \entry{Brooks1983}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=1389ef60927aa2662a371d4342c55037}{Brooks}{B\bibinitperiod}{Bernard\bibnamedelima R.}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2417da553beb849755a5b169592d1baf}{Bruccoleri}{B\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d2dab0cdd0820888b399d5fdc25a32af}{Olafson}{O\bibinitperiod}{Barry\bibnamedelima D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d44b9be3654b44a716d9118bdfbe8708}{States}{S\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f73c3ad8bb4bba4c8dbd40ecf5a28662}{Swaminathan}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5743d79be0ffa377a441f1fe37a0d8cd}{Karplus}{K\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=1389ef60927aa2662a371d4342c55037}{Brooks}{B\bibinitperiod}{Bernard\bibnamedelima R.}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2417da553beb849755a5b169592d1baf}{Bruccoleri}{B\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d2dab0cdd0820888b399d5fdc25a32af}{Olafson}{O\bibinitperiod}{Barry\bibnamedelima D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d44b9be3654b44a716d9118bdfbe8708}{States}{S\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f73c3ad8bb4bba4c8dbd40ecf5a28662}{Swaminathan}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5743d79be0ffa377a441f1fe37a0d8cd}{Karplus}{K\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b84e15f99b2ac77e2514f794aaa3250}
+      \strng{fullhash}{03869cc9823daab579933399e29b261e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{CHARMM: A program for macromolecular energy, minimization, and dynamics calculations}}
+      \field{issn}{0192-8651}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{number}{2}
+      \field{title}{{CHARMM: A program for macromolecular energy, minimization, and dynamics calculations}}
+      \field{volume}{4}
+      \field{year}{1983}
+      \field{pages}{187\bibrangedash 217}
+      \verb{doi}
+      \verb 10.1002/jcc.540040211
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/jcc.540040211
+      \endverb
+    \endentry
+    \entry{Fogolari2003}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=b0a19adab2b43ba18a8d19175bf30eec}{Fogolari}{F\bibinitperiod}{Federico}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3fc9fe51666c0f664516555fa88b7f00}{Brigo}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dcdabdb877b70c13a41d1aec410043b9}{Molinari}{M\bibinitperiod}{Henriette}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=b0a19adab2b43ba18a8d19175bf30eec}{Fogolari}{F\bibinitperiod}{Federico}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3fc9fe51666c0f664516555fa88b7f00}{Brigo}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dcdabdb877b70c13a41d1aec410043b9}{Molinari}{M\bibinitperiod}{Henriette}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e30fd074a9b6ff83afefc3e237d489e2}
+      \strng{fullhash}{e30fd074a9b6ff83afefc3e237d489e2}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protocol for MM/PBSA molecular dynamics simulations of proteins.}}
+      \field{abstract}{Continuum solvent models have been employed in past years for understanding processes such as protein folding or biomolecular association. In the last decade, several attempts have been made to merge atomic detail molecular dynamics simulations with solvent continuum models. Among continuum models, the Poisson-Boltzmann solvent accessible surface area model is one of the oldest and most fundamental. Notwithstanding its wide usage for simulation of biomolecular electrostatic potential, the Poisson-Boltzmann equation has been very seldom used to obtain solvation forces for molecular dynamics simulation. We propose here a fast and reliable methodology to implement continuum forces in standard molecular mechanics and dynamics algorithms. Results for a totally unrestrained 1 ns molecular dynamics simulation of a small protein are quantitatively similar to results obtained by explicit solvent molecular dynamics simulations.}
+      \field{issn}{0006-3495}
+      \field{journaltitle}{Biophysical journal}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Protocol for MM/PBSA molecular dynamics simulations of proteins.}}
+      \field{volume}{85}
+      \field{year}{2003}
+      \field{pages}{159\bibrangedash 66}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(03)74462-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Fogolari, Brigo, Molinari - 2003 - Protocol for MMPBSA molecular dynamics simulations of proteins.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0006349503744622
+      \endverb
+    \endentry
+    \entry{Thomas1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1113f5f32914572528c35375f4f2235e}{Thomas}{T\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1113f5f32914572528c35375f4f2235e}{Thomas}{T\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=9a39ef1b41588121d5d2cefe3071d1b6}{Dill}{D\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d422cf20eb10f05439de205b25a7a2d}
+      \strng{fullhash}{3d422cf20eb10f05439de205b25a7a2d}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potentials extracted from protein structures: how accurate are they?}}
+      \field{abstract}{"Statistical potentials" are energies widely used in computer algorithms to fold, dock, or recognize protein structures. They are derived from: (1) observed pairing frequencies of the 20 amino acids in databases of known protein structures, and (2) approximations and assumptions about the physical process that these quantities measure. Using exact lattice models, we construct a rigorous test of those assumptions and approximations. We find that statistical potentials often correctly rank-order the relative strengths of interresidue interactions, but they do not reflect the true underlying energies because of systematic errors arising from the neglect of excluded volume in proteins. We find that complex residue-residue distance dependences observed in statistical potentials, even those among charged groups, can be largely explained as an indirect consequence of the burial of non-polar groups. Our results suggest that current statistical potentials may have limited value in protein folding algorithms and wherever they are used to provide energy-like quantities.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Statistical potentials extracted from protein structures: how accurate are they?}}
+      \field{volume}{257}
+      \field{year}{1996}
+      \field{pages}{457\bibrangedash 69}
+      \verb{doi}
+      \verb 10.1006/jmbi.1996.0175
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Thomas, Dill - 1996 - Statistical potentials extracted from protein structures how accurate are they.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283696901758
+      \endverb
+    \endentry
+    \entry{Shen2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6529665068922e70b8d60070c8f3c1bc}{Shen}{S\bibinitperiod}{Min-yi}{M\bibinithyphendelim y\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6529665068922e70b8d60070c8f3c1bc}{Shen}{S\bibinitperiod}{Min-yi}{M\bibinithyphendelim y\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing}%
+      }
+      \strng{namehash}{d980f1da7c156433669b8b153bf33028}
+      \strng{fullhash}{d980f1da7c156433669b8b153bf33028}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Statistical potential for assessment and prediction of protein structures}}
+      \field{abstract}{Protein structures in the Protein Data Bank provide a wealth of data about the interactions that determine the native states of proteins. Using the probability theory, we derive an atomic distance-dependent statistical potential from a sample of native structures that does not depend on any adjustable parameters (Discrete Optimized Protein Energy, or DOPE). DOPE is based on an improved reference state that corresponds to noninteracting atoms in a homogeneous sphere with the radius dependent on a sample native structure; it thus accounts for the finite and spherical shape of the native structures. The DOPE potential was extracted from a nonredundant set of 1472 crystallographic structures. We tested DOPE and five other scoring functions by the detection of the native state among six multiple target decoy sets, the correlation between the score and model error, and the identification of the most accurate non-native structure in the decoy set. For all decoy sets, DOPE is the best performing function in terms of all criteria, except for a tie in one criterion for one decoy set. To facilitate its use in various applications, such as model assessment, loop modeling, and fitting into cryo-electron microscopy mass density maps combined with comparative protein structure modeling, DOPE was incorporated into the modeling package MODELLER-8.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein Science : A Publication of the Protein Society}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Statistical potential for assessment and prediction of protein structures}}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{2507\bibrangedash 2524}
+      \verb{doi}
+      \verb 10.1110/ps.062416606
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242414/
+      \endverb
+    \endentry
+    \entry{Zhou2002}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=df8e91a61dfc6515a464839aaba565ce}{Zhou}{Z\bibinitperiod}{Hongyi}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ce7558f60198035c0f0a04b2acfdca0f}{Zhou}{Z\bibinitperiod}{Yaoqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=df8e91a61dfc6515a464839aaba565ce}{Zhou}{Z\bibinitperiod}{Hongyi}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ce7558f60198035c0f0a04b2acfdca0f}{Zhou}{Z\bibinitperiod}{Yaoqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{45802cd4f4878477bd12b4fe648e19ae}
+      \strng{fullhash}{45802cd4f4878477bd12b4fe648e19ae}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure selection and stability prediction.}}
+      \field{abstract}{The distance-dependent structure-derived potentials developed so far all employed a reference state that can be characterized as a residue (atom)-averaged state. Here, we establish a new reference state called the distance-scaled, finite ideal-gas reference (DFIRE) state. The reference state is used to construct a residue-specific all-atom potential of mean force from a database of 1011 nonhomologous (less than 30{\%} homology) protein structures with resolution less than 2 A. The new all-atom potential recognizes more native proteins from 32 multiple decoy sets, and raises an average Z-score by 1.4 units more than two previously developed, residue-specific, all-atom knowledge-based potentials. When only backbone and C(beta) atoms are used in scoring, the performance of the DFIRE-based potential, although is worse than that of the all-atom version, is comparable to those of the previously developed potentials on the all-atom level. In addition, the DFIRE-based all-atom potential provides the most accurate prediction of the stabilities of 895 mutants among three knowledge-based all-atom potentials. Comparison with several physical-based potentials is made.}
+      \field{issn}{0961-8368}
+      \field{journaltitle}{Protein science : a publication of the Protein Society}
+      \field{month}{12}
+      \field{number}{11}
+      \field{title}{{Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure selection and stability prediction.}}
+      \field{volume}{11}
+      \field{year}{2002}
+      \field{pages}{2714\bibrangedash 26}
+      \verb{doi}
+      \verb 10.1110/ps.0217002
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhou, Zhou - 2002 - Distance-scaled, finite ideal-gas reference state improves structure-derived potentials of mean force for structure.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2373736%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Sippl1995}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8e55892f5d151274795af5e5648e0d79}{Sippl}{S\bibinitperiod}{Manfred\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8e55892f5d151274795af5e5648e0d79}{Sippl}{S\bibinitperiod}{Manfred\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8e55892f5d151274795af5e5648e0d79}
+      \strng{fullhash}{8e55892f5d151274795af5e5648e0d79}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Knowledge-based potentials for proteins}}
+      \field{abstract}{Knowledge based potentials and energy functions are extracted from a number of databases of known protein structures. Recent developments have shown that this type of potential is successful in many areas of protein structure research. Among these are quality assessment and error recognition of folds and the prediction of unknown structures by fold-recognition techniques.}
+      \field{issn}{0959440X}
+      \field{journaltitle}{Current Opinion in Structural Biology}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{{Knowledge-based potentials for proteins}}
+      \field{volume}{5}
+      \field{year}{1995}
+      \field{pages}{229\bibrangedash 235}
+      \verb{doi}
+      \verb 10.1016/0959-440X(95)80081-6
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Sippl - 1995 - Knowledge-based potentials for proteins.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0959440X95800816
+      \endverb
+    \endentry
+    \entry{Du2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2736bf88ecd6e7286f45cd9d073cbc29}{Du}{D\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=575a5ee21fb18fa9d777a9a1a1c55273}{Xie}{X\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2736bf88ecd6e7286f45cd9d073cbc29}{Du}{D\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=575a5ee21fb18fa9d777a9a1a1c55273}{Xie}{X\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences}%
+      }
+      \strng{namehash}{5cb5b09bb0795e7d48f5943207b56549}
+      \strng{fullhash}{5cb5b09bb0795e7d48f5943207b56549}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{G protein-coupled receptors as therapeutic targets for multiple sclerosis}}
+      \field{issn}{1001-0602}
+      \field{journaltitle}{Cell Res}
+      \field{month}{06}
+      \field{number}{7}
+      \field{title}{{G protein-coupled receptors as therapeutic targets for multiple sclerosis}}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{1108\bibrangedash 1128}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/cr.2012.87
+      \endverb
+    \endentry
+    \entry{Kampen2011}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6faf1f529ac51f2ada4a7ef12dc34733}{Kampen}{K\bibinitperiod}{Kim\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6faf1f529ac51f2ada4a7ef12dc34733}{Kampen}{K\bibinitperiod}{Kim\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6faf1f529ac51f2ada4a7ef12dc34733}
+      \strng{fullhash}{6faf1f529ac51f2ada4a7ef12dc34733}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Membrane Proteins: The Key Players of a Cancer Cell}}
+      \field{abstract}{Membrane proteins are involved in the prognosis of the most common forms of cancer. Membrane proteins are the hallmark of a cancer cell. The overexpressed membrane receptors are becoming increasingly important in cancer cell therapy. Current renewing therapy approaches based on receptor overexpression include; antibody therapy, nanocarrier drug delivery, and fluorescent tumor imaging in surgery. Gene profiling reveals cancer specific signatures and may identify membrane proteins that are related to cancer progression and lead to the development of improved therapy strategies in the future.}
+      \field{issn}{1432-1424}
+      \field{journaltitle}{The Journal of Membrane Biology}
+      \field{number}{2}
+      \field{title}{{Membrane Proteins: The Key Players of a Cancer Cell}}
+      \field{volume}{242}
+      \field{year}{2011}
+      \field{pages}{69\bibrangedash 74}
+      \verb{doi}
+      \verb 10.1007/s00232-011-9381-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00232-011-9381-7
+      \endverb
+    \endentry
+    \entry{Eswar2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
+      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
+      \field{isbn}{9780471140863}
+      \field{issn}{1934-3663}
+      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
+      \field{month}{12}
+      \field{title}{{Comparative protein structure modeling using MODELLER.}}
+      \field{volume}{Chapter 2}
+      \field{year}{2007}
+      \field{pages}{Unit 2.9}
+      \verb{doi}
+      \verb 10.1002/0471140864.ps0209s50
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \endverb
+    \endentry
+    \entry{Marti-Renom2000}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=5461b6b5d70b5f6a29c839ffa86a0f19}{Mart{\'{\i}}-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35af4cbf9d6f921414f47c2a8ed0bba3}{Stuart}{S\bibinitperiod}{Ashley\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=99fdd219dd063e730ce1c4561adc7bce}{Fiser}{F\bibinitperiod}{Andr{\'{a}}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e3a033f64b8a1952a2f23a82a0e89b0d}{{\v{S}}ali}{\v{S}\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=5461b6b5d70b5f6a29c839ffa86a0f19}{Mart{\'{\i}}-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35af4cbf9d6f921414f47c2a8ed0bba3}{Stuart}{S\bibinitperiod}{Ashley\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=99fdd219dd063e730ce1c4561adc7bce}{Fiser}{F\bibinitperiod}{Andr{\'{a}}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c025a3feb761e31b3dadda76221a12e}{S{\'{a}}nchez}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=021094801a7b30af836225098951e626}{Melo}{M\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e3a033f64b8a1952a2f23a82a0e89b0d}{{\v{S}}ali}{\v{S}\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{f41a3e5a842bfad97bea612d8fb25b3a}
+      \strng{fullhash}{fbf17a2a63c3d668cc93a16c3e4bf91a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative Protein Structure Modeling of Genes and Genomes}}
+      \field{annotation}{doi: 10.1146/annurev.biophys.29.1.291}
+      \field{issn}{1056-8700}
+      \field{journaltitle}{Annual Review of Biophysics and Biomolecular Structure}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Comparative Protein Structure Modeling of Genes and Genomes}}
+      \field{volume}{29}
+      \field{year}{2000}
+      \field{pages}{291\bibrangedash 325}
+      \verb{doi}
+      \verb 10.1146/annurev.biophys.29.1.291
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.biophys.29.1.291
+      \endverb
+    \endentry
+    \entry{Malmstrom2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=50909ec1aeaa7f40002966c164db28a1}{Malmstr{\"{o}}m}{M\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b7abecd7ba3e2d20a76b6aa99be8a0c7}{Goodlett}{G\bibinitperiod}{David\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=50909ec1aeaa7f40002966c164db28a1}{Malmstr{\"{o}}m}{M\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b7abecd7ba3e2d20a76b6aa99be8a0c7}{Goodlett}{G\bibinitperiod}{David\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ac46e7b81e0b55e9135150d2281a4e9}
+      \strng{fullhash}{6ac46e7b81e0b55e9135150d2281a4e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure modeling.}}
+      \field{abstract}{The tertiary structure of proteins can reveal information that is hard to detect in a linear sequence. Knowing the tertiary structure is valuable when generating hypothesis and interpreting data. Unfortunately, the gap between the number of known protein sequences and their associated structures is widening. One way to bridge this gap is to use computer-generated structure models of proteins. Here we present concepts and online resources that can be used to identify structural domains in proteins and to create structure models of those domains.}
+      \field{isbn}{9789812778772}
+      \field{issn}{1940-6029}
+      \field{journaltitle}{Methods in molecular biology (Clifton, N.J.)}
+      \field{title}{{Protein structure modeling.}}
+      \field{volume}{673}
+      \field{year}{2010}
+      \field{pages}{63\bibrangedash 72}
+      \verb{doi}
+      \verb 10.1007/978-1-60761-842-3{\_}5
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/6659{\_}chap01.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Sali1993}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=22bf569e666f3d049884d611ba3c6232}{Blundell}{B\bibinitperiod}{T\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a62b855d7bfef6fb576bae4790097131}{Sali}{S\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=22bf569e666f3d049884d611ba3c6232}{Blundell}{B\bibinitperiod}{T\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d8f75433cffdb520aad9363ee32a09d}
+      \strng{fullhash}{0d8f75433cffdb520aad9363ee32a09d}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein modelling by satisfaction of spatial restraints.}}
+      \field{abstract}{We describe a comparative protein modelling method designed to find the most probable structure for a sequence given its alignment with related structures. The three-dimensional (3D) model is obtained by optimally satisfying spatial restraints derived from the alignment and expressed as probability density functions (pdfs) for the features restrained. For example, the probabilities for main-chain conformations of a modelled residue may be restrained by its residue type, main-chain conformation of an equivalent residue in a related protein, and the local similarity between the two sequences. Several such pdfs are obtained from the correlations between structural features in 17 families of homologous proteins which have been aligned on the basis of their 3D structures. The pdfs restrain C alpha-C alpha distances, main-chain N-O distances, main-chain and side-chain dihedral angles. A smoothing procedure is used in the derivation of these relationships to minimize the problem of a sparse database. The 3D model of a protein is obtained by optimization of the molecular pdf such that the model violates the input restraints as little as possible. The molecular pdf is derived as a combination of pdfs restraining individual spatial features of the whole molecule. The optimization procedure is a variable target function method that applies the conjugate gradients algorithm to positions of all non-hydrogen atoms. The method is automated and is illustrated by the modelling of trypsin from two other serine proteinases.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of molecular biology}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{{Comparative protein modelling by satisfaction of spatial restraints.}}
+      \field{volume}{234}
+      \field{year}{1993}
+      \field{pages}{779\bibrangedash 815}
+      \verb{doi}
+      \verb 10.1006/jmbi.1993.1626
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Sali, Blundell - 1993 - Comparative protein modelling by satisfaction of spatial restraints.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283683716268
+      \endverb
+    \endentry
+    \entry{Biasini2014}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=8c5c2e3281ac90e7e047326cb8521061}{Biasini}{B\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e17c8faf02e044a87dc3538d9eaa17ad}{Bienert}{B\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3f5f2d064275270f946fff614f447695}{Waterhouse}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bb290d8c6f623fe5716fac818a936550}{Arnold}{A\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced0d8807b5d18b90fa0eff110760ec}{Studer}{S\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b30253c75a6934483ba798b3afe56cd3}{Schmidt}{S\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f06671679c5a76978a676d7e876574}{Kiefer}{K\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5f57a74cb6d6e11dd14892836edd8945}{Cassarino}{C\bibinitperiod}{Tiziano\bibnamedelima Gallo}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=576452f85aa87f2c057793940f04cbba}{Bertoni}{B\bibinitperiod}{Martino}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bb7862e6edfdd811260dee5da9e55634}{Bordoli}{B\bibinitperiod}{Lorenza}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac78e4bbb3a5578563150b327b14e1b8}{Schwede}{S\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8c5c2e3281ac90e7e047326cb8521061}{Biasini}{B\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e17c8faf02e044a87dc3538d9eaa17ad}{Bienert}{B\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3f5f2d064275270f946fff614f447695}{Waterhouse}{W\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bb290d8c6f623fe5716fac818a936550}{Arnold}{A\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1ced0d8807b5d18b90fa0eff110760ec}{Studer}{S\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b30253c75a6934483ba798b3afe56cd3}{Schmidt}{S\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f06671679c5a76978a676d7e876574}{Kiefer}{K\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5f57a74cb6d6e11dd14892836edd8945}{Cassarino}{C\bibinitperiod}{Tiziano\bibnamedelima Gallo}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=576452f85aa87f2c057793940f04cbba}{Bertoni}{B\bibinitperiod}{Martino}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bb7862e6edfdd811260dee5da9e55634}{Bordoli}{B\bibinitperiod}{Lorenza}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac78e4bbb3a5578563150b327b14e1b8}{Schwede}{S\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fc6df58544ad5fe1e1fcdf8f6d018e7b}
+      \strng{fullhash}{2d0b0732151e429a0a1fe908e52e33ef}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{SWISS-MODEL: modelling protein tertiary and quaternary structure using evolutionary information}}
+      \field{abstract}{Protein structure homology modelling has become a routine technique to generate 3D models for proteins when experimental structures are not available. Fully automated servers such as SWISS-MODEL with user-friendly web interfaces generate reliable models without the need for complex software packages or downloading large databases. Here, we describe the latest version of the SWISS-MODEL expert system for protein structure modelling. The SWISS-MODEL template library provides annotation of quaternary structure and essential ligands and co-factors to allow for building of complete structural models, including their oligomeric structure. The improved SWISS-MODEL pipeline makes extensive use of model quality estimation for selection of the most suitable templates and provides estimates of the expected accuracy of the resulting models. The accuracy of the models generated by SWISS-MODEL is continuously evaluated by the CAMEO system. The new web site allows users to interactively search for templates, cluster them by sequence similarity, structurally compare alternative templates and select the ones to be used for model building. In cases where multiple alternative template structures are available for a protein of interest, a user-guided template selection step allows building models in different functional states. SWISS-MODEL is available at http://swissmodel.expasy.org/.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{SWISS-MODEL: modelling protein tertiary and quaternary structure using evolutionary information}}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{pages}{W252\bibrangedash W258}
+      \verb{doi}
+      \verb 10.1093/nar/gku340
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4086089/
+      \endverb
+    \endentry
+    \entry{Soding2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=61f1ee7ce63e60c4b4dae9a4a0cfaef0}{S{\"{o}}ding}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6486032f1fd7b53b2499d56d8a872253}{Biegert}{B\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8081813a444f5747b912efbb7db96323}{Lupas}{L\bibinitperiod}{Andrei\bibnamedelima N}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=61f1ee7ce63e60c4b4dae9a4a0cfaef0}{S{\"{o}}ding}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6486032f1fd7b53b2499d56d8a872253}{Biegert}{B\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8081813a444f5747b912efbb7db96323}{Lupas}{L\bibinitperiod}{Andrei\bibnamedelima N}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{0f06a60cfcf41812e52313df1fdf7c89}
+      \strng{fullhash}{0f06a60cfcf41812e52313df1fdf7c89}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The HHpred interactive server for protein homology detection and structure prediction}}
+      \field{abstract}{HHpred is a fast server for remote protein homology detection and structure prediction and is the first to implement pairwise comparison of profile hidden Markov models (HMMs). It allows to search a wide choice of databases, such as the PDB, SCOP, Pfam, SMART, COGs and CDD. It accepts a single query sequence or a multiple alignment as input. Within only a few minutes it returns the search results in a user-friendly format similar to that of PSI-BLAST. Search options include local or global alignment and scoring secondary structure similarity. HHpred can produce pairwise query-template alignments, multiple alignments of the query with a set of templates selected from the search results, as well as 3D structural models that are calculated by the MODELLER software from these alignments. A detailed help facility is available. As a demonstration, we analyze the sequence of SpoVT, a transcriptional regulator from Bacillus subtilis. HHpred can be accessed at .}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{The HHpred interactive server for protein homology detection and structure prediction}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \field{pages}{W244\bibrangedash W248}
+      \verb{doi}
+      \verb 10.1093/nar/gki408
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160169/
+      \endverb
+    \endentry
+    \entry{Yang2015a}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=382479cb8879c413d413cc0d65c513e6}{Yang}{Y\bibinitperiod}{Jianyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2d6f2067dafb0b13323e1d1b1f3d9de9}{Yan}{Y\bibinitperiod}{Renxiang}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=be17c750657847fd489802d414210d61}{Xu}{X\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=69ee6e7891fcac9735315c26f786415d}{Poisson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=382479cb8879c413d413cc0d65c513e6}{Yang}{Y\bibinitperiod}{Jianyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2d6f2067dafb0b13323e1d1b1f3d9de9}{Yan}{Y\bibinitperiod}{Renxiang}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=be17c750657847fd489802d414210d61}{Xu}{X\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=69ee6e7891fcac9735315c26f786415d}{Poisson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{2a370f297e2c905c67d9f3acea8245a9}
+      \strng{fullhash}{6410a1a9ea2bbeb9b8536a073ecb62c9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The I-TASSER Suite: protein structure and function prediction}}
+      \field{issn}{1548-7091}
+      \field{journaltitle}{Nat Meth}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{The I-TASSER Suite: protein structure and function prediction}}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{7\bibrangedash 8}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nmeth.3213%2010.1038/nmeth.3213%20http://www.nature.com/nmeth/journal/v12/n1/abs/nmeth.3213.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Roy2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4c65e01cb598a5ee95e78fa42f50b50e}{Kucukural}{K\bibinitperiod}{Alper}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=32b724aac9cf1ba7e73e7fbb0fda1b1a}{Roy}{R\bibinitperiod}{Ambrish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4c65e01cb598a5ee95e78fa42f50b50e}{Kucukural}{K\bibinitperiod}{Alper}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eab520074224de5113b6a930159d48da}
+      \strng{fullhash}{eab520074224de5113b6a930159d48da}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{I-TASSER: a unified platform for automated protein structure and function prediction}}
+      \field{abstract}{The I-TASSER server is an integrated platform for automated protein structure and function prediction based on the sequence-to-structure-to-function paradigm. Starting from an amino acid sequence, I-TASSER first generates three-dimensional atomic models from multiple threading alignments and iterative structural assembly simulations. The function of the protein is then inferred by structurally matching the 3D models with other known proteins. The output from a typical server run contains full-length secondary and tertiary structure predictions, and functional annotations on ligand-binding sites, Enzyme Commission numbers and Gene Ontology terms. An estimate of accuracy of the predictions is provided based on the confidence score of the modeling. This protocol provides new insights and guidelines for designing of on-line server systems for the state-of-the-art protein structure and function predictions. The server is available at http://zhang.bioinformatics.ku.edu/I-TASSER.}
+      \field{issn}{1754-2189}
+      \field{journaltitle}{Nature protocols}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{I-TASSER: a unified platform for automated protein structure and function prediction}}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{725\bibrangedash 738}
+      \verb{doi}
+      \verb 10.1038/nprot.2010.5
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849174/
+      \endverb
+    \endentry
+    \entry{Zhang2008}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{Zhang}{Z\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{e760d38078aff4a5b24c867aa5178c26}
+      \strng{fullhash}{e760d38078aff4a5b24c867aa5178c26}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{I-TASSER server for protein 3D structure prediction}}
+      \field{abstract}{BACKGROUND: Prediction of 3-dimensional protein structures from amino acid sequences represents one of the most important problems in computational structural biology. The community-wide Critical Assessment of Structure Prediction (CASP) experiments have been designed to obtain an objective assessment of the state-of-the-art of the field, where I-TASSER was ranked as the best method in the server section of the recent 7th CASP experiment. Our laboratory has since then received numerous requests about the public availability of the I-TASSER algorithm and the usage of the I-TASSER predictions. RESULTS: An on-line version of I-TASSER is developed at the KU Center for Bioinformatics which has generated protein structure predictions for thousands of modeling requests from more than 35 countries. A scoring function (C-score) based on the relative clustering structural density and the consensus significance score of multiple threading templates is introduced to estimate the accuracy of the I-TASSER predictions. A large-scale benchmark test demonstrates a strong correlation between the C-score and the TM-score (a structural similarity measurement with values in [0, 1]) of the first models with a correlation coefficient of 0.91. Using a C-score cutoff > -1.5 for the models of correct topology, both false positive and false negative rates are below 0.1. Combining C-score and protein length, the accuracy of the I-TASSER models can be predicted with an average error of 0.08 for TM-score and 2 {\r{A}} for RMSD. CONCLUSION: The I-TASSER server has been developed to generate automated full-length 3D protein structural predictions where the benchmarked scoring system helps users to obtain quantitative assessments of the I-TASSER models. The output of the I-TASSER server for each query includes up to five full-length models, the confidence score, the estimated TM-score and RMSD, and the standard deviation of the estimations. The I-TASSER server is freely available to the academic community at .}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{01}
+      \field{title}{{I-TASSER server for protein 3D structure prediction}}
+      \field{volume}{9}
+      \field{year}{2008}
+      \field{pages}{40}
+      \verb{doi}
+      \verb 10.1186/1471-2105-9-40
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245901/
+      \endverb
+    \endentry
+    \entry{Kim2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=339e12ef3231908dc13e1e8d9f327d03}{Kim}{K\bibinitperiod}{David\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=384871ed5ad08f441a9752c0ef6144f0}{Chivian}{C\bibinitperiod}{Dylan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=db711af07f28528a9ee5cf2922c529a3}{Baker}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=339e12ef3231908dc13e1e8d9f327d03}{Kim}{K\bibinitperiod}{David\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=384871ed5ad08f441a9752c0ef6144f0}{Chivian}{C\bibinitperiod}{Dylan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=db711af07f28528a9ee5cf2922c529a3}{Baker}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{69f279c6d47da3b36a34d9bdf2e8d521}
+      \strng{fullhash}{69f279c6d47da3b36a34d9bdf2e8d521}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein structure prediction and analysis using the Robetta server}}
+      \field{abstract}{The Robetta server (http://robetta.bakerlab.org) provides automated tools for protein structure prediction and analysis. For structure prediction, sequences submitted to the server are parsed into putative domains and structural models are generated using either comparative modeling or de novo structure prediction methods. If a confident match to a protein of known structure is found using BLAST, PSI-BLAST, FFAS03 or 3D-Jury, it is used as a template for comparative modeling. If no match is found, structure predictions are made using the de novo Rosetta fragment insertion method. Experimental nuclear magnetic resonance (NMR) constraints data can also be submitted with a query sequence for RosettaNMR de novo structure determination. Other current capabilities include the prediction of the effects of mutations on protein--protein interactions using computational interface alanine scanning. The Rosetta protein design and protein--protein docking methodologies will soon be available through the server as well.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{Protein structure prediction and analysis using the Robetta server}}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{pages}{W526\bibrangedash W531}
+      \verb{doi}
+      \verb 10.1093/nar/gkh468
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC441606/
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}
