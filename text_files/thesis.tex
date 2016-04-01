@@ -6,7 +6,7 @@
 
 
 %IDIOMES
-\usepackage[english,catalan]{babel}
+\usepackage[english,spanish]{babel}
 \usepackage[cam,a4,center,frame]{crop}
 \usepackage[colorlinks=false]{hyperref}
 \usepackage{graphicx}
@@ -34,7 +34,7 @@
 
 
 
-\selectlanguage{catalan}
+\selectlanguage{english}
 
 
 \addto\captionscatalan
@@ -82,13 +82,13 @@
 This is the abstract of the thesis in English.  Please, use less
 than 150 words.
 
-\selectlanguage{catalan}
+\selectlanguage{spanish}
 \vspace*{\fill}
 \section*{\Large \sffamily  Resum}
 
 Vet aqui el resum de la tesi en catala.  
 \vspace*{\fill}
-
+\selectlanguage{english}
 \cleardoublepage
 
 
@@ -159,7 +159,7 @@ Consta de
 
 
 
-\par The importance of proteins in biological chemistry is just reflected by their name, derived from the Greek word \textit{proteios}, and that means "of the first rank"\footnote{The term protein was coined by Jons Jacob Berzelius in 1838. It was first used by Gerardus Johannes Mulder, advised by Berzelius, in its publication  \textit{Bulletin des Sciences Physiques et Naturelles en N\'eerlande (1838). pg 104. SUR LA COMPOSITION DE QUELQUES SUBSTANCES ANIMALES}, where he observed that all proteins seemed to have the same empirical formula and came out to the erroneous idea that they might be composed of a single type of very large molecule. Berzelius proposed the name because the material seemed to be the primitive substance of animal nutrition that plants prepare for herbivores.}. Their presence is so essential that they  constitute most of the cell dry mass \cite{kessel2010}. They are not only the cell's building blocks, but also they perform nearly all the cell's functions. Some roles of proteins include serving as structural components of cells and tissues (e.g., \textit{keratin} or \textit{collagen}), transmission of information between cells by hormones such as the \textit{insulin} or the \textit{oxytocin}, facilitating the transport and storage of small molecules (e.g., the transport of oxygen by \textit{hemoglobin}) or providing a defense against foreign invaders (e.g., antibodies). Other proteins such as the \textit{actin} and the \textit{myosin} are responsible of muscle contraction and therefore our movement. However, the most fundamental role of proteins is their ability to act as enzymes, which, catalyzes most of the chemical reactions in biological systems. In summary, proteins are crucial macromolecules present in most of the processes carried out by the cell and, in spite of being extensively studied for many years, they still have many unanswered questions.    
+\par The importance of proteins in biological chemistry is just reflected by their name, derived from the Greek word \textit{proteios}, and that means "of the first rank"\footnote{The term protein was coined by Jons Jacob Berzelius in 1838. It was first used by Gerardus Johannes Mulder, advised by Berzelius, in its publication  \textit{Bulletin des Sciences Physiques et Naturelles en N\'eerlande (1838). pg 104. SUR LA COMPOSITION DE QUELQUES SUBSTANCES ANIMALES}, where he observed that all proteins seemed to have the same empirical formula and came out to the erroneous idea that they might be composed of a single type of very large molecule. Berzelius proposed the name because the material seemed to be the primitive substance of animal nutrition that plants prepare for herbivores.}. Their presence is so essential that they  constitute most of the cell dry mass \cite{kessel2010}. They are not only the cell's building blocks, but also they perform nearly all the cell's functions. Some roles of proteins include serving as structural components of cells and tissues (e.g., \textit{keratin} or \textit{collagen}), transmission of information between cells by hormones such as the \textit{insulin} or the \textit{oxytocin}, facilitating the transport and storage of small molecules (e.g., the transport of oxygen by \textit{hemoglobin}) or providing a defense against foreign invaders (e.g., antibodies). Other proteins such as the \textit{actin} and the \textit{myosin} are responsible of muscle contraction and therefore our movement. However, the most fundamental role of proteins is their ability to act as enzymes, which, catalyzes most of the chemical reactions in biological systems. In summary, proteins are crucial macromolecules present in most of the processes carried out by the cell and, in spite of being extensively studied for many years, they still carry many unanswered questions.    
 %\par There is experimental evidence of more than 30,000 human protein products derived from over 17,000 human genes \cite{human2014}. That means that each gene expresses on average nearly two different protein \textit{isoforms}.  However, not all the proteome is simultaneously expressed. Estimates say that there are between 8,000 and 9,000 genes expressed in all tissues (i.e. the housekeeping proteome)   
 
 \subsection{Protein structure}
@@ -233,35 +233,52 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 
 
 \par Despite of the advances in methods for protein structure determination, most of the known proteins lack of structure in the PDB. There are 550,740 annotated and curated protein sequences in UniProtKB (\url{http://www.uniprot.org}, April 2016).  However, only 4$\%$ of them (23,195 different protein sequences) have a link to a PDB structure. Therefore, there is a gap between the number of known protein sequences and the number of determined structures: the \textit{sequence-structure gap}. 
-Computational methods for structure determination are helping to bridge this gap. The prediction of the 3D structure of a protein from its amino acid sequence has always been one of the most desirable goals in computational biology. It would save a lot of resources, and it would set a milestone in the structural biology field. Unfortunately, we are still far from being able to predict the structure of any protein from its primary protein sequence. Broadly, for different approaches are commonly used. The first, and most extensively used, is the \textit{homology} or \textit{comparative} modeling, that uses similar experimentally determined structures to model the structure of the protein of interest \ref{Homology_modeling}. Second, \textit{fold recognition} and \textit{threading} methods are used to model protein structures with low similarity to known protein structures \cite{Jones1992, Bowie1991}. Third, \textit{de novo} or \textit{ab initio} methods make their predictions by combining the principles of physics that rule protein folding, with information derived from known structures but without relying in any type of similarity or evolutionary relationship to known folds \cite{Lee2009}. Finally, the \textit{integrative} or \textit{hybrid} methods combines different computational and/or experimental sources to perform the structure prediction \cite{Russel2012}.   
+Computational methods for structure determination are helping to bridge this gap. The prediction of the 3D structure of a protein from its amino acid sequence has always been one of the most desirable goals in computational biology. It would save a lot of resources, and it would set a milestone in the structural biology field. Unfortunately, we are still far from being able to predict the structure of any protein from its primary sequence. Overall, four different approaches are commonly used. The first, and most extensively used, is the \textit{homology} or \textit{comparative} modeling, that uses similar experimentally determined structures to model the structure of the protein of interest \ref{Homology_modeling}. Second, \textit{fold recognition} and \textit{threading} methods are used to model protein structures with low similarity to known protein structures \cite{Jones1992, Bowie1991}. Third, \textit{de novo} or \textit{ab initio} methods make their predictions by combining the principles of physics that rule protein folding, with information derived from known structures but without relying in any type of similarity or evolutionary relationship to known folds \cite{Lee2009}. Finally, the \textit{integrative} or \textit{hybrid} methods combines different computational and/or experimental sources to perform the structure prediction \cite{Russel2012}.   
  
 \subsubsection{Homology modeling} \label{Homology_modeling}
 
+\begin{figure}[htb!]
 
-\par This type of protein structure prediction methods exploits the evolutionary relationship between the \textit{target} protein (i.e. protein being modeled) and the \textit{templates} with known experimental structure. They are based on the biological premise that evolutionary related sequences tend to have similar 3D structures. The usual workflow of homology modeling consist on several consecutive steps: 
+  \centering
+  	\includegraphics[scale=1]{../figures/workflow.jpg} % Figure was taking from...
+
+	\caption{Workflow in comparative protein structure modeling.  The figure has been extracted from \cite{Eswar2007}}
+	\label{fig:workflow_modeling}
+\end{figure}
+\par This type of protein structure prediction methods exploits the evolutionary relationship between the \textit{target} protein (i.e. protein being modeled) and the \textit{template(s)} with known experimental structure. They are based on the biological premise that evolutionary related sequences tend to have similar 3D structures. Figure \ref{fig:workflow_modeling} shows the regular steps in comparative protein structure modeling: 
 \begin{enumerate}
-\item \textbf{Identification of suitable template structures related to the target protein}. This step consist on a search for similar sequences with known 3D structure. This task is easy when a close homologue of the target protein has been solved. Initiatives such as PSI\cite{Norvell2007} are helping in this issue in order to increase the number of modellable proteins. However, there are still many proteins with lack of homologous proteins in PDB. In these cases, alternative methods such as \textit{ab initio} should be used.  
+\item \textbf{Identification of suitable template structures related to the target protein}. This step consist on a search for similar sequences with known 3D structure. This task is easy when a close homologue of the target protein has been solved. Initiatives such as the PSI\cite{Norvell2007} are helping in this issue increasing the number of modellable proteins. However, there are still many proteins with lack of homologous proteins in PDB. In these cases, alternative methods such as \textit{ab initio} modeling should be used.  
 
 \item \textbf{Alignment between the target and the template(s) sequence(s)}. The sequence identity of the target-template alignment is the most frequently used measure for similarity. Consequently, the sequence identity is also a good predictor of the final 3D model quality. The overall accuracy of models calculated form alignments with sequence identity higher than 40$\%$ is usually good (i.e. RMSD\footnote{Root Mean Square Deviation is the measure of the average distance between the atoms of two superimposed proteins. Equation $RMSD=\sqrt[]{\frac{1}{N} \sum\limits_{i=1}^N \delta_i^2}$ where $\delta_i$ is the distance between the $N_i$ pair of equivalent atoms (usually the C$\alpha$).}  lower than 2.0\AA). In the 30$\%$-40$\%$ identity range, errors can be more severe and are often locate in loops and highly flexible regions. Below the 30$\%$ of sequence similarity, often referred to as \textit{twilight region}, serious errors occurs including the basic fold being mis-predicted \cite{Baker2001, twilight1996}.
 Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology modeling extracted from \cite{Sander1991}. The region below the curve covers those cases where the alignment does not carry enough information to model the 3D structure, while area above the threshold curve, include those cases where homology modeling is appropriate.  
 \item \textbf{Modeling of the structurally conserved regions and prediction of the structurally variable regions.}. There are different algorithms to assign the spatial coordinates of the target protein using the template(s)-target alignment information. Highly conserved regions are generally well modeled, while those regions with insertions or gaps are more prone to include errors and sub-optimal atomic orientations. 
 
-\item \textbf{Refinement of the initial model.} In this step the model is refined to idealize bond geometry and to remove errors that may have been introduced in the modeling step. The refinement process pursues the free energy minimization of the generated 3D protein model. Many different algorithms have been applied to perform the minimization step: molecular mechanics force fields \cite{PRO1410}, molecular dynamics \cite{Fiser2000}, Monte Carlo \cite{Kidera1995} and Genetic Algorithms\cite{McGarrah1993}.
+\item \textbf{Refinement of the initial model.} In this step the model is refined to idealize bond geometry and to remove errors that may have been introduced in the modeling step. The refinement process pursues the free energy minimization of the generated 3D protein model. Many different algorithms have been applied to perform the minimization step: molecular mechanics force fields \cite{PRO1410}, molecular dynamics \cite{Fiser2000}, Monte Carlo \cite{Kidera1995} and Genetic Algorithms\cite{McGarrah1993} are just several examples of the multiple approaches applied in this issue.
  
-\item \textbf{Evaluation of the model(s).} Model evaluation seeks for the identification of the different errors that might have occurred during the modeling process. Numerous methods have been developed to assess the quality of a 3D model. In fact, 3D model assessment has a very such productive field for many years that it was included in the seventh edition of the CASP experiment \cite{PROT21669}. The general question of how accurate is a model can be reformulated by several more specialized questions: 
+\item \textbf{Evaluation of the model(s).} Model evaluation seeks for the identification of the different errors that might have occurred during the modeling process. Multiple methods have been developed to assess the quality of a 3D model. In fact, 3D model assessment has a very such productive field for many years that it was included in the seventh edition of the CASP experiment \cite{PROT21669}. The general question of how accurate is a model can be reformulated in several specific questions: 
+
 
 
 \begin{enumerate}[label=\roman*]
-\item Is the selected fold correct? The fold assessment consist of deciding whether a given protein model has the right fold. Residue-based combined accessible surface and distance-dependent scoring function have shown the best performance in this task \cite{Melo2002}. 
-\item How do we select the best model among the set of decoys or alternative solutions? Several models can be generated by making changes in the template-target alignment, by selecting different template(s) structure(s) or by using different seeds in the refinement non-deterministic algorithms. Atom-based distance-depend scoring functions have proved to be useful for this particular task in some cases\cite{Samudrala1998}. However, there is not a gold standard for ranking the generated 3D models. Thus, the model selection eventually relies on the expertise of the person running the modeling. 
-\item Which is the overall accuracy of the model? Which is the accuracy of the model in particular regions of the model? These questions can be addressed by defining scores that correlates with the RMSD after superimposing a model and its native structure. Numerous scoring functions have been implemented to address this issue. Some of them, the physics-based scoring functions, attempt  to  approximately  calculate the  atomic  interaction  energies  in  the  system.  These scoring functions usually encode a set of parameters that describes the energy of a system of particles. Examples of these scoring functions are AMBER \cite{CASE2005}, CHARMM\cite{Brooks1983} or MM-PDBSA\cite{Fogolari2003}. Differently the \textit{knowledge-based potentials} or \textit{potentials mean force} are scoring functions derived from an analysis of empirical information. Although the obtained scores are often considered approximations of the free energy, this physical interpretation is incorrect \cite{Thomas1996}. Nevertheless, since they frequently correlate with the actual free energy differences they have been broadly used with significant success \cite{Shen2006, Zhou2002, Sippl1995}. 
+\item \textit{Is the selected fold correct?} The fold assessment consist of deciding whether a given protein model has the right fold. Residue-based combined accessible surface and distance-dependent scoring functions have shown the best performance in this task \cite{Melo2002}. 
+\item \textit{How do we select the best model among the set of decoys or alternative solutions?} Several models can be generated by making changes in the template-target alignment, by selecting different template(s) structure(s) or by using different seeds in the refinement non-deterministic algorithms. Atom-based distance-depend scoring functions have proved to be useful for this particular task in some cases\cite{Samudrala1998}. However, there is not a gold standard for ranking the generated 3D models. Thus, the model selection eventually relies on the expertise of the person running the modeling. 
+\item \textit{Which is the overall accuracy of the model? Which is the accuracy of the model in a particular region of the model?} These questions can be addressed by defining scores that correlates with the RMSD after superimposing a model and its native structure. Numerous scoring functions have been implemented to address this issue. Some of them, the \textit{physics-based scoring functions}, attempt  to  approximately  calculate the  atomic  interaction  energies  in  the  system.  These scoring functions usually encode a set of parameters that describes the energy of a system of particles. Examples of these scoring functions are AMBER\cite{CASE2005}, CHARMM\cite{Brooks1983} or MM-PDBSA\cite{Fogolari2003}. Differently the \textit{knowledge-based potentials} or \textit{potentials mean force} are scoring functions derived from an analysis of empirical information. Although the obtained scores are often considered approximations of the free energy, this physical interpretation is incorrect \cite{Thomas1996}. Nevertheless, since they frequently correlate with the actual free energy differences, they have been broadly used with significant success \cite{Shen2006, Zhou2002, Sippl1995}. 
 \end{enumerate}
 \end{enumerate}
-\par The application of comparative modeling is limited by several aspects. The first one, is the availability of a suitable template. Despite of the efforts made to determine at least one structure per known fold \cite{Norvell2007}, divergences between the template and the target hampers the modeling of a correct 3D structure. In fact, models based on aligment below 30$\%$ have been shown to be unsatisfactory \ref{fig:homology_modeling}. The lack of template problem is more noticeable in membrane proteins. The limited number available known membrane proteins structures is hampering the modeling of many membrane proteins that have been shown its potential in diverse therapeutic areas \cite{Du2012, Kampen2011}. Another aspect that restricts the success of homology modeling is the innate flexibility of proteins. Highly flexible regions are more difficult to model and consequently are more prone to errors than more rigid parts of the structure. Despite of these limitations, homology modeling has been successfully applied to many proteins and its currently the main approach to computationally model the 3D structure of proteins. 
-\par There are many computational methods for predicting the 3D structure of proteins. Table \ref{table:table_software} shows some of the most famous ones alongside its websites and references. In the next section, we will focus on Modeller \cite{Eswar2007} since its the modeling software I have working with during my thesis\footnote{For a comprehensive review of homology modeling methods, limitations and applications please consider \cite{Marti-Renom2000, Malmstrom2010}}.
+\begin{figure}[h]
+
+  \centering
+  	\includegraphics[scale=0.35]{../figures/homology_plot.pdf} % Figure was taking from...
+
+	\caption{Homology threshold curve as a function of alignment length. Data extracted from \cite{Sander1991}}
+	\label{fig:homology_modeling}
+\end{figure}
+\par The application of comparative modeling is limited by several aspects. The first one, is the availability of a suitable template. Despite of the efforts made to determine at least one structure per known fold \cite{Norvell2007}, divergences between the template and the target hampers the modeling of a correct 3D structure. In fact, models based on aligment below 30$\%$ have been shown to be unsatisfactory \ref{fig:homology_modeling}. The lack of template problem is even more noticeable in membrane proteins. The limited number available known membrane proteins structures makes its modeling an extremely difficult task. However, the high value of these proteins in diverse therapeutic areas \cite{Du2012, Kampen2011}, is fostering the development of specific membrane protein modeling methods \cite{Leman2015}. Another aspect that restricts the success of homology modeling is the innate flexibility of proteins. Highly flexible regions are more difficult to model and consequently are more prone to errors than more rigid parts of the structure. Despite of these limitations, homology modeling has been successfully applied to many proteins and its currently the main approach to computationally model the 3D structure of proteins\footnote{For a comprehensive review of homology modeling methods, applications and limitationsplease consider \cite{Marti-Renom2000, Malmstrom2010}}. 
+\par There are many computational methods for predicting the 3D structure of proteins. Table \ref{table:table_software} shows some of the most famous ones alongside its websites and references. Each of these methods have their own strengths and weakness and none of them clearly outperforms the others for every case. In my case,  I have used Modeller because it is the one we are more familiar with. 
+ 
 \renewcommand{\arraystretch}{1.2} %<- modify value to suit your needs
 
-\begin{table}[h!]\label{table:table_software}
+\begin{table}[h!]
  \centering
  \begin{adjustbox}{width=1\textwidth}
  \begin{tabular}{||c | c |c||} 
@@ -278,35 +295,26 @@ Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology mo
  \hline
  Rosetta & \url{http://robetta.bakerlab.org/} & \cite{Kim2004}   \\ 
  \hline
+ RaptorX & \url{http://raptorx.uchicago.edu/} & \cite{Kallberg2014} \\
+ \hline
+ 3DJIGSAW & \url{http://bmm.crick.ac.uk/~3djigsaw} & \cite{Bates2001} \\
+ \hline 
+  WhatIf & \url{http://swift.cmbi.ru.nl/whatif/} & \cite{Vriend1990} \\
+   \hline
 \end{tabular}
 \end{adjustbox}
-
+\label{table:table_software}
 \caption{List of the public Protein Modeling Tools}
 \end{table}
 
-  
 
 
-\subsubsection{Modeller}\label{modeller}
- 
-
-\begin{figure}[h]
-
-  \centering
-  	\includegraphics[scale=0.5]{../figures/homology_plot.pdf} % Figure was taking from...
-
-	\caption{Homology threshold curve as a function of alignment length. Data extracted from \cite{Sander1991}}
-	\label{fig:homology_modeling}
-\end{figure}
-Limitations
-Examples Modeller 
-[Citar libro]
 
 \subsection{Protein function}
 
-\par The major question in the protein biology field has been to understand the protein sequence, structure, function relationship. It is known that structure of a protein determines its biological function. However, different \textit{regions} of the structure can perform semi-indepent functions from each other. These regions are referred to as \textbf{protein domains}. A domain is substructure produced by any part of polypedtide chain that can fold independently into a compact and stable structure \cite{Richardson1981, That1991, DomainDef}. Domains on average contain 80-250 residues \cite{Islam1995}. Estimates of the number of domains per protein say that nire than 70\% of procaryotik proteins and 80\% of eukaryotic proteins include more than one domain \cite{Han2007, Chothia2003}. Among this multi-domain proteins, 95\% of them contains only two to five protein domains \cite{Han2007}.  Domains are not only the basic functional units of proteins, but also the evolutionary units of protein evolution. As proteins have evolved, domains have been modified and combined to build new proteins \cite{Vogel2004, Apic2001}. 
+\par The major question in the protein biology field has been to understand the protein sequence-structure-function relationship. It is known that structure of a protein determines its biological function. However, different \textit{regions} of the structure can perform semi-indepent functions from each other. These regions are referred to as \textbf{protein domains}. A domain is substructure produced by any part of polypedtide chain that can fold independently into a compact and stable structure \cite{Richardson1981, That1991, DomainDef}. Domains on average contain 80-250 residues \cite{Islam1995}. Estimates of the number of domains per protein say that more than 70\% of procaryotik proteins and 80\% of eukaryotic proteins include more than one domain \cite{Han2007, Chothia2003}. Among this multi-domain proteins, 95\% of them contains only two to five protein domains \cite{Han2007}.  Domains are not only the basic functional units of proteins, but also the evolutionary units of protein evolution. As proteins have evolved, domains have been modified and combined to build new proteins \cite{Vogel2004, Apic2001}. 
 Such is the importance  of domains in protein evolution, that they have been included in current protein classification methods as one of the major classification parameters. Some of these domain classification methods such as SCOP \cite{Murzin1995} or CATH \cite{Orengo1997} are purely based on the structure, while others such as Pfam \cite{Bateman2002} or INTERPRO \cite{Hunter2009} include information about the function in their classification. 
-\par Domains, and consequently proteins, perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}. 
+\par Domains, and consequently proteins, perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}. The next section is focused on protein-compound interaction and presents the basis for all the work developed during the thesis. 
 
 
 

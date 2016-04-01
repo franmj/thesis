@@ -869,6 +869,54 @@
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260315/
       \endverb
     \endentry
+    \entry{Eswar2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
+      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
+      \field{isbn}{9780471140863}
+      \field{issn}{1934-3663}
+      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
+      \field{month}{12}
+      \field{title}{{Comparative protein structure modeling using MODELLER.}}
+      \field{volume}{Chapter 2}
+      \field{year}{2007}
+      \field{pages}{Unit 2.9}
+      \verb{doi}
+      \verb 10.1002/0471140864.ps0209s50
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \endverb
+    \endentry
     \entry{Baker2001}{article}{}
       \name{labelname}{1}{}{%
         {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
@@ -1485,52 +1533,36 @@
       \verb http://dx.doi.org/10.1007/s00232-011-9381-7
       \endverb
     \endentry
-    \entry{Eswar2007}{article}{}
-      \name{labelname}{8}{}{%
-        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
-        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+    \entry{Leman2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=04b64b548d25da9e9da8769cb47701f6}{Leman}{L\bibinitperiod}{Julia\bibnamedelima Koehler}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=13a6189e01d1f11e15d62379f62fb5f4}{Ulmschneider}{U\bibinitperiod}{Martin\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=d068a2b0cc92b1384f4242acfcd42f18}{Gray}{G\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{8}{}{%
-        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
-        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      \name{author}{3}{}{%
+        {{hash=04b64b548d25da9e9da8769cb47701f6}{Leman}{L\bibinitperiod}{Julia\bibnamedelima Koehler}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=13a6189e01d1f11e15d62379f62fb5f4}{Ulmschneider}{U\bibinitperiod}{Martin\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=d068a2b0cc92b1384f4242acfcd42f18}{Gray}{G\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley {\&} Sons, Inc.}%
-      }
-      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
-      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \strng{namehash}{49252d59e07f87e1e3962d9a136638b9}
+      \strng{fullhash}{49252d59e07f87e1e3962d9a136638b9}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
-      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
-      \field{isbn}{9780471140863}
-      \field{issn}{1934-3663}
-      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
-      \field{month}{12}
-      \field{title}{{Comparative protein structure modeling using MODELLER.}}
-      \field{volume}{Chapter 2}
-      \field{year}{2007}
-      \field{pages}{Unit 2.9}
+      \field{labeltitle}{{Computational modeling of membrane proteins}}
+      \field{abstract}{The determination of membrane protein (MP) structures has always trailed that of soluble proteins due to difficulties in their overexpression, reconstitution into membrane mimetics, and subsequent structure determination. The percentage of MP structures in the protein databank (PDB) has been at a constant 1-2{\%} for the last decade. In contrast, over half of all drugs target MPs, only highlighting how little we understand about drug-specific effects in the human body. To reduce this gap, researchers have attempted to predict structural features of MPs even before the first structure was experimentally elucidated. In this review, we present current computational methods to predict MP structure, starting with secondary structure prediction, prediction of trans-membrane spans, and topology. Even though these methods generate reliable predictions, challenges such as predicting kinks or precise beginnings and ends of secondary structure elements are still waiting to be addressed. We describe recent developments in the prediction of 3D structures of both $\alpha$-helical MPs as well as $\beta$-barrels using comparative modeling techniques, de novo methods, and molecular dynamics (MD) simulations. The increase of MP structures has (1) facilitated comparative modeling due to availability of more and better templates, and (2) improved the statistics for knowledge-based scoring functions. Moreover, de novo methods have benefitted from the use of correlated mutations as restraints. Finally, we outline current advances that will likely shape the field in the forthcoming decade.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Computational modeling of membrane proteins}}
+      \field{volume}{83}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 24}
       \verb{doi}
-      \verb 10.1002/0471140864.ps0209s50
+      \verb 10.1002/prot.24703
       \endverb
       \verb{url}
-      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270820/
       \endverb
     \endentry
     \entry{Marti-Renom2000}{article}{}
@@ -1857,6 +1889,105 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC441606/
+      \endverb
+    \endentry
+    \entry{Kallberg2014}{inbook}{}
+      \name{labelname}{5}{}{%
+        {{hash=ff40308fdc7de968f78476a252f035f7}{K{\"{a}}llberg}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4b8c1ea1ad36d2610a71726f6042de8d}{Margaryan}{M\bibinitperiod}{Gohar}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6bf0d8a8573aa1ba9713d0e20811cdb7}{Wang}{W\bibinitperiod}{Sheng}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4110e2c106851274d8af7b534f7a748e}{Ma}{M\bibinitperiod}{Jianzhu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=716306a09f303b9d16a4e7585e74f403}{Xu}{X\bibinitperiod}{Jinbo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=ff40308fdc7de968f78476a252f035f7}{K{\"{a}}llberg}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4b8c1ea1ad36d2610a71726f6042de8d}{Margaryan}{M\bibinitperiod}{Gohar}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6bf0d8a8573aa1ba9713d0e20811cdb7}{Wang}{W\bibinitperiod}{Sheng}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4110e2c106851274d8af7b534f7a748e}{Ma}{M\bibinitperiod}{Jianzhu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=716306a09f303b9d16a4e7585e74f403}{Xu}{X\bibinitperiod}{Jinbo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d34e70d4f763f52fcf8a13a10907d7ae}{Kihara}{K\bibinitperiod}{Daisuke}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{7bb6df332ee33a3b3bc8e2d81c94d48c}
+      \strng{fullhash}{3e3d22eed4312ada18428808833ac5b3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein Structure Prediction}}
+      \field{chapter}{RaptorX se}
+      \field{isbn}{978-1-4939-0366-5}
+      \field{title}{{Protein Structure Prediction}}
+      \field{year}{2014}
+      \field{pages}{17\bibrangedash 27}
+      \verb{doi}
+      \verb 10.1007/978-1-4939-0366-5{\_}2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-1-4939-0366-5%7B%5C_%7D2
+      \endverb
+    \endentry
+    \entry{Bates2001}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=514eeb149ed44638917f125adb1a3e26}{Bates}{B\bibinitperiod}{P\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a108e094225e08eb00471327dc1e56}{Kelley}{K\bibinitperiod}{L\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a48db3f3e2769a224c0eed1abbce2c02}{MacCallum}{M\bibinitperiod}{R\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=060ac14ca776c9fb01d20f6f8bc50aa9}{Sternberg}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=514eeb149ed44638917f125adb1a3e26}{Bates}{B\bibinitperiod}{P\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a108e094225e08eb00471327dc1e56}{Kelley}{K\bibinitperiod}{L\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a48db3f3e2769a224c0eed1abbce2c02}{MacCallum}{M\bibinitperiod}{R\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=060ac14ca776c9fb01d20f6f8bc50aa9}{Sternberg}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48d90d351452ad0636a9dfd616cfd232}
+      \strng{fullhash}{90e3d3083b08d660b1ac39657cd6f690}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enhancement of protein modeling by human intervention in applying the automatic programs 3D-JIGSAW and 3D-PSSM.}}
+      \field{abstract}{Fourteen models were constructed and analyzed for the comparative modeling section of Critical Assessment of Techniques for Protein Structure Prediction (CASP4). Sequence identity between each target and the best possible parent(s) ranged between 55 and 13{\%}, and the root-mean-square deviation between model and target was from 0.8 to 17.9 A. In the fold recognition section, 10 of the 11 remote homologues were recognized. The modeling protocols are a combination of automated computer algorithms, 3D-JIGSAW (for comparative modeling) and 3D-PSSM (for fold recognition), with human intervention at certain critical stages. In particular, intervention is required to check superfamily assignment, best possible parents from which to model, sequence alignments to those parents and take-off regions for modeling variable regions. There now is a convergence of algorithms for comparative modeling and fold recognition, particularly in the region of remote homology.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{title}{{Enhancement of protein modeling by human intervention in applying the automatic programs 3D-JIGSAW and 3D-PSSM.}}
+      \field{volume}{Suppl 5}
+      \field{year}{2001}
+      \field{pages}{39\bibrangedash 46}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/11835480
+      \endverb
+    \endentry
+    \entry{Vriend1990}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6cc0e7fcba697b2730c1dbec3a1726d7}{Vriend}{V\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6cc0e7fcba697b2730c1dbec3a1726d7}{Vriend}{V\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6cc0e7fcba697b2730c1dbec3a1726d7}
+      \strng{fullhash}{6cc0e7fcba697b2730c1dbec3a1726d7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{WHAT IF: A molecular modeling and drug design program}}
+      \field{abstract}{A FORTRAN 77 computer program has been written to aid with macromolecular modeling and drug design. Called WHAT IF, it provides an intelligent and flexible environment for displaying, manipulating, and analyzing small molecules, proteins, nucleic acids, and their interactions. A relational protein structure database is incorporated to be queried. The program is suitable for most common crystallographic work. The menu-driven operation of WHAT IF, combined with the use of default values wherever user input is required, makes it very easy to use for a novice user while keeping full flexibility for more sophisticated studies. Although there are not too many unique features in WHAT IF, the fact that everything is integrated in one program makes it a unique tool for many purposes.}
+      \field{issn}{02637855}
+      \field{journaltitle}{Journal of Molecular Graphics}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{WHAT IF: A molecular modeling and drug design program}}
+      \field{volume}{8}
+      \field{year}{1990}
+      \field{pages}{52\bibrangedash 56}
+      \verb{doi}
+      \verb 10.1016/0263-7855(90)80070-V
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/026378559080070V
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}
@@ -3188,6 +3319,54 @@
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260315/
       \endverb
     \endentry
+    \entry{Eswar2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
+      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
+      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
+      \field{isbn}{9780471140863}
+      \field{issn}{1934-3663}
+      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
+      \field{month}{12}
+      \field{title}{{Comparative protein structure modeling using MODELLER.}}
+      \field{volume}{Chapter 2}
+      \field{year}{2007}
+      \field{pages}{Unit 2.9}
+      \verb{doi}
+      \verb 10.1002/0471140864.ps0209s50
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \endverb
+    \endentry
     \entry{Baker2001}{article}{}
       \name{labelname}{1}{}{%
         {{hash=a4ae2debe1c7f5174d0b3d98accdb733}{Baker}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
@@ -3804,52 +3983,36 @@
       \verb http://dx.doi.org/10.1007/s00232-011-9381-7
       \endverb
     \endentry
-    \entry{Eswar2007}{article}{}
-      \name{labelname}{8}{}{%
-        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
-        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+    \entry{Leman2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=04b64b548d25da9e9da8769cb47701f6}{Leman}{L\bibinitperiod}{Julia\bibnamedelima Koehler}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=13a6189e01d1f11e15d62379f62fb5f4}{Ulmschneider}{U\bibinitperiod}{Martin\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=d068a2b0cc92b1384f4242acfcd42f18}{Gray}{G\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{8}{}{%
-        {{hash=40e29ff69658648458afc77145a5471a}{Eswar}{E\bibinitperiod}{Narayanan}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=f6202d41c7a5dbee0cec6179ce443b0e}{Webb}{W\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=8fbaaf817a730509f1555c4a4cd49933}{Madhusudhan}{M\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=0bd28561b7fb607311714f5d813b411a}{Eramian}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=01c11c5217d66a703779cd4b09590db5}{Shen}{S\bibinitperiod}{Min-Yi}{M\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
-        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      \name{author}{3}{}{%
+        {{hash=04b64b548d25da9e9da8769cb47701f6}{Leman}{L\bibinitperiod}{Julia\bibnamedelima Koehler}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=13a6189e01d1f11e15d62379f62fb5f4}{Ulmschneider}{U\bibinitperiod}{Martin\bibnamedelima B}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=d068a2b0cc92b1384f4242acfcd42f18}{Gray}{G\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley {\&} Sons, Inc.}%
-      }
-      \strng{namehash}{c175c9991d3fff01a7ea1bd6a1acf03c}
-      \strng{fullhash}{7a068769b56299e2a5067882575d7f68}
+      \strng{namehash}{49252d59e07f87e1e3962d9a136638b9}
+      \strng{fullhash}{49252d59e07f87e1e3962d9a136638b9}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Comparative protein structure modeling using MODELLER.}}
-      \field{abstract}{Functional characterization of a protein sequence is a common goal in biology, and is usually facilitated by having an accurate three-dimensional (3-D) structure of the studied protein. In the absence of an experimentally determined structure, comparative or homology modeling can sometimes provide a useful 3-D model for a protein that is related to at least one known protein structure. Comparative modeling predicts the 3-D structure of a given protein sequence (target) based primarily on its alignment to one or more proteins of known structure (templates). The prediction process consists of fold assignment, target-template alignment, model building, and model evaluation. This unit describes how to calculate comparative models using the program MODELLER and discusses all four steps of comparative modeling, frequently observed errors, and some applications. Modeling lactate dehydrogenase from Trichomonas vaginalis (TvLDH) is described as an example. The download and installation of the MODELLER software is also described.}
-      \field{isbn}{9780471140863}
-      \field{issn}{1934-3663}
-      \field{journaltitle}{Current protocols in protein science / editorial board, John E. Coligan ... [et al.]}
-      \field{month}{12}
-      \field{title}{{Comparative protein structure modeling using MODELLER.}}
-      \field{volume}{Chapter 2}
-      \field{year}{2007}
-      \field{pages}{Unit 2.9}
+      \field{labeltitle}{{Computational modeling of membrane proteins}}
+      \field{abstract}{The determination of membrane protein (MP) structures has always trailed that of soluble proteins due to difficulties in their overexpression, reconstitution into membrane mimetics, and subsequent structure determination. The percentage of MP structures in the protein databank (PDB) has been at a constant 1-2{\%} for the last decade. In contrast, over half of all drugs target MPs, only highlighting how little we understand about drug-specific effects in the human body. To reduce this gap, researchers have attempted to predict structural features of MPs even before the first structure was experimentally elucidated. In this review, we present current computational methods to predict MP structure, starting with secondary structure prediction, prediction of trans-membrane spans, and topology. Even though these methods generate reliable predictions, challenges such as predicting kinks or precise beginnings and ends of secondary structure elements are still waiting to be addressed. We describe recent developments in the prediction of 3D structures of both $\alpha$-helical MPs as well as $\beta$-barrels using comparative modeling techniques, de novo methods, and molecular dynamics (MD) simulations. The increase of MP structures has (1) facilitated comparative modeling due to availability of more and better templates, and (2) improved the statistics for knowledge-based scoring functions. Moreover, de novo methods have benefitted from the use of correlated mutations as restraints. Finally, we outline current advances that will likely shape the field in the forthcoming decade.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Computational modeling of membrane proteins}}
+      \field{volume}{83}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 24}
       \verb{doi}
-      \verb 10.1002/0471140864.ps0209s50
+      \verb 10.1002/prot.24703
       \endverb
       \verb{url}
-      \verb http://onlinelibrary.wiley.com/doi/10.1002/0471140864.ps0209s50/full
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270820/
       \endverb
     \endentry
     \entry{Marti-Renom2000}{article}{}
@@ -4176,6 +4339,105 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC441606/
+      \endverb
+    \endentry
+    \entry{Kallberg2014}{inbook}{}
+      \name{labelname}{5}{}{%
+        {{hash=ff40308fdc7de968f78476a252f035f7}{K{\"{a}}llberg}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4b8c1ea1ad36d2610a71726f6042de8d}{Margaryan}{M\bibinitperiod}{Gohar}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6bf0d8a8573aa1ba9713d0e20811cdb7}{Wang}{W\bibinitperiod}{Sheng}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4110e2c106851274d8af7b534f7a748e}{Ma}{M\bibinitperiod}{Jianzhu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=716306a09f303b9d16a4e7585e74f403}{Xu}{X\bibinitperiod}{Jinbo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=ff40308fdc7de968f78476a252f035f7}{K{\"{a}}llberg}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4b8c1ea1ad36d2610a71726f6042de8d}{Margaryan}{M\bibinitperiod}{Gohar}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6bf0d8a8573aa1ba9713d0e20811cdb7}{Wang}{W\bibinitperiod}{Sheng}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4110e2c106851274d8af7b534f7a748e}{Ma}{M\bibinitperiod}{Jianzhu}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=716306a09f303b9d16a4e7585e74f403}{Xu}{X\bibinitperiod}{Jinbo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d34e70d4f763f52fcf8a13a10907d7ae}{Kihara}{K\bibinitperiod}{Daisuke}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{7bb6df332ee33a3b3bc8e2d81c94d48c}
+      \strng{fullhash}{3e3d22eed4312ada18428808833ac5b3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein Structure Prediction}}
+      \field{chapter}{RaptorX se}
+      \field{isbn}{978-1-4939-0366-5}
+      \field{title}{{Protein Structure Prediction}}
+      \field{year}{2014}
+      \field{pages}{17\bibrangedash 27}
+      \verb{doi}
+      \verb 10.1007/978-1-4939-0366-5{\_}2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-1-4939-0366-5%7B%5C_%7D2
+      \endverb
+    \endentry
+    \entry{Bates2001}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=514eeb149ed44638917f125adb1a3e26}{Bates}{B\bibinitperiod}{P\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a108e094225e08eb00471327dc1e56}{Kelley}{K\bibinitperiod}{L\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a48db3f3e2769a224c0eed1abbce2c02}{MacCallum}{M\bibinitperiod}{R\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=060ac14ca776c9fb01d20f6f8bc50aa9}{Sternberg}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=514eeb149ed44638917f125adb1a3e26}{Bates}{B\bibinitperiod}{P\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a108e094225e08eb00471327dc1e56}{Kelley}{K\bibinitperiod}{L\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a48db3f3e2769a224c0eed1abbce2c02}{MacCallum}{M\bibinitperiod}{R\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=060ac14ca776c9fb01d20f6f8bc50aa9}{Sternberg}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48d90d351452ad0636a9dfd616cfd232}
+      \strng{fullhash}{90e3d3083b08d660b1ac39657cd6f690}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enhancement of protein modeling by human intervention in applying the automatic programs 3D-JIGSAW and 3D-PSSM.}}
+      \field{abstract}{Fourteen models were constructed and analyzed for the comparative modeling section of Critical Assessment of Techniques for Protein Structure Prediction (CASP4). Sequence identity between each target and the best possible parent(s) ranged between 55 and 13{\%}, and the root-mean-square deviation between model and target was from 0.8 to 17.9 A. In the fold recognition section, 10 of the 11 remote homologues were recognized. The modeling protocols are a combination of automated computer algorithms, 3D-JIGSAW (for comparative modeling) and 3D-PSSM (for fold recognition), with human intervention at certain critical stages. In particular, intervention is required to check superfamily assignment, best possible parents from which to model, sequence alignments to those parents and take-off regions for modeling variable regions. There now is a convergence of algorithms for comparative modeling and fold recognition, particularly in the region of remote homology.}
+      \field{issn}{0887-3585}
+      \field{journaltitle}{Proteins}
+      \field{month}{01}
+      \field{title}{{Enhancement of protein modeling by human intervention in applying the automatic programs 3D-JIGSAW and 3D-PSSM.}}
+      \field{volume}{Suppl 5}
+      \field{year}{2001}
+      \field{pages}{39\bibrangedash 46}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/11835480
+      \endverb
+    \endentry
+    \entry{Vriend1990}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6cc0e7fcba697b2730c1dbec3a1726d7}{Vriend}{V\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6cc0e7fcba697b2730c1dbec3a1726d7}{Vriend}{V\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6cc0e7fcba697b2730c1dbec3a1726d7}
+      \strng{fullhash}{6cc0e7fcba697b2730c1dbec3a1726d7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{WHAT IF: A molecular modeling and drug design program}}
+      \field{abstract}{A FORTRAN 77 computer program has been written to aid with macromolecular modeling and drug design. Called WHAT IF, it provides an intelligent and flexible environment for displaying, manipulating, and analyzing small molecules, proteins, nucleic acids, and their interactions. A relational protein structure database is incorporated to be queried. The program is suitable for most common crystallographic work. The menu-driven operation of WHAT IF, combined with the use of default values wherever user input is required, makes it very easy to use for a novice user while keeping full flexibility for more sophisticated studies. Although there are not too many unique features in WHAT IF, the fact that everything is integrated in one program makes it a unique tool for many purposes.}
+      \field{issn}{02637855}
+      \field{journaltitle}{Journal of Molecular Graphics}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{WHAT IF: A molecular modeling and drug design program}}
+      \field{volume}{8}
+      \field{year}{1990}
+      \field{pages}{52\bibrangedash 56}
+      \verb{doi}
+      \verb 10.1016/0263-7855(90)80070-V
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/026378559080070V
       \endverb
     \endentry
     \entry{Richardson1981}{book}{}
