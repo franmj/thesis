@@ -21,7 +21,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Homology threshold curve as a function of alignment length. Data extracted from \cite {Sander1991}\relax }}{14}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{18}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
@@ -29,4 +29,6 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{25}{figure.caption.19}
+\addvspace {10\p@ }{}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{27}{figure.caption.20}

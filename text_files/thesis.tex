@@ -23,6 +23,7 @@
 \usepackage{tabularx}
 \usepackage{adjustbox}
 \usepackage{tabu}
+\usepackage{mathtools}
 \newcommand\tr{\rule{0pt}{3.5ex}}
 \newcommand\br{\rule[-3ex]{0pt}{3ex}}
 \makeindex
@@ -314,18 +315,49 @@ Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology mo
 
 \par The major question in the protein biology field has been to understand the protein sequence-structure-function relationship. It is known that structure of a protein determines its biological function. However, different \textit{regions} of the structure can perform semi-indepent functions from each other. These regions are referred to as \textbf{protein domains}. A domain is substructure produced by any part of polypedtide chain that can fold independently into a compact and stable structure \cite{Richardson1981, That1991, DomainDef}. Domains on average contain 80-250 residues \cite{Islam1995}. Estimates of the number of domains per protein say that more than 70\% of procaryotik proteins and 80\% of eukaryotic proteins include more than one domain \cite{Han2007, Chothia2003}. Among this multi-domain proteins, 95\% of them contains only two to five protein domains \cite{Han2007}.  Domains are not only the basic functional units of proteins, but also the evolutionary units of protein evolution. As proteins have evolved, domains have been modified and combined to build new proteins \cite{Vogel2004, Apic2001}. 
 Such is the importance  of domains in protein evolution, that they have been included in current protein classification methods as one of the major classification parameters. Some of these domain classification methods such as SCOP \cite{Murzin1995} or CATH \cite{Orengo1997} are purely based on the structure, while others such as Pfam \cite{Bateman2002} or INTERPRO \cite{Hunter2009} include information about the function in their classification. 
-\par Domains, and consequently proteins, perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}. The next section is focused on protein-compound interaction and presents the basis for all the work developed during the thesis. 
+\par Domains, and consequently proteins, perform its biological activity by interacting with other molecules. Proteins can interact with other proteins, constructing a protein-protein complex, with ions or with small-molecules. The substance that is bound to the \textit{target} protein is called the \textbf{ligand}, while the region of the protein where the ligand is binding is called ligand's \textit{binding site}\footnote{For simplicity, in this manuscript, unless otherwise indicated, the term ligand will only refer to small molecules ligands, while proteins ligands will be explicit named as protein-protein interactions}. The next section is focused on protein-compound interaction and it presents the basis for all the work developed during the thesis. 
 
 
 
 \subsection{Protein-Ligand Interactions} \label{ligand_intect}
 
 
-\par The roles played by the ligands are diverse. Table X shows an example of the different functions that a small-molecule ligands can perform in a protein. 
-Binding constants, allosteric and binding-site, induced fit model. Expandir. Imporatante. 
+\par The roles played by the protein ligands are diverse. Catalysis of enzyme substrates, regulation of the protein activity, cellular communication or defense from external attackers are just few some examples of the multiple functions that small-molecule ligands perform in living organisms. All these functions are performed by small-molecules that selectively bind their \textit{target} proteins. However, given the vast amount of proteins and small-molecule ligands in the cytoplasm, how do the small-molecule ligands select their protein targets? There has been several protein-ligand binding theories. In the \textit{Lock and key Theory} \cite{Cramer1994}, Emil Fischer proposed a system where the binding sites of enzymes are rigid and pre-adjusted geometrically to the natural substrate \ref{fig:lock_and_key_model}. This theory became widely accepted for years. Nevertheless, during subsequent years, evidence started to accumulate suggesting that the binding sites of proteins do not match perfectly their ligands, but rather the binding process triggers some conformational changes in the enzyme. Therefore the obsolete Lock and key model was replaced by the \textit{Induced fit theory} \cite{Koshland1959}. The induced fit theory proposes that initially enzymes do not perfectly match their substrate geometrically. However, the binding-process triggers a set of conformational changes in the protein binding site that improves the match \ref{fig:induced_fit_model}. More recently, another theory called the \textit{Monod-Wyman-Changeux model or  MWC model } came up\cite{Monod1965}. This theory contends that proteins are able to shift spontaneously between multiple conformations called \textit{substates}\cite{Kitao1998, Petsko1984}. This model could also explain \textit{allostery}, a phenomenon in which the binding of the molecule to the catalytic site is affected the binding of other ligand to a different site. This theory has undergone some changes and the current accepted theory posits that ligands bind preferentially to one of the conformation sampled spontaneously by the protein, and therefore stabilizes it. It means that, by changing the protein's energy landscape, ligands change a less favorable conformation into the most favorable one. This model does not necessarily refute the induce fit theory since in many cases, the restrains applied by the ligand on the binding site is expected to induce some conformational changes that will further stabilize the interaction \cite{Foote1994, James2003}. 
 
+\begin{figure}[!tbp]
+  
+  \centering
+    \begin{subfigure}[b]{0.75\textwidth}
+	\includegraphics[width=1\linewidth]{../figures/lock_key_model.jpg}
+	\caption{Fischer's \textit{lock and key model}. The protein is represented in green and the ligand in red. The ligand's binding site of the protein matches the ligand perfecltly.}
+	\label{fig:lock_and_key_model}
+	\vspace*{4mm}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.75\textwidth}
+	\includegraphics[width=1\linewidth]{../figures/induce_fit_model.jpg}
+	\caption{Koshland's \textit{induced fit model}. The protein is represented in green and the ligand in red. The overall shape of the ligand matches the binding site. The ligand bindings causes some conformational changes that improves the interaction.}
+	\label{fig:induced_fit_model}
+	\vspace*{4mm}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.75\textwidth}
+	\includegraphics[width=1\linewidth]{../figures/mwc_model.jpg}
+	\caption{\textit{MWC model's} representation. The protein changes its conformation constantly (one color per conformation), with at least one these conformation matching the ligand. Its binding triggers some conformational changes that improves the protein's energy landscape.}
+	\label{fig:mwc_model}
+	\vspace*{4mm}
+	\end{subfigure}
+   \caption{Schematic representation of three popular protein-ligand binding theories.}
+
+\end{figure}
+\subsubsection{Protein-ligand binding energetics}\label{binding_energetics}
  
-
+\par The high variety of functions that ligands perform by binding to proteins its also reflected in the diversity in its binding affinity. Binding energies usually range from -2.5kcal/mol to -22kcal/mol \cite{Dunn2001}. The binding strength displayed by proteins matches the biological goal of the binding. For instance, ligands involved in protein communication tend to bind weakly to enable a quick state switch. Cofactors binding to enzymes, on the other hand,  tend to bind strongly to their targets.  The negative sign of the values reflects that is a favorable binding that releases energy: \textit{the binding free energy}.  This energy can be measured experimentally, thorough the equilibrium constant of the binding, or it can be calculated computationally. Equations \ref{equation: Gibbs free energy} and \ref{equation: Kbind} shows the relationship between the Gibbs free energy or binding affinity and the equilibrium constant of the binding. $R$ is the ideal gas constant [ref], $T$ is the temperature , $[C]$ the complex concentration and $[P]$ and $[L]$ the protein and ligand concentration respectively. 
+\begin{equation}\label{equation: Gibbs free energy}
+\bigtriangleup G=-RTlnK_{bind} 
+\end{equation}
+\begin{equation}\label{equation: Kbind}
+Kbind = \frac{[C]}{[P]*[L]}
+\end{equation}
+\par The equations show that the binding free energy can be measured experimentally. However, in many cases is unfeasible bla bla bla. Continuar..
 
 
 

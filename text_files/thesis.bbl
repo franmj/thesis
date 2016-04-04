@@ -2467,6 +2467,243 @@
       \verb :home/fran/Downloads/gkn785.pdf:pdf
       \endverb
     \endentry
+    \entry{Cramer1994}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=c9fa1cbc09ce354850b917005441be71}{Cramer}{C\bibinitperiod}{Friedrich}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c9fa1cbc09ce354850b917005441be71}{Cramer}{C\bibinitperiod}{Friedrich}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd.}%
+      }
+      \strng{namehash}{c9fa1cbc09ce354850b917005441be71}
+      \strng{fullhash}{c9fa1cbc09ce354850b917005441be71}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Emil Fischer's Lock-and-Key Hypothesis after 100 years---Towards a Supracellular Chemistry}}
+      \field{booktitle}{Perspectives in Supramolecular Chemistry}
+      \field{isbn}{9780470511411}
+      \field{title}{{Emil Fischer's Lock-and-Key Hypothesis after 100 years---Towards a Supracellular Chemistry}}
+      \field{year}{1994}
+      \field{pages}{1\bibrangedash 23}
+      \verb{doi}
+      \verb 10.1002/9780470511411.ch1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/9780470511411.ch1
+      \endverb
+    \endentry
+    \entry{Koshland1959}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=f8f7e8410315321d421d14b84914faf4}{Koshland}{K\bibinitperiod}{D\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f8f7e8410315321d421d14b84914faf4}{Koshland}{K\bibinitperiod}{D\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {The Wistar Institute of Anatomy}%
+        {Biology}%
+      }
+      \strng{namehash}{f8f7e8410315321d421d14b84914faf4}
+      \strng{fullhash}{f8f7e8410315321d421d14b84914faf4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enzyme flexibility and enzyme action}}
+      \field{issn}{1553-0809}
+      \field{journaltitle}{Journal of Cellular and Comparative Physiology}
+      \field{month}{12}
+      \field{number}{S1}
+      \field{title}{{Enzyme flexibility and enzyme action}}
+      \field{volume}{54}
+      \field{year}{1959}
+      \field{pages}{245\bibrangedash 258}
+      \verb{doi}
+      \verb 10.1002/jcp.1030540420
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/jcp.1030540420
+      \endverb
+    \endentry
+    \entry{Monod1965}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2c505e4db5966573609da0412ee1568d}{Monod}{M\bibinitperiod}{Jacque}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4ed7d3878e536a84daaa5e605c7547c3}{Wyman}{W\bibinitperiod}{Jeffries}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d92fb554aa564df22347ceae22fe7221}{Changeux}{C\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2c505e4db5966573609da0412ee1568d}{Monod}{M\bibinitperiod}{Jacque}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4ed7d3878e536a84daaa5e605c7547c3}{Wyman}{W\bibinitperiod}{Jeffries}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d92fb554aa564df22347ceae22fe7221}{Changeux}{C\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ce5ff2a4ea836bfca74c7d4045054c31}
+      \strng{fullhash}{ce5ff2a4ea836bfca74c7d4045054c31}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{On the nature of allosteric transitions: A plausible model}}
+      \field{issn}{00222836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{month}{05}
+      \field{number}{1}
+      \field{title}{{On the nature of allosteric transitions: A plausible model}}
+      \field{volume}{12}
+      \field{year}{1965}
+      \field{pages}{88\bibrangedash 118}
+      \verb{doi}
+      \verb 10.1016/S0022-2836(65)80285-6
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283665802856
+      \endverb
+    \endentry
+    \entry{Kitao1998}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=4e8a018e6e6fe8c69d308ada76ffd8b7}{Kitao}{K\bibinitperiod}{Akio}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=483931f5b0b7f43dab6ab46bfc54189f}{Hayward}{H\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5fce22464821b5b3e5134afc17d6cd88}{Go}{G\bibinitperiod}{Nobuhiro}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4e8a018e6e6fe8c69d308ada76ffd8b7}{Kitao}{K\bibinitperiod}{Akio}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=483931f5b0b7f43dab6ab46bfc54189f}{Hayward}{H\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5fce22464821b5b3e5134afc17d6cd88}{Go}{G\bibinitperiod}{Nobuhiro}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{7e58475201f84e936c0ebed3a041ce3e}
+      \strng{fullhash}{7e58475201f84e936c0ebed3a041ce3e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Energy landscape of a native protein: Jumping-among-minima model}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Energy landscape of a native protein: Jumping-among-minima model}}
+      \field{volume}{33}
+      \field{year}{1998}
+      \field{pages}{496\bibrangedash 517}
+      \verb{doi}
+      \verb 10.1002/(SICI)1097-0134(19981201)33:4<496::AID-PROT4>3.0.CO;2-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/(SICI)1097-0134(19981201)33:4%3C496::AID-PROT4%3E3.0.CO%202-1
+      \endverb
+    \endentry
+    \entry{Petsko1984}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1476d6945186dfdf31bd995b819295a1}{Petsko}{P\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec96b11f9665fb1c877ecd5608d8912}{Ringe}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1476d6945186dfdf31bd995b819295a1}{Petsko}{P\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec96b11f9665fb1c877ecd5608d8912}{Ringe}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{9b5f7b7d156c9107dfe4f76434f6608f}
+      \strng{fullhash}{9b5f7b7d156c9107dfe4f76434f6608f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Fluctuations in Protein Structure from X-Ray Diffraction}}
+      \field{annotation}{doi: 10.1146/annurev.bb.13.060184.001555}
+      \field{issn}{0084-6589}
+      \field{journaltitle}{Annual Review of Biophysics and Bioengineering}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Fluctuations in Protein Structure from X-Ray Diffraction}}
+      \field{volume}{13}
+      \field{year}{1984}
+      \field{pages}{331\bibrangedash 371}
+      \verb{doi}
+      \verb 10.1146/annurev.bb.13.060184.001555
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.bb.13.060184.001555
+      \endverb
+    \endentry
+    \entry{Foote1994}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2b272101783e033fafd5c54f6cd0cd87}{Foote}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0cac038b408d96f8bc86a87be5e1e95}{Milstein}{M\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2b272101783e033fafd5c54f6cd0cd87}{Foote}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0cac038b408d96f8bc86a87be5e1e95}{Milstein}{M\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{263aeb0429687da4df891051919f0e95}
+      \strng{fullhash}{263aeb0429687da4df891051919f0e95}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Conformational isomerism and the diversity of antibodies.}}
+      \field{abstract}{The fact that one cell encodes a single antibody sequence does not necessarily mean that the resulting antibody folds into a single structure, although this is a common assumption. Here we challenge this view and suggest that many antibodies do not have a single conformation at the combining site. The basis for this proposal comes from the kinetic analysis of a set of murine hybridomas derived from defined stages of the immune response to 2-phenyl-5-oxazolone (Ox). Among them we have identified three antibodies that exhibit complex hapten-binding kinetics. We observed biphasic or triphasic reactions in stopped-flow fluorescence experiments, indicating that ligand binding involved isomerization, as well as associative steps. The existence of an equilibrium between at least two antibody conformations, with ligands binding preferentially to one form, was deduced from the variation with hapten concentration of the apparent rate of each phase.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{10}
+      \field{number}{22}
+      \field{title}{{Conformational isomerism and the diversity of antibodies.}}
+      \field{volume}{91}
+      \field{year}{1994}
+      \field{pages}{10370\bibrangedash 10374}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC45021/
+      \endverb
+    \endentry
+    \entry{James2003}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=3712dfaed00c7d94986d5cf9ac76aa5f}{James}{J\bibinitperiod}{Leo\bibnamedelima C}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=44320ac15125b5ba914c711bfcc388aa}{Roversi}{R\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=91cd6a4a953369f963f48e0bc013c72d}{Tawfik}{T\bibinitperiod}{Dan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=3712dfaed00c7d94986d5cf9ac76aa5f}{James}{J\bibinitperiod}{Leo\bibnamedelima C}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=44320ac15125b5ba914c711bfcc388aa}{Roversi}{R\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=91cd6a4a953369f963f48e0bc013c72d}{Tawfik}{T\bibinitperiod}{Dan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ccea57ab2d9e24bb363b19b680455a8}
+      \strng{fullhash}{2ccea57ab2d9e24bb363b19b680455a8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Antibody Multispecificity Mediated by Conformational Diversity}}
+      \field{abstract}{A single antibody was shown to adopt different binding-site conformations and thereby bind unrelated antigens. Analysis by both x-ray crystallography and pre--steady-state kinetics revealed an equilibrium between different preexisting isomers, one of which possessed a promiscuous, low-affinity binding site for aromatic ligands, including the immunizing hapten. A subsequent induced-fit isomerization led to high-affinity complexes with a deep and narrow binding site. A protein antigen identified by repertoire selection made use of an unrelated antibody isomer with a wide, shallow binding site. Conformational diversity, whereby one sequence adopts multiple structures and multiple functions, can increase the effective size of the antibody repertoire but may also lead to autoimmunity and allergy.}
+      \field{journaltitle}{Science}
+      \field{month}{02}
+      \field{number}{5611}
+      \field{title}{{Antibody Multispecificity Mediated by Conformational Diversity}}
+      \field{volume}{299}
+      \field{year}{2003}
+      \field{pages}{1362\bibrangedash 1367}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/299/5611/1362.abstract
+      \endverb
+    \endentry
+    \entry{Dunn2001}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=46ec57e109a0eb5deef09da9dfe6d092}{Dunn}{D\bibinitperiod}{Michael\bibnamedelima F}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=46ec57e109a0eb5deef09da9dfe6d092}{Dunn}{D\bibinitperiod}{Michael\bibnamedelima F}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{46ec57e109a0eb5deef09da9dfe6d092}
+      \strng{fullhash}{46ec57e109a0eb5deef09da9dfe6d092}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein--Ligand Interactions: General Description}}
+      \field{booktitle}{eLS}
+      \field{isbn}{9780470015902}
+      \field{title}{{Protein--Ligand Interactions: General Description}}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1038/npg.els.0001340
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/npg.els.0001340
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -4915,6 +5152,243 @@
       \endverb
       \verb{file}
       \verb :home/fran/Downloads/gkn785.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Cramer1994}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=c9fa1cbc09ce354850b917005441be71}{Cramer}{C\bibinitperiod}{Friedrich}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c9fa1cbc09ce354850b917005441be71}{Cramer}{C\bibinitperiod}{Friedrich}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd.}%
+      }
+      \strng{namehash}{c9fa1cbc09ce354850b917005441be71}
+      \strng{fullhash}{c9fa1cbc09ce354850b917005441be71}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Emil Fischer's Lock-and-Key Hypothesis after 100 years---Towards a Supracellular Chemistry}}
+      \field{booktitle}{Perspectives in Supramolecular Chemistry}
+      \field{isbn}{9780470511411}
+      \field{title}{{Emil Fischer's Lock-and-Key Hypothesis after 100 years---Towards a Supracellular Chemistry}}
+      \field{year}{1994}
+      \field{pages}{1\bibrangedash 23}
+      \verb{doi}
+      \verb 10.1002/9780470511411.ch1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/9780470511411.ch1
+      \endverb
+    \endentry
+    \entry{Koshland1959}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=f8f7e8410315321d421d14b84914faf4}{Koshland}{K\bibinitperiod}{D\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f8f7e8410315321d421d14b84914faf4}{Koshland}{K\bibinitperiod}{D\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {The Wistar Institute of Anatomy}%
+        {Biology}%
+      }
+      \strng{namehash}{f8f7e8410315321d421d14b84914faf4}
+      \strng{fullhash}{f8f7e8410315321d421d14b84914faf4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Enzyme flexibility and enzyme action}}
+      \field{issn}{1553-0809}
+      \field{journaltitle}{Journal of Cellular and Comparative Physiology}
+      \field{month}{12}
+      \field{number}{S1}
+      \field{title}{{Enzyme flexibility and enzyme action}}
+      \field{volume}{54}
+      \field{year}{1959}
+      \field{pages}{245\bibrangedash 258}
+      \verb{doi}
+      \verb 10.1002/jcp.1030540420
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/jcp.1030540420
+      \endverb
+    \endentry
+    \entry{Monod1965}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2c505e4db5966573609da0412ee1568d}{Monod}{M\bibinitperiod}{Jacque}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4ed7d3878e536a84daaa5e605c7547c3}{Wyman}{W\bibinitperiod}{Jeffries}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d92fb554aa564df22347ceae22fe7221}{Changeux}{C\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2c505e4db5966573609da0412ee1568d}{Monod}{M\bibinitperiod}{Jacque}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4ed7d3878e536a84daaa5e605c7547c3}{Wyman}{W\bibinitperiod}{Jeffries}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d92fb554aa564df22347ceae22fe7221}{Changeux}{C\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ce5ff2a4ea836bfca74c7d4045054c31}
+      \strng{fullhash}{ce5ff2a4ea836bfca74c7d4045054c31}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{On the nature of allosteric transitions: A plausible model}}
+      \field{issn}{00222836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{month}{05}
+      \field{number}{1}
+      \field{title}{{On the nature of allosteric transitions: A plausible model}}
+      \field{volume}{12}
+      \field{year}{1965}
+      \field{pages}{88\bibrangedash 118}
+      \verb{doi}
+      \verb 10.1016/S0022-2836(65)80285-6
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0022283665802856
+      \endverb
+    \endentry
+    \entry{Kitao1998}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=4e8a018e6e6fe8c69d308ada76ffd8b7}{Kitao}{K\bibinitperiod}{Akio}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=483931f5b0b7f43dab6ab46bfc54189f}{Hayward}{H\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5fce22464821b5b3e5134afc17d6cd88}{Go}{G\bibinitperiod}{Nobuhiro}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4e8a018e6e6fe8c69d308ada76ffd8b7}{Kitao}{K\bibinitperiod}{Akio}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=483931f5b0b7f43dab6ab46bfc54189f}{Hayward}{H\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5fce22464821b5b3e5134afc17d6cd88}{Go}{G\bibinitperiod}{Nobuhiro}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{7e58475201f84e936c0ebed3a041ce3e}
+      \strng{fullhash}{7e58475201f84e936c0ebed3a041ce3e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Energy landscape of a native protein: Jumping-among-minima model}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Energy landscape of a native protein: Jumping-among-minima model}}
+      \field{volume}{33}
+      \field{year}{1998}
+      \field{pages}{496\bibrangedash 517}
+      \verb{doi}
+      \verb 10.1002/(SICI)1097-0134(19981201)33:4<496::AID-PROT4>3.0.CO;2-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/(SICI)1097-0134(19981201)33:4%3C496::AID-PROT4%3E3.0.CO%202-1
+      \endverb
+    \endentry
+    \entry{Petsko1984}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1476d6945186dfdf31bd995b819295a1}{Petsko}{P\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec96b11f9665fb1c877ecd5608d8912}{Ringe}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1476d6945186dfdf31bd995b819295a1}{Petsko}{P\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec96b11f9665fb1c877ecd5608d8912}{Ringe}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{9b5f7b7d156c9107dfe4f76434f6608f}
+      \strng{fullhash}{9b5f7b7d156c9107dfe4f76434f6608f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Fluctuations in Protein Structure from X-Ray Diffraction}}
+      \field{annotation}{doi: 10.1146/annurev.bb.13.060184.001555}
+      \field{issn}{0084-6589}
+      \field{journaltitle}{Annual Review of Biophysics and Bioengineering}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Fluctuations in Protein Structure from X-Ray Diffraction}}
+      \field{volume}{13}
+      \field{year}{1984}
+      \field{pages}{331\bibrangedash 371}
+      \verb{doi}
+      \verb 10.1146/annurev.bb.13.060184.001555
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.bb.13.060184.001555
+      \endverb
+    \endentry
+    \entry{Foote1994}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2b272101783e033fafd5c54f6cd0cd87}{Foote}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0cac038b408d96f8bc86a87be5e1e95}{Milstein}{M\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2b272101783e033fafd5c54f6cd0cd87}{Foote}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b0cac038b408d96f8bc86a87be5e1e95}{Milstein}{M\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{263aeb0429687da4df891051919f0e95}
+      \strng{fullhash}{263aeb0429687da4df891051919f0e95}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Conformational isomerism and the diversity of antibodies.}}
+      \field{abstract}{The fact that one cell encodes a single antibody sequence does not necessarily mean that the resulting antibody folds into a single structure, although this is a common assumption. Here we challenge this view and suggest that many antibodies do not have a single conformation at the combining site. The basis for this proposal comes from the kinetic analysis of a set of murine hybridomas derived from defined stages of the immune response to 2-phenyl-5-oxazolone (Ox). Among them we have identified three antibodies that exhibit complex hapten-binding kinetics. We observed biphasic or triphasic reactions in stopped-flow fluorescence experiments, indicating that ligand binding involved isomerization, as well as associative steps. The existence of an equilibrium between at least two antibody conformations, with ligands binding preferentially to one form, was deduced from the variation with hapten concentration of the apparent rate of each phase.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{10}
+      \field{number}{22}
+      \field{title}{{Conformational isomerism and the diversity of antibodies.}}
+      \field{volume}{91}
+      \field{year}{1994}
+      \field{pages}{10370\bibrangedash 10374}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC45021/
+      \endverb
+    \endentry
+    \entry{James2003}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=3712dfaed00c7d94986d5cf9ac76aa5f}{James}{J\bibinitperiod}{Leo\bibnamedelima C}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=44320ac15125b5ba914c711bfcc388aa}{Roversi}{R\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=91cd6a4a953369f963f48e0bc013c72d}{Tawfik}{T\bibinitperiod}{Dan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=3712dfaed00c7d94986d5cf9ac76aa5f}{James}{J\bibinitperiod}{Leo\bibnamedelima C}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=44320ac15125b5ba914c711bfcc388aa}{Roversi}{R\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=91cd6a4a953369f963f48e0bc013c72d}{Tawfik}{T\bibinitperiod}{Dan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ccea57ab2d9e24bb363b19b680455a8}
+      \strng{fullhash}{2ccea57ab2d9e24bb363b19b680455a8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Antibody Multispecificity Mediated by Conformational Diversity}}
+      \field{abstract}{A single antibody was shown to adopt different binding-site conformations and thereby bind unrelated antigens. Analysis by both x-ray crystallography and pre--steady-state kinetics revealed an equilibrium between different preexisting isomers, one of which possessed a promiscuous, low-affinity binding site for aromatic ligands, including the immunizing hapten. A subsequent induced-fit isomerization led to high-affinity complexes with a deep and narrow binding site. A protein antigen identified by repertoire selection made use of an unrelated antibody isomer with a wide, shallow binding site. Conformational diversity, whereby one sequence adopts multiple structures and multiple functions, can increase the effective size of the antibody repertoire but may also lead to autoimmunity and allergy.}
+      \field{journaltitle}{Science}
+      \field{month}{02}
+      \field{number}{5611}
+      \field{title}{{Antibody Multispecificity Mediated by Conformational Diversity}}
+      \field{volume}{299}
+      \field{year}{2003}
+      \field{pages}{1362\bibrangedash 1367}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/299/5611/1362.abstract
+      \endverb
+    \endentry
+    \entry{Dunn2001}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=46ec57e109a0eb5deef09da9dfe6d092}{Dunn}{D\bibinitperiod}{Michael\bibnamedelima F}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=46ec57e109a0eb5deef09da9dfe6d092}{Dunn}{D\bibinitperiod}{Michael\bibnamedelima F}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{46ec57e109a0eb5deef09da9dfe6d092}
+      \strng{fullhash}{46ec57e109a0eb5deef09da9dfe6d092}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein--Ligand Interactions: General Description}}
+      \field{booktitle}{eLS}
+      \field{isbn}{9780470015902}
+      \field{title}{{Protein--Ligand Interactions: General Description}}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1038/npg.els.0001340
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/npg.els.0001340
       \endverb
     \endentry
   \endsortlist
