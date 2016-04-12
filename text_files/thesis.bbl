@@ -2704,6 +2704,337 @@
       \verb http://dx.doi.org/10.1038/npg.els.0001340
       \endverb
     \endentry
+    \entry{Michel2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9c765e3afd68f8588e8b8ab0959b54cc}{Tirado-rives}{T\bibinithyphendelim r\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9c765e3afd68f8588e8b8ab0959b54cc}{Tirado-rives}{T\bibinithyphendelim r\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6c5951ce45cb4b7c7e019bea6d2dfaa1}
+      \strng{fullhash}{6c5951ce45cb4b7c7e019bea6d2dfaa1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Supplemtal Information: Prediction of the Water Content in Protein Binding Sites}}
+      \field{journaltitle}{J. Phys. Chem. B}
+      \field{number}{9}
+      \field{title}{{Supplemtal Information: Prediction of the Water Content in Protein Binding Sites}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 2}
+      \verb{doi}
+      \verb 10.1021/jp9047456.(18)
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/ja906058w.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Ravindranathan2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=d8e71ece1e236ff5b18f3b2fdb5d3d7b}{Ravindranathan}{R\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07f5dac805ae2d3948eb372fed4252}{Tirado-Rives}{T\bibinithyphendelim R\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6714b8a850eb66a35c7a0a569b3db536}{Guimar{\~{a}}es}{G\bibinitperiod}{Cristiano\bibnamedelimb R\bibnamedelima W}{C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=d8e71ece1e236ff5b18f3b2fdb5d3d7b}{Ravindranathan}{R\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07f5dac805ae2d3948eb372fed4252}{Tirado-Rives}{T\bibinithyphendelim R\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6714b8a850eb66a35c7a0a569b3db536}{Guimar{\~{a}}es}{G\bibinitperiod}{Cristiano\bibnamedelimb R\bibnamedelima W}{C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f1fa3fed6d367a23959254d353414454}
+      \strng{fullhash}{808dafe0e66cb9e4321c1114ac7c2e8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Improving MM-GB/SA Scoring through the Application of the Variable Dielectric Model}}
+      \field{abstract}{A variable dielectric model based on residue types for better description of protein-ligand electrostatics in MM-GBSA scoring is reported. The variable dielectric approach provides better correlation with binding data and reduces the score dynamic range, typically observed in the standard MM-GB/SA method. The latter supports the view that exaggerated enthalpic separation between weak and potent compounds due to the lack of shielding effects in the model is greatly responsible for the wide scoring spread.}
+      \field{issn}{1549-9618}
+      \field{journaltitle}{Journal of chemical theory and computation}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Improving MM-GB/SA Scoring through the Application of the Variable Dielectric Model}}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{3859\bibrangedash 3865}
+      \verb{doi}
+      \verb 10.1021/ct200565u
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351111/
+      \endverb
+    \endentry
+    \entry{Michel2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1950e3a3242a1047913c14da60b68015}{Verdonk}{V\bibinitperiod}{Marcel\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d5933f58df57a2fed80a7bc91e9fdb34}{Essex}{E\bibinitperiod}{Jonathan\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1950e3a3242a1047913c14da60b68015}{Verdonk}{V\bibinitperiod}{Marcel\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d5933f58df57a2fed80a7bc91e9fdb34}{Essex}{E\bibinitperiod}{Jonathan\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{1c60f373ca2302344f96a386c3ea86a1}
+      \strng{fullhash}{1c60f373ca2302344f96a386c3ea86a1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein-Ligand Binding Affinity Predictions by Implicit Solvent Simulations:\x{2009} A Tool for Lead Optimization?}}
+      \field{annotation}{doi: 10.1021/jm061021s}
+      \field{issn}{0022-2623}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{{Protein-Ligand Binding Affinity Predictions by Implicit Solvent Simulations:\x{2009} A Tool for Lead Optimization?}}
+      \field{volume}{49}
+      \field{year}{2006}
+      \field{pages}{7427\bibrangedash 7439}
+      \verb{doi}
+      \verb 10.1021/jm061021s
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/jm061021s
+      \endverb
+    \endentry
+    \entry{Liu2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6aa49f9f28cc919cecad2a76567a5114}{Liu}{L\bibinitperiod}{Hao-Yang}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=47adf8eb924c34a05a4f673de9cee38b}{Grinter}{G\bibinitperiod}{Sam\bibnamedelima Z}{S\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d15cbe55cf4442531f4a92a782a22ece}{Zou}{Z\bibinitperiod}{Xiaoqin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6aa49f9f28cc919cecad2a76567a5114}{Liu}{L\bibinitperiod}{Hao-Yang}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=47adf8eb924c34a05a4f673de9cee38b}{Grinter}{G\bibinitperiod}{Sam\bibnamedelima Z}{S\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d15cbe55cf4442531f4a92a782a22ece}{Zou}{Z\bibinitperiod}{Xiaoqin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c9f797fb69980044cd1c83cd47bdfe11}
+      \strng{fullhash}{c9f797fb69980044cd1c83cd47bdfe11}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Multiscale generalized Born modeling of ligand binding energies for virtual database screening}}
+      \field{abstract}{Generalized Born (GB) models are widely used to study the electrostatic energetics of solute molecules including proteins. Previous work demonstrates that GB models may produce satisfactory solvation energies if accurate effective Born radii are computed for all atoms. Our previous study showed that a GB model which reproduces the solvation energy may not necessarily be suitable for ligand binding calculations. In this work, we studied binding energetics using the exact GB model, in which Born radii are computed from the Poisson-Boltzmann (PB) equation. Our results showed that accurate Born radii lead to very good agreement between GB and PB in electrostatic calculations for ligand binding. However, recently developed GB models with high Born radii accuracy, when used in large database screening, may suffer from time constraints which make accurate, large-scale Born radii calculations impractical. We therefore present a multiscale GB approach in which atoms are divided into two groups. For atoms in the first group, those few atoms which are most likely to be critical to binding electrostatics, the Born radii are computed accurately at the sacrifice of speed. We propose two alternative approaches for atoms in the second group. The Born radii of these atoms may simply be computed by a fast GB method. Alternatively, the Born radii of these atoms may be computed accurately in the free state, then a variational form of a fast GB method may be used to compute the change in Born radii experienced by these atoms during binding. This strategy provides an accuracy advantage while still being fast enough for use in the virtual screening of large databases.}
+      \field{issn}{1520-6106}
+      \field{journaltitle}{The journal of physical chemistry. B}
+      \field{month}{09}
+      \field{number}{35}
+      \field{title}{{Multiscale generalized Born modeling of ligand binding energies for virtual database screening}}
+      \field{volume}{113}
+      \field{year}{2009}
+      \field{pages}{11793\bibrangedash 11799}
+      \verb{doi}
+      \verb 10.1021/jp901212t
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763608/
+      \endverb
+    \endentry
+    \entry{Lu2007}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=7af7df921c83cc455a4c4de1e072c4ac}{Lu}{L\bibinitperiod}{Yipin}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ab84d11d93fb5236a319ffca24e31ad}{Wang}{W\bibinitperiod}{Renxiao}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bae857a0cb56934c2102ac6ad924f2fb}{Yang}{Y\bibinitperiod}{Chao-Yie}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c5c6a61f0a352dfd208ab4e65ed64df7}{Wang}{W\bibinitperiod}{Shaomeng}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=7af7df921c83cc455a4c4de1e072c4ac}{Lu}{L\bibinitperiod}{Yipin}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ab84d11d93fb5236a319ffca24e31ad}{Wang}{W\bibinitperiod}{Renxiao}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bae857a0cb56934c2102ac6ad924f2fb}{Yang}{Y\bibinitperiod}{Chao-Yie}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c5c6a61f0a352dfd208ab4e65ed64df7}{Wang}{W\bibinitperiod}{Shaomeng}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{148341607dd551f60a2ae90ae91576c3}
+      \strng{fullhash}{f1ceb3a8a3eb0edd73cded4e95e5271a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Analysis of Ligand-Bound Water Molecules in High-Resolution Crystal Structures of Protein{$\textminus$}Ligand Complexes}}
+      \field{annotation}{doi: 10.1021/ci6003527}
+      \field{issn}{1549-9596}
+      \field{journaltitle}{Journal of Chemical Information and Modeling}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Analysis of Ligand-Bound Water Molecules in High-Resolution Crystal Structures of Protein{$\textminus$}Ligand Complexes}}
+      \field{volume}{47}
+      \field{year}{2007}
+      \field{pages}{668\bibrangedash 675}
+      \verb{doi}
+      \verb 10.1021/ci6003527
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/ci6003527
+      \endverb
+    \endentry
+    \entry{Sharp1990}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d45d7d88903e633ac60e4f7ef9ccee81}{Sharp}{S\bibinitperiod}{Kim\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1d96e1e0a77ad2809933313618d93d17}{Honig}{H\bibinitperiod}{Barry.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d45d7d88903e633ac60e4f7ef9ccee81}{Sharp}{S\bibinitperiod}{Kim\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1d96e1e0a77ad2809933313618d93d17}{Honig}{H\bibinitperiod}{Barry.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{8acd8027f3b2e897de04377c1ec364ce}
+      \strng{fullhash}{8acd8027f3b2e897de04377c1ec364ce}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Calculating total electrostatic energies with the nonlinear Poisson-Boltzmann equation}}
+      \field{annotation}{doi: 10.1021/j100382a068}
+      \field{issn}{0022-3654}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{month}{09}
+      \field{number}{19}
+      \field{title}{{Calculating total electrostatic energies with the nonlinear Poisson-Boltzmann equation}}
+      \field{volume}{94}
+      \field{year}{1990}
+      \field{pages}{7684\bibrangedash 7692}
+      \verb{doi}
+      \verb 10.1021/j100382a068
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/j100382a068
+      \endverb
+    \endentry
+    \entry{Bashford2000}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d5aa9c2314a5d50215a7550ba5dc1fab}{Bashford}{B\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4d8f9f3e905177579a487e2df19e8b27}{Case}{C\bibinitperiod}{David\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d5aa9c2314a5d50215a7550ba5dc1fab}{Bashford}{B\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4d8f9f3e905177579a487e2df19e8b27}{Case}{C\bibinitperiod}{David\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{250297f747c3e68e467cb6aca100f5be}
+      \strng{fullhash}{250297f747c3e68e467cb6aca100f5be}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{GENERALIZED BORN MODELS OF MACROMOLECULAR SOLVATION EFFECTS}}
+      \field{annotation}{doi: 10.1146/annurev.physchem.51.1.129}
+      \field{issn}{0066-426X}
+      \field{journaltitle}{Annual Review of Physical Chemistry}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{{GENERALIZED BORN MODELS OF MACROMOLECULAR SOLVATION EFFECTS}}
+      \field{volume}{51}
+      \field{year}{2000}
+      \field{pages}{129\bibrangedash 152}
+      \verb{doi}
+      \verb 10.1146/annurev.physchem.51.1.129
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.physchem.51.1.129
+      \endverb
+    \endentry
+    \entry{Friesner2004}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=d1293cea8ffd0a3608d02a91d7819106}{Friesner}{F\bibinitperiod}{Richard\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b7210133fdb29b7248e1b762a3d4e9a6}{Banks}{B\bibinitperiod}{Jay\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=93227c851ae44852868eb9785c256d4d}{Murphy}{M\bibinitperiod}{Robert\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=8de40fc87416f72bcef748b942f8e50a}{Halgren}{H\bibinitperiod}{Thomas\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fa269921f9343f9b11a9772f83c66efa}{Klicic}{K\bibinitperiod}{Jasna\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=76bb5d98594a0c8563d7e9aec9c640d6}{Mainz}{M\bibinitperiod}{Daniel\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=5249e50dc29069a18e2fdb7e293707d0}{Repasky}{R\bibinitperiod}{Matthew\bibnamedelima P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b245f78dd9ca0acbfa6f6c82e5db90}{Knoll}{K\bibinitperiod}{Eric\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=eb40ad6d772a89176a112def5f30c030}{Shelley}{S\bibinitperiod}{Mee}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ae625a89c24572d1d2aa86b4a4ce7c94}{Perry}{P\bibinitperiod}{Jason\bibnamedelima K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=d14c2080ec5f9fa3e2c7dad904c9cc89}{Shaw}{S\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a4a4610ec2e43b70aa3a990de22060ce}{Francis}{F\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=aef3da4748b2d9801d1eff8cc30670c4}{Shenkin}{S\bibinitperiod}{Peter\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=d1293cea8ffd0a3608d02a91d7819106}{Friesner}{F\bibinitperiod}{Richard\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b7210133fdb29b7248e1b762a3d4e9a6}{Banks}{B\bibinitperiod}{Jay\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=93227c851ae44852868eb9785c256d4d}{Murphy}{M\bibinitperiod}{Robert\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=8de40fc87416f72bcef748b942f8e50a}{Halgren}{H\bibinitperiod}{Thomas\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fa269921f9343f9b11a9772f83c66efa}{Klicic}{K\bibinitperiod}{Jasna\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=76bb5d98594a0c8563d7e9aec9c640d6}{Mainz}{M\bibinitperiod}{Daniel\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=5249e50dc29069a18e2fdb7e293707d0}{Repasky}{R\bibinitperiod}{Matthew\bibnamedelima P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b245f78dd9ca0acbfa6f6c82e5db90}{Knoll}{K\bibinitperiod}{Eric\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=eb40ad6d772a89176a112def5f30c030}{Shelley}{S\bibinitperiod}{Mee}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ae625a89c24572d1d2aa86b4a4ce7c94}{Perry}{P\bibinitperiod}{Jason\bibnamedelima K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=d14c2080ec5f9fa3e2c7dad904c9cc89}{Shaw}{S\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a4a4610ec2e43b70aa3a990de22060ce}{Francis}{F\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=aef3da4748b2d9801d1eff8cc30670c4}{Shenkin}{S\bibinitperiod}{Peter\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{958b6cb56862ed1d8fb3b4b415e9d4ad}
+      \strng{fullhash}{7d4703db8320284ee13fd8f26daedb07}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy}}
+      \field{abstract}{Unlike other methods for docking ligands to the rigid 3D structure of a known protein receptor, Glide approximates a complete systematic search of the conformational, orientational, and positional space of the docked ligand. In this search, an initial rough positioning and scoring phase that dramatically narrows the search space is followed by torsionally flexible energy optimization on an OPLS-AA nonbonded potential grid for a few hundred surviving candidate poses. The very best candidates are further refined via a Monte Carlo sampling of pose conformation; in some cases, this is crucial to obtaining an accurate docked pose. Selection of the best docked pose uses a model energy function that combines empirical and force-field-based terms. Docking accuracy is assessed by redocking ligands from 282 cocrystallized PDB complexes starting from conformationally optimized ligand geometries that bear no memory of the correctly docked pose. Errors in geometry for the top-ranked pose are less than 1 A in nearly half of the cases and are greater than 2 A in only about one-third of them. Comparisons to published data on rms deviations show that Glide is nearly twice as accurate as GOLD and more than twice as accurate as FlexX for ligands having up to 20 rotatable bonds. Glide is also found to be more accurate than the recently described Surflex method.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{0022-2623}
+      \field{issn}{00222623}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{number}{7}
+      \field{title}{{Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy}}
+      \field{volume}{47}
+      \field{year}{2004}
+      \field{pages}{1739\bibrangedash 1749}
+      \verb{doi}
+      \verb 10.1021/jm0306430
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/jm0306430.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Steffen2010}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=f0200b90cce0c7ed201c36567c484f44}{Steffen}{S\bibinitperiod}{Claudia}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=02ba2568b23db03323306bcf110af8f2}{Thomas}{T\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e506e505f3239ec54b030e93af7d4dd1}{Huniar}{H\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=26cb7261125c49065b71e481f2cae976}{Hellweg}{H\bibinitperiod}{Arnim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa810d090d2bb6fc1235b5f7abd5ccc}{Rubner}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=f31907787de502bf384bbe5b5c8e4d15}{Schroer}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=f0200b90cce0c7ed201c36567c484f44}{Steffen}{S\bibinitperiod}{Claudia}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=02ba2568b23db03323306bcf110af8f2}{Thomas}{T\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e506e505f3239ec54b030e93af7d4dd1}{Huniar}{H\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=26cb7261125c49065b71e481f2cae976}{Hellweg}{H\bibinitperiod}{Arnim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa810d090d2bb6fc1235b5f7abd5ccc}{Rubner}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=f31907787de502bf384bbe5b5c8e4d15}{Schroer}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ef5643eef482a6309ddfcbbc92e33e9b}
+      \strng{fullhash}{bb15e46f5a2c536a77598498ba074c6a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TmoleX--a graphical user interface for TURBOMOLE.}}
+      \field{abstract}{We herein present the graphical user interface (GUI) TmoleX for the quantum chemical program package TURBOMOLE. TmoleX allows users to execute the complete workflow of a quantum chemical investigation from the initial building of a structure to the visualization of the results in a user friendly graphical front end. The purpose of TmoleX is to make TURBOMOLE easy to use and to provide a high degree of flexibility. Hence, it should be a valuable tool for most users from beginners to experts. The program is developed in Java and runs on Linux, Windows, and Mac platforms. It can be used to run calculations on local desktops as well as on remote computers.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1096-987X}
+      \field{issn}{1096-987X}
+      \field{journaltitle}{Journal of computational chemistry}
+      \field{number}{16}
+      \field{title}{{TmoleX--a graphical user interface for TURBOMOLE.}}
+      \field{volume}{31}
+      \field{year}{2010}
+      \field{pages}{2967\bibrangedash 2970}
+      \verb{doi}
+      \verb 10.1002/jcc
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/277.pdf:pdf
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -5389,6 +5720,337 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/npg.els.0001340
+      \endverb
+    \endentry
+    \entry{Michel2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9c765e3afd68f8588e8b8ab0959b54cc}{Tirado-rives}{T\bibinithyphendelim r\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9c765e3afd68f8588e8b8ab0959b54cc}{Tirado-rives}{T\bibinithyphendelim r\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6c5951ce45cb4b7c7e019bea6d2dfaa1}
+      \strng{fullhash}{6c5951ce45cb4b7c7e019bea6d2dfaa1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Supplemtal Information: Prediction of the Water Content in Protein Binding Sites}}
+      \field{journaltitle}{J. Phys. Chem. B}
+      \field{number}{9}
+      \field{title}{{Supplemtal Information: Prediction of the Water Content in Protein Binding Sites}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 2}
+      \verb{doi}
+      \verb 10.1021/jp9047456.(18)
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/ja906058w.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Ravindranathan2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=d8e71ece1e236ff5b18f3b2fdb5d3d7b}{Ravindranathan}{R\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07f5dac805ae2d3948eb372fed4252}{Tirado-Rives}{T\bibinithyphendelim R\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6714b8a850eb66a35c7a0a569b3db536}{Guimar{\~{a}}es}{G\bibinitperiod}{Cristiano\bibnamedelimb R\bibnamedelima W}{C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=d8e71ece1e236ff5b18f3b2fdb5d3d7b}{Ravindranathan}{R\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07f5dac805ae2d3948eb372fed4252}{Tirado-Rives}{T\bibinithyphendelim R\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c19e67db2cc0994d3900bcf8da4333bc}{Jorgensen}{J\bibinitperiod}{William\bibnamedelima L}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6714b8a850eb66a35c7a0a569b3db536}{Guimar{\~{a}}es}{G\bibinitperiod}{Cristiano\bibnamedelimb R\bibnamedelima W}{C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f1fa3fed6d367a23959254d353414454}
+      \strng{fullhash}{808dafe0e66cb9e4321c1114ac7c2e8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Improving MM-GB/SA Scoring through the Application of the Variable Dielectric Model}}
+      \field{abstract}{A variable dielectric model based on residue types for better description of protein-ligand electrostatics in MM-GBSA scoring is reported. The variable dielectric approach provides better correlation with binding data and reduces the score dynamic range, typically observed in the standard MM-GB/SA method. The latter supports the view that exaggerated enthalpic separation between weak and potent compounds due to the lack of shielding effects in the model is greatly responsible for the wide scoring spread.}
+      \field{issn}{1549-9618}
+      \field{journaltitle}{Journal of chemical theory and computation}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Improving MM-GB/SA Scoring through the Application of the Variable Dielectric Model}}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{3859\bibrangedash 3865}
+      \verb{doi}
+      \verb 10.1021/ct200565u
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351111/
+      \endverb
+    \endentry
+    \entry{Michel2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1950e3a3242a1047913c14da60b68015}{Verdonk}{V\bibinitperiod}{Marcel\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d5933f58df57a2fed80a7bc91e9fdb34}{Essex}{E\bibinitperiod}{Jonathan\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0cfceab6b7b504ed285ed70f6b525631}{Michel}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1950e3a3242a1047913c14da60b68015}{Verdonk}{V\bibinitperiod}{Marcel\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d5933f58df57a2fed80a7bc91e9fdb34}{Essex}{E\bibinitperiod}{Jonathan\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{1c60f373ca2302344f96a386c3ea86a1}
+      \strng{fullhash}{1c60f373ca2302344f96a386c3ea86a1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Protein-Ligand Binding Affinity Predictions by Implicit Solvent Simulations:\x{2009} A Tool for Lead Optimization?}}
+      \field{annotation}{doi: 10.1021/jm061021s}
+      \field{issn}{0022-2623}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{{Protein-Ligand Binding Affinity Predictions by Implicit Solvent Simulations:\x{2009} A Tool for Lead Optimization?}}
+      \field{volume}{49}
+      \field{year}{2006}
+      \field{pages}{7427\bibrangedash 7439}
+      \verb{doi}
+      \verb 10.1021/jm061021s
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/jm061021s
+      \endverb
+    \endentry
+    \entry{Liu2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6aa49f9f28cc919cecad2a76567a5114}{Liu}{L\bibinitperiod}{Hao-Yang}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=47adf8eb924c34a05a4f673de9cee38b}{Grinter}{G\bibinitperiod}{Sam\bibnamedelima Z}{S\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d15cbe55cf4442531f4a92a782a22ece}{Zou}{Z\bibinitperiod}{Xiaoqin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6aa49f9f28cc919cecad2a76567a5114}{Liu}{L\bibinitperiod}{Hao-Yang}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=47adf8eb924c34a05a4f673de9cee38b}{Grinter}{G\bibinitperiod}{Sam\bibnamedelima Z}{S\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d15cbe55cf4442531f4a92a782a22ece}{Zou}{Z\bibinitperiod}{Xiaoqin}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c9f797fb69980044cd1c83cd47bdfe11}
+      \strng{fullhash}{c9f797fb69980044cd1c83cd47bdfe11}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Multiscale generalized Born modeling of ligand binding energies for virtual database screening}}
+      \field{abstract}{Generalized Born (GB) models are widely used to study the electrostatic energetics of solute molecules including proteins. Previous work demonstrates that GB models may produce satisfactory solvation energies if accurate effective Born radii are computed for all atoms. Our previous study showed that a GB model which reproduces the solvation energy may not necessarily be suitable for ligand binding calculations. In this work, we studied binding energetics using the exact GB model, in which Born radii are computed from the Poisson-Boltzmann (PB) equation. Our results showed that accurate Born radii lead to very good agreement between GB and PB in electrostatic calculations for ligand binding. However, recently developed GB models with high Born radii accuracy, when used in large database screening, may suffer from time constraints which make accurate, large-scale Born radii calculations impractical. We therefore present a multiscale GB approach in which atoms are divided into two groups. For atoms in the first group, those few atoms which are most likely to be critical to binding electrostatics, the Born radii are computed accurately at the sacrifice of speed. We propose two alternative approaches for atoms in the second group. The Born radii of these atoms may simply be computed by a fast GB method. Alternatively, the Born radii of these atoms may be computed accurately in the free state, then a variational form of a fast GB method may be used to compute the change in Born radii experienced by these atoms during binding. This strategy provides an accuracy advantage while still being fast enough for use in the virtual screening of large databases.}
+      \field{issn}{1520-6106}
+      \field{journaltitle}{The journal of physical chemistry. B}
+      \field{month}{09}
+      \field{number}{35}
+      \field{title}{{Multiscale generalized Born modeling of ligand binding energies for virtual database screening}}
+      \field{volume}{113}
+      \field{year}{2009}
+      \field{pages}{11793\bibrangedash 11799}
+      \verb{doi}
+      \verb 10.1021/jp901212t
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763608/
+      \endverb
+    \endentry
+    \entry{Lu2007}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=7af7df921c83cc455a4c4de1e072c4ac}{Lu}{L\bibinitperiod}{Yipin}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ab84d11d93fb5236a319ffca24e31ad}{Wang}{W\bibinitperiod}{Renxiao}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bae857a0cb56934c2102ac6ad924f2fb}{Yang}{Y\bibinitperiod}{Chao-Yie}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c5c6a61f0a352dfd208ab4e65ed64df7}{Wang}{W\bibinitperiod}{Shaomeng}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=7af7df921c83cc455a4c4de1e072c4ac}{Lu}{L\bibinitperiod}{Yipin}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ab84d11d93fb5236a319ffca24e31ad}{Wang}{W\bibinitperiod}{Renxiao}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bae857a0cb56934c2102ac6ad924f2fb}{Yang}{Y\bibinitperiod}{Chao-Yie}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c5c6a61f0a352dfd208ab4e65ed64df7}{Wang}{W\bibinitperiod}{Shaomeng}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{148341607dd551f60a2ae90ae91576c3}
+      \strng{fullhash}{f1ceb3a8a3eb0edd73cded4e95e5271a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Analysis of Ligand-Bound Water Molecules in High-Resolution Crystal Structures of Protein{$\textminus$}Ligand Complexes}}
+      \field{annotation}{doi: 10.1021/ci6003527}
+      \field{issn}{1549-9596}
+      \field{journaltitle}{Journal of Chemical Information and Modeling}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Analysis of Ligand-Bound Water Molecules in High-Resolution Crystal Structures of Protein{$\textminus$}Ligand Complexes}}
+      \field{volume}{47}
+      \field{year}{2007}
+      \field{pages}{668\bibrangedash 675}
+      \verb{doi}
+      \verb 10.1021/ci6003527
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/ci6003527
+      \endverb
+    \endentry
+    \entry{Sharp1990}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d45d7d88903e633ac60e4f7ef9ccee81}{Sharp}{S\bibinitperiod}{Kim\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1d96e1e0a77ad2809933313618d93d17}{Honig}{H\bibinitperiod}{Barry.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d45d7d88903e633ac60e4f7ef9ccee81}{Sharp}{S\bibinitperiod}{Kim\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1d96e1e0a77ad2809933313618d93d17}{Honig}{H\bibinitperiod}{Barry.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{8acd8027f3b2e897de04377c1ec364ce}
+      \strng{fullhash}{8acd8027f3b2e897de04377c1ec364ce}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Calculating total electrostatic energies with the nonlinear Poisson-Boltzmann equation}}
+      \field{annotation}{doi: 10.1021/j100382a068}
+      \field{issn}{0022-3654}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{month}{09}
+      \field{number}{19}
+      \field{title}{{Calculating total electrostatic energies with the nonlinear Poisson-Boltzmann equation}}
+      \field{volume}{94}
+      \field{year}{1990}
+      \field{pages}{7684\bibrangedash 7692}
+      \verb{doi}
+      \verb 10.1021/j100382a068
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/j100382a068
+      \endverb
+    \endentry
+    \entry{Bashford2000}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d5aa9c2314a5d50215a7550ba5dc1fab}{Bashford}{B\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4d8f9f3e905177579a487e2df19e8b27}{Case}{C\bibinitperiod}{David\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d5aa9c2314a5d50215a7550ba5dc1fab}{Bashford}{B\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4d8f9f3e905177579a487e2df19e8b27}{Case}{C\bibinitperiod}{David\bibnamedelima A}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{250297f747c3e68e467cb6aca100f5be}
+      \strng{fullhash}{250297f747c3e68e467cb6aca100f5be}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{GENERALIZED BORN MODELS OF MACROMOLECULAR SOLVATION EFFECTS}}
+      \field{annotation}{doi: 10.1146/annurev.physchem.51.1.129}
+      \field{issn}{0066-426X}
+      \field{journaltitle}{Annual Review of Physical Chemistry}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{{GENERALIZED BORN MODELS OF MACROMOLECULAR SOLVATION EFFECTS}}
+      \field{volume}{51}
+      \field{year}{2000}
+      \field{pages}{129\bibrangedash 152}
+      \verb{doi}
+      \verb 10.1146/annurev.physchem.51.1.129
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.physchem.51.1.129
+      \endverb
+    \endentry
+    \entry{Friesner2004}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=d1293cea8ffd0a3608d02a91d7819106}{Friesner}{F\bibinitperiod}{Richard\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b7210133fdb29b7248e1b762a3d4e9a6}{Banks}{B\bibinitperiod}{Jay\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=93227c851ae44852868eb9785c256d4d}{Murphy}{M\bibinitperiod}{Robert\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=8de40fc87416f72bcef748b942f8e50a}{Halgren}{H\bibinitperiod}{Thomas\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fa269921f9343f9b11a9772f83c66efa}{Klicic}{K\bibinitperiod}{Jasna\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=76bb5d98594a0c8563d7e9aec9c640d6}{Mainz}{M\bibinitperiod}{Daniel\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=5249e50dc29069a18e2fdb7e293707d0}{Repasky}{R\bibinitperiod}{Matthew\bibnamedelima P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b245f78dd9ca0acbfa6f6c82e5db90}{Knoll}{K\bibinitperiod}{Eric\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=eb40ad6d772a89176a112def5f30c030}{Shelley}{S\bibinitperiod}{Mee}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ae625a89c24572d1d2aa86b4a4ce7c94}{Perry}{P\bibinitperiod}{Jason\bibnamedelima K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=d14c2080ec5f9fa3e2c7dad904c9cc89}{Shaw}{S\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a4a4610ec2e43b70aa3a990de22060ce}{Francis}{F\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=aef3da4748b2d9801d1eff8cc30670c4}{Shenkin}{S\bibinitperiod}{Peter\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=d1293cea8ffd0a3608d02a91d7819106}{Friesner}{F\bibinitperiod}{Richard\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b7210133fdb29b7248e1b762a3d4e9a6}{Banks}{B\bibinitperiod}{Jay\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=93227c851ae44852868eb9785c256d4d}{Murphy}{M\bibinitperiod}{Robert\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=8de40fc87416f72bcef748b942f8e50a}{Halgren}{H\bibinitperiod}{Thomas\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fa269921f9343f9b11a9772f83c66efa}{Klicic}{K\bibinitperiod}{Jasna\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=76bb5d98594a0c8563d7e9aec9c640d6}{Mainz}{M\bibinitperiod}{Daniel\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=5249e50dc29069a18e2fdb7e293707d0}{Repasky}{R\bibinitperiod}{Matthew\bibnamedelima P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b245f78dd9ca0acbfa6f6c82e5db90}{Knoll}{K\bibinitperiod}{Eric\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=eb40ad6d772a89176a112def5f30c030}{Shelley}{S\bibinitperiod}{Mee}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ae625a89c24572d1d2aa86b4a4ce7c94}{Perry}{P\bibinitperiod}{Jason\bibnamedelima K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=d14c2080ec5f9fa3e2c7dad904c9cc89}{Shaw}{S\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a4a4610ec2e43b70aa3a990de22060ce}{Francis}{F\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=aef3da4748b2d9801d1eff8cc30670c4}{Shenkin}{S\bibinitperiod}{Peter\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{958b6cb56862ed1d8fb3b4b415e9d4ad}
+      \strng{fullhash}{7d4703db8320284ee13fd8f26daedb07}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy}}
+      \field{abstract}{Unlike other methods for docking ligands to the rigid 3D structure of a known protein receptor, Glide approximates a complete systematic search of the conformational, orientational, and positional space of the docked ligand. In this search, an initial rough positioning and scoring phase that dramatically narrows the search space is followed by torsionally flexible energy optimization on an OPLS-AA nonbonded potential grid for a few hundred surviving candidate poses. The very best candidates are further refined via a Monte Carlo sampling of pose conformation; in some cases, this is crucial to obtaining an accurate docked pose. Selection of the best docked pose uses a model energy function that combines empirical and force-field-based terms. Docking accuracy is assessed by redocking ligands from 282 cocrystallized PDB complexes starting from conformationally optimized ligand geometries that bear no memory of the correctly docked pose. Errors in geometry for the top-ranked pose are less than 1 A in nearly half of the cases and are greater than 2 A in only about one-third of them. Comparisons to published data on rms deviations show that Glide is nearly twice as accurate as GOLD and more than twice as accurate as FlexX for ligands having up to 20 rotatable bonds. Glide is also found to be more accurate than the recently described Surflex method.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{0022-2623}
+      \field{issn}{00222623}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{number}{7}
+      \field{title}{{Glide: A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy}}
+      \field{volume}{47}
+      \field{year}{2004}
+      \field{pages}{1739\bibrangedash 1749}
+      \verb{doi}
+      \verb 10.1021/jm0306430
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/jm0306430.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Steffen2010}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=f0200b90cce0c7ed201c36567c484f44}{Steffen}{S\bibinitperiod}{Claudia}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=02ba2568b23db03323306bcf110af8f2}{Thomas}{T\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e506e505f3239ec54b030e93af7d4dd1}{Huniar}{H\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=26cb7261125c49065b71e481f2cae976}{Hellweg}{H\bibinitperiod}{Arnim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa810d090d2bb6fc1235b5f7abd5ccc}{Rubner}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=f31907787de502bf384bbe5b5c8e4d15}{Schroer}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=f0200b90cce0c7ed201c36567c484f44}{Steffen}{S\bibinitperiod}{Claudia}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=02ba2568b23db03323306bcf110af8f2}{Thomas}{T\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e506e505f3239ec54b030e93af7d4dd1}{Huniar}{H\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=26cb7261125c49065b71e481f2cae976}{Hellweg}{H\bibinitperiod}{Arnim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa810d090d2bb6fc1235b5f7abd5ccc}{Rubner}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=f31907787de502bf384bbe5b5c8e4d15}{Schroer}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ef5643eef482a6309ddfcbbc92e33e9b}
+      \strng{fullhash}{bb15e46f5a2c536a77598498ba074c6a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TmoleX--a graphical user interface for TURBOMOLE.}}
+      \field{abstract}{We herein present the graphical user interface (GUI) TmoleX for the quantum chemical program package TURBOMOLE. TmoleX allows users to execute the complete workflow of a quantum chemical investigation from the initial building of a structure to the visualization of the results in a user friendly graphical front end. The purpose of TmoleX is to make TURBOMOLE easy to use and to provide a high degree of flexibility. Hence, it should be a valuable tool for most users from beginners to experts. The program is developed in Java and runs on Linux, Windows, and Mac platforms. It can be used to run calculations on local desktops as well as on remote computers.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1096-987X}
+      \field{issn}{1096-987X}
+      \field{journaltitle}{Journal of computational chemistry}
+      \field{number}{16}
+      \field{title}{{TmoleX--a graphical user interface for TURBOMOLE.}}
+      \field{volume}{31}
+      \field{year}{2010}
+      \field{pages}{2967\bibrangedash 2970}
+      \verb{doi}
+      \verb 10.1002/jcc
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/277.pdf:pdf
       \endverb
     \endentry
   \endsortlist
