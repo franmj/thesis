@@ -1,26 +1,26 @@
-[1] Config.pm:322> INFO - This is Biber 2.0 (beta)
-[1] Config.pm:325> INFO - Logfile is 'thesis.blg'
-[61] biber:277> INFO - === Tue Apr 12, 2016, 17:13:39
-[61] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[172] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[173] Biber.pm:635> INFO - Found 89 citekeys in bib section 0
-[203] Biber.pm:3051> INFO - Processing section 0
-[235] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
+[0] Config.pm:322> INFO - This is Biber 2.0 (beta)
+[0] Config.pm:325> INFO - Logfile is 'thesis.blg'
+[59] biber:277> INFO - === Wed Apr 13, 2016, 18:20:14
+[60] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[170] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[173] Biber.pm:635> INFO - Found 109 citekeys in bib section 0
+[202] Biber.pm:3051> INFO - Processing section 0
+[234] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
 [236] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
 [236] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
 [256] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
-[470] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[699] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
-[978] Utils.pm:144> WARN - BibTeX subsystem: /tmp/k91DPY97Ln/library.bib_23262.utf8, line 6, warning: 172 characters of junk seen at toplevel
-[2371] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2371] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2371] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[2372] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[3505] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3506] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3506] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
-[3506] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[3724] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
-[3724] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[4075] bbl.pm:608> INFO - Output to thesis.bbl
-[4075] Biber.pm:106> INFO - WARNINGS: 2
+[466] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[679] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
+[1074] Utils.pm:144> WARN - BibTeX subsystem: /tmp/WCBlPoqG5C/library.bib_618.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[2514] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2515] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2515] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[2515] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[3931] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3932] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3932] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
+[3932] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[4267] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
+[4268] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[4806] bbl.pm:608> INFO - Output to thesis.bbl
+[4807] Biber.pm:106> INFO - WARNINGS: 2
