@@ -379,37 +379,30 @@ Kbind = \frac{[C]}{[P]*[L]}
 
 \subsubsection{Protein-ligand prediction}
 
-\par  \footnote{In chapter [REF] we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the presented manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics and (dis)advantages of the different approaches.}The importance of ligand-protein interaction prediction is reflected by the large number of available methods that use multiple different approaches \cite{Csermely2013, prathipati2015}. We can distinguish between \textit{free structure} methods (i.e. methods that do not rely on the protein structure to perform its predictions) and \textit{structure-based} methods.    
+\par  \footnote{In chapter [REF] we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the presented manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics and (dis)advantages of the different approaches.} The importance of ligand-protein interaction prediction is reflected by the large number of available methods that use multiple different approaches \cite{Csermely2013, prathipati2015}. We can distinguish between \textit{free structure} methods (i.e. methods that do not rely on the protein structure to perform its predictions) and \textit{structure-based} methods.    
 \par Free structure methods do not require the protein structure to perform their predictions. They usually use prior knowledge on protein compound interactions, to further extend the interactions to new and unseen compounds. The development of these methods can be split in two phases. The first step consist on the creation of a predictive model that uses a collection(s) of protein-compound interactions to learn hidden relationships between compound and their protein targets.  In the second step, these predictive models are used to extrapolate this knowledge to new and unseen compounds (or targets). The extrapolation relies on different types of compound or protein similarity. Knowledge-based free structure methods have been assisted by the advent of new and powerful \textit{high-thorughpout screening methods} (HTS) that allowed the creation of large computational compound-protein databases such as ChEMBL \cite{Bento2014},Therapeutic Target Database (TTD) \cite{Zhu2012a}, Binding MOAD \cite{Hu2005}, BindingDB \cite{Liu2007}, PubChem \cite{Kim2016, Wang2014} or ZINC \cite{Irwin2012}. The recent growth of these collections is accordingly improving these method's accuracy and coverage. Moreover, since they do not rely on protein structure they can be theoretically applied to any protein or any compound. Nevertheless, free structure methods do not provide detailed information about the ligand-protein relationship. Information such as binding localization, type of interaction (i.e. allosteric, on-target or off-target) or predicted free energy of binding;  that is absolutely essential in the drug discovery process. Consequently ,free structure methods are mostly employed in very early stages of the drug discovery pipeline. 
 
 \par Structure based target prediction methods use the protein structure to determine whether a small-molecule interact with a protein target. Docking methods have traditionally dominated the structure-based target prediction field. Virtual docking consist on predicting the preferred orientation of one molecule (the ligand) to a second (the protein) one. The process of finding the best orientation of molecule (i.e. its \textit{pose}) to its protein target is not simple, since several entropic, enthalpic and environmental factors have an impact on the interactions between them \ref{binding_energetics}. The underlying idea of this approach is to generate a comprehensive set of ligand-protein conformations, and then to rank them according to a specific scoring function \cite{Alonso2006}. The importance of virtual docking methods is not only reflected by the large number of published methods  (AutoDock \cite{Morris2009, Trott2010}, DOCK \cite{Ewing1997}, FLEXX \cite{Rarey1996}, GOLD \cite{Jones1997} and GLIDE \cite{Friesner2004} among others), but also by their success in drug discovery applications \cite{Schames2004, Enyedy2001, Vangrevelinghe2003}\footnote{For a comprehensive review of virtual docking methods an applications please consider \cite{Kitchen2004}}. However, virtual docking methods also have some limitations. The most apparent one is that they do rely on protein structure. As explained above \ref{structure_predicion} the coverage of the human structural proteome is below 40$\%$. Thus, some of the most interesting targets in drug discovery lack of experimentally determined 3D structure. In addition to these structurally inherent  problems and despite of some massive applications \cite{Reardon2013},  virtual docking methods are still computationally very expensive. Additionally, they need the prior knowledge of the binding localization in the protein surface which many times is unknown before the screening. To overcome the computational limitations, new structure-based methods use the so-called \textit{comparative docking} approaches that solely rely on structural comparisons, both of compounds and protein targets, to infer new interactions [REFS]. Chapter [REF nAnnolyze] presents nAnnolyze, a method to predict ligand-target interactions using a comparative docking approach. In that chapter it is further discussed the applications and limitations of these type of approaches. 
 
 
-
 \section{Drug discovery}\label{drug_discovery}
 
-subsection{Target prediction in drug discovery process}
+\par Drug discovery is the process by which potential new potential medications are discovered. It involves a wide range of scientific disciplines, including biology, chemistry, pharmacology and recently also the computational branches of these disciplines. Historically, drugs were discovered through the identification of the active ingredient from traditional remedies or by serendipitous discovery. Later the development of synthetic methods allowed the generation of purely synthetic structures that are not found in nature and have been investigated as potential therapeutic agents. More recently, the advent of new genomics, proteomics and high throughput screening (HTS) technologies resulted in the identification of large numbers of novel targets for future drug research.  The changed in the paradigm towards a more target centrical view \cite{Drews2000, Patrick2001}.  That means that \textit{modern drug discovery paradigm} implies the screening of thousands of molecules in order to identify those that have the desirable therapeutic effect in a particular protein target \cite{Drews2000, Patrick2001}. Figure [phases drug discovery] shows the current drug discovery pipeline alongside the estimated cost and time of each of the phases.  Discovery (or pre-clinical) phase encompasses four different sub phases. In the  initial stages of the discovery phase, there is a target validation  that ensures that the protein targets commits the medical function. Prior to the target validation, there is a target discovery that could where computational methods have shown great value due to they low cost in time and resources. After target validation a HTS is performed with a collection of candidate molecules.  the  \textit{Target-to-hit}  stage seeks for the identification of screening hits from the HTS experiment.   Subsequently, in the hit-to-lead or lead generation is a stage in early drug discovery where small molecule hits from a high throughput screen (HTS) are evaluated and undergo limited optimization to identify promising lead compounds
+These lead compounds undergo more extensive optimization in a subsequent step of drug discovery called lead optimization (LO). Mezclar con computacional. 
 
-\begin{table}[h]
-  \centering
-  \begin{tabular}{|l|l|}
-   \hline
-    0 & 0 \\ \hline
-    0 & 0 \\ \hline    
-  \end{tabular}
-  \caption{Prova de taula}
 
-\end{table}
 
-\subsection{subsection}
-Subsection
+\par The cost of developing a new drug has skyrocketed since the 1970s [Figure 2b] . In 2010 the estimated cost of launching a New Molecular Entity (NME) drug into the market is around  $\$$1.8 million and more than 13 years [ref cost].  Figure 2c shows that the productivity have decreased Source. Also productivity Tufts Center for the Study of Drug Development. Thereofre there is a need to narrow down the expenses, and start going to rationall drug discovery rather than macro prueba y error drug discoveyr. 
 
-\section{Drug discovery}
-Second
-\subsection{In-silico methods in drug-discovery}
-Subsection
-\section{Mycobacterium tuberculosis}
-\subsection{Tuberculosis treatments and PPcs}
+
+
+
+
+
+\section{Drug discovery in \textit{Mycobacterium Tuberculosis}}
+
+\par 
+
 \section{Drug resistance in cancer}
 \subsection{Cancer Treatment and drugs}
 
