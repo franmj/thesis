@@ -23,7 +23,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{18}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Drug discovery and development pipeline. For each stage average cost and time are included. Post-approval times not included in the time-line. Data extracted from \cite {Paul2010}.\relax }}{23}{figure.caption.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{24}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
@@ -31,4 +33,6 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{31}{figure.caption.21}
+\addvspace {10\p@ }{}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{33}{figure.caption.22}

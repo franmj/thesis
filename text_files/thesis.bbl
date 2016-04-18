@@ -3842,6 +3842,270 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24284710
       \endverb
     \endentry
+    \entry{Drews2000}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7f737abe1c40888301694155f653bf67}
+      \strng{fullhash}{7f737abe1c40888301694155f653bf67}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug discovery: a historical perspective.}}
+      \field{abstract}{Driven by chemistry but increasingly guided by pharmacology and the clinical sciences, drug research has contributed more to the progress of medicine during the past century than any other scientific factor. The advent of molecular biology and, in particular, of genomic sciences is having a deep impact on drug discovery. Recombinant proteins and monoclonal antibodies have greatly enriched our therapeutic armamentarium. Genome sciences, combined with bioinformatic tools, allow us to dissect the genetic basis of multifactorial diseases and to determine the most suitable points of attack for future medicines, thereby increasing the number of treatment options. The dramatic increase in the complexity of drug research is enforcing changes in the institutional basis of this interdisciplinary endeavor. The biotech industry is establishing itself as the discovery arm of the pharmaceutical industry. In bridging the gap between academia and large pharmaceutical companies, the biotech firms have been effective instruments of technology transfer.}
+      \field{isbn}{0036-8075 (Print)$\backslash$r0036-8075 (Linking)}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{number}{5460}
+      \field{title}{{Drug discovery: a historical perspective.}}
+      \field{volume}{287}
+      \field{year}{2000}
+      \field{pages}{1960\bibrangedash 64}
+      \verb{doi}
+      \verb 10.1126/science.287.5460.1960
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Drews - 2000 - Drug discovery a historical perspective.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Patrick2001}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=4465ab199916481254817ec67ee5b8cd}{Patrick}{P\bibinitperiod}{Graham\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4465ab199916481254817ec67ee5b8cd}{Patrick}{P\bibinitperiod}{Graham\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{4465ab199916481254817ec67ee5b8cd}
+      \strng{fullhash}{4465ab199916481254817ec67ee5b8cd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{History of Drug Discovery}}
+      \field{booktitle}{eLS}
+      \field{isbn}{9780470015902}
+      \field{title}{{History of Drug Discovery}}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1002/9780470015902.a0003090.pub2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/9780470015902.a0003090.pub2
+      \endverb
+    \endentry
+    \entry{Hutchinson2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7a84fb05e00d19e09c13f2308cea00a9}{Hutchinson}{H\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=15158fb6261af364cae4159e52b2b4f7}{Kirk}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7a84fb05e00d19e09c13f2308cea00a9}{Hutchinson}{H\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=15158fb6261af364cae4159e52b2b4f7}{Kirk}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{bd3222581da1ea760a8d32c3da4e431a}
+      \strng{fullhash}{bd3222581da1ea760a8d32c3da4e431a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{High drug attrition rates[mdash]where are we going wrong?}}
+      \field{annotation}{10.1038/nrclinonc.2011.34}
+      \field{issn}{1759-4774}
+      \field{journaltitle}{Nat Rev Clin Oncol}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{High drug attrition rates[mdash]where are we going wrong?}}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{189\bibrangedash 190}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrclinonc.2011.34
+      \endverb
+    \endentry
+    \entry{Hughes2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=92719bef4f321d41abd3ecd5f8a324e8}{Hughes}{H\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=58af7fb877b52267ca0802270218e792}{Rees}{R\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b87a82c50fd2be81651acc86f9f447ab}{Kalindjian}{K\bibinitperiod}{S.\bibnamedelimi B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=756bec188428515abb80c02e107b6d5f}{Philpott}{P\bibinitperiod}{K.\bibnamedelimi L.}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=92719bef4f321d41abd3ecd5f8a324e8}{Hughes}{H\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=58af7fb877b52267ca0802270218e792}{Rees}{R\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b87a82c50fd2be81651acc86f9f447ab}{Kalindjian}{K\bibinitperiod}{S.\bibnamedelimi B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=756bec188428515abb80c02e107b6d5f}{Philpott}{P\bibinitperiod}{K.\bibnamedelimi L.}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d9256a110c28d0a71b5d61772955000}
+      \strng{fullhash}{7616c217328de39ddfa3cd656893c4df}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Principles of early drug discovery}}
+      \field{abstract}{Developing a new drug from original idea to the launch of a finished product is a complex process which can take 12-15 years and cost in excess of {\$}1 billion. The idea for a target can come from a variety of sources including academic and clinical research and from the commercial sector. It may take many years to build up a body of supporting evidence before selecting a target for a costly drug discovery programme. Once a target has been chosen, the pharmaceutical industry and more recently some academic centres have streamlined a number of early processes to identify molecules which possess suitable characteristics to make acceptable drugs. This review will look at key preclinical stages of the drug discovery process, from initial target identification and validation, through assay development, high throughput screening, hit identification, lead optimization and finally the selection of a candidate molecule for clinical development.}
+      \field{isbn}{1476-5381 (Electronic)$\backslash$r0007-1188 (Linking)}
+      \field{issn}{00071188}
+      \field{journaltitle}{British Journal of Pharmacology}
+      \field{number}{6}
+      \field{title}{{Principles of early drug discovery}}
+      \field{volume}{162}
+      \field{year}{2011}
+      \field{pages}{1239\bibrangedash 1249}
+      \verb{doi}
+      \verb 10.1111/j.1476-5381.2010.01127.x
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/bph0162-1239.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Imming2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=1a19a796268a240beeaedfb8c0675724}{Imming}{I\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=907a669a7856a85ad150b785a05d657d}{Sinning}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=83eb7db208fafcc3e91592718cec9e20}{Meyer}{M\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1a19a796268a240beeaedfb8c0675724}{Imming}{I\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=907a669a7856a85ad150b785a05d657d}{Sinning}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=83eb7db208fafcc3e91592718cec9e20}{Meyer}{M\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{db3a3f86fa1154cd45ce750cce8c6cd3}
+      \strng{fullhash}{db3a3f86fa1154cd45ce750cce8c6cd3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drugs, their targets and the nature and number of drug targets.}}
+      \field{abstract}{What is a drug target? And how many such targets are there? Here, we consider the nature of drug targets, and by classifying known drug substances on the basis of the discussed principles we provide an estimation of the total number of current drug targets.}
+      \field{isbn}{1474-1776}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{10}
+      \field{title}{{Drugs, their targets and the nature and number of drug targets.}}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{821\bibrangedash 834}
+      \verb{doi}
+      \verb 10.1038/nrd2132
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrd2132.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nrd2132$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/17016423
+      \endverb
+    \endentry
+    \entry{Klees1997}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a1ef150710a6594730f2284153694ac5}{Klees}{K\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=87a5182bfc881678b1f525597597e1bc}{Joines}{J\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a1ef150710a6594730f2284153694ac5}{Klees}{K\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=87a5182bfc881678b1f525597597e1bc}{Joines}{J\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {BASF Corporation Mount Olive, New Jersey, USA.}%
+      }
+      \strng{namehash}{b24ddfa983616a7c94b39fb7165d4288}
+      \strng{fullhash}{b24ddfa983616a7c94b39fb7165d4288}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Occupational health issues in the pharmaceutical research and development process}}
+      \field{issn}{0885-114X}
+      \field{journaltitle}{Occupational medicine (Philadelphia, Pa.)}
+      \field{number}{1}
+      \field{title}{{Occupational health issues in the pharmaceutical research and development process}}
+      \field{volume}{12}
+      \field{year}{1997}
+      \field{pages}{5\bibrangedash 27}
+      \verb{url}
+      \verb http://europepmc.org/abstract/MED/9153050
+      \endverb
+    \endentry
+    \entry{Paul2010}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=b366568bb7c37bec2692f4b4ce012674}{Paul}{P\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=688f1f09f5e342999801d127e72095a3}{Mytelka}{M\bibinitperiod}{Daniel\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b55c4ad2ad4184c60822cd8551ae05}{Dunwiddie}{D\bibinitperiod}{Christopher\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=351d5da2feb8a3e00527230bb23ac3c6}{Persinger}{P\bibinitperiod}{Charles\bibnamedelima C}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=6cde7adaa226a2ab0c7d0a811628733d}{Munos}{M\bibinitperiod}{Bernard\bibnamedelima H}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f3097c95f17ec534d356f865a2b8b86a}{Lindborg}{L\bibinitperiod}{Stacy\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4c963a6c590a9ba12f4f19d7f07185}{Schacht}{S\bibinitperiod}{Aaron\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=b366568bb7c37bec2692f4b4ce012674}{Paul}{P\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=688f1f09f5e342999801d127e72095a3}{Mytelka}{M\bibinitperiod}{Daniel\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b55c4ad2ad4184c60822cd8551ae05}{Dunwiddie}{D\bibinitperiod}{Christopher\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=351d5da2feb8a3e00527230bb23ac3c6}{Persinger}{P\bibinitperiod}{Charles\bibnamedelima C}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=6cde7adaa226a2ab0c7d0a811628733d}{Munos}{M\bibinitperiod}{Bernard\bibnamedelima H}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f3097c95f17ec534d356f865a2b8b86a}{Lindborg}{L\bibinitperiod}{Stacy\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4c963a6c590a9ba12f4f19d7f07185}{Schacht}{S\bibinitperiod}{Aaron\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec0c820d22c5ffc3bd4acba8e8c8f62b}
+      \strng{fullhash}{b4542eeb6d87f80aa6d2ad603c5b0e1e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{How to improve R{\&}D productivity: the pharmaceutical industry's grand challenge.}}
+      \field{abstract}{The pharmaceutical industry is under growing pressure from a range of environmental issues, including major losses of revenue owing to patent expirations, increasingly cost-constrained healthcare systems and more demanding regulatory requirements. In our view, the key to tackling the challenges such issues pose to both the future viability of the pharmaceutical industry and advances in healthcare is to substantially increase the number and quality of innovative, cost-effective new medicines, without incurring unsustainable R{\&}D costs. However, it is widely acknowledged that trends in industry R{\&}D productivity have been moving in the opposite direction for a number of years. Here, we present a detailed analysis based on comprehensive, recent, industry-wide data to identify the relative contributions of each of the steps in the drug discovery and development process to overall R{\&}D productivity. We then propose specific strategies that could have the most substantial impact in improving R{\&}D productivity.}
+      \field{isbn}{1474-1776}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{3}
+      \field{title}{{How to improve R{\&}D productivity: the pharmaceutical industry's grand challenge.}}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{203\bibrangedash 214}
+      \verb{doi}
+      \verb 10.1038/nrd3078
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Paul et al. - 2010 - How to improve R{\&}D productivity the pharmaceutical industry's grand challenge.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Scannell2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=bbafbad45bc890a624d6cad5d0f09816}{Scannell}{S\bibinitperiod}{Jack\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a02e1cbb665aa678d8b4e57a143360c6}{Blanckley}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f42f13c8d7d443a29d13d5b7c2131465}{Boldon}{B\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5eb39bacb2b338ede1118e9d772cabd3}{Warrington}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=bbafbad45bc890a624d6cad5d0f09816}{Scannell}{S\bibinitperiod}{Jack\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a02e1cbb665aa678d8b4e57a143360c6}{Blanckley}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f42f13c8d7d443a29d13d5b7c2131465}{Boldon}{B\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5eb39bacb2b338ede1118e9d772cabd3}{Warrington}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{37dbe186f18e6efb263daba350860b38}
+      \strng{fullhash}{758a96d05a4a23a98d44fbd1b3a74f04}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Diagnosing the decline in pharmaceutical R{\&}D efficiency.}}
+      \field{abstract}{The past 60 years have seen huge advances in many of the scientific, technological and managerial factors that should tend to raise the efficiency of commercial drug research and development (RD). Yet the number of new drugs approved per billion US dollars spent on RD has halved roughly every 9 years since 1950, falling around 80-fold in inflation-adjusted terms. There have been many proposed solutions to the problem of declining RD efficiency. However, their apparent lack of impact so far and the contrast between improving inputs and declining output in terms of the number of new drugs make it sensible to ask whether the underlying problems have been correctly diagnosed. Here, we discuss four factors that we consider to be primary causes, which we call the 'better than the Beatles' problem; the 'cautious regulator' problem; the 'throw money at it' tendency; and the 'basic research-brute force' bias. Our aim is to provoke a more systematic analysis of the causes of the decline in RD efficiency.}
+      \field{isbn}{1474-1784 (Electronic)$\backslash$r1474-1776 (Linking)}
+      \field{issn}{1474-1784}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{3}
+      \field{title}{{Diagnosing the decline in pharmaceutical R{\&}D efficiency.}}
+      \field{volume}{11}
+      \field{year}{2012}
+      \field{pages}{191\bibrangedash 200}
+      \verb{doi}
+      \verb 10.1038/nrd3681
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Scannell et al. - 2012 - Diagnosing the decline in pharmaceutical R{\&}D efficiency.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3681
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -7665,6 +7929,270 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24284710
+      \endverb
+    \endentry
+    \entry{Drews2000}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7f737abe1c40888301694155f653bf67}
+      \strng{fullhash}{7f737abe1c40888301694155f653bf67}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug discovery: a historical perspective.}}
+      \field{abstract}{Driven by chemistry but increasingly guided by pharmacology and the clinical sciences, drug research has contributed more to the progress of medicine during the past century than any other scientific factor. The advent of molecular biology and, in particular, of genomic sciences is having a deep impact on drug discovery. Recombinant proteins and monoclonal antibodies have greatly enriched our therapeutic armamentarium. Genome sciences, combined with bioinformatic tools, allow us to dissect the genetic basis of multifactorial diseases and to determine the most suitable points of attack for future medicines, thereby increasing the number of treatment options. The dramatic increase in the complexity of drug research is enforcing changes in the institutional basis of this interdisciplinary endeavor. The biotech industry is establishing itself as the discovery arm of the pharmaceutical industry. In bridging the gap between academia and large pharmaceutical companies, the biotech firms have been effective instruments of technology transfer.}
+      \field{isbn}{0036-8075 (Print)$\backslash$r0036-8075 (Linking)}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{number}{5460}
+      \field{title}{{Drug discovery: a historical perspective.}}
+      \field{volume}{287}
+      \field{year}{2000}
+      \field{pages}{1960\bibrangedash 64}
+      \verb{doi}
+      \verb 10.1126/science.287.5460.1960
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Drews - 2000 - Drug discovery a historical perspective.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Patrick2001}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=4465ab199916481254817ec67ee5b8cd}{Patrick}{P\bibinitperiod}{Graham\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4465ab199916481254817ec67ee5b8cd}{Patrick}{P\bibinitperiod}{Graham\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{4465ab199916481254817ec67ee5b8cd}
+      \strng{fullhash}{4465ab199916481254817ec67ee5b8cd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{History of Drug Discovery}}
+      \field{booktitle}{eLS}
+      \field{isbn}{9780470015902}
+      \field{title}{{History of Drug Discovery}}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1002/9780470015902.a0003090.pub2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/9780470015902.a0003090.pub2
+      \endverb
+    \endentry
+    \entry{Hutchinson2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=7a84fb05e00d19e09c13f2308cea00a9}{Hutchinson}{H\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=15158fb6261af364cae4159e52b2b4f7}{Kirk}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7a84fb05e00d19e09c13f2308cea00a9}{Hutchinson}{H\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=15158fb6261af364cae4159e52b2b4f7}{Kirk}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{bd3222581da1ea760a8d32c3da4e431a}
+      \strng{fullhash}{bd3222581da1ea760a8d32c3da4e431a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{High drug attrition rates[mdash]where are we going wrong?}}
+      \field{annotation}{10.1038/nrclinonc.2011.34}
+      \field{issn}{1759-4774}
+      \field{journaltitle}{Nat Rev Clin Oncol}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{High drug attrition rates[mdash]where are we going wrong?}}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{189\bibrangedash 190}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrclinonc.2011.34
+      \endverb
+    \endentry
+    \entry{Hughes2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=92719bef4f321d41abd3ecd5f8a324e8}{Hughes}{H\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=58af7fb877b52267ca0802270218e792}{Rees}{R\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b87a82c50fd2be81651acc86f9f447ab}{Kalindjian}{K\bibinitperiod}{S.\bibnamedelimi B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=756bec188428515abb80c02e107b6d5f}{Philpott}{P\bibinitperiod}{K.\bibnamedelimi L.}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=92719bef4f321d41abd3ecd5f8a324e8}{Hughes}{H\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=58af7fb877b52267ca0802270218e792}{Rees}{R\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b87a82c50fd2be81651acc86f9f447ab}{Kalindjian}{K\bibinitperiod}{S.\bibnamedelimi B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=756bec188428515abb80c02e107b6d5f}{Philpott}{P\bibinitperiod}{K.\bibnamedelimi L.}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d9256a110c28d0a71b5d61772955000}
+      \strng{fullhash}{7616c217328de39ddfa3cd656893c4df}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Principles of early drug discovery}}
+      \field{abstract}{Developing a new drug from original idea to the launch of a finished product is a complex process which can take 12-15 years and cost in excess of {\$}1 billion. The idea for a target can come from a variety of sources including academic and clinical research and from the commercial sector. It may take many years to build up a body of supporting evidence before selecting a target for a costly drug discovery programme. Once a target has been chosen, the pharmaceutical industry and more recently some academic centres have streamlined a number of early processes to identify molecules which possess suitable characteristics to make acceptable drugs. This review will look at key preclinical stages of the drug discovery process, from initial target identification and validation, through assay development, high throughput screening, hit identification, lead optimization and finally the selection of a candidate molecule for clinical development.}
+      \field{isbn}{1476-5381 (Electronic)$\backslash$r0007-1188 (Linking)}
+      \field{issn}{00071188}
+      \field{journaltitle}{British Journal of Pharmacology}
+      \field{number}{6}
+      \field{title}{{Principles of early drug discovery}}
+      \field{volume}{162}
+      \field{year}{2011}
+      \field{pages}{1239\bibrangedash 1249}
+      \verb{doi}
+      \verb 10.1111/j.1476-5381.2010.01127.x
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/bph0162-1239.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Imming2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=1a19a796268a240beeaedfb8c0675724}{Imming}{I\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=907a669a7856a85ad150b785a05d657d}{Sinning}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=83eb7db208fafcc3e91592718cec9e20}{Meyer}{M\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1a19a796268a240beeaedfb8c0675724}{Imming}{I\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=907a669a7856a85ad150b785a05d657d}{Sinning}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=83eb7db208fafcc3e91592718cec9e20}{Meyer}{M\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{db3a3f86fa1154cd45ce750cce8c6cd3}
+      \strng{fullhash}{db3a3f86fa1154cd45ce750cce8c6cd3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drugs, their targets and the nature and number of drug targets.}}
+      \field{abstract}{What is a drug target? And how many such targets are there? Here, we consider the nature of drug targets, and by classifying known drug substances on the basis of the discussed principles we provide an estimation of the total number of current drug targets.}
+      \field{isbn}{1474-1776}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{10}
+      \field{title}{{Drugs, their targets and the nature and number of drug targets.}}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{821\bibrangedash 834}
+      \verb{doi}
+      \verb 10.1038/nrd2132
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrd2132.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nrd2132$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/17016423
+      \endverb
+    \endentry
+    \entry{Klees1997}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a1ef150710a6594730f2284153694ac5}{Klees}{K\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=87a5182bfc881678b1f525597597e1bc}{Joines}{J\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a1ef150710a6594730f2284153694ac5}{Klees}{K\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=87a5182bfc881678b1f525597597e1bc}{Joines}{J\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {BASF Corporation Mount Olive, New Jersey, USA.}%
+      }
+      \strng{namehash}{b24ddfa983616a7c94b39fb7165d4288}
+      \strng{fullhash}{b24ddfa983616a7c94b39fb7165d4288}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Occupational health issues in the pharmaceutical research and development process}}
+      \field{issn}{0885-114X}
+      \field{journaltitle}{Occupational medicine (Philadelphia, Pa.)}
+      \field{number}{1}
+      \field{title}{{Occupational health issues in the pharmaceutical research and development process}}
+      \field{volume}{12}
+      \field{year}{1997}
+      \field{pages}{5\bibrangedash 27}
+      \verb{url}
+      \verb http://europepmc.org/abstract/MED/9153050
+      \endverb
+    \endentry
+    \entry{Paul2010}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=b366568bb7c37bec2692f4b4ce012674}{Paul}{P\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=688f1f09f5e342999801d127e72095a3}{Mytelka}{M\bibinitperiod}{Daniel\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b55c4ad2ad4184c60822cd8551ae05}{Dunwiddie}{D\bibinitperiod}{Christopher\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=351d5da2feb8a3e00527230bb23ac3c6}{Persinger}{P\bibinitperiod}{Charles\bibnamedelima C}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=6cde7adaa226a2ab0c7d0a811628733d}{Munos}{M\bibinitperiod}{Bernard\bibnamedelima H}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f3097c95f17ec534d356f865a2b8b86a}{Lindborg}{L\bibinitperiod}{Stacy\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4c963a6c590a9ba12f4f19d7f07185}{Schacht}{S\bibinitperiod}{Aaron\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=b366568bb7c37bec2692f4b4ce012674}{Paul}{P\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=688f1f09f5e342999801d127e72095a3}{Mytelka}{M\bibinitperiod}{Daniel\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b55c4ad2ad4184c60822cd8551ae05}{Dunwiddie}{D\bibinitperiod}{Christopher\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=351d5da2feb8a3e00527230bb23ac3c6}{Persinger}{P\bibinitperiod}{Charles\bibnamedelima C}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=6cde7adaa226a2ab0c7d0a811628733d}{Munos}{M\bibinitperiod}{Bernard\bibnamedelima H}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f3097c95f17ec534d356f865a2b8b86a}{Lindborg}{L\bibinitperiod}{Stacy\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4c963a6c590a9ba12f4f19d7f07185}{Schacht}{S\bibinitperiod}{Aaron\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec0c820d22c5ffc3bd4acba8e8c8f62b}
+      \strng{fullhash}{b4542eeb6d87f80aa6d2ad603c5b0e1e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{How to improve R{\&}D productivity: the pharmaceutical industry's grand challenge.}}
+      \field{abstract}{The pharmaceutical industry is under growing pressure from a range of environmental issues, including major losses of revenue owing to patent expirations, increasingly cost-constrained healthcare systems and more demanding regulatory requirements. In our view, the key to tackling the challenges such issues pose to both the future viability of the pharmaceutical industry and advances in healthcare is to substantially increase the number and quality of innovative, cost-effective new medicines, without incurring unsustainable R{\&}D costs. However, it is widely acknowledged that trends in industry R{\&}D productivity have been moving in the opposite direction for a number of years. Here, we present a detailed analysis based on comprehensive, recent, industry-wide data to identify the relative contributions of each of the steps in the drug discovery and development process to overall R{\&}D productivity. We then propose specific strategies that could have the most substantial impact in improving R{\&}D productivity.}
+      \field{isbn}{1474-1776}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{3}
+      \field{title}{{How to improve R{\&}D productivity: the pharmaceutical industry's grand challenge.}}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{203\bibrangedash 214}
+      \verb{doi}
+      \verb 10.1038/nrd3078
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Paul et al. - 2010 - How to improve R{\&}D productivity the pharmaceutical industry's grand challenge.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Scannell2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=bbafbad45bc890a624d6cad5d0f09816}{Scannell}{S\bibinitperiod}{Jack\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a02e1cbb665aa678d8b4e57a143360c6}{Blanckley}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f42f13c8d7d443a29d13d5b7c2131465}{Boldon}{B\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5eb39bacb2b338ede1118e9d772cabd3}{Warrington}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=bbafbad45bc890a624d6cad5d0f09816}{Scannell}{S\bibinitperiod}{Jack\bibnamedelima W}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a02e1cbb665aa678d8b4e57a143360c6}{Blanckley}{B\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f42f13c8d7d443a29d13d5b7c2131465}{Boldon}{B\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5eb39bacb2b338ede1118e9d772cabd3}{Warrington}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{37dbe186f18e6efb263daba350860b38}
+      \strng{fullhash}{758a96d05a4a23a98d44fbd1b3a74f04}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Diagnosing the decline in pharmaceutical R{\&}D efficiency.}}
+      \field{abstract}{The past 60 years have seen huge advances in many of the scientific, technological and managerial factors that should tend to raise the efficiency of commercial drug research and development (RD). Yet the number of new drugs approved per billion US dollars spent on RD has halved roughly every 9 years since 1950, falling around 80-fold in inflation-adjusted terms. There have been many proposed solutions to the problem of declining RD efficiency. However, their apparent lack of impact so far and the contrast between improving inputs and declining output in terms of the number of new drugs make it sensible to ask whether the underlying problems have been correctly diagnosed. Here, we discuss four factors that we consider to be primary causes, which we call the 'better than the Beatles' problem; the 'cautious regulator' problem; the 'throw money at it' tendency; and the 'basic research-brute force' bias. Our aim is to provoke a more systematic analysis of the causes of the decline in RD efficiency.}
+      \field{isbn}{1474-1784 (Electronic)$\backslash$r1474-1776 (Linking)}
+      \field{issn}{1474-1784}
+      \field{journaltitle}{Nature reviews. Drug discovery}
+      \field{number}{3}
+      \field{title}{{Diagnosing the decline in pharmaceutical R{\&}D efficiency.}}
+      \field{volume}{11}
+      \field{year}{2012}
+      \field{pages}{191\bibrangedash 200}
+      \verb{doi}
+      \verb 10.1038/nrd3681
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Scannell et al. - 2012 - Diagnosing the decline in pharmaceutical R{\&}D efficiency.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3681
       \endverb
     \endentry
   \endsortlist

@@ -9,7 +9,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index of figures}{\es@scroman {xiii}}{chapter*.4}
+\contentsline {chapter}{Index of figures}{\es@scroman {xiv}}{chapter*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{List of tables}{\es@scroman {xv}}{chapter*.5}
 \defcounter {refsection}{0}\relax 
@@ -35,24 +35,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Drug discovery}{22}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}subsection}{22}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.1}Computational drug discovery}{25}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Drug discovery}{22}{section.1.3}
+\contentsline {section}{\numberline {1.3}Drug discovery in \textit {Mycobacterium Tuberculosis}}{25}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}In-silico methods in drug-discovery}{22}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.4}Drug resistance in cancer}{25}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Mycobacterium tuberculosis}{23}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Cancer Treatment and drugs}{25}{subsection.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Tuberculosis treatments and PPcs}{23}{subsection.1.4.1}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {2.\hfil }\MakeUppercase {Objectives}}{27}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Drug resistance in cancer}{23}{section.1.5}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {3.\hfil }\MakeUppercase {nAnnolyze}}{29}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.1}Cancer Treatment and drugs}{23}{subsection.1.5.1}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {4.\hfil }\MakeUppercase {Predicting targets in MTB}}{31}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {2.\hfil }\MakeUppercase {Objectives}}{25}{chapter.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {3.\hfil }\MakeUppercase {nAnnolyze}}{27}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {4.\hfil }\MakeUppercase {Predicting targets in MTB}}{29}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {5.\hfil }\MakeUppercase {Drug resistance in cancer}}{31}{chapter.5}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {5.\hfil }\MakeUppercase {Drug resistance in cancer}}{33}{chapter.5}
