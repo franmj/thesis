@@ -37,18 +37,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.1}Computational drug discovery}{25}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Drug discovery in \textit {Mycobacterium tuberculosis}}{25}{section.1.3}
+\contentsline {section}{\numberline {1.3}Drug discovery in \textit {Mycobacterium tuberculosis}}{27}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}MTB computational}{26}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.1}MTB computational}{27}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Drug resistance in cancer}{26}{section.1.4}
+\contentsline {section}{\numberline {1.4}Drug resistance in cancer}{28}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Cancer Treatment and drugs}{26}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.1}Cancer Treatment and drugs}{28}{subsection.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {2.\hfil }\MakeUppercase {Objectives}}{27}{chapter.2}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {2.\hfil }\MakeUppercase {Objectives}}{29}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {3.\hfil }\MakeUppercase {nAnnolyze}}{29}{chapter.3}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {3.\hfil }\MakeUppercase {nAnnolyze}}{31}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {4.\hfil }\MakeUppercase {Predicting targets in MTB}}{31}{chapter.4}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {4.\hfil }\MakeUppercase {Predicting targets in MTB}}{33}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {5.\hfil }\MakeUppercase {Drug resistance in cancer}}{33}{chapter.5}
+\contentsline {chapter}{CHAPTER \hbox to\@tempdima {5.\hfil }\MakeUppercase {Drug resistance in cancer}}{35}{chapter.5}
