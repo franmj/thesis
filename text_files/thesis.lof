@@ -17,15 +17,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.3}{\ignorespaces a) Growth of released structures per year. Data extracted from PDB. b) Pie chart with the percetange of structures determined by the different methods. Data extracted from PDB.\relax }}{10}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Workflow in comparative protein structure modeling. The figure has been extracted from \cite {Eswar2007}\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Workflow in comparative protein structure modeling. The figure has been extracted from \cite {Eswar2007}\relax }}{12}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Homology threshold curve as a function of alignment length. Data extracted from \cite {Sander1991}\relax }}{14}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{17}{figure.caption.17}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{18}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.7}{\ignorespaces Drug discovery and development pipeline. For each stage the average cost and time are included. Post-approval times not included in the time-line. Data extracted from \cite {Paul2010}.\relax }}{23}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{25}{figure.caption.21}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{24}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
@@ -35,4 +35,4 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{35}{figure.caption.22}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{33}{figure.caption.22}
