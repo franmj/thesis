@@ -5029,6 +5029,269 @@
       \verb http://f1000.com/prime/717967952
       \endverb
     \endentry
+    \entry{Lewandowski2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f76ccd109247a6c6bec053141ee8558}{Co-investigator}{C\bibinithyphendelim i\bibinitperiod}{New}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f76ccd109247a6c6bec053141ee8558}{Co-investigator}{C\bibinithyphendelim i\bibinitperiod}{New}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce07b5cd75af09fae07660bc0659e1a}
+      \strng{fullhash}{cce07b5cd75af09fae07660bc0659e1a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{WHO Glocal tuberculosis report 2015}}
+      \field{abstract}{Predicting the binding mode of flexible polypeptides to proteins is an important task that falls outside the domain of applicability of most small molecule and protein{$\textminus$}protein docking tools. Here, we test the small molecule flexible ligand docking program Glide on a set of 19 non-$\alpha$-helical peptides and systematically improve pose prediction accuracy by enhancing Glide sampling for flexible polypeptides. In addition, scoring of the poses was improved by post-processing with physics-based implicit solvent MM- GBSA calculations. Using the best RMSD among the top 10 scoring poses as a metric, the success rate (RMSD \x{2264} 2.0 {\r{A}} for the interface backbone atoms) increased from 21{\%} with default Glide SP settings to 58{\%} with the enhanced peptide sampling and scoring protocol in the case of redocking to the native protein structure. This approaches the accuracy of the recently developed Rosetta FlexPepDock method (63{\%} success for these 19 peptides) while being over 100 times faster. Cross-docking was performed for a subset of cases where an unbound receptor structure was available, and in that case, 40{\%} of peptides were docked successfully. We analyze the results and find that the optimized polypeptide protocol is most accurate for extended peptides of limited size and number of formal charges, defining a domain of applicability for this approach.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{9788578110796}
+      \field{issn}{1098-6596}
+      \field{journaltitle}{The effects of brief mindfulness intervention on acute pain experience: An examination of individual difference}
+      \field{title}{{WHO Glocal tuberculosis report 2015}}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{1689\bibrangedash 1699}
+      \verb{doi}
+      \verb 10.1017/CBO9781107415324.004
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/9789241565059{\_}eng.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Connell2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=5c18ef067f87e83c217b92ca8df4cf07}{Connell}{C\bibinitperiod}{D\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7e14b84d88f10d6e308a40ce78e9b03}{Cooke}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=5c18ef067f87e83c217b92ca8df4cf07}{Connell}{C\bibinitperiod}{D\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7e14b84d88f10d6e308a40ce78e9b03}{Cooke}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{59a0285a7c20865102d657a24581fe04}
+      \strng{fullhash}{6d6f70257140b5df15fff96ac7020613}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Update on tuberculosis: TB in the early 21st century}}
+      \field{abstract}{Mycobacterium tuberculosis infection remains a major cause of global mortality and morbidity and the resulting disease, tuberculosis (TB), caused an estimated 1.7 million deaths in 2009 [1]. However, the majority of the 2 billion people estimated to be infected with M. tuberculosis have asymptomatic infection, termed latent TB infection (LTBI) [2, 3]. Traditionally, LTBI has been defined by evidence of a cellular immune response to M. tuberculosis-derived antigens, for example by the tuberculin skin test (TST) in asymptomatic individuals who have been potentially exposed to M. tuberculosis. For these individuals, the life time risk of progression from LTBI to active, symptomatic disease is only 10{\%}; however, defects in cellular immunity can increase this risk significantly [4, 5]. Of these, the most important is HIV infection, and the ongoing HIV epidemic has helped to fuel the spread of TB globally over the past 40 yrs with 0.38 million deaths in HIV co-infected individuals in 2009 [1].Despite dramatic falls in the overall prevalence of TB over the past 100 yrs in Europe, TB is no longer a disease of historical interest and the European region defined by the World Health Organization (WHO) saw a 2.7{\%} mean annual increase in cases from 2004--2008 [6]. Of concern, an estimated 3.6{\%} of all new cases globally were multi-drug resistant (MDR) [1, 7].With this in mind, we present an update on a selection of important areas in TB clinical practice and clinical research today, with particular relevance to Europe. We will review some of the important epidemiological features of TB, with a focus on migration and recent work on factors which might influence the burden of TB at a population level, such as cigarette smoking/biomass fuel {\ldots}}
+      \field{journaltitle}{European Respiratory Review}
+      \field{month}{06}
+      \field{number}{120}
+      \field{title}{{Update on tuberculosis: TB in the early 21st century}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{71\bibrangedash 84}
+      \verb{url}
+      \verb http://err.ersjournals.com/content/20/120/71.abstract
+      \endverb
+    \endentry
+    \entry{Berry2009}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2f5e3885ef2face4232318b0326b2ba5}
+      \strng{fullhash}{2f5e3885ef2face4232318b0326b2ba5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Multidrug- and extensively drug-resistant tuberculosis: an emerging threat}}
+      \field{abstract}{Despite dramatic improvements in public health and medical care, Mycobacterium tuberculosis remains as much of a threat in the 21st century as it was when first identified as a pathogen by Koch [1] in 1882. Tuberculosis was reported to be the seventh leading cause of death worldwide by the World Health Organization (WHO) in 2004 [2]. Recent figures show an increase in the total number of cases, with an estimated 9.2 million new cases and 1.7 million deaths attributed to tuberculosis in 2006 [3]. Drug-resistant strains of Mycobacterium tuberculosis represent an emerging problem in the struggle to contain tuberculosis. In this issue of the European Respiratory Review, Sasse and Teichmann [4] describe their experience of managing a patient infected with a strain of Mycobacterium tuberculosis with a wide spectrum of drug resistance. The latest estimates based on survey data report that 11.1{\%} of new tuberculosis cases showed resistance to any drug, which rises to 25.1{\%} in previously treated cases. 1.6{\%} of new cases and 11.7{\%} of previously treated cases met the definition of multidrug-resistant tuberculosis (MDR-TB), this being resistance to rifampicin and isoniazid, the two most potent first-line antituberculosis drugs. Much of this burden is carried by eastern Europe, where 45.5{\%} of previously treated tuberculosis cases meet the definition for MDR-TB. The patient described by Sasse and Teichmann [4] was originally from Burma, where MDR-TB accounts for 4{\%} of new tuberculosis cases [5]. Outcomes in MDR-TB are worse than for non-MDR-TB, with one retrospective study in Estonia finding a cure rate of 83.4{\%} in non-MDR-TB, compared with only 57.4{\%} in MDR-TB [6]. More recently, attention has been drawn to the emergence of a form of MDR-TB that has a more {\ldots}}
+      \field{journaltitle}{European Respiratory Review}
+      \field{month}{11}
+      \field{number}{114}
+      \field{title}{{Multidrug- and extensively drug-resistant tuberculosis: an emerging threat}}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{195\bibrangedash 197}
+      \verb{url}
+      \verb http://err.ersjournals.com/content/18/114/195.abstract
+      \endverb
+    \endentry
+    \entry{Trouiller2016}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=1422f4f91dc5f13dda8e2b9a037ebfc4}{Trouiller}{T\bibinitperiod}{Patrice}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0cdfde7c9cc5e8b8862878155561437b}{Olliaro}{O\bibinitperiod}{Piero}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d071a3ebb5a009a00717f4e6dfc7e6bc}{Torreele}{T\bibinitperiod}{Els}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5ed1178a09ae8098ab692906819f73}{Orbinski}{O\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c6fa729d5bd15441c948243b4ce244de}{Laing}{L\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1d50af60eff1012adc613ec74df429ea}{Ford}{F\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=1422f4f91dc5f13dda8e2b9a037ebfc4}{Trouiller}{T\bibinitperiod}{Patrice}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0cdfde7c9cc5e8b8862878155561437b}{Olliaro}{O\bibinitperiod}{Piero}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d071a3ebb5a009a00717f4e6dfc7e6bc}{Torreele}{T\bibinitperiod}{Els}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5ed1178a09ae8098ab692906819f73}{Orbinski}{O\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c6fa729d5bd15441c948243b4ce244de}{Laing}{L\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1d50af60eff1012adc613ec74df429ea}{Ford}{F\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{828973d64a8acc532e0760c360337f0d}
+      \strng{fullhash}{b7c4a0250805db9352931f5b99668f64}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug development for neglected diseases: a deficient market and a public-health policy failure}}
+      \field{annotation}{doi: 10.1016/S0140-6736(02)09096-7}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{month}{06}
+      \field{number}{9324}
+      \field{title}{{Drug development for neglected diseases: a deficient market and a public-health policy failure}}
+      \field{volume}{359}
+      \field{year}{2002}
+      \field{pages}{2188\bibrangedash 2194}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(02)09096-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0140-6736(02)09096-7%20http://linkinghub.elsevier.com/retrieve/pii/S0140673602090967
+      \endverb
+    \endentry
+    \entry{Lewis2013}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{088dcc553932f421594707259a1309e8}
+      \strng{fullhash}{088dcc553932f421594707259a1309e8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Platforms for antibiotic discovery}}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nat Rev Drug Discov}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Platforms for antibiotic discovery}}
+      \field{volume}{12}
+      \field{year}{2013}
+      \field{pages}{371\bibrangedash 387}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3975%20http://10.1038/nrd3975
+      \endverb
+    \endentry
+    \entry{Conly2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c40927d8c551299c9d394b5e770407cc}{Conly}{C\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbbe9995e9bb5dd0e47aa9cae2258f2}{Johnston}{J\bibinitperiod}{B\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c40927d8c551299c9d394b5e770407cc}{Conly}{C\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbbe9995e9bb5dd0e47aa9cae2258f2}{Johnston}{J\bibinitperiod}{B\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Pulsus Group Inc}%
+      }
+      \strng{namehash}{e0d192517669ea66a91f9b5d20254f61}
+      \strng{fullhash}{e0d192517669ea66a91f9b5d20254f61}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Where are all the new antibiotics? The new antibiotic paradox}}
+      \field{issn}{1712-9532}
+      \field{journaltitle}{The Canadian Journal of Infectious Diseases {\&} Medical Microbiology}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Where are all the new antibiotics? The new antibiotic paradox}}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{159\bibrangedash 160}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2095020/
+      \endverb
+    \endentry
+    \entry{Ling2015a}{article}{}
+      \name{labelname}{20}{}{%
+        {{hash=96171523cc203e5dcc637c8fd70a2610}{Ling}{L\bibinitperiod}{Losee\bibnamedelima L}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=8300572fa7a4e6ca345805ae3f2a27c4}{Schneider}{S\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=98be8e2ca7eeaa848d4bb7ddca3c4874}{Peoples}{P\bibinitperiod}{Aaron\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d7cc6e3d7e2887d60bbf50b1825ed1f}{Spoering}{S\bibinitperiod}{Amy\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0e55e0555530d1700952c1f4ff29e443}{Engels}{E\bibinitperiod}{Ina}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2a82def793abf5f62edccd035a7e7052}{Conlon}{C\bibinitperiod}{Brian\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=2153258d8d736bf1c8c7434a4c6873a4}{Mueller}{M\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=36c75068299fd777c119d2d736014efb}{Hughes}{H\bibinitperiod}{Dallas\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=57942143f1d62d2ec8607ff56234a4f0}{Epstein}{E\bibinitperiod}{Slava}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a25bc91f524ca6dfc2ecf9f4a13903c}{Jones}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8112656e2d7f3a37a8f154a150b8f9ce}{Lazarides}{L\bibinitperiod}{Linos}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a51158fddd717ce5a31702b0871df294}{Steadman}{S\bibinitperiod}{Victoria\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=2cab3283d5958e1b28e6e16dfc792f2e}{Cohen}{C\bibinitperiod}{Douglas\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d3aae82cc0c6d7c7a0c8a607a1721f}{Felix}{F\bibinitperiod}{Cintia\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c87d008cd794bbfd7af4c3cc1ddd8de2}{Fetterman}{F\bibinitperiod}{K\bibnamedelima Ashley}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad69b472a89fcbd0d800e1f5d4188d6c}{Millett}{M\bibinitperiod}{William\bibnamedelima P}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7bfe1615207c8075856ec94f5b5df8d}{Nitti}{N\bibinitperiod}{Anthony\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=12fedc32d83672f9af47bb3ba5b89993}{Zullo}{Z\bibinitperiod}{Ashley\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=531c7be3c2524682e36a7baa8d7ab92f}{Chen}{C\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{20}{}{%
+        {{hash=96171523cc203e5dcc637c8fd70a2610}{Ling}{L\bibinitperiod}{Losee\bibnamedelima L}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=8300572fa7a4e6ca345805ae3f2a27c4}{Schneider}{S\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=98be8e2ca7eeaa848d4bb7ddca3c4874}{Peoples}{P\bibinitperiod}{Aaron\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d7cc6e3d7e2887d60bbf50b1825ed1f}{Spoering}{S\bibinitperiod}{Amy\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0e55e0555530d1700952c1f4ff29e443}{Engels}{E\bibinitperiod}{Ina}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2a82def793abf5f62edccd035a7e7052}{Conlon}{C\bibinitperiod}{Brian\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=2153258d8d736bf1c8c7434a4c6873a4}{Mueller}{M\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=36c75068299fd777c119d2d736014efb}{Hughes}{H\bibinitperiod}{Dallas\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=57942143f1d62d2ec8607ff56234a4f0}{Epstein}{E\bibinitperiod}{Slava}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a25bc91f524ca6dfc2ecf9f4a13903c}{Jones}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8112656e2d7f3a37a8f154a150b8f9ce}{Lazarides}{L\bibinitperiod}{Linos}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a51158fddd717ce5a31702b0871df294}{Steadman}{S\bibinitperiod}{Victoria\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=2cab3283d5958e1b28e6e16dfc792f2e}{Cohen}{C\bibinitperiod}{Douglas\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d3aae82cc0c6d7c7a0c8a607a1721f}{Felix}{F\bibinitperiod}{Cintia\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c87d008cd794bbfd7af4c3cc1ddd8de2}{Fetterman}{F\bibinitperiod}{K\bibnamedelima Ashley}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad69b472a89fcbd0d800e1f5d4188d6c}{Millett}{M\bibinitperiod}{William\bibnamedelima P}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7bfe1615207c8075856ec94f5b5df8d}{Nitti}{N\bibinitperiod}{Anthony\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=12fedc32d83672f9af47bb3ba5b89993}{Zullo}{Z\bibinitperiod}{Ashley\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=531c7be3c2524682e36a7baa8d7ab92f}{Chen}{C\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{37c3e2e580611af4d73b24c221639f1d}
+      \strng{fullhash}{cb47d8917d15735d603b480168a4985b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new antibiotic kills pathogens without detectable resistance}}
+      \field{abstract}{Antibiotic resistance is spreading faster than the introduction of new compounds into clinical practice, causing a public health crisis. Most antibiotics were produced by screening soil microorganisms, but this limited resource of cultivable bacteria was overmined by the 1960s. Synthetic approaches to produce antibiotics have been unable to replace this platform. Uncultured bacteria make up approximately 99{\%} of all species in external environments, and are an untapped source of new antibiotics. Wedeveloped several methods to grow uncultured organisms by cultivation in situ or by using specific growth factors. Here we report a new antibiotic that we term teixobactin, discovered in a screen of uncultured bacteria. Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III (precursor of cell wall teichoic acid). We did not obtain any mutants of Staphylococcus aureus or Mycobacterium tuberculosis resistant to teixobactin. The properties of this compound suggest a path towards developing antibiotics that are likely to avoid development of resistance.}
+      \field{isbn}{1476-4687 (Electronic)$\backslash$r0028-0836 (Linking)}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{number}{7535}
+      \field{title}{{A new antibiotic kills pathogens without detectable resistance}}
+      \field{volume}{517}
+      \field{year}{2015}
+      \field{pages}{455\bibrangedash 459}
+      \verb{doi}
+      \verb 10.1038/nature14098
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nature14098.pdf:pdf
+      \endverb
+    \endentry
+    \entry{BroadInstitute}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \verb{url}
+      \verb https://www.broadinstitute.org/news/6981
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -10039,6 +10302,269 @@
       \endverb
       \verb{url}
       \verb http://f1000.com/prime/717967952
+      \endverb
+    \endentry
+    \entry{Lewandowski2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f76ccd109247a6c6bec053141ee8558}{Co-investigator}{C\bibinithyphendelim i\bibinitperiod}{New}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f76ccd109247a6c6bec053141ee8558}{Co-investigator}{C\bibinithyphendelim i\bibinitperiod}{New}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=72484d0fc7af300bc89ff39acc8a72c0}{Lewandowski}{L\bibinitperiod}{Clare\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce07b5cd75af09fae07660bc0659e1a}
+      \strng{fullhash}{cce07b5cd75af09fae07660bc0659e1a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{WHO Glocal tuberculosis report 2015}}
+      \field{abstract}{Predicting the binding mode of flexible polypeptides to proteins is an important task that falls outside the domain of applicability of most small molecule and protein{$\textminus$}protein docking tools. Here, we test the small molecule flexible ligand docking program Glide on a set of 19 non-$\alpha$-helical peptides and systematically improve pose prediction accuracy by enhancing Glide sampling for flexible polypeptides. In addition, scoring of the poses was improved by post-processing with physics-based implicit solvent MM- GBSA calculations. Using the best RMSD among the top 10 scoring poses as a metric, the success rate (RMSD \x{2264} 2.0 {\r{A}} for the interface backbone atoms) increased from 21{\%} with default Glide SP settings to 58{\%} with the enhanced peptide sampling and scoring protocol in the case of redocking to the native protein structure. This approaches the accuracy of the recently developed Rosetta FlexPepDock method (63{\%} success for these 19 peptides) while being over 100 times faster. Cross-docking was performed for a subset of cases where an unbound receptor structure was available, and in that case, 40{\%} of peptides were docked successfully. We analyze the results and find that the optimized polypeptide protocol is most accurate for extended peptides of limited size and number of formal charges, defining a domain of applicability for this approach.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{9788578110796}
+      \field{issn}{1098-6596}
+      \field{journaltitle}{The effects of brief mindfulness intervention on acute pain experience: An examination of individual difference}
+      \field{title}{{WHO Glocal tuberculosis report 2015}}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{1689\bibrangedash 1699}
+      \verb{doi}
+      \verb 10.1017/CBO9781107415324.004
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/9789241565059{\_}eng.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Connell2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=5c18ef067f87e83c217b92ca8df4cf07}{Connell}{C\bibinitperiod}{D\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7e14b84d88f10d6e308a40ce78e9b03}{Cooke}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=5c18ef067f87e83c217b92ca8df4cf07}{Connell}{C\bibinitperiod}{D\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7e14b84d88f10d6e308a40ce78e9b03}{Cooke}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{59a0285a7c20865102d657a24581fe04}
+      \strng{fullhash}{6d6f70257140b5df15fff96ac7020613}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Update on tuberculosis: TB in the early 21st century}}
+      \field{abstract}{Mycobacterium tuberculosis infection remains a major cause of global mortality and morbidity and the resulting disease, tuberculosis (TB), caused an estimated 1.7 million deaths in 2009 [1]. However, the majority of the 2 billion people estimated to be infected with M. tuberculosis have asymptomatic infection, termed latent TB infection (LTBI) [2, 3]. Traditionally, LTBI has been defined by evidence of a cellular immune response to M. tuberculosis-derived antigens, for example by the tuberculin skin test (TST) in asymptomatic individuals who have been potentially exposed to M. tuberculosis. For these individuals, the life time risk of progression from LTBI to active, symptomatic disease is only 10{\%}; however, defects in cellular immunity can increase this risk significantly [4, 5]. Of these, the most important is HIV infection, and the ongoing HIV epidemic has helped to fuel the spread of TB globally over the past 40 yrs with 0.38 million deaths in HIV co-infected individuals in 2009 [1].Despite dramatic falls in the overall prevalence of TB over the past 100 yrs in Europe, TB is no longer a disease of historical interest and the European region defined by the World Health Organization (WHO) saw a 2.7{\%} mean annual increase in cases from 2004--2008 [6]. Of concern, an estimated 3.6{\%} of all new cases globally were multi-drug resistant (MDR) [1, 7].With this in mind, we present an update on a selection of important areas in TB clinical practice and clinical research today, with particular relevance to Europe. We will review some of the important epidemiological features of TB, with a focus on migration and recent work on factors which might influence the burden of TB at a population level, such as cigarette smoking/biomass fuel {\ldots}}
+      \field{journaltitle}{European Respiratory Review}
+      \field{month}{06}
+      \field{number}{120}
+      \field{title}{{Update on tuberculosis: TB in the early 21st century}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{71\bibrangedash 84}
+      \verb{url}
+      \verb http://err.ersjournals.com/content/20/120/71.abstract
+      \endverb
+    \endentry
+    \entry{Berry2009}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c39b5bef0dadef3d5a4f70afa0a11abe}{Berry}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9304114a8019453109d0d8f76caee}{Kon}{K\bibinitperiod}{O\bibnamedelima M}{O\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2f5e3885ef2face4232318b0326b2ba5}
+      \strng{fullhash}{2f5e3885ef2face4232318b0326b2ba5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Multidrug- and extensively drug-resistant tuberculosis: an emerging threat}}
+      \field{abstract}{Despite dramatic improvements in public health and medical care, Mycobacterium tuberculosis remains as much of a threat in the 21st century as it was when first identified as a pathogen by Koch [1] in 1882. Tuberculosis was reported to be the seventh leading cause of death worldwide by the World Health Organization (WHO) in 2004 [2]. Recent figures show an increase in the total number of cases, with an estimated 9.2 million new cases and 1.7 million deaths attributed to tuberculosis in 2006 [3]. Drug-resistant strains of Mycobacterium tuberculosis represent an emerging problem in the struggle to contain tuberculosis. In this issue of the European Respiratory Review, Sasse and Teichmann [4] describe their experience of managing a patient infected with a strain of Mycobacterium tuberculosis with a wide spectrum of drug resistance. The latest estimates based on survey data report that 11.1{\%} of new tuberculosis cases showed resistance to any drug, which rises to 25.1{\%} in previously treated cases. 1.6{\%} of new cases and 11.7{\%} of previously treated cases met the definition of multidrug-resistant tuberculosis (MDR-TB), this being resistance to rifampicin and isoniazid, the two most potent first-line antituberculosis drugs. Much of this burden is carried by eastern Europe, where 45.5{\%} of previously treated tuberculosis cases meet the definition for MDR-TB. The patient described by Sasse and Teichmann [4] was originally from Burma, where MDR-TB accounts for 4{\%} of new tuberculosis cases [5]. Outcomes in MDR-TB are worse than for non-MDR-TB, with one retrospective study in Estonia finding a cure rate of 83.4{\%} in non-MDR-TB, compared with only 57.4{\%} in MDR-TB [6]. More recently, attention has been drawn to the emergence of a form of MDR-TB that has a more {\ldots}}
+      \field{journaltitle}{European Respiratory Review}
+      \field{month}{11}
+      \field{number}{114}
+      \field{title}{{Multidrug- and extensively drug-resistant tuberculosis: an emerging threat}}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{195\bibrangedash 197}
+      \verb{url}
+      \verb http://err.ersjournals.com/content/18/114/195.abstract
+      \endverb
+    \endentry
+    \entry{Trouiller2016}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=1422f4f91dc5f13dda8e2b9a037ebfc4}{Trouiller}{T\bibinitperiod}{Patrice}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0cdfde7c9cc5e8b8862878155561437b}{Olliaro}{O\bibinitperiod}{Piero}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d071a3ebb5a009a00717f4e6dfc7e6bc}{Torreele}{T\bibinitperiod}{Els}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5ed1178a09ae8098ab692906819f73}{Orbinski}{O\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c6fa729d5bd15441c948243b4ce244de}{Laing}{L\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1d50af60eff1012adc613ec74df429ea}{Ford}{F\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=1422f4f91dc5f13dda8e2b9a037ebfc4}{Trouiller}{T\bibinitperiod}{Patrice}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0cdfde7c9cc5e8b8862878155561437b}{Olliaro}{O\bibinitperiod}{Piero}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d071a3ebb5a009a00717f4e6dfc7e6bc}{Torreele}{T\bibinitperiod}{Els}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5ed1178a09ae8098ab692906819f73}{Orbinski}{O\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c6fa729d5bd15441c948243b4ce244de}{Laing}{L\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1d50af60eff1012adc613ec74df429ea}{Ford}{F\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{828973d64a8acc532e0760c360337f0d}
+      \strng{fullhash}{b7c4a0250805db9352931f5b99668f64}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug development for neglected diseases: a deficient market and a public-health policy failure}}
+      \field{annotation}{doi: 10.1016/S0140-6736(02)09096-7}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{month}{06}
+      \field{number}{9324}
+      \field{title}{{Drug development for neglected diseases: a deficient market and a public-health policy failure}}
+      \field{volume}{359}
+      \field{year}{2002}
+      \field{pages}{2188\bibrangedash 2194}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(02)09096-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0140-6736(02)09096-7%20http://linkinghub.elsevier.com/retrieve/pii/S0140673602090967
+      \endverb
+    \endentry
+    \entry{Lewis2013}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{088dcc553932f421594707259a1309e8}
+      \strng{fullhash}{088dcc553932f421594707259a1309e8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Platforms for antibiotic discovery}}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nat Rev Drug Discov}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Platforms for antibiotic discovery}}
+      \field{volume}{12}
+      \field{year}{2013}
+      \field{pages}{371\bibrangedash 387}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3975%20http://10.1038/nrd3975
+      \endverb
+    \endentry
+    \entry{Conly2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c40927d8c551299c9d394b5e770407cc}{Conly}{C\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbbe9995e9bb5dd0e47aa9cae2258f2}{Johnston}{J\bibinitperiod}{B\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c40927d8c551299c9d394b5e770407cc}{Conly}{C\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbbe9995e9bb5dd0e47aa9cae2258f2}{Johnston}{J\bibinitperiod}{B\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Pulsus Group Inc}%
+      }
+      \strng{namehash}{e0d192517669ea66a91f9b5d20254f61}
+      \strng{fullhash}{e0d192517669ea66a91f9b5d20254f61}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Where are all the new antibiotics? The new antibiotic paradox}}
+      \field{issn}{1712-9532}
+      \field{journaltitle}{The Canadian Journal of Infectious Diseases {\&} Medical Microbiology}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Where are all the new antibiotics? The new antibiotic paradox}}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{159\bibrangedash 160}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2095020/
+      \endverb
+    \endentry
+    \entry{Ling2015a}{article}{}
+      \name{labelname}{20}{}{%
+        {{hash=96171523cc203e5dcc637c8fd70a2610}{Ling}{L\bibinitperiod}{Losee\bibnamedelima L}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=8300572fa7a4e6ca345805ae3f2a27c4}{Schneider}{S\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=98be8e2ca7eeaa848d4bb7ddca3c4874}{Peoples}{P\bibinitperiod}{Aaron\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d7cc6e3d7e2887d60bbf50b1825ed1f}{Spoering}{S\bibinitperiod}{Amy\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0e55e0555530d1700952c1f4ff29e443}{Engels}{E\bibinitperiod}{Ina}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2a82def793abf5f62edccd035a7e7052}{Conlon}{C\bibinitperiod}{Brian\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=2153258d8d736bf1c8c7434a4c6873a4}{Mueller}{M\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=36c75068299fd777c119d2d736014efb}{Hughes}{H\bibinitperiod}{Dallas\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=57942143f1d62d2ec8607ff56234a4f0}{Epstein}{E\bibinitperiod}{Slava}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a25bc91f524ca6dfc2ecf9f4a13903c}{Jones}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8112656e2d7f3a37a8f154a150b8f9ce}{Lazarides}{L\bibinitperiod}{Linos}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a51158fddd717ce5a31702b0871df294}{Steadman}{S\bibinitperiod}{Victoria\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=2cab3283d5958e1b28e6e16dfc792f2e}{Cohen}{C\bibinitperiod}{Douglas\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d3aae82cc0c6d7c7a0c8a607a1721f}{Felix}{F\bibinitperiod}{Cintia\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c87d008cd794bbfd7af4c3cc1ddd8de2}{Fetterman}{F\bibinitperiod}{K\bibnamedelima Ashley}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad69b472a89fcbd0d800e1f5d4188d6c}{Millett}{M\bibinitperiod}{William\bibnamedelima P}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7bfe1615207c8075856ec94f5b5df8d}{Nitti}{N\bibinitperiod}{Anthony\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=12fedc32d83672f9af47bb3ba5b89993}{Zullo}{Z\bibinitperiod}{Ashley\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=531c7be3c2524682e36a7baa8d7ab92f}{Chen}{C\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{20}{}{%
+        {{hash=96171523cc203e5dcc637c8fd70a2610}{Ling}{L\bibinitperiod}{Losee\bibnamedelima L}{L\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=8300572fa7a4e6ca345805ae3f2a27c4}{Schneider}{S\bibinitperiod}{Tanja}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=98be8e2ca7eeaa848d4bb7ddca3c4874}{Peoples}{P\bibinitperiod}{Aaron\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d7cc6e3d7e2887d60bbf50b1825ed1f}{Spoering}{S\bibinitperiod}{Amy\bibnamedelima L}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0e55e0555530d1700952c1f4ff29e443}{Engels}{E\bibinitperiod}{Ina}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2a82def793abf5f62edccd035a7e7052}{Conlon}{C\bibinitperiod}{Brian\bibnamedelima P}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=2153258d8d736bf1c8c7434a4c6873a4}{Mueller}{M\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=36c75068299fd777c119d2d736014efb}{Hughes}{H\bibinitperiod}{Dallas\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=57942143f1d62d2ec8607ff56234a4f0}{Epstein}{E\bibinitperiod}{Slava}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5a25bc91f524ca6dfc2ecf9f4a13903c}{Jones}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8112656e2d7f3a37a8f154a150b8f9ce}{Lazarides}{L\bibinitperiod}{Linos}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a51158fddd717ce5a31702b0871df294}{Steadman}{S\bibinitperiod}{Victoria\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=2cab3283d5958e1b28e6e16dfc792f2e}{Cohen}{C\bibinitperiod}{Douglas\bibnamedelima R}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d3aae82cc0c6d7c7a0c8a607a1721f}{Felix}{F\bibinitperiod}{Cintia\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=c87d008cd794bbfd7af4c3cc1ddd8de2}{Fetterman}{F\bibinitperiod}{K\bibnamedelima Ashley}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad69b472a89fcbd0d800e1f5d4188d6c}{Millett}{M\bibinitperiod}{William\bibnamedelima P}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c7bfe1615207c8075856ec94f5b5df8d}{Nitti}{N\bibinitperiod}{Anthony\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=12fedc32d83672f9af47bb3ba5b89993}{Zullo}{Z\bibinitperiod}{Ashley\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=531c7be3c2524682e36a7baa8d7ab92f}{Chen}{C\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{37c3e2e580611af4d73b24c221639f1d}
+      \strng{fullhash}{cb47d8917d15735d603b480168a4985b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new antibiotic kills pathogens without detectable resistance}}
+      \field{abstract}{Antibiotic resistance is spreading faster than the introduction of new compounds into clinical practice, causing a public health crisis. Most antibiotics were produced by screening soil microorganisms, but this limited resource of cultivable bacteria was overmined by the 1960s. Synthetic approaches to produce antibiotics have been unable to replace this platform. Uncultured bacteria make up approximately 99{\%} of all species in external environments, and are an untapped source of new antibiotics. Wedeveloped several methods to grow uncultured organisms by cultivation in situ or by using specific growth factors. Here we report a new antibiotic that we term teixobactin, discovered in a screen of uncultured bacteria. Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III (precursor of cell wall teichoic acid). We did not obtain any mutants of Staphylococcus aureus or Mycobacterium tuberculosis resistant to teixobactin. The properties of this compound suggest a path towards developing antibiotics that are likely to avoid development of resistance.}
+      \field{isbn}{1476-4687 (Electronic)$\backslash$r0028-0836 (Linking)}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{number}{7535}
+      \field{title}{{A new antibiotic kills pathogens without detectable resistance}}
+      \field{volume}{517}
+      \field{year}{2015}
+      \field{pages}{455\bibrangedash 459}
+      \verb{doi}
+      \verb 10.1038/nature14098
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nature14098.pdf:pdf
+      \endverb
+    \endentry
+    \entry{BroadInstitute}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \verb{url}
+      \verb https://www.broadinstitute.org/news/6981
       \endverb
     \endentry
   \endsortlist

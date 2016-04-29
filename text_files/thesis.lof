@@ -27,7 +27,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1.8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{24}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Estimated worldwide TB incidence rates in 2014. Figure extracted from \cite {Lewandowski2015}.\relax }}{29}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
@@ -35,4 +35,6 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }{}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{35}{figure.caption.22}
+\addvspace {10\p@ }{}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Example\relax }}{37}{figure.caption.23}
