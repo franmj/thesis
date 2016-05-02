@@ -5286,10 +5286,115 @@
     \entry{BroadInstitute}{misc}{}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
-      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute - https://www.broadinstitute.org/news/6981 -}}
+      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute - https://www.broadinstitute.org/news/6981 -}}
       \verb{url}
       \verb https://www.broadinstitute.org/news/6981
+      \endverb
+    \endentry
+    \entry{Karki2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=78218bb7562a9b79c7469e40819eb583}{Karki}{K\bibinitperiod}{Deepak\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=724c78a5b336f2554da7519386581962}{Mirzoev}{M\bibinitperiod}{Tolib\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e8db7da2de663dad83fb3ac1d87c78}{Green}{G\bibinitperiod}{Andrew\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=29569a538f5fc1af33f66eba38916b25}{Newell}{N\bibinitperiod}{James\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae45aaef42b7e4471c0664b236ec97f0}{Baral}{B\bibinitperiod}{Sushil\bibnamedelima C}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=78218bb7562a9b79c7469e40819eb583}{Karki}{K\bibinitperiod}{Deepak\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=724c78a5b336f2554da7519386581962}{Mirzoev}{M\bibinitperiod}{Tolib\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e8db7da2de663dad83fb3ac1d87c78}{Green}{G\bibinitperiod}{Andrew\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=29569a538f5fc1af33f66eba38916b25}{Newell}{N\bibinitperiod}{James\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae45aaef42b7e4471c0664b236ec97f0}{Baral}{B\bibinitperiod}{Sushil\bibnamedelima C}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{30149b31413806a1e66bb7c5f80d777a}
+      \strng{fullhash}{d1598db3fc4016d7b04a1f513d1edebe}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Costs of a successful public-private partnership for TB control in an urban setting in Nepal}}
+      \field{abstract}{In South Asia a large number of patients seek treatment for TB from private practitioners (PPs), and there is increasing international interest in involving PPs in TB control. To evaluate the feasibility, effectiveness and costs of public-private partnerships (PPPs) for TB control, a PPP was developed in Lalitpur municipality, Nepal, where it is estimated that 50{\%} of patients with TB are managed in the private sector. From the clinical perspective the PPP was shown to be effective. The aim of this paper is to assess and report on the costs involved in the PPP scheme.}
+      \field{issn}{1471-2458}
+      \field{journaltitle}{BMC Public Health}
+      \field{number}{1}
+      \field{title}{{Costs of a successful public-private partnership for TB control in an urban setting in Nepal}}
+      \field{volume}{7}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 12}
+      \verb{doi}
+      \verb 10.1186/1471-2458-7-84
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1471-2458-7-84
+      \endverb
+    \endentry
+    \entry{Murthy2001}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=8af5754bf339a98c52f8164d8ea8a52f}{Murthy}{M\bibinitperiod}{K.\bibnamedelimi J\bibnamedelima R}{K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8bd58537f01d5c0d2cece922b7b68c}{Frieden}{F\bibinitperiod}{T.\bibnamedelimi R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bc3b44a1c003c5b0563892209d5a7}{Yazdani}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c0cf65429b7c080b192a768cee7a7a46}{Hreshikesh}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8af5754bf339a98c52f8164d8ea8a52f}{Murthy}{M\bibinitperiod}{K.\bibnamedelimi J\bibnamedelima R}{K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8bd58537f01d5c0d2cece922b7b68c}{Frieden}{F\bibinitperiod}{T.\bibnamedelimi R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bc3b44a1c003c5b0563892209d5a7}{Yazdani}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c0cf65429b7c080b192a768cee7a7a46}{Hreshikesh}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5a6507293e9aa14c43142ca79bcac1c7}
+      \strng{fullhash}{d950bedbfcafd587ada86718d87ee191}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Public-private partnership in tuberculosis control: Experience in Hyderabad, India}}
+      \field{abstract}{SETTING: Hyderabad, India. OBJECTIVE: To determine whether private practitioners and the government can collaborate with a nongovernmental intermediary to implement DOTS effectively. DESIGN: A non-profit hospital provided DOTS services to a population of 100000 for 3 years, then expanded coverage to 500000 in October 1998. A hospital physician visited all private practitioners, encouraged them to refer patients, and gave feedback on each patient referred. After diagnosis, patients received directly observed treatment free of charge at the trust hospital or at 30 conveniently located small hospitals operated by local private practitioners. No financial incentives were used to encourage physicians to refer patients or to provide treatment observation. Diagnosis, treatment, and case and outcome definitions were performed as per DOTS policies; medicines and laboratory reagents were provided by the government. RESULTS: All 244 allopathic and 114 non-allopathic physicians practising in the area agreed to participate; 59{\%} referred at least one patient. Of 2244 persons referred, 969 (43{\%}) had tuberculosis. Physicians had obtained chest radiographs on 80{\%} of patients before referral for sputum microscopy. The detection rate increased from 50 to 200/100000 over the first 2-3 years of the project, and has increased gradually since expansion; 90{\%} of new smear-positive patients and 77{\%} of re-treatment patients were successfully treated. Compared with those treated at a neighbouring government DOTS centre, patients in this project paid less for diagnosis ({\$}5 vs. {\$}20) and treatment ({\$}1 vs. {\$}11), largely due to lower transport costs. CONCLUSIONS: Collaborative efforts between private practitioners and the government can achieve moderate-high rates of case detection and high rates of treatment success. Public-private services appeared to be more convenient to patients, who paid less for care and were less likely to miss work in order to participate in DOTS. Clearly defined roles and expectations and frequent communication are essential to success. An institution such as a non-profit hospital can serve as an effective intermediary between the government DOTS programme and private practitioners.}
+      \field{isbn}{1027-3719}
+      \field{issn}{10273719}
+      \field{journaltitle}{International Journal of Tuberculosis and Lung Disease}
+      \field{number}{4}
+      \field{title}{{Public-private partnership in tuberculosis control: Experience in Hyderabad, India}}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{354\bibrangedash 359}
+      \verb{file}
+      \verb :home/fran/Downloads/s10.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Lei2015}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=185062bab6a304a91919ac0c872b80d4}{Lei}{L\bibinitperiod}{Xun}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=e2d6477b8aa1e334fb8a5f13e09aa386}{Liu}{L\bibinitperiod}{Qin}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=0016e634cdee11fbf15990223f3de121}{Escobar}{E\bibinitperiod}{Erin}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=15aac5574a434a4812279f669dff432c}{Philogene}{P\bibinitperiod}{Johane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bec5e6e4ddd93c61bd281e176a4cc608}{Zhu}{Z\bibinitperiod}{Hang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a84866b4900b3fe9a714de1f78dbf282}{Wang}{W\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=333300ff1f906993ca996a007d36545c}{Tang}{T\bibinitperiod}{Shenglan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=185062bab6a304a91919ac0c872b80d4}{Lei}{L\bibinitperiod}{Xun}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=e2d6477b8aa1e334fb8a5f13e09aa386}{Liu}{L\bibinitperiod}{Qin}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=0016e634cdee11fbf15990223f3de121}{Escobar}{E\bibinitperiod}{Erin}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=15aac5574a434a4812279f669dff432c}{Philogene}{P\bibinitperiod}{Johane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bec5e6e4ddd93c61bd281e176a4cc608}{Zhu}{Z\bibinitperiod}{Hang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a84866b4900b3fe9a714de1f78dbf282}{Wang}{W\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=333300ff1f906993ca996a007d36545c}{Tang}{T\bibinitperiod}{Shenglan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4e90874f440e4bb60b92995fe72c8a97}
+      \strng{fullhash}{66d0e285646e64a04d1e980808af6d6e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Public--private mix for tuberculosis care and control: a systematic review}}
+      \field{abstract}{SummaryBackground Public--private mix (PPM), recommended by the World Health Organization (WHO), was introduced to cope with the tuberculosis (TB) epidemic worldwide. In many developing countries, PPM has played a powerful role in TB control, while in others it has failed to meet expectations. Thus we performed a systematic review to determine the mechanisms used by global PPM programs implemented in different countries and to evaluate their performance. Methods A comprehensive search of the current literature for original studies published up to May 2014 was done using electronic databases and online resources; these publications were then screened using rigorous criteria. Descriptive information and evaluative outcomes data were extracted from eligible studies for synthesis and analysis. Results A total of 78 eligible studies were included in the final review. These assessed 48 PPM TB programs worldwide, subsequently categorized into three mechanisms based on collaborative characteristics: support, contract, and multi-partner group. Furthermore, we assessed the effectiveness of PPM programs against six health system themes, including utilization of the directly observed treatment strategy (DOTS), case detection, treatment outcomes, case management, costs, and access and equity, under the different collaborative mechanisms. Analysis of the comparative studies suggested that PPM could improve overall outcomes of a TB service, and multiple collaborative mechanisms may significantly promote case detection, treatment, referral, and service accessibility, especially in resource-limited areas. However, the less positive outcomes of several programs indicated limited funding and poor governance to be the predominant reasons. Conclusions PPM is a promising strategy to strengthen global TB care and control, but is affected by contextual characteristics in different areas. The scaling-up of PPM should contain essential commonalities, particularly substantial financial support and continuous material input. Additionally, it is important to improve program governance and training for the health providers involved, through integrated collaborative mechanisms.}
+      \field{issn}{1201-9712}
+      \field{journaltitle}{International Journal of Infectious Diseases}
+      \field{month}{05}
+      \field{title}{{Public--private mix for tuberculosis care and control: a systematic review}}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{20\bibrangedash 32}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.ijid.2015.02.015
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1201971215000521
       \endverb
     \endentry
   \endsortlist
@@ -10561,10 +10666,115 @@
     \entry{BroadInstitute}{misc}{}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
-      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute}}
+      \field{labeltitle}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute - https://www.broadinstitute.org/news/6981 -}}
+      \field{title}{{Philanthropists unite to accelerate global fight against tuberculosis with combined {\$}20 million gift to Broad Institute - https://www.broadinstitute.org/news/6981 -}}
       \verb{url}
       \verb https://www.broadinstitute.org/news/6981
+      \endverb
+    \endentry
+    \entry{Karki2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=78218bb7562a9b79c7469e40819eb583}{Karki}{K\bibinitperiod}{Deepak\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=724c78a5b336f2554da7519386581962}{Mirzoev}{M\bibinitperiod}{Tolib\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e8db7da2de663dad83fb3ac1d87c78}{Green}{G\bibinitperiod}{Andrew\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=29569a538f5fc1af33f66eba38916b25}{Newell}{N\bibinitperiod}{James\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae45aaef42b7e4471c0664b236ec97f0}{Baral}{B\bibinitperiod}{Sushil\bibnamedelima C}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=78218bb7562a9b79c7469e40819eb583}{Karki}{K\bibinitperiod}{Deepak\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=724c78a5b336f2554da7519386581962}{Mirzoev}{M\bibinitperiod}{Tolib\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e8db7da2de663dad83fb3ac1d87c78}{Green}{G\bibinitperiod}{Andrew\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=29569a538f5fc1af33f66eba38916b25}{Newell}{N\bibinitperiod}{James\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae45aaef42b7e4471c0664b236ec97f0}{Baral}{B\bibinitperiod}{Sushil\bibnamedelima C}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{30149b31413806a1e66bb7c5f80d777a}
+      \strng{fullhash}{d1598db3fc4016d7b04a1f513d1edebe}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Costs of a successful public-private partnership for TB control in an urban setting in Nepal}}
+      \field{abstract}{In South Asia a large number of patients seek treatment for TB from private practitioners (PPs), and there is increasing international interest in involving PPs in TB control. To evaluate the feasibility, effectiveness and costs of public-private partnerships (PPPs) for TB control, a PPP was developed in Lalitpur municipality, Nepal, where it is estimated that 50{\%} of patients with TB are managed in the private sector. From the clinical perspective the PPP was shown to be effective. The aim of this paper is to assess and report on the costs involved in the PPP scheme.}
+      \field{issn}{1471-2458}
+      \field{journaltitle}{BMC Public Health}
+      \field{number}{1}
+      \field{title}{{Costs of a successful public-private partnership for TB control in an urban setting in Nepal}}
+      \field{volume}{7}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 12}
+      \verb{doi}
+      \verb 10.1186/1471-2458-7-84
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1471-2458-7-84
+      \endverb
+    \endentry
+    \entry{Murthy2001}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=8af5754bf339a98c52f8164d8ea8a52f}{Murthy}{M\bibinitperiod}{K.\bibnamedelimi J\bibnamedelima R}{K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8bd58537f01d5c0d2cece922b7b68c}{Frieden}{F\bibinitperiod}{T.\bibnamedelimi R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bc3b44a1c003c5b0563892209d5a7}{Yazdani}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c0cf65429b7c080b192a768cee7a7a46}{Hreshikesh}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8af5754bf339a98c52f8164d8ea8a52f}{Murthy}{M\bibinitperiod}{K.\bibnamedelimi J\bibnamedelima R}{K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8bd58537f01d5c0d2cece922b7b68c}{Frieden}{F\bibinitperiod}{T.\bibnamedelimi R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bc3b44a1c003c5b0563892209d5a7}{Yazdani}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c0cf65429b7c080b192a768cee7a7a46}{Hreshikesh}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5a6507293e9aa14c43142ca79bcac1c7}
+      \strng{fullhash}{d950bedbfcafd587ada86718d87ee191}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Public-private partnership in tuberculosis control: Experience in Hyderabad, India}}
+      \field{abstract}{SETTING: Hyderabad, India. OBJECTIVE: To determine whether private practitioners and the government can collaborate with a nongovernmental intermediary to implement DOTS effectively. DESIGN: A non-profit hospital provided DOTS services to a population of 100000 for 3 years, then expanded coverage to 500000 in October 1998. A hospital physician visited all private practitioners, encouraged them to refer patients, and gave feedback on each patient referred. After diagnosis, patients received directly observed treatment free of charge at the trust hospital or at 30 conveniently located small hospitals operated by local private practitioners. No financial incentives were used to encourage physicians to refer patients or to provide treatment observation. Diagnosis, treatment, and case and outcome definitions were performed as per DOTS policies; medicines and laboratory reagents were provided by the government. RESULTS: All 244 allopathic and 114 non-allopathic physicians practising in the area agreed to participate; 59{\%} referred at least one patient. Of 2244 persons referred, 969 (43{\%}) had tuberculosis. Physicians had obtained chest radiographs on 80{\%} of patients before referral for sputum microscopy. The detection rate increased from 50 to 200/100000 over the first 2-3 years of the project, and has increased gradually since expansion; 90{\%} of new smear-positive patients and 77{\%} of re-treatment patients were successfully treated. Compared with those treated at a neighbouring government DOTS centre, patients in this project paid less for diagnosis ({\$}5 vs. {\$}20) and treatment ({\$}1 vs. {\$}11), largely due to lower transport costs. CONCLUSIONS: Collaborative efforts between private practitioners and the government can achieve moderate-high rates of case detection and high rates of treatment success. Public-private services appeared to be more convenient to patients, who paid less for care and were less likely to miss work in order to participate in DOTS. Clearly defined roles and expectations and frequent communication are essential to success. An institution such as a non-profit hospital can serve as an effective intermediary between the government DOTS programme and private practitioners.}
+      \field{isbn}{1027-3719}
+      \field{issn}{10273719}
+      \field{journaltitle}{International Journal of Tuberculosis and Lung Disease}
+      \field{number}{4}
+      \field{title}{{Public-private partnership in tuberculosis control: Experience in Hyderabad, India}}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{354\bibrangedash 359}
+      \verb{file}
+      \verb :home/fran/Downloads/s10.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Lei2015}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=185062bab6a304a91919ac0c872b80d4}{Lei}{L\bibinitperiod}{Xun}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=e2d6477b8aa1e334fb8a5f13e09aa386}{Liu}{L\bibinitperiod}{Qin}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=0016e634cdee11fbf15990223f3de121}{Escobar}{E\bibinitperiod}{Erin}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=15aac5574a434a4812279f669dff432c}{Philogene}{P\bibinitperiod}{Johane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bec5e6e4ddd93c61bd281e176a4cc608}{Zhu}{Z\bibinitperiod}{Hang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a84866b4900b3fe9a714de1f78dbf282}{Wang}{W\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=333300ff1f906993ca996a007d36545c}{Tang}{T\bibinitperiod}{Shenglan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=185062bab6a304a91919ac0c872b80d4}{Lei}{L\bibinitperiod}{Xun}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=e2d6477b8aa1e334fb8a5f13e09aa386}{Liu}{L\bibinitperiod}{Qin}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=0016e634cdee11fbf15990223f3de121}{Escobar}{E\bibinitperiod}{Erin}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=15aac5574a434a4812279f669dff432c}{Philogene}{P\bibinitperiod}{Johane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bec5e6e4ddd93c61bd281e176a4cc608}{Zhu}{Z\bibinitperiod}{Hang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a84866b4900b3fe9a714de1f78dbf282}{Wang}{W\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=333300ff1f906993ca996a007d36545c}{Tang}{T\bibinitperiod}{Shenglan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4e90874f440e4bb60b92995fe72c8a97}
+      \strng{fullhash}{66d0e285646e64a04d1e980808af6d6e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Public--private mix for tuberculosis care and control: a systematic review}}
+      \field{abstract}{SummaryBackground Public--private mix (PPM), recommended by the World Health Organization (WHO), was introduced to cope with the tuberculosis (TB) epidemic worldwide. In many developing countries, PPM has played a powerful role in TB control, while in others it has failed to meet expectations. Thus we performed a systematic review to determine the mechanisms used by global PPM programs implemented in different countries and to evaluate their performance. Methods A comprehensive search of the current literature for original studies published up to May 2014 was done using electronic databases and online resources; these publications were then screened using rigorous criteria. Descriptive information and evaluative outcomes data were extracted from eligible studies for synthesis and analysis. Results A total of 78 eligible studies were included in the final review. These assessed 48 PPM TB programs worldwide, subsequently categorized into three mechanisms based on collaborative characteristics: support, contract, and multi-partner group. Furthermore, we assessed the effectiveness of PPM programs against six health system themes, including utilization of the directly observed treatment strategy (DOTS), case detection, treatment outcomes, case management, costs, and access and equity, under the different collaborative mechanisms. Analysis of the comparative studies suggested that PPM could improve overall outcomes of a TB service, and multiple collaborative mechanisms may significantly promote case detection, treatment, referral, and service accessibility, especially in resource-limited areas. However, the less positive outcomes of several programs indicated limited funding and poor governance to be the predominant reasons. Conclusions PPM is a promising strategy to strengthen global TB care and control, but is affected by contextual characteristics in different areas. The scaling-up of PPM should contain essential commonalities, particularly substantial financial support and continuous material input. Additionally, it is important to improve program governance and training for the health providers involved, through integrated collaborative mechanisms.}
+      \field{issn}{1201-9712}
+      \field{journaltitle}{International Journal of Infectious Diseases}
+      \field{month}{05}
+      \field{title}{{Public--private mix for tuberculosis care and control: a systematic review}}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{20\bibrangedash 32}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.ijid.2015.02.015
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1201971215000521
       \endverb
     \endentry
   \endsortlist

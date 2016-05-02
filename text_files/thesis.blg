@@ -1,37 +1,38 @@
 [0] Config.pm:322> INFO - This is Biber 2.0 (beta)
 [0] Config.pm:325> INFO - Logfile is 'thesis.blg'
-[51] biber:277> INFO - === Fri Apr 29, 2016, 18:08:26
-[51] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[146] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[149] Biber.pm:635> INFO - Found 152 citekeys in bib section 0
-[229] Biber.pm:3051> INFO - Processing section 0
-[256] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
-[257] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[258] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
-[275] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
-[527] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[744] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
-[776] Utils.pm:144> WARN - Duplicate entry key: 'Dudley2011' in file '../bibliography/library.bib', skipping ...
-[783] Utils.pm:144> WARN - Duplicate entry key: 'Keiser2009' in file '../bibliography/library.bib', skipping ...
-[787] Utils.pm:144> WARN - Duplicate entry key: 'Raman2008' in file '../bibliography/library.bib', skipping ...
-[790] Utils.pm:144> WARN - Duplicate entry key: 'Duran-Frigola2012' in file '../bibliography/library.bib', skipping ...
-[801] Utils.pm:144> WARN - Duplicate entry key: 'Suthram2010' in file '../bibliography/library.bib', skipping ...
-[803] Utils.pm:144> WARN - Duplicate entry key: 'Yeturu2008' in file '../bibliography/library.bib', skipping ...
-[804] Utils.pm:144> WARN - Duplicate entry key: 'Wu2013' in file '../bibliography/library.bib', skipping ...
-[811] Utils.pm:144> WARN - Duplicate entry key: 'Iorio2010' in file '../bibliography/library.bib', skipping ...
-[815] Utils.pm:144> WARN - Duplicate entry key: 'Cheng2012' in file '../bibliography/library.bib', skipping ...
-[818] Utils.pm:144> WARN - Duplicate entry key: 'Raman2007' in file '../bibliography/library.bib', skipping ...
-[833] Utils.pm:144> WARN - Possible typo (case mismatch) between datasource keys: 'Gileadi2007' and 'GIleadi2007' in file '../bibliography/library.bib'
-[1164] Utils.pm:144> WARN - BibTeX subsystem: /tmp/jBoWd6xqMy/library.bib_23354.utf8, line 6, warning: 172 characters of junk seen at toplevel
-[3132] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3132] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3132] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[3133] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[4985] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4985] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4985] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
-[4986] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[5367] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
-[5368] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[6000] bbl.pm:608> INFO - Output to thesis.bbl
-[6000] Biber.pm:106> INFO - WARNINGS: 13
+[83] biber:277> INFO - === Mon May  2, 2016, 18:41:17
+[84] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[182] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[184] Biber.pm:635> INFO - Found 155 citekeys in bib section 0
+[298] Biber.pm:3051> INFO - Processing section 0
+[414] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
+[443] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[443] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
+[513] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
+[731] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[964] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
+[999] Utils.pm:144> WARN - Duplicate entry key: 'Dudley2011' in file '../bibliography/library.bib', skipping ...
+[1005] Utils.pm:144> WARN - Duplicate entry key: 'Keiser2009' in file '../bibliography/library.bib', skipping ...
+[1010] Utils.pm:144> WARN - Duplicate entry key: 'Raman2008' in file '../bibliography/library.bib', skipping ...
+[1012] Utils.pm:144> WARN - Duplicate entry key: 'Duran-Frigola2012' in file '../bibliography/library.bib', skipping ...
+[1024] Utils.pm:144> WARN - Duplicate entry key: 'Suthram2010' in file '../bibliography/library.bib', skipping ...
+[1026] Utils.pm:144> WARN - Duplicate entry key: 'Yeturu2008' in file '../bibliography/library.bib', skipping ...
+[1028] Utils.pm:144> WARN - Duplicate entry key: 'Wu2013' in file '../bibliography/library.bib', skipping ...
+[1052] Utils.pm:144> WARN - Duplicate entry key: 'Iorio2010' in file '../bibliography/library.bib', skipping ...
+[1058] Utils.pm:144> WARN - Duplicate entry key: 'Cheng2012' in file '../bibliography/library.bib', skipping ...
+[1060] Utils.pm:144> WARN - Duplicate entry key: 'Raman2007' in file '../bibliography/library.bib', skipping ...
+[1066] Utils.pm:144> WARN - Duplicate entry key: 'Uplekar2001' in file '../bibliography/library.bib', skipping ...
+[1077] Utils.pm:144> WARN - Possible typo (case mismatch) between datasource keys: 'Gileadi2007' and 'GIleadi2007' in file '../bibliography/library.bib'
+[1468] Utils.pm:144> WARN - BibTeX subsystem: /tmp/5mwnJyp9sb/library.bib_16080.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[3687] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3687] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3688] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[3688] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[5676] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5676] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5696] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
+[5697] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[6101] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
+[6102] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[6789] bbl.pm:608> INFO - Output to thesis.bbl
+[6789] Biber.pm:106> INFO - WARNINGS: 14
