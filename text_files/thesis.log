@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  2 MAY 2016 18:41
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  4 MAY 2016 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,6 +687,35 @@ Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 \tabu@vleads=\box34
 \tabu@cellskip=\skip63
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+\TY@count=\count302
+\TY@linewidth=\dimen164
+\tymin=\dimen165
+\tymax=\dimen166
+\TY@tablewidth=\dimen167
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
+)
 \@indexfile=\write4
 \openout4 = `thesis.idx'.
 
@@ -716,40 +745,40 @@ LaTeX Info: Redefining \% on input line 40.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 58.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Info: Redefining \sptext on input line 55.
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \sptext on input line 58.
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen164
+\scratchcounter=\count303
+\scratchdimen=\dimen168
 \scratchbox=\box35
-\nofMPsegments=\count303
-\nofMParguments=\count304
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen165
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen169
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -766,11 +795,11 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package crop Info: requested driver: `' on input line 55.
-Package crop Info: detected driver: `pdftex' on input line 55.
-Package crop Info: using `pdftex' graphics driver on input line 55.
+Package crop Info: requested driver: `' on input line 58.
+Package crop Info: detected driver: `pdftex' on input line 58.
+Package crop Info: using `pdftex' graphics driver on input line 58.
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -778,11 +807,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count308
+\c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write5
@@ -801,45 +830,68 @@ Package biblatex Warning: File 'thesis.bbl' is wrong format version - expected
 
 Package biblatex Info: ... file 'thesis.bbl' found.
 (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 55.
-Package biblatex Info: Reference segment=0 on input line 55.
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 61.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 58.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
+Overfull \hbox (4.53079pt too wide) in paragraph at lines 64--64
+[]\T1/phv/m/n/20.74 El tit-u-lo de la tesi: In-silico meth-ods to drug 
+ []
+
+
+Overfull \hbox (32.10661pt too wide) in paragraph at lines 64--64
+[]\T1/ptm/m/n/14.4 Director: Marc A. Marti-Renom De-par-ta-ment De-par-ta-ment:
+ Biomedicine  
+ []
+
 <../figures/logo_upf.png, id=72, 36.135pt x 13.2495pt>
 File: ../figures/logo_upf.png Graphic file (type png)
 
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 61.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 64.
 (pdftex.def)             Requested size: 14.45372pt x 5.2997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+ [][] 
+ []
+
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 61.
- [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+(babel)             in language  on input line 64.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#1| 
+ []
+
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
@@ -847,159 +899,203 @@ Package babel Info: Redefining spanish shorthand "?
 
  <../figures/logo_upf.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 62.
- [2
+(babel)             in language  on input line 65.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#2| 
+ []
+
+[2
 
 
 ]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 69.
- [3]
+(babel)             in language  on input line 72.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#3| 
+ []
+
+[3]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 69.
- [4
+(babel)             in language  on input line 72.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#4| 
+ []
+
+[4
 
 
 ]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 77.
- [5]
+(babel)             in language  on input line 80.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#5| 
+ []
+
+[5]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 77.
- [6
+(babel)             in language  on input line 80.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#6| 
+ []
+
+[6
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 82.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 82.
-LaTeX Info: Redefining \sptext on input line 86.
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
- [7] [8
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 85.
+LaTeX Info: Redefining \sptext on input line 89.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#7| 
+ []
+
+[7]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#8| 
+ []
+
+[8
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
 
-[9] [10
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#9| 
+ []
+
+[9]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#10| 
+ []
+
+[10
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 104.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 107.
  (./thesis.toc
 LaTeX Info: Redefining \sptext on input line 4.
 LaTeX Info: Redefining \. on input line 4.
@@ -1012,13 +1108,22 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <12> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#11| 
+ []
+
+[11
 
 
 ])
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#12| 
+ []
 
 [12] (./thesis.lof
 LaTeX Info: Redefining \sptext on input line 4.
@@ -1051,13 +1156,22 @@ Overfull \hbox (0.28433pt too wide) in paragraph at lines 30--30
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#13| 
+ []
+
+[13
 
 
 ])
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#14| 
+ []
 
 [14] (./thesis.lot
 LaTeX Info: Redefining \sptext on input line 4.
@@ -1070,331 +1184,1037 @@ LaTeX Info: Redefining \% on input line 8.
 \tf@lot=\write8
 \openout8 = `thesis.lot'.
 
- [15
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#15| 
+ []
+
+[15
 
 
-] [16
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page[]#16| 
+ []
+
+[16
 
 
-] [1
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page1#17| 
+ []
+
+[1
 
 
-] [2
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page2#18| 
+ []
+
+[2
 
 
 ]
 Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+ []\T1/ptm/b/n/17.28 CHAPTER 1 
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 159--159
+ []\T1/ptm/b/n/24.88 INTRODUCTION 
+ []
+
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 166.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 169.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-<../figures/protein_structure_levels_en.png, id=246, 250.9375pt x 437.635pt>
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page3#19| 
+ []
+
+[3]
+<../figures/protein_structure_levels_en.png, id=249, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
 Package pdftex.def Info: ../figures/protein_structure_levels_en.png used on inp
-ut line 173.
+ut line 176.
 (pdftex.def)             Requested size: 188.20265pt x 328.22543pt.
+
+Underfull \hbox (badness 7907) in paragraph at lines 176--177
+ [][] 
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] <../figures/structure_vs_sequence.png, id=261, 451.6875pt x 432.61626pt>
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page4#20| 
+ []
+
+[4] <../figures/structure_vs_sequence.png, id=264, 451.6875pt x 432.61626pt>
 File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
 Package pdftex.def Info: ../figures/structure_vs_sequence.png used on input lin
-e 184.
+e 187.
 (pdftex.def)             Requested size: 225.84319pt x 216.3076pt.
+
+Underfull \hbox (badness 4254) in paragraph at lines 187--188
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/ptm/m/n/12 Figure 1.2: |The orig-i-nal plot of the re-la-tion of residue 
+iden-tity and the r.m.s.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/ptm/m/n/12 de-vi-a-tion of the back-bone atoms of the com-mon cores of 32 p
+airs of ho-mol-o-gous
+ []
+
 
 Underfull \vbox (badness 4328) has occurred while \output is active []
 
- [5 <../figures/protein_structure_levels_en.png>] [6 <../figures/structure_vs_s
-equence.png>] [7] [8] <../figures/pdbs_per_year.pdf, id=330, 578.16pt x 433.62p
-t>
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page5#21| 
+ []
+
+[5 <../figures/protein_structure_levels_en.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page6#22| 
+ []
+
+[6 <../figures/structure_vs_sequence.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page7#23| 
+ []
+
+[7]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page8#24| 
+ []
+
+[8] <../figures/pdbs_per_year.pdf, id=333, 578.16pt x 433.62pt>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
-Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 215.
+Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 218.
 (pdftex.def)             Requested size: 292.5pt x 219.37006pt.
 
-<../figures/pie_smethods.pdf, id=331, 1027.84pt x 770.88pt>
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+ []\T1/ptm/m/n/10.95 (a)|| 
+ []
+
+<../figures/pie_smethods.pdf, id=334, 1027.84pt x 770.88pt>
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
-Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 220.
+Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 223.
 (pdftex.def)             Requested size: 214.50119pt x 160.86623pt.
+
+Underfull \hbox (badness 7907) in paragraph at lines 224--224
+ []\T1/ptm/m/n/10.95 (b)|| 
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 217--227
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+[]\T1/ptm/m/n/12 Figure 1.3: |a) Growth of re-leased struc-tures per year. Data
+ ex-tracted from PDB.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\T1/ptm/m/n/12 b) Pie chart with the perc-etange of struc-tures de-ter-mined by
+ the dif-fer-ent meth-
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page9#25| 
+ []
+
+[9]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page10#26| 
+ []
+
 [10 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
-<../figures/workflow.jpg, id=458, 322.20375pt x 320.99925pt>
+<../figures/workflow.jpg, id=461, 322.20375pt x 320.99925pt>
 File: ../figures/workflow.jpg Graphic file (type jpg)
 
 <use ../figures/workflow.jpg>
-Package pdftex.def Info: ../figures/workflow.jpg used on input line 244.
+Package pdftex.def Info: ../figures/workflow.jpg used on input line 247.
 (pdftex.def)             Requested size: 322.20296pt x 320.99846pt.
- [11] [12 <../figures/workflow.jpg>]
-Overfull \hbox (6.26167pt too wide) in paragraph at lines 265--266
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]\T1/ptm/m/n/12 Figure 1.4: |Work-flow in com-par-a-tive pro-tein struc-ture m
+od-el-ing. The fig-ure has
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page11#27| 
+ []
+
+[11]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page12#28| 
+ []
+
+[12 <../figures/workflow.jpg>]
+Overfull \hbox (6.26167pt too wide) in paragraph at lines 268--269
 \T1/ptm/m/n/12 al-go-rithms. Atom-based distance-depend scor-ing func-tions hav
 e proved
  []
 
-[13] <../figures/homology_plot.pdf, id=521, 895.345pt x 575.14874pt>
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page13#29| 
+ []
+
+[13] <../figures/homology_plot.pdf, id=524, 895.345pt x 575.14874pt>
 File: ../figures/homology_plot.pdf Graphic file (type pdf)
 
 <use ../figures/homology_plot.pdf>
-Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 272.
+Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 275.
 (pdftex.def)             Requested size: 313.37544pt x 201.30507pt.
- [14 <../figures/homology_plot.pdf>]
 
-Package caption Warning: \label without proper \caption on input line 307.
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[]\T1/ptm/m/n/12 Figure 1.5: |Ho-mol-ogy thresh-old curve as a func-tion of ali
+gn-ment length. Data
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page14#30| 
+ []
+
+[14 <../figures/homology_plot.pdf>]
+
+Package caption Warning: \label without proper \caption on input line 310.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `table:table_software' on page 15 undefined on input l
-ine 278.
+ine 281.
 
-[15] [16] <../figures/lock_key_model.jpg, id=636, 447.6725pt x 76.285pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--311
+ [] 
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 311--311
+ []\T1/ptm/m/n/12 Table 1.1: |List of the pub-lic Pro-tein Mod-el-ing Tools| 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page15#31| 
+ []
+
+[15]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page16#32| 
+ []
+
+[16] <../figures/lock_key_model.jpg, id=639, 447.6725pt x 76.285pt>
 File: ../figures/lock_key_model.jpg Graphic file (type jpg)
 
 <use ../figures/lock_key_model.jpg>
-Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 331.
+Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 334.
 (pdftex.def)             Requested size: 292.5pt x 49.84422pt.
 
-<../figures/induce_fit_model.jpg, id=637, 447.6725pt x 68.255pt>
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]\T1/ptm/m/n/10.95 (a) |Fis-cher's \T1/ptm/m/it/10.95 lock and key model\T1/pt
+m/m/n/10.95 . The pro-tein is rep-re-sented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\T1/ptm/m/n/10.95 in green and the lig-and in red. The lig-and's bind-ing site 
+of the
+ []
+
+<../figures/induce_fit_model.jpg, id=640, 447.6725pt x 68.255pt>
 File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
 
 <use ../figures/induce_fit_model.jpg>
-Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 337
+Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 340
 .
 (pdftex.def)             Requested size: 292.5pt x 44.59746pt.
 
-<../figures/mwc_model.jpg, id=638, 493.845pt x 131.49126pt>
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+[]\T1/ptm/m/n/10.95 (b) |Koshland's \T1/ptm/m/it/10.95 in-duced fit model\T1/pt
+m/m/n/10.95 . The pro-tein is rep-re-sented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+\T1/ptm/m/n/10.95 in green and the lig-and in red. The over-all shape of the li
+g-and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+\T1/ptm/m/n/10.95 matches the bind-ing site. The lig-and bind-ings causes some 
+con-for-
+ []
+
+<../figures/mwc_model.jpg, id=641, 493.845pt x 131.49126pt>
 File: ../figures/mwc_model.jpg Graphic file (type jpg)
 
 <use ../figures/mwc_model.jpg>
-Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 343.
+Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 346.
 (pdftex.def)             Requested size: 292.5pt x 77.88011pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
+[]\T1/ptm/m/n/10.95 (c) |\T1/ptm/m/it/10.95 MWC model's \T1/ptm/m/n/10.95 rep-r
+e-sen-ta-tion. The pro-tein changes its con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
+\T1/ptm/m/n/10.95 for-ma-tion con-stantly (one color per con-for-ma-tion), with
+ at least
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
+\T1/ptm/m/n/10.95 one these con-for-ma-tion match-ing the lig-and. Its bind-ing
+ trig-gers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
+\T1/ptm/m/n/10.95 some con-for-ma-tional changes that im-proves the pro-tein's 
+en-ergy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\T1/ptm/m/n/12 Figure 1.6: |Schematic rep-re-sen-ta-tion of three pop-u-lar p
+rotein-ligand bind-ing
+ []
+
 
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [17]
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page17#33| 
+ []
+
+[17]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page18#34| 
+ []
+
 [18 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
-es/mwc_model.jpg>] [19] [20]
+es/mwc_model.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page19#35| 
+ []
+
+[19]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page20#36| 
+ []
+
+[20]
 Underfull \vbox (badness 1540) has occurred while \output is active []
 
- [21]
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page21#37| 
+ []
+
+[21]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page22#38| 
+ []
+
 [22]
 
 pdfTeX warning: pdflatex (file ../figures/drug_discovery_pipeline.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/drug_discovery_pipeline.pdf, id=768, 1247.66125pt x 473.77pt>
+<../figures/drug_discovery_pipeline.pdf, id=771, 1247.66125pt x 473.77pt>
 File: ../figures/drug_discovery_pipeline.pdf Graphic file (type pdf)
 
 <use ../figures/drug_discovery_pipeline.pdf>
 Package pdftex.def Info: ../figures/drug_discovery_pipeline.pdf used on input l
-ine 396.
+ine 399.
 (pdftex.def)             Requested size: 390.0pt x 148.0889pt.
 
-<../figures/drug_discovery_evolution.jpg, id=777, 1355.0625pt x 976.64874pt>
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[]\T1/ptm/m/n/12 Figure 1.7: |Drug dis-cov-ery and de-vel-op-ment pipeline. For
+ each stage the av-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+\T1/ptm/m/n/12 age cost and time are in-cluded. Post-approval times not in-clud
+ed in the time-line.
+ []
+
+<../figures/drug_discovery_evolution.jpg, id=780, 1355.0625pt x 976.64874pt>
 File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
 
 <use ../figures/drug_discovery_evolution.jpg>
 Package pdftex.def Info: ../figures/drug_discovery_evolution.jpg used on input 
-line 407.
+line 410.
 (pdftex.def)             Requested size: 350.99762pt x 252.96893pt.
 
-Underfull \hbox (badness 4328) in paragraph at lines 408--408
-\T1/ptm/m/n/12 of Drug De-vel-op-ment ([]$\T1/pcr/m/n/12 http : / / csdd . tuft
-s . edu / news / complete _
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]\T1/ptm/m/n/12 Figure 1.8: |Cost of de-vel-op-ing a new drug. Blue bars in-di
+-cate ex-penses in clin-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\T1/ptm/m/n/12 cal phases while red rep-re-sents ex-penses in pre-clinical stag
+es. Costs are shown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\T1/ptm/m/n/12 in $\OT1/cmr/m/n/12 $$ \T1/ptm/m/n/12 mil-lions. Data ex-tracted
+ form: Tufts Cen-ter for the Study of Drug De-vel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\T1/ptm/m/n/12 op-ment ([]$\T1/pcr/m/n/12 http : / / csdd . tufts . edu / news 
+/ complete _ story / pr _
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page23#39| 
  []
 
 [23 <../figures/drug_discovery_pipeline.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <../figures/drug_discovery_evolution.jpg>] [25] [26] [27] [28]
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page24#40| 
+ []
+
+[24 <../figures/drug_discovery_evolution.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page25#41| 
+ []
+
+[25]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page26#42| 
+ []
+
+[26]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page27#43| 
+ []
+
+[27]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page28#44| 
+ []
+
+[28]
 
 pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/map_incidence_tb.pdf, id=903, 891.33pt x 555.07375pt>
+<../figures/map_incidence_tb.pdf, id=906, 891.33pt x 555.07375pt>
 File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
 
 <use ../figures/map_incidence_tb.pdf>
-Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 455
+Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 451
 .
 (pdftex.def)             Requested size: 350.99762pt x 218.57837pt.
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <../figures/map_incidence_tb.pdf>] [31] [32
+Underfull \hbox (badness 10000) in paragraph at lines 452--452
+[]\T1/ptm/m/n/12 Figure 1.9: |Es-ti-mated world-wide TB in-ci-dence rates in 20
+14. Fig-ure ex-tracted
+ []
+
+
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page29#45| 
+ []
+
+[29]
+Underfull \vbox (badness 7415) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page30#46| 
+ []
+
+[30 <../figures/map_incidence_tb.pdf>]
+Overfull \hbox (3.99231pt too wide) in paragraph at lines 475--476
+[]|[]\T1/ptm/b/n/12 Reference(s)[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\T1/ptm/m/n/12 Target iden-ti-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\T1/ptm/m/n/12 Target pri-or-i-ti-za-tion in TB
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+\T1/ptm/m/n/12 thor-ough a com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[]|\T1/ptm/m/n/12 Database and method for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\T1/ptm/m/n/12 iden-fi-ca-tion of po-ten-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\T1/ptm/m/n/12 Drug repo-si-tion-ing ap-plied to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\T1/ptm/m/n/12 Database of MTB re-ported
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\T1/ptm/m/n/12 screen-ings along-side com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\T1/ptm/m/n/12 pu-ta-tional mod-els to an-a-lyze
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\T1/ptm/m/n/12 bioin-for-mat-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\T1/ptm/m/n/12 chemoin-for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]|\T1/ptm/m/n/12 Identification of MTB tar-gets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\T1/ptm/m/n/12 anti-tubercular com-pounds
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\T1/ptm/m/n/12 us-ing three or-thog-o-nal ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
+[]|\T1/ptm/m/n/12 Homology mod-elling and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
+\T1/ptm/m/n/12 vir-tual dok-ing for ligand-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+\T1/ptm/m/n/12 chemoin-fo-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+[]|\T1/ptm/m/n/12 Mobile app that dis-plays and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+\T1/ptm/m/n/12 al-lows in-ter-ac-tion with data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+\T1/ptm/m/n/12 bioin-for-mat-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+\T1/ptm/m/n/12 chemoin-for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+[]|\T1/ptm/m/n/12 Identification of Enoyl acyl
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+\T1/ptm/m/n/12 car-rier pro-tein re-duc-tase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+\T1/ptm/m/n/12 binders us-ing a 3D-QSAR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+[]|\T1/ptm/m/n/12 Application of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+[]|\T1/ptm/m/n/12 Interactome anal-y-sis to iden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+\T1/ptm/m/n/12 tify po-ten-tial mech-a-nisms of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
+[]|\T1/ptm/m/n/12 Database of ex-per-i-men-tally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T1/ptm/m/n/12 MTB pro-tein drug-ga-bil-ity
+ []
+
+
+Overfull \hbox (23.30482pt too wide) in paragraph at lines 473--502
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+[]\T1/ptm/m/n/12 Table 1.2: |Ta-ble con-tain-ing mul-ti-ple com-pu-ta-tional re
+-sources used in the dis-cov-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page31#47| 
+ []
+
+[31]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page32#48| 
+ []
+
+[32]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+ []\T1/ptm/b/n/17.28 CHAPTER 2 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+ []\T1/ptm/b/n/24.88 OBJECTIVES 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page33#49| 
+ []
+
+[33
 
 
 ]
-Chapter 2.
-[33] [34
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page34#50| 
+ []
+
+[34
 
 
 ]
 Chapter 3.
-[35] [36
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+ []\T1/ptm/b/n/17.28 CHAPTER 3 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+ []\T1/ptm/b/n/24.88 NANNOLYZE 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page35#51| 
+ []
+
+[35]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page36#52| 
+ []
+
+[36
 
 
 ]
 Chapter 4.
-[37] [38
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+ []\T1/ptm/b/n/17.28 CHAPTER 4 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page37#53| 
+ []
+
+[37]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page38#54| 
+ []
+
+[38
 
 
 ]
 Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+ []\T1/ptm/b/n/17.28 CHAPTER 5 
+ []
+
 File: ../figures/logo_upf.png Graphic file (type png)
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 489.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 529.
 (pdftex.def)             Requested size: 18.06744pt x 6.62473pt.
- [39] [40
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--530
+ []\T1/ptm/m/n/12 Figure 5.1: |Ex-am-ple| 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page39#55| 
+ []
+
+[39]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page40#56| 
+ []
+
+[40
 
 
 ]
 No file thesis.ind.
 
-Overfull \hbox (8.91217pt too wide) in paragraph at lines 506--506
+Overfull \hbox (8.91217pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 (1990), pp. 7133^^U7155. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 00
 06-2960. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1021 / bi00
 483a001$[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page41#57| 
  []
 
 [41
 
 
 ]
-Overfull \hbox (14.15862pt too wide) in paragraph at lines 506--506
+Overfull \hbox (14.15862pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 tein struc-ture de-ter-mi-na-tion^^T. In: \T1/ptm/m/it/12 Na-tur
 e Biotech-nol-ogy \T1/ptm/m/n/12 29.4 (2011), pp. 335^^U
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page42#58| 
+ []
+
 [42]
-Overfull \hbox (1.19978pt too wide) in paragraph at lines 506--506
+Overfull \hbox (1.19978pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 1934-3663. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12
  10 . 1002 / 0471140864 . ps0209s50$[] \T1/ptm/m/n/12 (cit. on pp. []12[],
  []
 
 
-Overfull \hbox (3.86006pt too wide) in paragraph at lines 506--506
+Overfull \hbox (3.86006pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/it/12 ence \T1/ptm/m/n/12 294 (2001), pp. 93^^U96. \T1/ptm/m/sc/12 is
 sn\T1/ptm/m/n/12 : 00368075. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n
 /12 10 . 1126 / science .
  []
 
 
-Overfull \hbox (20.00471pt too wide) in paragraph at lines 506--506
+Overfull \hbox (20.00471pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 zone of pro-tein se-quence ho-mol-ogy^^T. In: \T1/ptm/m/it/12 St
 ruc-ture \T1/ptm/m/n/12 4.10 (Oct. 1996), pp. 1123^^U
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page43#59| 
+ []
+
 [43]
-Overfull \hbox (6.84593pt too wide) in paragraph at lines 506--506
+Overfull \hbox (6.84593pt too wide) in paragraph at lines 546--546
 []\T1/ptm/m/n/12 D.B. Mc-Gar-rah and R.S. Jud-son. ^^S  Anal-y-sis of the ge-ne
 tic al-go-rithm method
  []
 
-[44] [45]
-Overfull \hbox (3.43718pt too wide) in paragraph at lines 506--506
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page44#60| 
+ []
+
+[44]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page45#61| 
+ []
+
+[45]
+Overfull \hbox (3.43718pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 In: \T1/ptm/m/it/12 Nu-cleic Acids Re-search \T1/ptm/m/n/12 33.W
 eb Server is-sue (July 2005), W244^^UW248.
  []
 
-[46] [47]
-Overfull \hbox (23.75514pt too wide) in paragraph at lines 506--506
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page46#62| 
+ []
+
+[46]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page47#63| 
+ []
+
+[47]
+Overfull \hbox (23.75514pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 In: \T1/ptm/m/it/12 Nu-cleic Acids Re-search \T1/ptm/m/n/12 37.S
 UPPL. 1 (2009), pp. 211^^U215. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 03051048.
  []
 
 
-Overfull \hbox (0.57004pt too wide) in paragraph at lines 506--506
+Overfull \hbox (0.57004pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 years to-wards a Supra-cel-lu-lar Chem-istry^^T. In: \T1/ptm/m/i
 t/12 Per-spec-tives in Supramolec-
  []
 
 
-Overfull \hbox (32.43199pt too wide) in paragraph at lines 506--506
+Overfull \hbox (32.43199pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/it/12 u-lar Chem-istry\T1/ptm/m/n/12 . John Wi-ley & Sons, Ltd., 1994
 , pp. 1^^U23. \T1/ptm/m/sc/12 isbn\T1/ptm/m/n/12 : 9780470511411.
  []
 
-[48] [49] [50]
-Overfull \hbox (6.9313pt too wide) in paragraph at lines 506--506
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page48#64| 
+ []
+
+[48]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page49#65| 
+ []
+
+[49]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page50#66| 
+ []
+
+[50]
+Overfull \hbox (6.9313pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 Ki-nase CK2 In-hibitor by High-Throughput Dock-ing^^T. In: \T1/p
 tm/m/it/12 Jour-nal of Medic-
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page51#67| 
+ []
+
 [51]
-Overfull \hbox (9.39221pt too wide) in paragraph at lines 506--506
+Overfull \hbox (9.39221pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 503.7477 (2013), pp. 449^^U50. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/1
 2 : 1476-4687. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1038 
 / 503449a$[]
  []
 
 
-Overfull \hbox (23.60071pt too wide) in paragraph at lines 506--506
+Overfull \hbox (23.60071pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 Sons, Ltd, 2001. \T1/ptm/m/sc/12 isbn\T1/ptm/m/n/12 : 9780470015
 902. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1002 / 97804700
 15902 .
  []
 
 
-Overfull \hbox (6.24274pt too wide) in paragraph at lines 506--506
+Overfull \hbox (6.24274pt too wide) in paragraph at lines 546--546
 []\T1/ptm/m/n/12 Lisa Hutchin-son and Re-becca Kirk. ^^S  High drug at-tri-tion
  rates[mdash]where
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page52#68| 
+ []
+
 [52]
-Overfull \hbox (9.38474pt too wide) in paragraph at lines 506--506
+Overfull \hbox (9.38474pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 tar-gets us-ing ma-chine learn-ing, in-hibitor de-sign and high-
 throughput screen-
  []
 
 
-Overfull \hbox (8.81865pt too wide) in paragraph at lines 506--506
+Overfull \hbox (8.81865pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 val-i-da-tion of mi-croR-NAs bind-ing to the Alzheimer-related g
 ene ADAM10^^T.
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page53#69| 
+ []
+
 [53]
-Overfull \hbox (12.23505pt too wide) in paragraph at lines 506--506
+Overfull \hbox (12.23505pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 Use in the De-sign of Novel p38-MAPK In-hibitors^^T. In: \T1/ptm
 /m/it/12 Jour-nal of Computer-
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page54#70| 
+ []
+
 [54]
-Overfull \hbox (10.51091pt too wide) in paragraph at lines 506--506
+Overfull \hbox (10.51091pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 duced Fit^^T. In: \T1/ptm/m/it/12 Jour-nal of Medic-i-nal Chem-i
 stry \T1/ptm/m/n/12 45.11 (May 2002), pp. 2139^^U
  []
 
 
-Overfull \hbox (15.7851pt too wide) in paragraph at lines 506--506
+Overfull \hbox (15.7851pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/n/12 rev-o-lu-tion.^^T In: \T1/ptm/m/it/12 Drug dis-cov-ery to-day. T
 ech-nolo-gies \T1/ptm/m/n/12 1.4 (Dec. 2004), pp. 337^^U
  []
 
 
-Overfull \hbox (1.13435pt too wide) in paragraph at lines 506--506
+Overfull \hbox (1.13435pt too wide) in paragraph at lines 546--546
 []\T1/ptm/m/n/12 Clare M. Lewandowski, New Co-investigator, and Clare M. Lewand
 owski.
  []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page55#71| 
+ []
+
 [55]
-Overfull \hbox (63.24956pt too wide) in paragraph at lines 506--506
+Overfull \hbox (63.24956pt too wide) in paragraph at lines 546--546
 \T1/ptm/m/it/12 com-bined $20 mil-lion gift to Broad In-sti-tute - https://www.
 broadinstitute.org/news/6981
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 512.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page56#72| 
+ []
+
 [56]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 512.
+Overfull \hbox (10.20602pt too wide) in paragraph at lines 546--546
+[]\T1/ptm/m/n/12 Lluís Bal-lell et al. ^^S  Fu-el-ing open-source drug dis-cov-
+ery: 177 small-molecule
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page57#73| 
+ []
+
+[57]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 552.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/5/416:48page58#74| 
+ []
+
+[58]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 552.
  (./thesis.aux
 LaTeX Info: Redefining \sptext on input line 32.
 LaTeX Info: Redefining \. on input line 32.
@@ -1403,10 +2223,10 @@ LaTeX Info: Redefining \sptext on input line 40.
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 512.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 512.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 552.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 552.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A4C59888264EDABE02060FF692C79116;1099.
+(rerunfilecheck)             Checksum: 8AAF7FB1F6029D4715180229D546184D;1114.
 
 
 LaTeX Warning: There were undefined references.
@@ -1414,13 +2234,13 @@ LaTeX Warning: There were undefined references.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 512.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 552.
  ) 
 Here is how much of TeX's memory you used:
- 16747 strings out of 495034
- 266871 string characters out of 6181677
- 1107663 words of memory out of 5000000
- 19383 multiletter control sequences out of 15000+600000
+ 16932 strings out of 495034
+ 270270 string characters out of 6181677
+ 1213232 words of memory out of 5000000
+ 19536 multiletter control sequences out of 15000+600000
  71138 words of font info for 75 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,11n,75p,4222b,2380s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1438,10 +2258,10 @@ texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
 s/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (72 pages, 896852 bytes).
+Output written on thesis.pdf (74 pages, 908439 bytes).
 PDF statistics:
- 1480 PDF objects out of 1728 (max. 8388607)
- 1295 compressed objects within 13 object streams
- 303 named destinations out of 1000 (max. 500000)
+ 1578 PDF objects out of 1728 (max. 8388607)
+ 1390 compressed objects within 14 object streams
+ 324 named destinations out of 1000 (max. 500000)
  202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

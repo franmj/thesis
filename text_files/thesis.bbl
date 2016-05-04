@@ -5397,6 +5397,703 @@
       \verb http://www.sciencedirect.com/science/article/pii/S1201971215000521
       \endverb
     \endentry
+    \entry{Zuniga2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=16fd1a328586cd0d43a3fe015d66d3b9}{Zuniga}{Z\bibinitperiod}{Edison\bibnamedelima S}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d5b7aab61b590c9c104d90acff319162}{Early}{E\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=02eac32a41cfc8d6d68a9f3ce8eb7e5a}{Parish}{P\bibinitperiod}{Tanya}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=16fd1a328586cd0d43a3fe015d66d3b9}{Zuniga}{Z\bibinitperiod}{Edison\bibnamedelima S}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d5b7aab61b590c9c104d90acff319162}{Early}{E\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=02eac32a41cfc8d6d68a9f3ce8eb7e5a}{Parish}{P\bibinitperiod}{Tanya}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0e2282e0007fd844be73c30ff232cf9b}
+      \strng{fullhash}{0e2282e0007fd844be73c30ff232cf9b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The future for early-stage tuberculosis drug discovery}}
+      \field{abstract}{There is an urgent need for new and better drugs to treat tuberculosis due to lengthy and complex treatment regimens and a rising problem of drug resistance. Drug discovery efforts have increased over the past few years, with a larger focus on modern high-throughput screening technologies. A combination of target-based approaches, with the traditional empirical means of drug identification, has been complemented by the use of target-based phenotypic screens only recently made possibly with newer genetic tools. Using these approaches, a number of promising compound series have been discovered. However, significant problems remain in developing these into drugs. This review highlights recent advances in TB drug discovery, including an overview of screening campaigns, lessons learned and future directions.}
+      \field{issn}{1746-0913}
+      \field{journaltitle}{Future Microbiology}
+      \field{number}{2}
+      \field{title}{{The future for early-stage tuberculosis drug discovery}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{217\bibrangedash 229}
+      \verb{doi}
+      \verb 10.2217/fmb.14.125
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zuniga, Early, Parish - 2015 - The future for early-stage tuberculosis drug discovery.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.futuremedicine.com/doi/abs/10.2217/fmb.14.125
+      \endverb
+    \endentry
+    \entry{Brennan2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=42c77fbe69a810cdf6bcd47e1de3de4e}{Brennan}{B\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=42c77fbe69a810cdf6bcd47e1de3de4e}{Brennan}{B\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42c77fbe69a810cdf6bcd47e1de3de4e}
+      \strng{fullhash}{42c77fbe69a810cdf6bcd47e1de3de4e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure, function, and biogenesis of the cell wall of Mycobacterium tuberculosis}}
+      \field{abstract}{Much of the early structural definition of the cell wall of Mycobacterium spp. was initiated in the 1960s and 1970s. There was a long period of inactivity, but more recent developments in NMR and mass spectral analysis and definition of the M. tuberculosis genome have resulted in a thorough understanding, not only of the structure of the mycobacterial cell wall and its lipids but also the basic genetics and biosynthesis. Our understanding nowadays of cell-wall architecture amounts to a massive {$\textquotedblleft$}core{$\textquotedblright$} comprised of peptidoglycan covalently attached via a linker unit (l-Rha--d-GlcNAc-P) to a linear galactofuran, in turn attached to several strands of a highly branched arabinofuran, in turn attached to mycolic acids. The mycolic acids are oriented perpendicular to the plane of the membrane and provide a truly special lipid barrier responsible for many of the physiological and disease-inducing aspects of M. tuberculosis. Intercalated within this lipid environment are the lipids that have intrigued researchers for over five decades: the phthiocerol dimycocerosate, cord factor/dimycolyltrehalose, the sulfolipids, the phosphatidylinositol mannosides, etc. Knowledge of their roles in {$\textquotedblleft$}signaling{$\textquotedblright$} events, in pathogenesis, and in the immune response is now emerging, sometimes piecemeal and sometimes in an organized fashion. Some of the more intriguing observations are those demonstrating that mycolic acids are recognized by CD1-restricted T-cells, that antigen 85, one of the most powerful protective antigens of M. tuberculosis, is a mycolyltransferase, and that lipoarabinomannan (LAM), when {$\textquotedblleft$}capped{$\textquotedblright$} with short mannose oligosaccharides, is involved in phagocytosis of M. tuberculosis. Definition of the genome of M. tuberculosis has greatly aided efforts to define the biosynthetic pathways for all of these exotic molecules: the mycolic acids, the mycocerosates, phthiocerol, LAM, and the polyprenyl phosphates. For example, we know that synthesis of the entire core is initiated on a decaprenyl-P with synthesis of the linker unit, and then there is concomitant extension of the galactan and arabinan chains while this intermediate is transported through the cytoplasmic membrane. The final steps in these events, the attachment of mycolic acids and ligation to peptidoglycan, await definition and will prove to be excellent targets for a new generation of anti-tuberculosis drugs.}
+      \field{issn}{1472-9792}
+      \field{journaltitle}{Tuberculosis}
+      \field{month}{02}
+      \field{number}{1--3}
+      \field{title}{{Structure, function, and biogenesis of the cell wall of Mycobacterium tuberculosis}}
+      \field{volume}{83}
+      \field{year}{2003}
+      \field{pages}{91\bibrangedash 97}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/S1472-9792(02)00089-6
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1472979202000896
+      \endverb
+    \endentry
+    \entry{Rodrigues2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=c074f3d972f6f68eac9a32bed4f106df}{Rodrigues}{R\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=39e8925451501613253c9181da8a4cbb}{Machado}{M\bibinitperiod}{Diana}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1146737ee3f12db6060676fab2893385}{Couto}{C\bibinitperiod}{Isabel}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=52f35d1d4eb225a6d06246d3fb9dd3e4}{Amaral}{A\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0f76bf06e80070831d3bee09aebbedeb}{Viveiros}{V\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=c074f3d972f6f68eac9a32bed4f106df}{Rodrigues}{R\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=39e8925451501613253c9181da8a4cbb}{Machado}{M\bibinitperiod}{Diana}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1146737ee3f12db6060676fab2893385}{Couto}{C\bibinitperiod}{Isabel}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=52f35d1d4eb225a6d06246d3fb9dd3e4}{Amaral}{A\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0f76bf06e80070831d3bee09aebbedeb}{Viveiros}{V\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3798080aec9095fd19060364cc1e91dc}
+      \strng{fullhash}{acf04b2740aa2cf98a37508cd3b4e0c2}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Contribution of efflux activity to isoniazid resistance in the Mycobacterium tuberculosis complex}}
+      \field{abstract}{Resistance to isoniazid (INH), one of the main drugs used in tuberculosis (TB) therapy, is mostly due to chromosomal mutations in target genes. However, approximately 20--30{\%} of INH resistant Mycobacterium tuberculosis isolates do not have mutations in any of the genes associated with INH resistance. This suggests that other mechanism(s) may be involved, namely efflux pump systems capable of extruding the drug to the exterior of the cell. In a previous work, we have induced clinical INH susceptible M. tuberculosis isolates and the H37Rv reference strain to high-level resistance to INH, by gradual exposure to increasing concentrations of this drug. In the present study, we have characterized these strains and Mycobacterium bovis BCG induced to INH resistance with respect to their efflux activity and its contribution to INH resistance using the following approach: determination of the susceptibility to INH in the presence and absence of the efflux inhibitors (EIs) chlorpromazine, thioridazine and verapamil; evaluation of efflux activity by a semi-automated fluorometric method; and quantification of the expression level of genes coding for efflux pumps by real-time RT-qPCR. The EIs decreased INH resistance in the INH induced strains, in particular verapamil promoted a reversal of resistance in some of the strains tested. The induced strains presented an increased efflux activity that was inhibited by the EIs and showed overexpression of the efflux pump genes efpA, mmpL7, mmr, p55 and the Tap-like gene Rv1258c. Altogether, these results correlate efflux activity with INH resistance and demonstrate that efflux pumps play an important role in acquired INH resistance in M. tuberculosis complex. The development of EIs that can restore the antimicrobial activity of the antibiotic subject to efflux is an approach that can be useful in order to prevent the emergence of this resistance and guide the development of new effective anti-TB therapeutical approaches.}
+      \field{issn}{1567-1348}
+      \field{journaltitle}{Infection, Genetics and Evolution}
+      \field{month}{06}
+      \field{number}{4}
+      \field{title}{{Contribution of efflux activity to isoniazid resistance in the Mycobacterium tuberculosis complex}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 700}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.meegid.2011.08.009
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1567134811002887
+      \endverb
+    \endentry
+    \entry{Manjunatha2015}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=be8674f6cc03382aa462597d2cc1bc1d}{Manjunatha}{M\bibinitperiod}{Ujjini\bibnamedelima H}{U\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=55cfd356590cd8481821d6ac32a0ce3f}{Smith}{S\bibinitperiod}{Paul\bibnamedelima W}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=be8674f6cc03382aa462597d2cc1bc1d}{Manjunatha}{M\bibinitperiod}{Ujjini\bibnamedelima H}{U\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=55cfd356590cd8481821d6ac32a0ce3f}{Smith}{S\bibinitperiod}{Paul\bibnamedelima W}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{538ab133a8bef52b6b8672fc40fe5585}
+      \strng{fullhash}{538ab133a8bef52b6b8672fc40fe5585}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Perspective: Challenges and opportunities in TB drug discovery from phenotypic screening}}
+      \field{abstract}{Abstract Tuberculosis poses a major global health problem and multi-drug resistant strains are increasingly prevalent. Hence there is an urgent need to discover new TB drugs. Cell based phenotypic screening represents a powerful approach to identify anti-mycobacterial compounds and elucidate novel targets. Three high throughput phenotypic screens were performed at NITD against mycobacterium. Hits were identified and chemical series selected for optimisation. This produced compounds with good in vitro anti-mycobacterial activity and pharmacokinetic properties. Some compounds displayed oral activity in mouse efficacy models of TB. Herein, we review the TB discovery efforts at NITD and share experiences in optimisation of phenotypic hits, describing challenges encountered and lessons learned. We also offer perspectives to facilitate future selection and advancement of phenotypic hits.}
+      \field{issn}{0968-0896}
+      \field{journaltitle}{Bioorganic {\&} Medicinal Chemistry}
+      \field{month}{08}
+      \field{number}{16}
+      \field{title}{{Perspective: Challenges and opportunities in TB drug discovery from phenotypic screening}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{5087\bibrangedash 5097}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.bmc.2014.12.031
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0968089614008797
+      \endverb
+    \endentry
+    \entry{Ballell2013}{article}{}
+      \name{labelname}{24}{}{%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=db388038e9f9f9a2a5173ca4e78d8361}{Blanco}{B\bibinitperiod}{Delia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=153dba706e242d0c063dba7b00df65bd}{Crespo}{C\bibinitperiod}{Benigno}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2e9a080216c809365c08d8c86327aede}{Escribano}{E\bibinitperiod}{Jaime}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=47c28321b0d9453b21d5e5e486ca866c}{Gonz{\'{a}}lez}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=83234e74f41ee378970e4d4ad091c96f}{Lozano}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=83d3606d048952a7d15d7e34562b2652}{Huss}{H\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=17ac4c08a68a5fe3faa177272c88864a}{Santos-Villarejo}{S\bibinithyphendelim V\bibinitperiod}{Angel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1be1b647b77a5e62805e06ca2ce245a}{Mart{\'{\i}}n-Plaza}{M\bibinithyphendelim P\bibinitperiod}{Jos{\'{e}}\bibnamedelima Julio}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3a464467a05b17272248c688ea08c332}{Mendoza}{M\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d79950ba2c762d4afc001ef32e65a506}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff636669f7099d0d93590b54dc39d7bf}{Remui{\~{n}}an-Blanco}{R\bibinitperiod}{Modesto}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f9f586da9a74a597b8e62502929c27e4}{Lavandera}{L\bibinitperiod}{Jos{\'{e}}\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28464e2b203f48dfbc59175b10b19697}{P{\'{e}}rez-Herran}{P\bibinithyphendelim H\bibinitperiod}{Esther}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=28fbc29383d067537b378baa24acafb6}{Gamo-Benito}{G\bibinithyphendelim B\bibinitperiod}{Francisco\bibnamedelima Javier}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e2e605566c9852d6ccc362bfe8c7e4c3}{Garc{\'{\i}}a-Bustos}{G\bibinithyphendelim B\bibinitperiod}{Jos{\'{e}}\bibnamedelima Francisco}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2a40f7c9a32e3db6619f4de4b1a71fc4}{Barros}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2af59264b17833d1b508913a539cb353}{Castro}{C\bibinitperiod}{Julia\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{24}{}{%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=db388038e9f9f9a2a5173ca4e78d8361}{Blanco}{B\bibinitperiod}{Delia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=153dba706e242d0c063dba7b00df65bd}{Crespo}{C\bibinitperiod}{Benigno}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2e9a080216c809365c08d8c86327aede}{Escribano}{E\bibinitperiod}{Jaime}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=47c28321b0d9453b21d5e5e486ca866c}{Gonz{\'{a}}lez}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=83234e74f41ee378970e4d4ad091c96f}{Lozano}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=83d3606d048952a7d15d7e34562b2652}{Huss}{H\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=17ac4c08a68a5fe3faa177272c88864a}{Santos-Villarejo}{S\bibinithyphendelim V\bibinitperiod}{Angel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1be1b647b77a5e62805e06ca2ce245a}{Mart{\'{\i}}n-Plaza}{M\bibinithyphendelim P\bibinitperiod}{Jos{\'{e}}\bibnamedelima Julio}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3a464467a05b17272248c688ea08c332}{Mendoza}{M\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d79950ba2c762d4afc001ef32e65a506}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff636669f7099d0d93590b54dc39d7bf}{Remui{\~{n}}an-Blanco}{R\bibinitperiod}{Modesto}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f9f586da9a74a597b8e62502929c27e4}{Lavandera}{L\bibinitperiod}{Jos{\'{e}}\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28464e2b203f48dfbc59175b10b19697}{P{\'{e}}rez-Herran}{P\bibinithyphendelim H\bibinitperiod}{Esther}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=28fbc29383d067537b378baa24acafb6}{Gamo-Benito}{G\bibinithyphendelim B\bibinitperiod}{Francisco\bibnamedelima Javier}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e2e605566c9852d6ccc362bfe8c7e4c3}{Garc{\'{\i}}a-Bustos}{G\bibinithyphendelim B\bibinitperiod}{Jos{\'{e}}\bibnamedelima Francisco}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2a40f7c9a32e3db6619f4de4b1a71fc4}{Barros}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2af59264b17833d1b508913a539cb353}{Castro}{C\bibinitperiod}{Julia\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{00395da62851ee7dc7452487fbf270db}
+      \strng{fullhash}{432d7012e25884411c70a1fb3c39dd6c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Fueling open-source drug discovery: 177 small-molecule leads against tuberculosis.}}
+      \field{abstract}{With the aim of fuelling open-source, translational, early-stage drug discovery activities, the results of the recently completed antimycobacterial phenotypic screening campaign against Mycobacterium bovis BCG with hit confirmation in M. tuberculosis H37Rv were made publicly accessible. A set of 177 potent non-cytotoxic H37Rv hits was identified and will be made available to maximize the potential impact of the compounds toward a chemical genetics/proteomics exercise, while at the same time providing a plethora of potential starting points for new synthetic lead-generation activities. Two additional drug-discovery-relevant datasets are included: a) a drug-like property analysis reflecting the latest lead-like guidelines and b) an early lead-generation package of the most promising hits within the clusters identified.}
+      \field{issn}{1860-7187}
+      \field{journaltitle}{ChemMedChem}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Fueling open-source drug discovery: 177 small-molecule leads against tuberculosis.}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{313\bibrangedash 21}
+      \verb{doi}
+      \verb 10.1002/cmdc.201200428
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Ballell et al. - 2013 - Fueling open-source drug discovery 177 small-molecule leads against tuberculosis.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3743164%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Park2015}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=b89a4a24f6008ea325d03ba9fe4809f2}{Park}{P\bibinitperiod}{Sae\bibnamedelima Woong}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=934a8ad50c4b2116fff3eba8de09e7a0}{Casalena}{C\bibinitperiod}{Dominick\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0aeca80896b1de8b52db244238491f8b}{Wilson}{W\bibinitperiod}{Daniel\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f60e70f11c521708f7d9fe2df92a4138}{Dai}{D\bibinitperiod}{Ran}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=df193b65675892822947ec0cefd68e0c}{Nag}{N\bibinitperiod}{Partha\bibnamedelima P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{Liu}{L\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=a1c348fb1951fd1fa0634ecf3503f50e}{Boyce}{B\bibinitperiod}{Jim\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=808f38a5826d1cf980d29bd0b3e6179e}{Bittker}{B\bibinitperiod}{Joshua\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f392e7ee4276c992292e4abaf6fb6b10}{Schreiber}{S\bibinitperiod}{Stuart\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f7e058592d83a0b30cea2057bfddac71}{Finzel}{F\bibinitperiod}{Barry\bibnamedelima C.}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=b66fe07f682d19c587e7a028cd4e4dbf}{Schnappinger}{S\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=46f8a492a751adb3f8133a39e65ee030}{Aldrich}{A\bibinitperiod}{Courtney\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=b89a4a24f6008ea325d03ba9fe4809f2}{Park}{P\bibinitperiod}{Sae\bibnamedelima Woong}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=934a8ad50c4b2116fff3eba8de09e7a0}{Casalena}{C\bibinitperiod}{Dominick\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0aeca80896b1de8b52db244238491f8b}{Wilson}{W\bibinitperiod}{Daniel\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f60e70f11c521708f7d9fe2df92a4138}{Dai}{D\bibinitperiod}{Ran}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=df193b65675892822947ec0cefd68e0c}{Nag}{N\bibinitperiod}{Partha\bibnamedelima P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{Liu}{L\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=a1c348fb1951fd1fa0634ecf3503f50e}{Boyce}{B\bibinitperiod}{Jim\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=808f38a5826d1cf980d29bd0b3e6179e}{Bittker}{B\bibinitperiod}{Joshua\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f392e7ee4276c992292e4abaf6fb6b10}{Schreiber}{S\bibinitperiod}{Stuart\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f7e058592d83a0b30cea2057bfddac71}{Finzel}{F\bibinitperiod}{Barry\bibnamedelima C.}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=b66fe07f682d19c587e7a028cd4e4dbf}{Schnappinger}{S\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=46f8a492a751adb3f8133a39e65ee030}{Aldrich}{A\bibinitperiod}{Courtney\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b5169cc60e951ff54ce30108fce7ec2}
+      \strng{fullhash}{336bbd95b23644c7550c6aaf425d92f0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Target-Based Identification of Whole-Cell Active Inhibitors of Biotin Biosynthesis in Mycobacterium tuberculosis}}
+      \field{abstract}{Summary Biotin biosynthesis is essential for survival and persistence of Mycobacterium tuberculosis (Mtb) in vivo. The aminotransferase BioA, which catalyzes the antepenultimate step in the biotin pathway, has been established as a promising target due to its vulnerability to chemical inhibition. We performed high-throughput screening (HTS) employing a fluorescence displacement assay and identified a diverse set of potent inhibitors including many diversity-oriented synthesis (DOS) scaffolds. To efficiently select only hits targeting biotin biosynthesis, we then deployed a whole-cell counterscreen in biotin-free and biotin-containing medium against wild-type Mtb and in parallel with isogenic bioA Mtb strains that possess differential levels of BioA expression. This counterscreen proved crucial to filter out compounds whose whole-cell activity was off target as well as identify hits with weak, but measurable whole-cell activity in BioA-depleted strains. Several of the most promising hits were cocrystallized with BioA to provide a framework for future structure-based drug design efforts.}
+      \field{issn}{1074-5521}
+      \field{journaltitle}{Chemistry {\&} Biology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Target-Based Identification of Whole-Cell Active Inhibitors of Biotin Biosynthesis in Mycobacterium tuberculosis}}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{76\bibrangedash 86}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.chembiol.2014.11.012
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1074552114004219
+      \endverb
+    \endentry
+    \entry{Arora2014}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=5f5722e01e5e7e19f4c3fcf8bb90f5cc}{Arora}{A\bibinitperiod}{Garima}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a4de17540d71b6ba10cfa95fd25657e}{Tiwari}{T\bibinitperiod}{Prabhakar}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6ed6a34f5e85b20ac4922ae86a00d}{Mandal}{M\bibinitperiod}{Rahul\bibnamedelima Shubhra}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=00ec883074119e48a096ec3ec50cf00a}{Gupta}{G\bibinitperiod}{Arpit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e59885af95460776d2989573c763e72e}{Sharma}{S\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7c3e755091774e225b4b13f18b4b3b}{Saha}{S\bibinitperiod}{Sudipto}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4be4b5b53ba30c69beccb869b653b137}{Singh}{S\bibinitperiod}{Ramandeep}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=5f5722e01e5e7e19f4c3fcf8bb90f5cc}{Arora}{A\bibinitperiod}{Garima}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a4de17540d71b6ba10cfa95fd25657e}{Tiwari}{T\bibinitperiod}{Prabhakar}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6ed6a34f5e85b20ac4922ae86a00d}{Mandal}{M\bibinitperiod}{Rahul\bibnamedelima Shubhra}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=00ec883074119e48a096ec3ec50cf00a}{Gupta}{G\bibinitperiod}{Arpit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e59885af95460776d2989573c763e72e}{Sharma}{S\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7c3e755091774e225b4b13f18b4b3b}{Saha}{S\bibinitperiod}{Sudipto}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4be4b5b53ba30c69beccb869b653b137}{Singh}{S\bibinitperiod}{Ramandeep}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd83ba22dc67c0942620aaf990cabc5f}
+      \strng{fullhash}{2298394e04e0682df9a05b6f48196be3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{High Throughput Screen Identifies Small Molecule Inhibitors Specific for Mycobacterium tuberculosis Phosphoserine Phosphatase}}
+      \field{abstract}{The emergence of drug resistant strains of Mycobacterium tuberculosis (M. tuberculosis) makes identification and validation of newer drug targets a global priority. Phosphoserine phosphatase (PSP), a key essential metabolic enzyme involved in conversion of O-phospho-L-serine to L-serine was characterized in this study. The M. tuberculosis genome harbors all enzymes involved in L-serine biosynthesis including 2 PSP homologs, Rv0505c (SerB1) and Rv3042c (SerB2). In the present study we have biochemically characterized SerB2 enzyme and developed malachite green based high throughput assay system (HTS) to identify SerB2 inhibitors. We have identified 10 compounds that were structurally different from known PSP inhibitors and few of these scaffolds were highly specific in their ability to inhibit SerB2 enzyme, non-cytotoxic against mammalian cell lines and inhibited M. tuberculosis growth in vitro. Surface plasma resonance experiments demonstrated the relative binding for these inhibitors. The two best hits identified in our screen, clorobiocin and rosaniline were bactericidal in activity and killed intracellular bacteria in a dose dependent manner. We have also identified amino acid residues critical for these SerB2-small molecule interactions. This is the first study where we validate that M. tuberculosis SerB2 is a druggable and suitable target to pursue for further HTS screening.}
+      \field{annotation}{10.1074/jbc.M114.597682}
+      \field{journaltitle}{Journal of Biological Chemistry}
+      \field{month}{07}
+      \field{title}{{High Throughput Screen Identifies Small Molecule Inhibitors Specific for Mycobacterium tuberculosis Phosphoserine Phosphatase}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1074/jbc.M114.597682
+      \endverb
+      \verb{url}
+      \verb http://www.jbc.org/content/early/2014/07/18/jbc.M114.597682.abstract
+      \endverb
+    \endentry
+    \entry{Ekins2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
+      \field{issn}{1758-2946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1186/1758-2946-5-13
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1758-2946-5-13
+      \endverb
+    \endentry
+    \entry{Crowther2010}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=1e7d02cf40b803f7e666ba3456522cda}{Crowther}{C\bibinitperiod}{Gregory\bibnamedelima J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c530077ac76e5b88ee07fd4b2a12221b}{Shanmugam}{S\bibinitperiod}{Dhanasekaran}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=18a2c6408fa9f72cacf90d163b0a6168}{Carmona}{C\bibinitperiod}{Santiago\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa80a5be2aa40a51a6d75320eb6e906}{Doyle}{D\bibinitperiod}{Maria\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cab27c24778bcfc63d1cc662fe4dc2d3}{Hertz-Fowler}{H\bibinithyphendelim F\bibinitperiod}{Christiane}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2434c07ae5efa48a249b1894ed10c6c0}{Berriman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5e5aca67350d87e82feb0c1b99bff907}{Nwaka}{N\bibinitperiod}{Solomon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03ae736dd714fa0199036669c996aae5}{Ralph}{R\bibinitperiod}{Stuart\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e52eafe861d8f59e41cc13b5b4f96450}{Roos}{R\bibinitperiod}{David\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=e45aa1fa6f62eb50825183bf05f7a5d9}{{Van\bibnamedelimb Voorhis}}{V\bibinitperiod}{Wesley\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=af5876c5e761cc3e2a6cc1edcc6022a1}{Ag\x{fffd}ero}{A\bibinitperiod}{Fern\x{fffd}n}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=1e7d02cf40b803f7e666ba3456522cda}{Crowther}{C\bibinitperiod}{Gregory\bibnamedelima J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c530077ac76e5b88ee07fd4b2a12221b}{Shanmugam}{S\bibinitperiod}{Dhanasekaran}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=18a2c6408fa9f72cacf90d163b0a6168}{Carmona}{C\bibinitperiod}{Santiago\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa80a5be2aa40a51a6d75320eb6e906}{Doyle}{D\bibinitperiod}{Maria\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cab27c24778bcfc63d1cc662fe4dc2d3}{Hertz-Fowler}{H\bibinithyphendelim F\bibinitperiod}{Christiane}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2434c07ae5efa48a249b1894ed10c6c0}{Berriman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5e5aca67350d87e82feb0c1b99bff907}{Nwaka}{N\bibinitperiod}{Solomon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03ae736dd714fa0199036669c996aae5}{Ralph}{R\bibinitperiod}{Stuart\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e52eafe861d8f59e41cc13b5b4f96450}{Roos}{R\bibinitperiod}{David\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=e45aa1fa6f62eb50825183bf05f7a5d9}{{Van\bibnamedelimb Voorhis}}{V\bibinitperiod}{Wesley\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=af5876c5e761cc3e2a6cc1edcc6022a1}{Ag\x{fffd}ero}{A\bibinitperiod}{Fern\x{fffd}n}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{16bf0feaed87493db379fb7a5fdf300c}
+      \strng{fullhash}{10395e71a9450134924aafc51f1e1874}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification of Attractive Drug Targets in Neglected-Disease Pathogens Using an In Silico Approach}}
+      \field{abstract}{In cell-based drug development, researchers attempt to create drugs that kill a pathogen without necessarily understanding the details of how the drugs work. In contrast, target-based drug development entails the search for compounds that act on a specific intracellular target?often a protein known or suspected to be required for survival of the pathogen. The latter approach to drug development has been facilitated greatly by the sequencing of many pathogen genomes and the incorporation of genome data into user-friendly databases. The present paper shows how the database TDRtargets.org can identify proteins that might be considered good drug targets for diseases such as African sleeping sickness, Chagas disease, parasitic worm infections, tuberculosis, and malaria. These proteins may score highly in searches of the database because they are dissimilar to human proteins, are structurally similar to other ?druggable? proteins, have functions that are easy to measure, and/or fulfill other criteria. Researchers can use the lists of high-scoring proteins as a basis for deciding which potential drug targets to pursue experimentally.}
+      \field{journaltitle}{PLoS Negl Trop Dis}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{{Identification of Attractive Drug Targets in Neglected-Disease Pathogens Using an In Silico Approach}}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{e804}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pntd.0000804
+      \endverb
+    \endentry
+    \entry{Kinnings2009}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=ccf49e1eef79216484c626f6dcd672cb}{Kinnings}{K\bibinitperiod}{Sarah\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=65c7e91544e551a0ae7b503838594258}{Liu}{L\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8552c3d65bca87bc1e7b45486b2f5}{Buchmeier}{B\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c02fffc4f95fe946af461def20320345}{Tonge}{T\bibinitperiod}{Peter\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d9501bb096bed7e71af1f43d9ee08d98}{Xie}{X\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7c11f3af2e76014f9f3869e767aba8c4}{Bourne}{B\bibinitperiod}{Philip\bibnamedelima E}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=ccf49e1eef79216484c626f6dcd672cb}{Kinnings}{K\bibinitperiod}{Sarah\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=65c7e91544e551a0ae7b503838594258}{Liu}{L\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8552c3d65bca87bc1e7b45486b2f5}{Buchmeier}{B\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c02fffc4f95fe946af461def20320345}{Tonge}{T\bibinitperiod}{Peter\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d9501bb096bed7e71af1f43d9ee08d98}{Xie}{X\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7c11f3af2e76014f9f3869e767aba8c4}{Bourne}{B\bibinitperiod}{Philip\bibnamedelima E}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{5bd598bf589fd8282cb1ddda1203a564}
+      \strng{fullhash}{9c882be9547cc23bc0899619e28d1445}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug Discovery Using Chemical Systems Biology: Repositioning the Safe Medicine Comtan to Treat Multi-Drug and Extensively Drug Resistant Tuberculosis}}
+      \field{abstract}{{<}title{>}Author Summary{<}/title{>} {<}p{>}The rise of multi-drug resistant (MDR) and extensively drug resistant (XDR) tuberculosis around the world, including in industrialized nations, poses a great threat to human health. This resistance highlights the need to develop new, effective and inexpensive anti-tubercular agents. Unfortunately, conventional approaches have yielded very few successes in the field of anti-infective drug discovery. It is a challenge to design drugs with both efficacy and safety. These challenges are reflected in the high costs involved in bringing new drugs to market. It has been estimated that the cost to launch a successful new drug is in excess of US{\$}800 million. We have developed a novel computational strategy to systematically identify cross-reactivity between different drug target families. In this paper we demonstrate the strength of this approach through the discovery that existing commercially available drugs prescribed for the treatment of Parkinson's disease have the potential to treat MDR and XDR tuberculosis. The protocol described herein can be included in a drug discovery pipeline in an effort to accelerate the development of new drugs with reduced side effects.{<}/p{>}}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Drug Discovery Using Chemical Systems Biology: Repositioning the Safe Medicine Comtan to Treat Multi-Drug and Extensively Drug Resistant Tuberculosis}}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{e1000423}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000423
+      \endverb
+    \endentry
+    \entry{Ekins2010}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=575e765c403d077a0daef3dec4661dcb}{Bradford}{B\bibinitperiod}{Justin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32e361699323ea60524fa7569b11556a}{Dole}{D\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=89a11b08ffad8bb37917985aefc9982a}{Spektor}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5b089155938ceb370607b18d545339c}{Gregory}{G\bibinitperiod}{Kellan}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=95174b6fa5d6202d60176a8e5780c412}{Blondeau}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=45dcab353d8e4f32e3c73d0676fe5b00}{Hohman}{H\bibinitperiod}{Moses}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85fb36f668a6af1185cb14be5b242b31}{Bunin}{B\bibinitperiod}{Barry\bibnamedelima a}{B\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=575e765c403d077a0daef3dec4661dcb}{Bradford}{B\bibinitperiod}{Justin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32e361699323ea60524fa7569b11556a}{Dole}{D\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=89a11b08ffad8bb37917985aefc9982a}{Spektor}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5b089155938ceb370607b18d545339c}{Gregory}{G\bibinitperiod}{Kellan}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=95174b6fa5d6202d60176a8e5780c412}{Blondeau}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=45dcab353d8e4f32e3c73d0676fe5b00}{Hohman}{H\bibinitperiod}{Moses}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85fb36f668a6af1185cb14be5b242b31}{Bunin}{B\bibinitperiod}{Barry\bibnamedelima a}{B\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0f369f193e1ab7717e2185c2797e8a90}
+      \strng{fullhash}{adf749eb224dfc0c25732ba07c6be8f4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A collaborative database and computational models for tuberculosis drug discovery.}}
+      \field{abstract}{The search for molecules with activity against Mycobacterium tuberculosis (Mtb) is employing many approaches in parallel including high throughput screening and computational methods. We have developed a database (CDD TB) to capture public and private Mtb data while enabling data mining and collaborations with other researchers. We have used the public data along with several cheminformatics approaches to produce models that describe active and inactive compounds. We have compared these datasets to those for known FDA approved drugs and between Mtb active and inactive compounds. The distribution of polar surface area and pK(a) of active compounds was found to be a statistically significant determinant of activity against Mtb. Hydrophobicity was not always statistically significant. Bayesian classification models for 220, 463 molecules were generated and tested with external molecules, and enabled the discrimination of active or inactive substructures from other datasets in the CDD TB. Computational pharmacophores based on known Mtb drugs were able to map to and retrieve a small subset of some of the Mtb datasets, including a high percentage of Mtb actives. The combination of the database, dataset analysis, Bayesian and pharmacophore models provides new insights into molecular properties and features that are determinants of activity in whole cells. This study provides novel insights into the key 1D molecular descriptors, 2D chemical substructures and 3D pharmacophores which can be used to mine the chemistry space, prioritizing those molecules with a higher probability of activity against Mtb.}
+      \field{isbn}{1742-2051 (Electronic)$\backslash$r1742-2051 (Linking)}
+      \field{issn}{1742-206X}
+      \field{journaltitle}{Molecular bioSystems}
+      \field{number}{5}
+      \field{title}{{A collaborative database and computational models for tuberculosis drug discovery.}}
+      \field{volume}{6}
+      \field{year}{2010}
+      \field{pages}{840\bibrangedash 851}
+      \verb{doi}
+      \verb 10.1039/b917766c
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/B917766C.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Rebollo-Lopez2015}{article}{}
+      \name{labelname}{24}{}{%
+        {{hash=1f1f118c0318d0070d18e4dc30a77626}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jose}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=57dbebc061f4e8b1479160d3078c3799}{Leli{\`{e}}vre}{L\bibinitperiod}{Jo{\"{e}}l}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=b76d24156916dabb996a815e5b481f90}{Castro-Pichel}{C\bibinithyphendelim P\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9f1694dcbbd71d71a2b23228fee9da83}{Mart{\'{\i}}nez-Jim{\'{e}}nez}{M\bibinithyphendelim J\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d9d6fafa34670d65fe13aa0977dbe6}{Papadatos}{P\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=08a43e8ef8e3a2d464e9e8800f2ab3c9}{Kumar}{K\bibinitperiod}{Vinod}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=0c4aa186b62fc42cabaa30bb0046188c}{Colmenarejo}{C\bibinitperiod}{Gonzalo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2391162477fc4444870064ffe139c2a7}{Mugumbate}{M\bibinitperiod}{Grace}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=14a873e8089ad9892c55a43c2d204744}{Hurle}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=af516c68c69249247d8a15ac5ce24cca}{Martinez-Hoyos}{M\bibinithyphendelim H\bibinitperiod}{Mar{\'{\i}}a}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=617bd17a1027a151e6f6425da2465227}{{Gonz{\'{a}}lez\bibnamedelimb Del\bibnamedelimb R{\'{\i}}o}}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=53f20b82555faedfb12fbcacc78a23a1}{Lopez-Roman}{L\bibinithyphendelim R\bibinitperiod}{Eva\bibnamedelima Maria}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4827ece82fa835310f281a0eb5872155}{Mendoza-Losana}{M\bibinithyphendelim L\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34171cc7063378bfb9cfc8390ada4490}{Brown}{B\bibinitperiod}{James\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=53d44917db2ed8d5ebb266672e3d6189}{Overington}{O\bibinitperiod}{John\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=539d4f4009dfac77f29948f95ca2be6d}{Barros-Aguire}{B\bibinithyphendelim A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{24}{}{%
+        {{hash=1f1f118c0318d0070d18e4dc30a77626}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jose}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=57dbebc061f4e8b1479160d3078c3799}{Leli{\`{e}}vre}{L\bibinitperiod}{Jo{\"{e}}l}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=b76d24156916dabb996a815e5b481f90}{Castro-Pichel}{C\bibinithyphendelim P\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9f1694dcbbd71d71a2b23228fee9da83}{Mart{\'{\i}}nez-Jim{\'{e}}nez}{M\bibinithyphendelim J\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d9d6fafa34670d65fe13aa0977dbe6}{Papadatos}{P\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=08a43e8ef8e3a2d464e9e8800f2ab3c9}{Kumar}{K\bibinitperiod}{Vinod}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=0c4aa186b62fc42cabaa30bb0046188c}{Colmenarejo}{C\bibinitperiod}{Gonzalo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2391162477fc4444870064ffe139c2a7}{Mugumbate}{M\bibinitperiod}{Grace}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=14a873e8089ad9892c55a43c2d204744}{Hurle}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=af516c68c69249247d8a15ac5ce24cca}{Martinez-Hoyos}{M\bibinithyphendelim H\bibinitperiod}{Mar{\'{\i}}a}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=617bd17a1027a151e6f6425da2465227}{{Gonz{\'{a}}lez\bibnamedelimb Del\bibnamedelimb R{\'{\i}}o}}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=53f20b82555faedfb12fbcacc78a23a1}{Lopez-Roman}{L\bibinithyphendelim R\bibinitperiod}{Eva\bibnamedelima Maria}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4827ece82fa835310f281a0eb5872155}{Mendoza-Losana}{M\bibinithyphendelim L\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34171cc7063378bfb9cfc8390ada4490}{Brown}{B\bibinitperiod}{James\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=53d44917db2ed8d5ebb266672e3d6189}{Overington}{O\bibinitperiod}{John\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=539d4f4009dfac77f29948f95ca2be6d}{Barros-Aguire}{B\bibinithyphendelim A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{576c44671206422b040af987ba7d3184}
+      \strng{fullhash}{a1364df07416c4afa144396e7417dd52}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery.}}
+      \field{abstract}{As a follow up to the antimycobacterial screening exercise and the release of GSK{$\textasciiacute$}s first Tres Cantos Antimycobacterial Set (TCAMS-TB), this paper presents the results of a second antitubercular screening effort of two hundred and fifty thousand compounds recently added to the GSK collection. The compounds were further prioritized based on not only antitubercular potency but also on physicochemical characteristics. The 50 most attractive compounds were then progressed for evaluation in three different predictive computational biology algorithms based on structural similarity or GSK historical biological assay data in order to determine their possible mechanisms of action. This effort has resulted in the identification of novel compounds and their hypothesized targets that will hopefully fuel future TB drug discovery and target validation programs alike.}
+      \field{isbn}{1932-6203 (Electronic)1932-6203 (Linking)}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PloS one}
+      \field{number}{12}
+      \field{title}{{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery.}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0142293}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0142293
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Rebollo-Lopez et al. - 2015 - Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tub.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/26642067
+      \endverb
+    \endentry
+    \entry{DeJonge2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=73caf1b80ea52fdae4df55d563fe67e7}{Jonge}{J\bibinitperiod}{Marc\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=80f20d1ff5b9337f9705ea450375e585}{Koymans}{K\bibinitperiod}{Luc\bibnamedelimb H\bibnamedelima M}{L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=88f613460682846d13080244f7055659}{Guillemont}{G\bibinitperiod}{J{\'{e}}r{\^{o}}me\bibnamedelimb E\bibnamedelima G}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=624c57206eaf07675ab40e09cab6819b}{Koul}{K\bibinitperiod}{Anil}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f96b7db4e4195d4fdf4e1566196ce2a0}{Andries}{A\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=73caf1b80ea52fdae4df55d563fe67e7}{Jonge}{J\bibinitperiod}{Marc\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=80f20d1ff5b9337f9705ea450375e585}{Koymans}{K\bibinitperiod}{Luc\bibnamedelimb H\bibnamedelima M}{L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=88f613460682846d13080244f7055659}{Guillemont}{G\bibinitperiod}{J{\'{e}}r{\^{o}}me\bibnamedelimb E\bibnamedelima G}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=624c57206eaf07675ab40e09cab6819b}{Koul}{K\bibinitperiod}{Anil}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f96b7db4e4195d4fdf4e1566196ce2a0}{Andries}{A\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{4f379376ceabea6ff249c7e6e94d42a1}
+      \strng{fullhash}{7c20964b0584fadf5f9bb498a3ae9350}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A computational model of the inhibition of Mycobacterium tuberculosis ATPase by a new drug candidate R207910}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{month}{06}
+      \field{number}{4}
+      \field{title}{{A computational model of the inhibition of Mycobacterium tuberculosis ATPase by a new drug candidate R207910}}
+      \field{volume}{67}
+      \field{year}{2007}
+      \field{pages}{971\bibrangedash 980}
+      \verb{doi}
+      \verb 10.1002/prot.21376
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/prot.21376
+      \endverb
+    \endentry
+    \entry{Clark2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=e53f75dcb71c9fd5c97d2051342de065}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e53f75dcb71c9fd5c97d2051342de065}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cec6d90cb4b35f16382906d8d623df6b}
+      \strng{fullhash}{cec6d90cb4b35f16382906d8d623df6b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{New target prediction and visualization tools incorporating open source molecular fingerprints for TB Mobile 2.0}}
+      \field{abstract}{BackgroundWe recently developed a freely available mobile app (TB Mobile) for both iOS and Android platforms that displays Mycobacterium tuberculosis (Mtb) active molecule structures and their targets with links to associated data. The app was developed to make target information available to as large an audience as possible.ResultsWe now report a major update of the iOS version of the app. This includes enhancements that use an implementation of ECFP{\_}6 fingerprints that we have made open source. Using these fingerprints, the user can propose compounds with possible anti-TB activity, and view the compounds within a cluster landscape. Proposed compounds can also be compared to existing target data, using a n?ive Bayesian scoring system to rank probable targets. We have curated an additional 60 new compounds and their targets for Mtb and added these to the original set of 745 compounds. We have also curated 20 further compounds (many without targets in TB Mobile) to evaluate this version of the app with 805 compounds and associated targets.Conclusions TB Mobile can now manage a small collection of compounds that can be imported from external sources, or exported by various means such as email or app-to-app inter-process communication. This means that TB Mobile can be used as a node within a growing ecosystem of mobile apps for cheminformatics. It can also cluster compounds and use internal algorithms to help identify potential targets based on molecular similarity. TB Mobile represents a valuable dataset, data-visualization aid and target prediction tool.}
+      \field{isbn}{1758-2946}
+      \field{issn}{17582946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{New target prediction and visualization tools incorporating open source molecular fingerprints for TB Mobile 2.0}}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 17}
+      \verb{doi}
+      \verb 10.1186/s13321-014-0038-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/art{\%}3A10.1186{\%}2Fs13321-014-0038-2.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Kumar2009}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=19f536f34203969fcb522aabafe24ea3}{Kumar}{K\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0254373fd95c4e9d15993d2559e0f4df}{Siddiqi}{S\bibinitperiod}{Mohammad\bibnamedelima Imran}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=19f536f34203969fcb522aabafe24ea3}{Kumar}{K\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0254373fd95c4e9d15993d2559e0f4df}{Siddiqi}{S\bibinitperiod}{Mohammad\bibnamedelima Imran}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0ec14916d38c0ecbb6af3980b58f110a}
+      \strng{fullhash}{0ec14916d38c0ecbb6af3980b58f110a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Receptor based 3D-QSAR to identify putative binders of Mycobacterium tuberculosis Enoyl acyl carrier protein reductase}}
+      \field{abstract}{In the current study, the applicability and scope of 3D-QSAR models (CoMFA and CoMSIA) to complement virtual screening using 3D pharmacophore and molecular docking is examined and applied to identify potential hits against Mycobacterium tuberculosis Enoyl acyl carrier protein reductase (MtENR). Initially CoMFA and CoMSIA models were developed using series of structurally related arylamides as MtENR inhibitors. Docking studies were employed to position the inhibitors into MtENR active site to derive receptor based 3D-QSAR models. Both CoMFA and CoMSIA yielded significant cross validated q2 values of 0.663 and 0.639 and r2 values of 0.989 and 0.963, respectively. The statistically significant models were validated by a test set of eight compounds with predictive r2 value of 0.882 and 0.875 for CoMFA and CoMSIA. The contour maps from 3D-QSAR models in combination with docked binding structures help to better interpret the structure activity relationship. Integrated with CoMFA and CoMSIA predictive models structure based (3D-pharmacophore and molecular docking) virtual screening have been employed to explore potential hits against MtENR. A representative set of 20 compounds with high predicted IC50 values were sorted out in the present study.}
+      \field{issn}{0948-5023}
+      \field{journaltitle}{Journal of Molecular Modeling}
+      \field{number}{5}
+      \field{title}{{Receptor based 3D-QSAR to identify putative binders of Mycobacterium tuberculosis Enoyl acyl carrier protein reductase}}
+      \field{volume}{16}
+      \field{year}{2009}
+      \field{pages}{877\bibrangedash 893}
+      \verb{doi}
+      \verb 10.1007/s00894-009-0584-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00894-009-0584-0
+      \endverb
+    \endentry
+    \entry{Lew2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=8845b7662cd3d4cbd59b622b6697b4d1}{Lew}{L\bibinitperiod}{Jocelyne\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2eecc063e9164b475a87c913e8c57ce9}{Kapopoulou}{K\bibinitperiod}{Adamandia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6b467b9459a68dd3ca4c7a31ab59624d}{Jones}{J\bibinitperiod}{Louis\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5caaa32aa1fbff7fb189b8042c605dea}{Cole}{C\bibinitperiod}{Stewart\bibnamedelima T}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8845b7662cd3d4cbd59b622b6697b4d1}{Lew}{L\bibinitperiod}{Jocelyne\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2eecc063e9164b475a87c913e8c57ce9}{Kapopoulou}{K\bibinitperiod}{Adamandia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6b467b9459a68dd3ca4c7a31ab59624d}{Jones}{J\bibinitperiod}{Louis\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5caaa32aa1fbff7fb189b8042c605dea}{Cole}{C\bibinitperiod}{Stewart\bibnamedelima T}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9708996f9e7dc5f9b76ab50070c82b77}
+      \strng{fullhash}{124869b2fcdc7d55d5827232a0bb6f19}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TubercuList -- 10 years after}}
+      \field{abstract}{Summary TubercuList (http://tuberculist.epfl.ch/), the relational database that presents genome-derived information about H37Rv, the paradigm strain of Mycobacterium tuberculosis, has been active for ten years and now presents its twentieth release. Here, we describe some of the recent changes that have resulted from manual annotation with information from the scientific literature. Through manual curation, TubercuList strives to provide current gene-based information and is thus distinguished from other online sources of genome sequence data for M. tuberculosis. New, mostly small, genes have been discovered and the coordinates of some existing coding sequences have been changed when bioinformatics or experimental data suggest that this is required. Nucleotides that are polymorphic between different sources of H37Rv are annotated and gene essentiality data have been updated. A host of functional information has been gleaned from the literature and many new activities of proteins and RNAs have been included. To facilitate basic and translational research, TubercuList also provides links to other specialized databases that present diverse datasets such as 3D-structures, expression profiles, drug development criteria and drug resistance information, in addition to direct access to PubMed articles pertinent to particular genes. TubercuList has been and remains a highly valuable tool for the tuberculosis research community with {>}75,000 visitors per month.}
+      \field{issn}{1472-9792}
+      \field{journaltitle}{Tuberculosis}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{TubercuList -- 10 years after}}
+      \field{volume}{91}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 7}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.tube.2010.09.008
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1472979210001113
+      \endverb
+    \endentry
+    \entry{Radusky2014}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=fe5bb5a12cbac077e3386095ab5d5563}{Radusky}{R\bibinitperiod}{Leandro}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=24bc5c794d795856ef8ded69bd8840a9}{Defelipe}{D\bibinitperiod}{Lucas\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=bc5549d9852fb4f4a9fd54a0b8176944}{Lanzarotti}{L\bibinitperiod}{Esteban}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=60c3a2ca50ab034b548e7585d978f287}{Luque}{L\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=632125ec5c0252102e633bb321b1e16a}{Barril}{B\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8ff85b0022daa3e701ff0783543845bf}{Marti}{M\bibinitperiod}{Marcelo\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9585bb94b9f85420b6de2a3aa078e646}{Turjanski}{T\bibinitperiod}{Adri{\'{a}}n\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=fe5bb5a12cbac077e3386095ab5d5563}{Radusky}{R\bibinitperiod}{Leandro}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=24bc5c794d795856ef8ded69bd8840a9}{Defelipe}{D\bibinitperiod}{Lucas\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=bc5549d9852fb4f4a9fd54a0b8176944}{Lanzarotti}{L\bibinitperiod}{Esteban}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=60c3a2ca50ab034b548e7585d978f287}{Luque}{L\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=632125ec5c0252102e633bb321b1e16a}{Barril}{B\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8ff85b0022daa3e701ff0783543845bf}{Marti}{M\bibinitperiod}{Marcelo\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9585bb94b9f85420b6de2a3aa078e646}{Turjanski}{T\bibinitperiod}{Adri{\'{a}}n\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46285b9fe17da8a8af2f09f590aac11a}
+      \strng{fullhash}{1fe33895d8c7979e88ab5fe6b6fffe47}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TuberQ: a Mycobacterium tuberculosis protein druggability database}}
+      \field{abstract}{In 2012 an estimated 8.6 million people developed tuberculosis (TB) and 1.3 million died from the disease [including 320\x{2009}000 deaths among human immunodeficiency virus (HIV)-positive people]. There is an urgent need for new anti-TB drugs owing to the following: the fact that current treatments have severe side effects, the increasing emergence of multidrug-resistant strains of Mycobacterium tuberculosis (Mtb), the negative drug--drug interactions with certain HIV (or other disease) treatments and the ineffectiveness against dormant Mtb. In this context we present here the TuberQ database, a novel resource for all researchers working in the field of drug development in TB. The main feature of TuberQ is to provide a druggability analysis of Mtb proteins in a consistent and effective manner, contributing to a better selection of potential drug targets for screening campaigns and the analysis of targets for structure-based drug design projects. The structural druggability analysis is combined with features related to the characteristics of putative inhibitor binding pockets and with functional and biological data of proteins. The structural analysis is performed on all available unique Mtb structures and high-quality structural homology-based models. This information is shown in an interactive manner, depicting the protein structure, the pockets and the associated characteristics for each protein. TuberQ also provides information about gene essentiality information, as determined from whole cell--based knockout experiments, and expression information obtained from microarray experiments done in different stress-related conditions. We hope that TuberQ will be a powerful tool for researchers working in TB and eventually will lead to the identification of novel putative targets and progresses in therapeutic activities.Database URL: http://tuberq.proteinq.com.ar/}
+      \field{annotation}{10.1093/database/bau035}
+      \field{journaltitle}{Database}
+      \field{month}{01}
+      \field{title}{{TuberQ: a Mycobacterium tuberculosis protein druggability database}}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1093/database/bau035
+      \endverb
+      \verb{url}
+      \verb http://database.oxfordjournals.org/content/2014/bau035.abstract
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -10775,6 +11472,703 @@
       \endverb
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S1201971215000521
+      \endverb
+    \endentry
+    \entry{Zuniga2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=16fd1a328586cd0d43a3fe015d66d3b9}{Zuniga}{Z\bibinitperiod}{Edison\bibnamedelima S}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d5b7aab61b590c9c104d90acff319162}{Early}{E\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=02eac32a41cfc8d6d68a9f3ce8eb7e5a}{Parish}{P\bibinitperiod}{Tanya}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=16fd1a328586cd0d43a3fe015d66d3b9}{Zuniga}{Z\bibinitperiod}{Edison\bibnamedelima S}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d5b7aab61b590c9c104d90acff319162}{Early}{E\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=02eac32a41cfc8d6d68a9f3ce8eb7e5a}{Parish}{P\bibinitperiod}{Tanya}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0e2282e0007fd844be73c30ff232cf9b}
+      \strng{fullhash}{0e2282e0007fd844be73c30ff232cf9b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The future for early-stage tuberculosis drug discovery}}
+      \field{abstract}{There is an urgent need for new and better drugs to treat tuberculosis due to lengthy and complex treatment regimens and a rising problem of drug resistance. Drug discovery efforts have increased over the past few years, with a larger focus on modern high-throughput screening technologies. A combination of target-based approaches, with the traditional empirical means of drug identification, has been complemented by the use of target-based phenotypic screens only recently made possibly with newer genetic tools. Using these approaches, a number of promising compound series have been discovered. However, significant problems remain in developing these into drugs. This review highlights recent advances in TB drug discovery, including an overview of screening campaigns, lessons learned and future directions.}
+      \field{issn}{1746-0913}
+      \field{journaltitle}{Future Microbiology}
+      \field{number}{2}
+      \field{title}{{The future for early-stage tuberculosis drug discovery}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{217\bibrangedash 229}
+      \verb{doi}
+      \verb 10.2217/fmb.14.125
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zuniga, Early, Parish - 2015 - The future for early-stage tuberculosis drug discovery.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.futuremedicine.com/doi/abs/10.2217/fmb.14.125
+      \endverb
+    \endentry
+    \entry{Brennan2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=42c77fbe69a810cdf6bcd47e1de3de4e}{Brennan}{B\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=42c77fbe69a810cdf6bcd47e1de3de4e}{Brennan}{B\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42c77fbe69a810cdf6bcd47e1de3de4e}
+      \strng{fullhash}{42c77fbe69a810cdf6bcd47e1de3de4e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Structure, function, and biogenesis of the cell wall of Mycobacterium tuberculosis}}
+      \field{abstract}{Much of the early structural definition of the cell wall of Mycobacterium spp. was initiated in the 1960s and 1970s. There was a long period of inactivity, but more recent developments in NMR and mass spectral analysis and definition of the M. tuberculosis genome have resulted in a thorough understanding, not only of the structure of the mycobacterial cell wall and its lipids but also the basic genetics and biosynthesis. Our understanding nowadays of cell-wall architecture amounts to a massive {$\textquotedblleft$}core{$\textquotedblright$} comprised of peptidoglycan covalently attached via a linker unit (l-Rha--d-GlcNAc-P) to a linear galactofuran, in turn attached to several strands of a highly branched arabinofuran, in turn attached to mycolic acids. The mycolic acids are oriented perpendicular to the plane of the membrane and provide a truly special lipid barrier responsible for many of the physiological and disease-inducing aspects of M. tuberculosis. Intercalated within this lipid environment are the lipids that have intrigued researchers for over five decades: the phthiocerol dimycocerosate, cord factor/dimycolyltrehalose, the sulfolipids, the phosphatidylinositol mannosides, etc. Knowledge of their roles in {$\textquotedblleft$}signaling{$\textquotedblright$} events, in pathogenesis, and in the immune response is now emerging, sometimes piecemeal and sometimes in an organized fashion. Some of the more intriguing observations are those demonstrating that mycolic acids are recognized by CD1-restricted T-cells, that antigen 85, one of the most powerful protective antigens of M. tuberculosis, is a mycolyltransferase, and that lipoarabinomannan (LAM), when {$\textquotedblleft$}capped{$\textquotedblright$} with short mannose oligosaccharides, is involved in phagocytosis of M. tuberculosis. Definition of the genome of M. tuberculosis has greatly aided efforts to define the biosynthetic pathways for all of these exotic molecules: the mycolic acids, the mycocerosates, phthiocerol, LAM, and the polyprenyl phosphates. For example, we know that synthesis of the entire core is initiated on a decaprenyl-P with synthesis of the linker unit, and then there is concomitant extension of the galactan and arabinan chains while this intermediate is transported through the cytoplasmic membrane. The final steps in these events, the attachment of mycolic acids and ligation to peptidoglycan, await definition and will prove to be excellent targets for a new generation of anti-tuberculosis drugs.}
+      \field{issn}{1472-9792}
+      \field{journaltitle}{Tuberculosis}
+      \field{month}{02}
+      \field{number}{1--3}
+      \field{title}{{Structure, function, and biogenesis of the cell wall of Mycobacterium tuberculosis}}
+      \field{volume}{83}
+      \field{year}{2003}
+      \field{pages}{91\bibrangedash 97}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/S1472-9792(02)00089-6
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1472979202000896
+      \endverb
+    \endentry
+    \entry{Rodrigues2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=c074f3d972f6f68eac9a32bed4f106df}{Rodrigues}{R\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=39e8925451501613253c9181da8a4cbb}{Machado}{M\bibinitperiod}{Diana}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1146737ee3f12db6060676fab2893385}{Couto}{C\bibinitperiod}{Isabel}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=52f35d1d4eb225a6d06246d3fb9dd3e4}{Amaral}{A\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0f76bf06e80070831d3bee09aebbedeb}{Viveiros}{V\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=c074f3d972f6f68eac9a32bed4f106df}{Rodrigues}{R\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=39e8925451501613253c9181da8a4cbb}{Machado}{M\bibinitperiod}{Diana}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1146737ee3f12db6060676fab2893385}{Couto}{C\bibinitperiod}{Isabel}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=52f35d1d4eb225a6d06246d3fb9dd3e4}{Amaral}{A\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0f76bf06e80070831d3bee09aebbedeb}{Viveiros}{V\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3798080aec9095fd19060364cc1e91dc}
+      \strng{fullhash}{acf04b2740aa2cf98a37508cd3b4e0c2}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Contribution of efflux activity to isoniazid resistance in the Mycobacterium tuberculosis complex}}
+      \field{abstract}{Resistance to isoniazid (INH), one of the main drugs used in tuberculosis (TB) therapy, is mostly due to chromosomal mutations in target genes. However, approximately 20--30{\%} of INH resistant Mycobacterium tuberculosis isolates do not have mutations in any of the genes associated with INH resistance. This suggests that other mechanism(s) may be involved, namely efflux pump systems capable of extruding the drug to the exterior of the cell. In a previous work, we have induced clinical INH susceptible M. tuberculosis isolates and the H37Rv reference strain to high-level resistance to INH, by gradual exposure to increasing concentrations of this drug. In the present study, we have characterized these strains and Mycobacterium bovis BCG induced to INH resistance with respect to their efflux activity and its contribution to INH resistance using the following approach: determination of the susceptibility to INH in the presence and absence of the efflux inhibitors (EIs) chlorpromazine, thioridazine and verapamil; evaluation of efflux activity by a semi-automated fluorometric method; and quantification of the expression level of genes coding for efflux pumps by real-time RT-qPCR. The EIs decreased INH resistance in the INH induced strains, in particular verapamil promoted a reversal of resistance in some of the strains tested. The induced strains presented an increased efflux activity that was inhibited by the EIs and showed overexpression of the efflux pump genes efpA, mmpL7, mmr, p55 and the Tap-like gene Rv1258c. Altogether, these results correlate efflux activity with INH resistance and demonstrate that efflux pumps play an important role in acquired INH resistance in M. tuberculosis complex. The development of EIs that can restore the antimicrobial activity of the antibiotic subject to efflux is an approach that can be useful in order to prevent the emergence of this resistance and guide the development of new effective anti-TB therapeutical approaches.}
+      \field{issn}{1567-1348}
+      \field{journaltitle}{Infection, Genetics and Evolution}
+      \field{month}{06}
+      \field{number}{4}
+      \field{title}{{Contribution of efflux activity to isoniazid resistance in the Mycobacterium tuberculosis complex}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 700}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.meegid.2011.08.009
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1567134811002887
+      \endverb
+    \endentry
+    \entry{Manjunatha2015}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=be8674f6cc03382aa462597d2cc1bc1d}{Manjunatha}{M\bibinitperiod}{Ujjini\bibnamedelima H}{U\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=55cfd356590cd8481821d6ac32a0ce3f}{Smith}{S\bibinitperiod}{Paul\bibnamedelima W}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=be8674f6cc03382aa462597d2cc1bc1d}{Manjunatha}{M\bibinitperiod}{Ujjini\bibnamedelima H}{U\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=55cfd356590cd8481821d6ac32a0ce3f}{Smith}{S\bibinitperiod}{Paul\bibnamedelima W}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{538ab133a8bef52b6b8672fc40fe5585}
+      \strng{fullhash}{538ab133a8bef52b6b8672fc40fe5585}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Perspective: Challenges and opportunities in TB drug discovery from phenotypic screening}}
+      \field{abstract}{Abstract Tuberculosis poses a major global health problem and multi-drug resistant strains are increasingly prevalent. Hence there is an urgent need to discover new TB drugs. Cell based phenotypic screening represents a powerful approach to identify anti-mycobacterial compounds and elucidate novel targets. Three high throughput phenotypic screens were performed at NITD against mycobacterium. Hits were identified and chemical series selected for optimisation. This produced compounds with good in vitro anti-mycobacterial activity and pharmacokinetic properties. Some compounds displayed oral activity in mouse efficacy models of TB. Herein, we review the TB discovery efforts at NITD and share experiences in optimisation of phenotypic hits, describing challenges encountered and lessons learned. We also offer perspectives to facilitate future selection and advancement of phenotypic hits.}
+      \field{issn}{0968-0896}
+      \field{journaltitle}{Bioorganic {\&} Medicinal Chemistry}
+      \field{month}{08}
+      \field{number}{16}
+      \field{title}{{Perspective: Challenges and opportunities in TB drug discovery from phenotypic screening}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{5087\bibrangedash 5097}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.bmc.2014.12.031
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0968089614008797
+      \endverb
+    \endentry
+    \entry{Ballell2013}{article}{}
+      \name{labelname}{24}{}{%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=db388038e9f9f9a2a5173ca4e78d8361}{Blanco}{B\bibinitperiod}{Delia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=153dba706e242d0c063dba7b00df65bd}{Crespo}{C\bibinitperiod}{Benigno}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2e9a080216c809365c08d8c86327aede}{Escribano}{E\bibinitperiod}{Jaime}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=47c28321b0d9453b21d5e5e486ca866c}{Gonz{\'{a}}lez}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=83234e74f41ee378970e4d4ad091c96f}{Lozano}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=83d3606d048952a7d15d7e34562b2652}{Huss}{H\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=17ac4c08a68a5fe3faa177272c88864a}{Santos-Villarejo}{S\bibinithyphendelim V\bibinitperiod}{Angel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1be1b647b77a5e62805e06ca2ce245a}{Mart{\'{\i}}n-Plaza}{M\bibinithyphendelim P\bibinitperiod}{Jos{\'{e}}\bibnamedelima Julio}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3a464467a05b17272248c688ea08c332}{Mendoza}{M\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d79950ba2c762d4afc001ef32e65a506}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff636669f7099d0d93590b54dc39d7bf}{Remui{\~{n}}an-Blanco}{R\bibinitperiod}{Modesto}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f9f586da9a74a597b8e62502929c27e4}{Lavandera}{L\bibinitperiod}{Jos{\'{e}}\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28464e2b203f48dfbc59175b10b19697}{P{\'{e}}rez-Herran}{P\bibinithyphendelim H\bibinitperiod}{Esther}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=28fbc29383d067537b378baa24acafb6}{Gamo-Benito}{G\bibinithyphendelim B\bibinitperiod}{Francisco\bibnamedelima Javier}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e2e605566c9852d6ccc362bfe8c7e4c3}{Garc{\'{\i}}a-Bustos}{G\bibinithyphendelim B\bibinitperiod}{Jos{\'{e}}\bibnamedelima Francisco}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2a40f7c9a32e3db6619f4de4b1a71fc4}{Barros}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2af59264b17833d1b508913a539cb353}{Castro}{C\bibinitperiod}{Julia\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{24}{}{%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=db388038e9f9f9a2a5173ca4e78d8361}{Blanco}{B\bibinitperiod}{Delia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=153dba706e242d0c063dba7b00df65bd}{Crespo}{C\bibinitperiod}{Benigno}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2e9a080216c809365c08d8c86327aede}{Escribano}{E\bibinitperiod}{Jaime}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=47c28321b0d9453b21d5e5e486ca866c}{Gonz{\'{a}}lez}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=83234e74f41ee378970e4d4ad091c96f}{Lozano}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=83d3606d048952a7d15d7e34562b2652}{Huss}{H\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=17ac4c08a68a5fe3faa177272c88864a}{Santos-Villarejo}{S\bibinithyphendelim V\bibinitperiod}{Angel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1be1b647b77a5e62805e06ca2ce245a}{Mart{\'{\i}}n-Plaza}{M\bibinithyphendelim P\bibinitperiod}{Jos{\'{e}}\bibnamedelima Julio}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3a464467a05b17272248c688ea08c332}{Mendoza}{M\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d79950ba2c762d4afc001ef32e65a506}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff636669f7099d0d93590b54dc39d7bf}{Remui{\~{n}}an-Blanco}{R\bibinitperiod}{Modesto}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f9f586da9a74a597b8e62502929c27e4}{Lavandera}{L\bibinitperiod}{Jos{\'{e}}\bibnamedelima Luis}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28464e2b203f48dfbc59175b10b19697}{P{\'{e}}rez-Herran}{P\bibinithyphendelim H\bibinitperiod}{Esther}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=28fbc29383d067537b378baa24acafb6}{Gamo-Benito}{G\bibinithyphendelim B\bibinitperiod}{Francisco\bibnamedelima Javier}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e2e605566c9852d6ccc362bfe8c7e4c3}{Garc{\'{\i}}a-Bustos}{G\bibinithyphendelim B\bibinitperiod}{Jos{\'{e}}\bibnamedelima Francisco}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2a40f7c9a32e3db6619f4de4b1a71fc4}{Barros}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2af59264b17833d1b508913a539cb353}{Castro}{C\bibinitperiod}{Julia\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{00395da62851ee7dc7452487fbf270db}
+      \strng{fullhash}{432d7012e25884411c70a1fb3c39dd6c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Fueling open-source drug discovery: 177 small-molecule leads against tuberculosis.}}
+      \field{abstract}{With the aim of fuelling open-source, translational, early-stage drug discovery activities, the results of the recently completed antimycobacterial phenotypic screening campaign against Mycobacterium bovis BCG with hit confirmation in M. tuberculosis H37Rv were made publicly accessible. A set of 177 potent non-cytotoxic H37Rv hits was identified and will be made available to maximize the potential impact of the compounds toward a chemical genetics/proteomics exercise, while at the same time providing a plethora of potential starting points for new synthetic lead-generation activities. Two additional drug-discovery-relevant datasets are included: a) a drug-like property analysis reflecting the latest lead-like guidelines and b) an early lead-generation package of the most promising hits within the clusters identified.}
+      \field{issn}{1860-7187}
+      \field{journaltitle}{ChemMedChem}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Fueling open-source drug discovery: 177 small-molecule leads against tuberculosis.}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{313\bibrangedash 21}
+      \verb{doi}
+      \verb 10.1002/cmdc.201200428
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Ballell et al. - 2013 - Fueling open-source drug discovery 177 small-molecule leads against tuberculosis.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3743164%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Park2015}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=b89a4a24f6008ea325d03ba9fe4809f2}{Park}{P\bibinitperiod}{Sae\bibnamedelima Woong}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=934a8ad50c4b2116fff3eba8de09e7a0}{Casalena}{C\bibinitperiod}{Dominick\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0aeca80896b1de8b52db244238491f8b}{Wilson}{W\bibinitperiod}{Daniel\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f60e70f11c521708f7d9fe2df92a4138}{Dai}{D\bibinitperiod}{Ran}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=df193b65675892822947ec0cefd68e0c}{Nag}{N\bibinitperiod}{Partha\bibnamedelima P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{Liu}{L\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=a1c348fb1951fd1fa0634ecf3503f50e}{Boyce}{B\bibinitperiod}{Jim\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=808f38a5826d1cf980d29bd0b3e6179e}{Bittker}{B\bibinitperiod}{Joshua\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f392e7ee4276c992292e4abaf6fb6b10}{Schreiber}{S\bibinitperiod}{Stuart\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f7e058592d83a0b30cea2057bfddac71}{Finzel}{F\bibinitperiod}{Barry\bibnamedelima C.}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=b66fe07f682d19c587e7a028cd4e4dbf}{Schnappinger}{S\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=46f8a492a751adb3f8133a39e65ee030}{Aldrich}{A\bibinitperiod}{Courtney\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=b89a4a24f6008ea325d03ba9fe4809f2}{Park}{P\bibinitperiod}{Sae\bibnamedelima Woong}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=934a8ad50c4b2116fff3eba8de09e7a0}{Casalena}{C\bibinitperiod}{Dominick\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0aeca80896b1de8b52db244238491f8b}{Wilson}{W\bibinitperiod}{Daniel\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f60e70f11c521708f7d9fe2df92a4138}{Dai}{D\bibinitperiod}{Ran}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=df193b65675892822947ec0cefd68e0c}{Nag}{N\bibinitperiod}{Partha\bibnamedelima P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{Liu}{L\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=a1c348fb1951fd1fa0634ecf3503f50e}{Boyce}{B\bibinitperiod}{Jim\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=808f38a5826d1cf980d29bd0b3e6179e}{Bittker}{B\bibinitperiod}{Joshua\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f392e7ee4276c992292e4abaf6fb6b10}{Schreiber}{S\bibinitperiod}{Stuart\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f7e058592d83a0b30cea2057bfddac71}{Finzel}{F\bibinitperiod}{Barry\bibnamedelima C.}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=b66fe07f682d19c587e7a028cd4e4dbf}{Schnappinger}{S\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=46f8a492a751adb3f8133a39e65ee030}{Aldrich}{A\bibinitperiod}{Courtney\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b5169cc60e951ff54ce30108fce7ec2}
+      \strng{fullhash}{336bbd95b23644c7550c6aaf425d92f0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Target-Based Identification of Whole-Cell Active Inhibitors of Biotin Biosynthesis in Mycobacterium tuberculosis}}
+      \field{abstract}{Summary Biotin biosynthesis is essential for survival and persistence of Mycobacterium tuberculosis (Mtb) in vivo. The aminotransferase BioA, which catalyzes the antepenultimate step in the biotin pathway, has been established as a promising target due to its vulnerability to chemical inhibition. We performed high-throughput screening (HTS) employing a fluorescence displacement assay and identified a diverse set of potent inhibitors including many diversity-oriented synthesis (DOS) scaffolds. To efficiently select only hits targeting biotin biosynthesis, we then deployed a whole-cell counterscreen in biotin-free and biotin-containing medium against wild-type Mtb and in parallel with isogenic bioA Mtb strains that possess differential levels of BioA expression. This counterscreen proved crucial to filter out compounds whose whole-cell activity was off target as well as identify hits with weak, but measurable whole-cell activity in BioA-depleted strains. Several of the most promising hits were cocrystallized with BioA to provide a framework for future structure-based drug design efforts.}
+      \field{issn}{1074-5521}
+      \field{journaltitle}{Chemistry {\&} Biology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Target-Based Identification of Whole-Cell Active Inhibitors of Biotin Biosynthesis in Mycobacterium tuberculosis}}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{76\bibrangedash 86}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.chembiol.2014.11.012
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1074552114004219
+      \endverb
+    \endentry
+    \entry{Arora2014}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=5f5722e01e5e7e19f4c3fcf8bb90f5cc}{Arora}{A\bibinitperiod}{Garima}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a4de17540d71b6ba10cfa95fd25657e}{Tiwari}{T\bibinitperiod}{Prabhakar}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6ed6a34f5e85b20ac4922ae86a00d}{Mandal}{M\bibinitperiod}{Rahul\bibnamedelima Shubhra}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=00ec883074119e48a096ec3ec50cf00a}{Gupta}{G\bibinitperiod}{Arpit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e59885af95460776d2989573c763e72e}{Sharma}{S\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7c3e755091774e225b4b13f18b4b3b}{Saha}{S\bibinitperiod}{Sudipto}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4be4b5b53ba30c69beccb869b653b137}{Singh}{S\bibinitperiod}{Ramandeep}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=5f5722e01e5e7e19f4c3fcf8bb90f5cc}{Arora}{A\bibinitperiod}{Garima}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a4de17540d71b6ba10cfa95fd25657e}{Tiwari}{T\bibinitperiod}{Prabhakar}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6ed6a34f5e85b20ac4922ae86a00d}{Mandal}{M\bibinitperiod}{Rahul\bibnamedelima Shubhra}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=00ec883074119e48a096ec3ec50cf00a}{Gupta}{G\bibinitperiod}{Arpit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e59885af95460776d2989573c763e72e}{Sharma}{S\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8b7c3e755091774e225b4b13f18b4b3b}{Saha}{S\bibinitperiod}{Sudipto}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4be4b5b53ba30c69beccb869b653b137}{Singh}{S\bibinitperiod}{Ramandeep}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd83ba22dc67c0942620aaf990cabc5f}
+      \strng{fullhash}{2298394e04e0682df9a05b6f48196be3}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{High Throughput Screen Identifies Small Molecule Inhibitors Specific for Mycobacterium tuberculosis Phosphoserine Phosphatase}}
+      \field{abstract}{The emergence of drug resistant strains of Mycobacterium tuberculosis (M. tuberculosis) makes identification and validation of newer drug targets a global priority. Phosphoserine phosphatase (PSP), a key essential metabolic enzyme involved in conversion of O-phospho-L-serine to L-serine was characterized in this study. The M. tuberculosis genome harbors all enzymes involved in L-serine biosynthesis including 2 PSP homologs, Rv0505c (SerB1) and Rv3042c (SerB2). In the present study we have biochemically characterized SerB2 enzyme and developed malachite green based high throughput assay system (HTS) to identify SerB2 inhibitors. We have identified 10 compounds that were structurally different from known PSP inhibitors and few of these scaffolds were highly specific in their ability to inhibit SerB2 enzyme, non-cytotoxic against mammalian cell lines and inhibited M. tuberculosis growth in vitro. Surface plasma resonance experiments demonstrated the relative binding for these inhibitors. The two best hits identified in our screen, clorobiocin and rosaniline were bactericidal in activity and killed intracellular bacteria in a dose dependent manner. We have also identified amino acid residues critical for these SerB2-small molecule interactions. This is the first study where we validate that M. tuberculosis SerB2 is a druggable and suitable target to pursue for further HTS screening.}
+      \field{annotation}{10.1074/jbc.M114.597682}
+      \field{journaltitle}{Journal of Biological Chemistry}
+      \field{month}{07}
+      \field{title}{{High Throughput Screen Identifies Small Molecule Inhibitors Specific for Mycobacterium tuberculosis Phosphoserine Phosphatase}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1074/jbc.M114.597682
+      \endverb
+      \verb{url}
+      \verb http://www.jbc.org/content/early/2014/07/18/jbc.M114.597682.abstract
+      \endverb
+    \endentry
+    \entry{Ekins2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
+      \field{issn}{1758-2946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1186/1758-2946-5-13
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1758-2946-5-13
+      \endverb
+    \endentry
+    \entry{Crowther2010}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=1e7d02cf40b803f7e666ba3456522cda}{Crowther}{C\bibinitperiod}{Gregory\bibnamedelima J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c530077ac76e5b88ee07fd4b2a12221b}{Shanmugam}{S\bibinitperiod}{Dhanasekaran}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=18a2c6408fa9f72cacf90d163b0a6168}{Carmona}{C\bibinitperiod}{Santiago\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa80a5be2aa40a51a6d75320eb6e906}{Doyle}{D\bibinitperiod}{Maria\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cab27c24778bcfc63d1cc662fe4dc2d3}{Hertz-Fowler}{H\bibinithyphendelim F\bibinitperiod}{Christiane}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2434c07ae5efa48a249b1894ed10c6c0}{Berriman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5e5aca67350d87e82feb0c1b99bff907}{Nwaka}{N\bibinitperiod}{Solomon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03ae736dd714fa0199036669c996aae5}{Ralph}{R\bibinitperiod}{Stuart\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e52eafe861d8f59e41cc13b5b4f96450}{Roos}{R\bibinitperiod}{David\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=e45aa1fa6f62eb50825183bf05f7a5d9}{{Van\bibnamedelimb Voorhis}}{V\bibinitperiod}{Wesley\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=af5876c5e761cc3e2a6cc1edcc6022a1}{Ag\x{fffd}ero}{A\bibinitperiod}{Fern\x{fffd}n}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=1e7d02cf40b803f7e666ba3456522cda}{Crowther}{C\bibinitperiod}{Gregory\bibnamedelima J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c530077ac76e5b88ee07fd4b2a12221b}{Shanmugam}{S\bibinitperiod}{Dhanasekaran}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=18a2c6408fa9f72cacf90d163b0a6168}{Carmona}{C\bibinitperiod}{Santiago\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa80a5be2aa40a51a6d75320eb6e906}{Doyle}{D\bibinitperiod}{Maria\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cab27c24778bcfc63d1cc662fe4dc2d3}{Hertz-Fowler}{H\bibinithyphendelim F\bibinitperiod}{Christiane}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2434c07ae5efa48a249b1894ed10c6c0}{Berriman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5e5aca67350d87e82feb0c1b99bff907}{Nwaka}{N\bibinitperiod}{Solomon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03ae736dd714fa0199036669c996aae5}{Ralph}{R\bibinitperiod}{Stuart\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e52eafe861d8f59e41cc13b5b4f96450}{Roos}{R\bibinitperiod}{David\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=e45aa1fa6f62eb50825183bf05f7a5d9}{{Van\bibnamedelimb Voorhis}}{V\bibinitperiod}{Wesley\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=af5876c5e761cc3e2a6cc1edcc6022a1}{Ag\x{fffd}ero}{A\bibinitperiod}{Fern\x{fffd}n}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{16bf0feaed87493db379fb7a5fdf300c}
+      \strng{fullhash}{10395e71a9450134924aafc51f1e1874}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification of Attractive Drug Targets in Neglected-Disease Pathogens Using an In Silico Approach}}
+      \field{abstract}{In cell-based drug development, researchers attempt to create drugs that kill a pathogen without necessarily understanding the details of how the drugs work. In contrast, target-based drug development entails the search for compounds that act on a specific intracellular target?often a protein known or suspected to be required for survival of the pathogen. The latter approach to drug development has been facilitated greatly by the sequencing of many pathogen genomes and the incorporation of genome data into user-friendly databases. The present paper shows how the database TDRtargets.org can identify proteins that might be considered good drug targets for diseases such as African sleeping sickness, Chagas disease, parasitic worm infections, tuberculosis, and malaria. These proteins may score highly in searches of the database because they are dissimilar to human proteins, are structurally similar to other ?druggable? proteins, have functions that are easy to measure, and/or fulfill other criteria. Researchers can use the lists of high-scoring proteins as a basis for deciding which potential drug targets to pursue experimentally.}
+      \field{journaltitle}{PLoS Negl Trop Dis}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{{Identification of Attractive Drug Targets in Neglected-Disease Pathogens Using an In Silico Approach}}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{e804}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pntd.0000804
+      \endverb
+    \endentry
+    \entry{Kinnings2009}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=ccf49e1eef79216484c626f6dcd672cb}{Kinnings}{K\bibinitperiod}{Sarah\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=65c7e91544e551a0ae7b503838594258}{Liu}{L\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8552c3d65bca87bc1e7b45486b2f5}{Buchmeier}{B\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c02fffc4f95fe946af461def20320345}{Tonge}{T\bibinitperiod}{Peter\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d9501bb096bed7e71af1f43d9ee08d98}{Xie}{X\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7c11f3af2e76014f9f3869e767aba8c4}{Bourne}{B\bibinitperiod}{Philip\bibnamedelima E}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=ccf49e1eef79216484c626f6dcd672cb}{Kinnings}{K\bibinitperiod}{Sarah\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=65c7e91544e551a0ae7b503838594258}{Liu}{L\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8552c3d65bca87bc1e7b45486b2f5}{Buchmeier}{B\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c02fffc4f95fe946af461def20320345}{Tonge}{T\bibinitperiod}{Peter\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d9501bb096bed7e71af1f43d9ee08d98}{Xie}{X\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7c11f3af2e76014f9f3869e767aba8c4}{Bourne}{B\bibinitperiod}{Philip\bibnamedelima E}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{5bd598bf589fd8282cb1ddda1203a564}
+      \strng{fullhash}{9c882be9547cc23bc0899619e28d1445}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug Discovery Using Chemical Systems Biology: Repositioning the Safe Medicine Comtan to Treat Multi-Drug and Extensively Drug Resistant Tuberculosis}}
+      \field{abstract}{{<}title{>}Author Summary{<}/title{>} {<}p{>}The rise of multi-drug resistant (MDR) and extensively drug resistant (XDR) tuberculosis around the world, including in industrialized nations, poses a great threat to human health. This resistance highlights the need to develop new, effective and inexpensive anti-tubercular agents. Unfortunately, conventional approaches have yielded very few successes in the field of anti-infective drug discovery. It is a challenge to design drugs with both efficacy and safety. These challenges are reflected in the high costs involved in bringing new drugs to market. It has been estimated that the cost to launch a successful new drug is in excess of US{\$}800 million. We have developed a novel computational strategy to systematically identify cross-reactivity between different drug target families. In this paper we demonstrate the strength of this approach through the discovery that existing commercially available drugs prescribed for the treatment of Parkinson's disease have the potential to treat MDR and XDR tuberculosis. The protocol described herein can be included in a drug discovery pipeline in an effort to accelerate the development of new drugs with reduced side effects.{<}/p{>}}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Drug Discovery Using Chemical Systems Biology: Repositioning the Safe Medicine Comtan to Treat Multi-Drug and Extensively Drug Resistant Tuberculosis}}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{e1000423}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000423
+      \endverb
+    \endentry
+    \entry{Ekins2010}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=575e765c403d077a0daef3dec4661dcb}{Bradford}{B\bibinitperiod}{Justin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32e361699323ea60524fa7569b11556a}{Dole}{D\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=89a11b08ffad8bb37917985aefc9982a}{Spektor}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5b089155938ceb370607b18d545339c}{Gregory}{G\bibinitperiod}{Kellan}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=95174b6fa5d6202d60176a8e5780c412}{Blondeau}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=45dcab353d8e4f32e3c73d0676fe5b00}{Hohman}{H\bibinitperiod}{Moses}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85fb36f668a6af1185cb14be5b242b31}{Bunin}{B\bibinitperiod}{Barry\bibnamedelima a}{B\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=575e765c403d077a0daef3dec4661dcb}{Bradford}{B\bibinitperiod}{Justin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32e361699323ea60524fa7569b11556a}{Dole}{D\bibinitperiod}{Krishna}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=89a11b08ffad8bb37917985aefc9982a}{Spektor}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5b089155938ceb370607b18d545339c}{Gregory}{G\bibinitperiod}{Kellan}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=95174b6fa5d6202d60176a8e5780c412}{Blondeau}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=45dcab353d8e4f32e3c73d0676fe5b00}{Hohman}{H\bibinitperiod}{Moses}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85fb36f668a6af1185cb14be5b242b31}{Bunin}{B\bibinitperiod}{Barry\bibnamedelima a}{B\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0f369f193e1ab7717e2185c2797e8a90}
+      \strng{fullhash}{adf749eb224dfc0c25732ba07c6be8f4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A collaborative database and computational models for tuberculosis drug discovery.}}
+      \field{abstract}{The search for molecules with activity against Mycobacterium tuberculosis (Mtb) is employing many approaches in parallel including high throughput screening and computational methods. We have developed a database (CDD TB) to capture public and private Mtb data while enabling data mining and collaborations with other researchers. We have used the public data along with several cheminformatics approaches to produce models that describe active and inactive compounds. We have compared these datasets to those for known FDA approved drugs and between Mtb active and inactive compounds. The distribution of polar surface area and pK(a) of active compounds was found to be a statistically significant determinant of activity against Mtb. Hydrophobicity was not always statistically significant. Bayesian classification models for 220, 463 molecules were generated and tested with external molecules, and enabled the discrimination of active or inactive substructures from other datasets in the CDD TB. Computational pharmacophores based on known Mtb drugs were able to map to and retrieve a small subset of some of the Mtb datasets, including a high percentage of Mtb actives. The combination of the database, dataset analysis, Bayesian and pharmacophore models provides new insights into molecular properties and features that are determinants of activity in whole cells. This study provides novel insights into the key 1D molecular descriptors, 2D chemical substructures and 3D pharmacophores which can be used to mine the chemistry space, prioritizing those molecules with a higher probability of activity against Mtb.}
+      \field{isbn}{1742-2051 (Electronic)$\backslash$r1742-2051 (Linking)}
+      \field{issn}{1742-206X}
+      \field{journaltitle}{Molecular bioSystems}
+      \field{number}{5}
+      \field{title}{{A collaborative database and computational models for tuberculosis drug discovery.}}
+      \field{volume}{6}
+      \field{year}{2010}
+      \field{pages}{840\bibrangedash 851}
+      \verb{doi}
+      \verb 10.1039/b917766c
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/B917766C.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Rebollo-Lopez2015}{article}{}
+      \name{labelname}{24}{}{%
+        {{hash=1f1f118c0318d0070d18e4dc30a77626}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jose}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=57dbebc061f4e8b1479160d3078c3799}{Leli{\`{e}}vre}{L\bibinitperiod}{Jo{\"{e}}l}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=b76d24156916dabb996a815e5b481f90}{Castro-Pichel}{C\bibinithyphendelim P\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9f1694dcbbd71d71a2b23228fee9da83}{Mart{\'{\i}}nez-Jim{\'{e}}nez}{M\bibinithyphendelim J\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d9d6fafa34670d65fe13aa0977dbe6}{Papadatos}{P\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=08a43e8ef8e3a2d464e9e8800f2ab3c9}{Kumar}{K\bibinitperiod}{Vinod}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=0c4aa186b62fc42cabaa30bb0046188c}{Colmenarejo}{C\bibinitperiod}{Gonzalo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2391162477fc4444870064ffe139c2a7}{Mugumbate}{M\bibinitperiod}{Grace}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=14a873e8089ad9892c55a43c2d204744}{Hurle}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=af516c68c69249247d8a15ac5ce24cca}{Martinez-Hoyos}{M\bibinithyphendelim H\bibinitperiod}{Mar{\'{\i}}a}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=617bd17a1027a151e6f6425da2465227}{{Gonz{\'{a}}lez\bibnamedelimb Del\bibnamedelimb R{\'{\i}}o}}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=53f20b82555faedfb12fbcacc78a23a1}{Lopez-Roman}{L\bibinithyphendelim R\bibinitperiod}{Eva\bibnamedelima Maria}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4827ece82fa835310f281a0eb5872155}{Mendoza-Losana}{M\bibinithyphendelim L\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34171cc7063378bfb9cfc8390ada4490}{Brown}{B\bibinitperiod}{James\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=53d44917db2ed8d5ebb266672e3d6189}{Overington}{O\bibinitperiod}{John\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=539d4f4009dfac77f29948f95ca2be6d}{Barros-Aguire}{B\bibinithyphendelim A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{24}{}{%
+        {{hash=1f1f118c0318d0070d18e4dc30a77626}{Rebollo-Lopez}{R\bibinithyphendelim L\bibinitperiod}{Mar{\'{\i}}a\bibnamedelima Jose}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=57dbebc061f4e8b1479160d3078c3799}{Leli{\`{e}}vre}{L\bibinitperiod}{Jo{\"{e}}l}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d624b2a0fb75d41ac6f14b4ebb6c414e}{Alvarez-Gomez}{A\bibinithyphendelim G\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=b76d24156916dabb996a815e5b481f90}{Castro-Pichel}{C\bibinithyphendelim P\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9f1694dcbbd71d71a2b23228fee9da83}{Mart{\'{\i}}nez-Jim{\'{e}}nez}{M\bibinithyphendelim J\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d9d6fafa34670d65fe13aa0977dbe6}{Papadatos}{P\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=08a43e8ef8e3a2d464e9e8800f2ab3c9}{Kumar}{K\bibinitperiod}{Vinod}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=0c4aa186b62fc42cabaa30bb0046188c}{Colmenarejo}{C\bibinitperiod}{Gonzalo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2391162477fc4444870064ffe139c2a7}{Mugumbate}{M\bibinitperiod}{Grace}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=14a873e8089ad9892c55a43c2d204744}{Hurle}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb94738be4b5124a107198c7e147ee7e}{Barroso}{B\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a6a697dfcfe00f4eed02d45342907903}{Young}{Y\bibinitperiod}{Rob\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=af516c68c69249247d8a15ac5ce24cca}{Martinez-Hoyos}{M\bibinithyphendelim H\bibinitperiod}{Mar{\'{\i}}a}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=617bd17a1027a151e6f6425da2465227}{{Gonz{\'{a}}lez\bibnamedelimb Del\bibnamedelimb R{\'{\i}}o}}{G\bibinitperiod}{Rub{\'{e}}n}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=efe2cecb5400eed22762474ccee551df}{Bates}{B\bibinitperiod}{Robert\bibnamedelima H}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=53f20b82555faedfb12fbcacc78a23a1}{Lopez-Roman}{L\bibinithyphendelim R\bibinitperiod}{Eva\bibnamedelima Maria}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4827ece82fa835310f281a0eb5872155}{Mendoza-Losana}{M\bibinithyphendelim L\bibinitperiod}{Alfonso}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34171cc7063378bfb9cfc8390ada4490}{Brown}{B\bibinitperiod}{James\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=f961b135ebec0ec2ea7cd846a7f18a40}{Alvarez-Ruiz}{A\bibinithyphendelim R\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=24f88df3c6af6a41f2b4b5d26f2b5d94}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=53d44917db2ed8d5ebb266672e3d6189}{Overington}{O\bibinitperiod}{John\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=42e7056dbae76aad662a45566123a6e5}{Cammack}{C\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=92f9f1ebf3e833237d95513e96fb2683}{Ballell}{B\bibinitperiod}{Llu{\'{\i}}s}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=539d4f4009dfac77f29948f95ca2be6d}{Barros-Aguire}{B\bibinithyphendelim A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{576c44671206422b040af987ba7d3184}
+      \strng{fullhash}{a1364df07416c4afa144396e7417dd52}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery.}}
+      \field{abstract}{As a follow up to the antimycobacterial screening exercise and the release of GSK{$\textasciiacute$}s first Tres Cantos Antimycobacterial Set (TCAMS-TB), this paper presents the results of a second antitubercular screening effort of two hundred and fifty thousand compounds recently added to the GSK collection. The compounds were further prioritized based on not only antitubercular potency but also on physicochemical characteristics. The 50 most attractive compounds were then progressed for evaluation in three different predictive computational biology algorithms based on structural similarity or GSK historical biological assay data in order to determine their possible mechanisms of action. This effort has resulted in the identification of novel compounds and their hypothesized targets that will hopefully fuel future TB drug discovery and target validation programs alike.}
+      \field{isbn}{1932-6203 (Electronic)1932-6203 (Linking)}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PloS one}
+      \field{number}{12}
+      \field{title}{{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery.}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0142293}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0142293
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Rebollo-Lopez et al. - 2015 - Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tub.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/26642067
+      \endverb
+    \endentry
+    \entry{DeJonge2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=73caf1b80ea52fdae4df55d563fe67e7}{Jonge}{J\bibinitperiod}{Marc\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=80f20d1ff5b9337f9705ea450375e585}{Koymans}{K\bibinitperiod}{Luc\bibnamedelimb H\bibnamedelima M}{L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=88f613460682846d13080244f7055659}{Guillemont}{G\bibinitperiod}{J{\'{e}}r{\^{o}}me\bibnamedelimb E\bibnamedelima G}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=624c57206eaf07675ab40e09cab6819b}{Koul}{K\bibinitperiod}{Anil}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f96b7db4e4195d4fdf4e1566196ce2a0}{Andries}{A\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=73caf1b80ea52fdae4df55d563fe67e7}{Jonge}{J\bibinitperiod}{Marc\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=80f20d1ff5b9337f9705ea450375e585}{Koymans}{K\bibinitperiod}{Luc\bibnamedelimb H\bibnamedelima M}{L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=88f613460682846d13080244f7055659}{Guillemont}{G\bibinitperiod}{J{\'{e}}r{\^{o}}me\bibnamedelimb E\bibnamedelima G}{J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=624c57206eaf07675ab40e09cab6819b}{Koul}{K\bibinitperiod}{Anil}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f96b7db4e4195d4fdf4e1566196ce2a0}{Andries}{A\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{4f379376ceabea6ff249c7e6e94d42a1}
+      \strng{fullhash}{7c20964b0584fadf5f9bb498a3ae9350}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A computational model of the inhibition of Mycobacterium tuberculosis ATPase by a new drug candidate R207910}}
+      \field{issn}{1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{month}{06}
+      \field{number}{4}
+      \field{title}{{A computational model of the inhibition of Mycobacterium tuberculosis ATPase by a new drug candidate R207910}}
+      \field{volume}{67}
+      \field{year}{2007}
+      \field{pages}{971\bibrangedash 980}
+      \verb{doi}
+      \verb 10.1002/prot.21376
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/prot.21376
+      \endverb
+    \endentry
+    \entry{Clark2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=e53f75dcb71c9fd5c97d2051342de065}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e53f75dcb71c9fd5c97d2051342de065}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cec6d90cb4b35f16382906d8d623df6b}
+      \strng{fullhash}{cec6d90cb4b35f16382906d8d623df6b}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{New target prediction and visualization tools incorporating open source molecular fingerprints for TB Mobile 2.0}}
+      \field{abstract}{BackgroundWe recently developed a freely available mobile app (TB Mobile) for both iOS and Android platforms that displays Mycobacterium tuberculosis (Mtb) active molecule structures and their targets with links to associated data. The app was developed to make target information available to as large an audience as possible.ResultsWe now report a major update of the iOS version of the app. This includes enhancements that use an implementation of ECFP{\_}6 fingerprints that we have made open source. Using these fingerprints, the user can propose compounds with possible anti-TB activity, and view the compounds within a cluster landscape. Proposed compounds can also be compared to existing target data, using a n?ive Bayesian scoring system to rank probable targets. We have curated an additional 60 new compounds and their targets for Mtb and added these to the original set of 745 compounds. We have also curated 20 further compounds (many without targets in TB Mobile) to evaluate this version of the app with 805 compounds and associated targets.Conclusions TB Mobile can now manage a small collection of compounds that can be imported from external sources, or exported by various means such as email or app-to-app inter-process communication. This means that TB Mobile can be used as a node within a growing ecosystem of mobile apps for cheminformatics. It can also cluster compounds and use internal algorithms to help identify potential targets based on molecular similarity. TB Mobile represents a valuable dataset, data-visualization aid and target prediction tool.}
+      \field{isbn}{1758-2946}
+      \field{issn}{17582946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{New target prediction and visualization tools incorporating open source molecular fingerprints for TB Mobile 2.0}}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 17}
+      \verb{doi}
+      \verb 10.1186/s13321-014-0038-2
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/art{\%}3A10.1186{\%}2Fs13321-014-0038-2.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Kumar2009}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=19f536f34203969fcb522aabafe24ea3}{Kumar}{K\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0254373fd95c4e9d15993d2559e0f4df}{Siddiqi}{S\bibinitperiod}{Mohammad\bibnamedelima Imran}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=19f536f34203969fcb522aabafe24ea3}{Kumar}{K\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0254373fd95c4e9d15993d2559e0f4df}{Siddiqi}{S\bibinitperiod}{Mohammad\bibnamedelima Imran}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0ec14916d38c0ecbb6af3980b58f110a}
+      \strng{fullhash}{0ec14916d38c0ecbb6af3980b58f110a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Receptor based 3D-QSAR to identify putative binders of Mycobacterium tuberculosis Enoyl acyl carrier protein reductase}}
+      \field{abstract}{In the current study, the applicability and scope of 3D-QSAR models (CoMFA and CoMSIA) to complement virtual screening using 3D pharmacophore and molecular docking is examined and applied to identify potential hits against Mycobacterium tuberculosis Enoyl acyl carrier protein reductase (MtENR). Initially CoMFA and CoMSIA models were developed using series of structurally related arylamides as MtENR inhibitors. Docking studies were employed to position the inhibitors into MtENR active site to derive receptor based 3D-QSAR models. Both CoMFA and CoMSIA yielded significant cross validated q2 values of 0.663 and 0.639 and r2 values of 0.989 and 0.963, respectively. The statistically significant models were validated by a test set of eight compounds with predictive r2 value of 0.882 and 0.875 for CoMFA and CoMSIA. The contour maps from 3D-QSAR models in combination with docked binding structures help to better interpret the structure activity relationship. Integrated with CoMFA and CoMSIA predictive models structure based (3D-pharmacophore and molecular docking) virtual screening have been employed to explore potential hits against MtENR. A representative set of 20 compounds with high predicted IC50 values were sorted out in the present study.}
+      \field{issn}{0948-5023}
+      \field{journaltitle}{Journal of Molecular Modeling}
+      \field{number}{5}
+      \field{title}{{Receptor based 3D-QSAR to identify putative binders of Mycobacterium tuberculosis Enoyl acyl carrier protein reductase}}
+      \field{volume}{16}
+      \field{year}{2009}
+      \field{pages}{877\bibrangedash 893}
+      \verb{doi}
+      \verb 10.1007/s00894-009-0584-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00894-009-0584-0
+      \endverb
+    \endentry
+    \entry{Lew2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=8845b7662cd3d4cbd59b622b6697b4d1}{Lew}{L\bibinitperiod}{Jocelyne\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2eecc063e9164b475a87c913e8c57ce9}{Kapopoulou}{K\bibinitperiod}{Adamandia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6b467b9459a68dd3ca4c7a31ab59624d}{Jones}{J\bibinitperiod}{Louis\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5caaa32aa1fbff7fb189b8042c605dea}{Cole}{C\bibinitperiod}{Stewart\bibnamedelima T}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8845b7662cd3d4cbd59b622b6697b4d1}{Lew}{L\bibinitperiod}{Jocelyne\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2eecc063e9164b475a87c913e8c57ce9}{Kapopoulou}{K\bibinitperiod}{Adamandia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6b467b9459a68dd3ca4c7a31ab59624d}{Jones}{J\bibinitperiod}{Louis\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5caaa32aa1fbff7fb189b8042c605dea}{Cole}{C\bibinitperiod}{Stewart\bibnamedelima T}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9708996f9e7dc5f9b76ab50070c82b77}
+      \strng{fullhash}{124869b2fcdc7d55d5827232a0bb6f19}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TubercuList -- 10 years after}}
+      \field{abstract}{Summary TubercuList (http://tuberculist.epfl.ch/), the relational database that presents genome-derived information about H37Rv, the paradigm strain of Mycobacterium tuberculosis, has been active for ten years and now presents its twentieth release. Here, we describe some of the recent changes that have resulted from manual annotation with information from the scientific literature. Through manual curation, TubercuList strives to provide current gene-based information and is thus distinguished from other online sources of genome sequence data for M. tuberculosis. New, mostly small, genes have been discovered and the coordinates of some existing coding sequences have been changed when bioinformatics or experimental data suggest that this is required. Nucleotides that are polymorphic between different sources of H37Rv are annotated and gene essentiality data have been updated. A host of functional information has been gleaned from the literature and many new activities of proteins and RNAs have been included. To facilitate basic and translational research, TubercuList also provides links to other specialized databases that present diverse datasets such as 3D-structures, expression profiles, drug development criteria and drug resistance information, in addition to direct access to PubMed articles pertinent to particular genes. TubercuList has been and remains a highly valuable tool for the tuberculosis research community with {>}75,000 visitors per month.}
+      \field{issn}{1472-9792}
+      \field{journaltitle}{Tuberculosis}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{TubercuList -- 10 years after}}
+      \field{volume}{91}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 7}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.tube.2010.09.008
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1472979210001113
+      \endverb
+    \endentry
+    \entry{Radusky2014}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=fe5bb5a12cbac077e3386095ab5d5563}{Radusky}{R\bibinitperiod}{Leandro}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=24bc5c794d795856ef8ded69bd8840a9}{Defelipe}{D\bibinitperiod}{Lucas\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=bc5549d9852fb4f4a9fd54a0b8176944}{Lanzarotti}{L\bibinitperiod}{Esteban}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=60c3a2ca50ab034b548e7585d978f287}{Luque}{L\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=632125ec5c0252102e633bb321b1e16a}{Barril}{B\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8ff85b0022daa3e701ff0783543845bf}{Marti}{M\bibinitperiod}{Marcelo\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9585bb94b9f85420b6de2a3aa078e646}{Turjanski}{T\bibinitperiod}{Adri{\'{a}}n\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=fe5bb5a12cbac077e3386095ab5d5563}{Radusky}{R\bibinitperiod}{Leandro}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=24bc5c794d795856ef8ded69bd8840a9}{Defelipe}{D\bibinitperiod}{Lucas\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=bc5549d9852fb4f4a9fd54a0b8176944}{Lanzarotti}{L\bibinitperiod}{Esteban}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=60c3a2ca50ab034b548e7585d978f287}{Luque}{L\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=632125ec5c0252102e633bb321b1e16a}{Barril}{B\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8ff85b0022daa3e701ff0783543845bf}{Marti}{M\bibinitperiod}{Marcelo\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9585bb94b9f85420b6de2a3aa078e646}{Turjanski}{T\bibinitperiod}{Adri{\'{a}}n\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46285b9fe17da8a8af2f09f590aac11a}
+      \strng{fullhash}{1fe33895d8c7979e88ab5fe6b6fffe47}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TuberQ: a Mycobacterium tuberculosis protein druggability database}}
+      \field{abstract}{In 2012 an estimated 8.6 million people developed tuberculosis (TB) and 1.3 million died from the disease [including 320\x{2009}000 deaths among human immunodeficiency virus (HIV)-positive people]. There is an urgent need for new anti-TB drugs owing to the following: the fact that current treatments have severe side effects, the increasing emergence of multidrug-resistant strains of Mycobacterium tuberculosis (Mtb), the negative drug--drug interactions with certain HIV (or other disease) treatments and the ineffectiveness against dormant Mtb. In this context we present here the TuberQ database, a novel resource for all researchers working in the field of drug development in TB. The main feature of TuberQ is to provide a druggability analysis of Mtb proteins in a consistent and effective manner, contributing to a better selection of potential drug targets for screening campaigns and the analysis of targets for structure-based drug design projects. The structural druggability analysis is combined with features related to the characteristics of putative inhibitor binding pockets and with functional and biological data of proteins. The structural analysis is performed on all available unique Mtb structures and high-quality structural homology-based models. This information is shown in an interactive manner, depicting the protein structure, the pockets and the associated characteristics for each protein. TuberQ also provides information about gene essentiality information, as determined from whole cell--based knockout experiments, and expression information obtained from microarray experiments done in different stress-related conditions. We hope that TuberQ will be a powerful tool for researchers working in TB and eventually will lead to the identification of novel putative targets and progresses in therapeutic activities.Database URL: http://tuberq.proteinq.com.ar/}
+      \field{annotation}{10.1093/database/bau035}
+      \field{journaltitle}{Database}
+      \field{month}{01}
+      \field{title}{{TuberQ: a Mycobacterium tuberculosis protein druggability database}}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1093/database/bau035
+      \endverb
+      \verb{url}
+      \verb http://database.oxfordjournals.org/content/2014/bau035.abstract
       \endverb
     \endentry
   \endsortlist
