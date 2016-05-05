@@ -1,0 +1,18 @@
+TY  - JOUR
+A1  - Chung, Bevan Kai-Sheng
+A1  - Dick, Thomas
+A1  - Lee, Dong-Yup
+T1  - In silico analyses for the discovery of tuberculosis drug targets
+Y1  - 2013/12/01 
+JO  - Journal of Antimicrobial Chemotherapy 
+SP  - 2701 
+EP  - 2709 
+DO  - 10.1093/jac/dkt273 
+N1  - 10.1093/jac/dkt273 
+M3  - 10.1093/jac/dkt273 
+VL  - 68 
+IS  - 12 
+UR  - http://jac.oxfordjournals.org/content/68/12/2701.abstract 
+N2 - Antibacterial drug discovery is moving from largely unproductive high-throughput screening of isolated targets in the past decade to revisiting old, clinically validated targets and drugs, and to classical black-box whole-cell screens. At the same time, due to the application of existing methods and the emergence of new high-throughput biology methods, we observe the generation of unprecedented qualities and quantities of genomic and other omics data on bacteria and their physiology. Tuberculosis (TB) drug discovery and biology follow the same pattern. There is a clear need to reconnect antibacterial drug discovery with modern, genome-based biology to enable the identification of new targets with high confidence for the rational discovery of new drugs. To exploit the increasing amount of bacterial biology information, a variety of in silico methods have been developed and applied to large-scale biological models to identify candidate antibacterial targets. Here, we review key concepts in network analysis for target discovery in tuberculosis and provide a summary of potential TB drug targets identified by the individual methods. We also discuss current developments and future prospects for the application of systems biology in the field of TB target discovery. 
+ER  -
+
