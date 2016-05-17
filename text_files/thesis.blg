@@ -1,39 +1,51 @@
-[1] Config.pm:322> INFO - This is Biber 2.0 (beta)
-[1] Config.pm:325> INFO - Logfile is 'thesis.blg'
-[51] biber:277> INFO - === Wed May  4, 2016, 17:03:46
-[51] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[154] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[156] Biber.pm:635> INFO - Found 172 citekeys in bib section 0
-[196] Biber.pm:3051> INFO - Processing section 0
-[248] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
-[249] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[250] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
-[268] Biber.pm:3189> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
-[493] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[732] bibtex.pm:864> INFO - Found BibTeX data source '../bibliography/library.bib'
-[767] Utils.pm:144> WARN - Duplicate entry key: 'Dudley2011' in file '../bibliography/library.bib', skipping ...
-[776] Utils.pm:144> WARN - Duplicate entry key: 'Keiser2009' in file '../bibliography/library.bib', skipping ...
-[780] Utils.pm:144> WARN - Duplicate entry key: 'Raman2008' in file '../bibliography/library.bib', skipping ...
-[783] Utils.pm:144> WARN - Duplicate entry key: 'Duran-Frigola2012' in file '../bibliography/library.bib', skipping ...
-[795] Utils.pm:144> WARN - Duplicate entry key: 'Suthram2010' in file '../bibliography/library.bib', skipping ...
-[796] Utils.pm:144> WARN - Duplicate entry key: 'Yeturu2008' in file '../bibliography/library.bib', skipping ...
-[798] Utils.pm:144> WARN - Duplicate entry key: 'Wu2013' in file '../bibliography/library.bib', skipping ...
-[805] Utils.pm:144> WARN - Duplicate entry key: 'Iorio2010' in file '../bibliography/library.bib', skipping ...
-[811] Utils.pm:144> WARN - Duplicate entry key: 'Cheng2012' in file '../bibliography/library.bib', skipping ...
-[813] Utils.pm:144> WARN - Duplicate entry key: 'Raman2007' in file '../bibliography/library.bib', skipping ...
-[819] Utils.pm:144> WARN - Duplicate entry key: 'Uplekar2001' in file '../bibliography/library.bib', skipping ...
-[821] Utils.pm:144> WARN - Duplicate entry key: 'Ekins2013' in file '../bibliography/library.bib', skipping ...
-[830] Utils.pm:144> WARN - Possible typo (case mismatch) between datasource keys: 'Gileadi2007' and 'GIleadi2007' in file '../bibliography/library.bib'
-[1257] Utils.pm:144> WARN - BibTeX subsystem: /tmp/WH3BSUQHk8/library.bib_15137.utf8, line 6, warning: 172 characters of junk seen at toplevel
-[3692] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3693] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3693] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[3693] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[5913] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[5913] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[5913] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale ''
-[5913] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[6378] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'latin1'
-[6378] bbl.pm:518> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[7398] bbl.pm:608> INFO - Output to thesis.bbl
-[7398] Biber.pm:106> INFO - WARNINGS: 15
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'thesis.blg'
+[82] biber-darwin:276> INFO - === Mon May  9, 2016, 12:12:06
+[82] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[246] Biber.pm:645> INFO - Found 172 citekeys in bib section 0
+[285] Biber.pm:2977> INFO - Processing section 0
+[311] Biber.pm:3115> INFO - Looking for bibtex format file '../bibliography/bibliography_tesis.bib' for section 0
+[312] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[313] bibtex.pm:895> INFO - Found BibTeX data source '../bibliography/bibliography_tesis.bib'
+[329] Biber.pm:3115> INFO - Looking for bibtex format file '../bibliography/library.bib' for section 0
+[604] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[817] bibtex.pm:895> INFO - Found BibTeX data source '../bibliography/library.bib'
+[883] Utils.pm:146> WARN - Duplicate entry key: 'Dudley2011' in file '../bibliography/library.bib', skipping ...
+[905] Utils.pm:146> WARN - Duplicate entry key: 'Keiser2009' in file '../bibliography/library.bib', skipping ...
+[913] Utils.pm:146> WARN - Duplicate entry key: 'Raman2008' in file '../bibliography/library.bib', skipping ...
+[917] Utils.pm:146> WARN - Duplicate entry key: 'Duran-Frigola2012' in file '../bibliography/library.bib', skipping ...
+[940] Utils.pm:146> WARN - Duplicate entry key: 'Suthram2010' in file '../bibliography/library.bib', skipping ...
+[943] Utils.pm:146> WARN - Duplicate entry key: 'Yeturu2008' in file '../bibliography/library.bib', skipping ...
+[946] Utils.pm:146> WARN - Duplicate entry key: 'Wu2013' in file '../bibliography/library.bib', skipping ...
+[958] Utils.pm:146> WARN - Duplicate entry key: 'Iorio2010' in file '../bibliography/library.bib', skipping ...
+[969] Utils.pm:146> WARN - Duplicate entry key: 'Cheng2012' in file '../bibliography/library.bib', skipping ...
+[974] Utils.pm:146> WARN - Duplicate entry key: 'Raman2007' in file '../bibliography/library.bib', skipping ...
+[984] Utils.pm:146> WARN - Duplicate entry key: 'Uplekar2001' in file '../bibliography/library.bib', skipping ...
+[988] Utils.pm:146> WARN - Duplicate entry key: 'Ekins2013' in file '../bibliography/library.bib', skipping ...
+[1004] Utils.pm:146> WARN - Possible typo (case mismatch) between datasource keys: 'Gileadi2007' and 'GIleadi2007' in file '../bibliography/library.bib'
+[1451] Utils.pm:146> WARN - BibTeX subsystem: /var/folders/qx/0yxcr8kj4zb369050cgsth900000gp/T/cx3UOieZKQ/library.bib_23417.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[3934] UCollate.pm:66> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3934] UCollate.pm:66> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3935] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'es-ES'
+[4212] bbl.pm:505> INFO - Writing 'thesis.bbl' with encoding 'latin1'
+[4216] Utils.pm:146> WARN - The entry 'conservPPI' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4220] Utils.pm:146> WARN - The entry 'Smyth2000' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4239] Utils.pm:146> WARN - The entry 'Marti-Renom2000' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4245] Utils.pm:146> WARN - The entry 'Kim2004' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4249] Utils.pm:146> WARN - The entry 'Richardson1981' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4263] Utils.pm:146> WARN - The entry 'Zhu2012a' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4266] Utils.pm:146> WARN - The entry 'Liu2007' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4272] Utils.pm:146> WARN - The entry 'Ewing1997' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4286] Utils.pm:146> WARN - The entry 'Cramer1988' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4289] Utils.pm:146> WARN - The entry 'Ekins2000' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4293] Utils.pm:146> WARN - The entry 'Romeiro2010' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4299] Utils.pm:146> WARN - The entry 'Lewandowski2015' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4302] Utils.pm:146> WARN - The entry 'Connell2011' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4309] Utils.pm:146> WARN - The entry 'Lei2015' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4312] Utils.pm:146> WARN - The entry 'Brennan2003' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4316] Utils.pm:146> WARN - The entry 'Rodrigues2012' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4322] Utils.pm:146> WARN - The entry 'Crowther2010' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4327] Utils.pm:146> WARN - The entry 'Lew2011' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4331] Utils.pm:146> WARN - The entry 'Radusky2014' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[4334] bbl.pm:596> INFO - Output to thesis.bbl
+[4334] Biber.pm:106> INFO - WARNINGS: 33
