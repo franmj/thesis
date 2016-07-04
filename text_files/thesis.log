@@ -1,19 +1,19 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.11)  9 MAY 2016 12:12
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  4 JUL 2016 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (./tesi_upf.cls
 
 LaTeX Warning: You have requested document class `tesi_upf',
                but the document class provides `book'.
 
 Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -28,92 +28,103 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2015/03/17 v1.2c Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/09/25 3.9l The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/12/03 3.9h The Babel package
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/09/25 3.9l Babel common definitions
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/12/03 3.9h Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2010/05/23 v5.0j Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for english instead on input line 67.
+
+\l@spanish = a dialect from \language0
+\es@datefmt=\count89
 \es@quottoks=\toks16
-\es@quotdepth=\count89
-Package babel Info: Making " an active character on input line 516.
-Package babel Info: Making . an active character on input line 617.
-Package babel Info: Making < an active character on input line 662.
-Package babel Info: Making > an active character on input line 662.
-))
-(./crop.sty
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 495.
+Package babel Info: Making . an active character on input line 588.
+Package babel Info: Making < an active character on input line 633.
+Package babel Info: Making > an active character on input line 633.
+)) (./crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen104
 \stockheight=\dimen105
-\CROP@index=\count90
- (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+\CROP@index=\count91
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 130.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count91
+\Gread@gobject=\count92
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 )
-\CROP@offset=\count92
+\CROP@offset=\count93
 Package crop Info: Local config file crop.cfg used on input line 605.
 
-(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -155,29 +166,29 @@ Package atbegshi Info: Package `crop' patched.
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
-\Hy@linkcounter=\count93
-\Hy@pagecounter=\count94
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count95
+\Hy@SavedSpaceFactor=\count96
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
@@ -188,15 +199,15 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count96
+\c@Hy@tempcnt=\count97
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen107
-\Fld@menulength=\count97
+\Fld@menulength=\count98
 \Field@Width=\dimen108
 \Fld@charsize=\dimen109
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -208,76 +219,76 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count98
-\c@Item=\count99
-\c@Hfootnote=\count100
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count101
-\c@bookmark@seq@number=\count102
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2015/05/11 v1.16 mathematical typesetting tools
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count103
-\calc@Bcount=\count104
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count104
+\calc@Bcount=\count105
 \calc@Adimen=\dimen112
 \calc@Bdimen=\dimen113
 \calc@Askip=\skip44
 \calc@Bskip=\skip45
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count105
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count106
 \calc@Cskip=\skip46
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mhsetup.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen114
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen115
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count106
+\inf@bad=\count107
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count107
-\leftroot@=\count108
+\uproot@=\count108
+\leftroot@=\count109
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count109
-\DOTSCASE@=\count110
+\classnum@=\count110
+\DOTSCASE@=\count111
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -286,15 +297,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen116
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count111
-\c@MaxMatrixCols=\count112
+\macc@depth=\count112
+\c@MaxMatrixCols=\count113
 \dotsspace@=\muskip11
-\c@parentequation=\count113
-\dspbrk@lvl=\count114
+\c@parentequation=\count114
+\dspbrk@lvl=\count115
 \tag@help=\toks19
-\row@=\count115
-\column@=\count116
-\maxfields@=\count117
+\row@=\count116
+\column@=\count117
+\maxfields@=\count118
 \andhelp@=\toks20
 \eqnshift@=\dimen117
 \alignsep@=\dimen118
@@ -309,11 +320,9 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count118
+\g_MT_multlinerow_int=\count119
 \l_MT_multwidth_dim=\dimen123
 \origjot=\skip50
 \l_MT_shortvdotswithinadjustabove_dim=\dimen124
@@ -323,216 +332,217 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen128
 \l_MT_below_shortintertext_sep=\dimen129
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2015/04/15 v5.1e context-sensitive quotations (JAW)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count119
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count120
 )
-\csq@reset=\count120
-\csq@gtype=\count121
-\csq@glevel=\count122
-\csq@qlevel=\count123
-\csq@maxlvl=\count124
-\csq@tshold=\count125
+\etb@tempcnta=\count121
+)
+\csq@reset=\count122
+\csq@gtype=\count123
+\csq@glevel=\count124
+\csq@qlevel=\count125
+\csq@maxlvl=\count126
+\csq@tshold=\count127
 \csq@ltx@everypar=\toks23
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2015/04/15 v5.1e csquotes generic definitions (JAW)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex2.sty
-Package: biblatex2 2015/04/19 v3.0 programmable bibliographies (biber) (PK/JW/A
-B)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex2.sty
+Package: biblatex2 2013/11/25 v2.8a programmable bibliographies (biber) (PK/JW/
+AB)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count126
+\lrq@indent=\count128
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count127
-\c@listtotal=\count128
-\c@listcount=\count129
-\c@liststart=\count130
-\c@liststop=\count131
-\c@citecount=\count132
-\c@citetotal=\count133
-\c@multicitecount=\count134
-\c@multicitetotal=\count135
-\c@instcount=\count136
-\c@maxnames=\count137
-\c@minnames=\count138
-\c@maxitems=\count139
-\c@minitems=\count140
-\c@citecounter=\count141
-\c@savedcitecounter=\count142
-\c@uniquelist=\count143
-\c@uniquename=\count144
-\c@refsection=\count145
-\c@refsegment=\count146
-\c@maxextratitle=\count147
-\c@maxextratitleyear=\count148
-\c@maxextrayear=\count149
-\c@maxextraalpha=\count150
-\c@abbrvpenalty=\count151
-\c@highnamepenalty=\count152
-\c@lownamepenalty=\count153
-\c@maxparens=\count154
-\c@parenlevel=\count155
-\blx@tempcnta=\count156
-\blx@tempcntb=\count157
-\blx@tempcntc=\count158
-\blx@maxsection=\count159
-\blx@maxsegment@0=\count160
-\blx@notetype=\count161
-\blx@parenlevel@text=\count162
-\blx@parenlevel@foot=\count163
-\blx@sectionciteorder@0=\count164
+\c@tabx@nest=\count129
+\c@listtotal=\count130
+\c@listcount=\count131
+\c@liststart=\count132
+\c@liststop=\count133
+\c@citecount=\count134
+\c@citetotal=\count135
+\c@multicitecount=\count136
+\c@multicitetotal=\count137
+\c@instcount=\count138
+\c@maxnames=\count139
+\c@minnames=\count140
+\c@maxitems=\count141
+\c@minitems=\count142
+\c@citecounter=\count143
+\c@savedcitecounter=\count144
+\c@uniquelist=\count145
+\c@uniquename=\count146
+\c@refsection=\count147
+\c@refsegment=\count148
+\c@maxextratitle=\count149
+\c@maxextratitleyear=\count150
+\c@maxextrayear=\count151
+\c@maxextraalpha=\count152
+\c@abbrvpenalty=\count153
+\c@highnamepenalty=\count154
+\c@lownamepenalty=\count155
+\c@maxparens=\count156
+\c@parenlevel=\count157
+\blx@tempcnta=\count158
+\blx@tempcntb=\count159
+\blx@tempcntc=\count160
+\blx@maxsection=\count161
+\blx@maxsegment@0=\count162
+\blx@notetype=\count163
+\blx@parenlevel@text=\count164
+\blx@parenlevel@foot=\count165
+\blx@sectionciteorder@0=\count166
 \labelnumberwidth=\skip51
 \labelalphawidth=\skip52
-\biblabelsep=\skip53
-\bibitemsep=\skip54
-\bibnamesep=\skip55
-\bibinitsep=\skip56
-\bibparsep=\skip57
-\bibhang=\skip58
+\shorthandwidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count165
-\c@maxcomprange=\count166
-\c@mincompwidth=\count167
+\c@mincomprange=\count167
+\c@maxcomprange=\count168
+\c@mincompwidth=\count169
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count168
-\c@savedafterword=\count169
-\c@annotator=\count170
-\c@savedannotator=\count171
-\c@author=\count172
-\c@savedauthor=\count173
-\c@bookauthor=\count174
-\c@savedbookauthor=\count175
-\c@commentator=\count176
-\c@savedcommentator=\count177
-\c@editor=\count178
-\c@savededitor=\count179
-\c@editora=\count180
-\c@savededitora=\count181
-\c@editorb=\count182
-\c@savededitorb=\count183
-\c@editorc=\count184
-\c@savededitorc=\count185
-\c@foreword=\count186
-\c@savedforeword=\count187
-\c@holder=\count188
-\c@savedholder=\count189
-\c@introduction=\count190
-\c@savedintroduction=\count191
-\c@namea=\count192
-\c@savednamea=\count193
-\c@nameb=\count194
-\c@savednameb=\count195
-\c@namec=\count196
-\c@savednamec=\count197
-\c@translator=\count198
-\c@savedtranslator=\count199
+\c@afterword=\count170
+\c@savedafterword=\count171
+\c@annotator=\count172
+\c@savedannotator=\count173
+\c@author=\count174
+\c@savedauthor=\count175
+\c@bookauthor=\count176
+\c@savedbookauthor=\count177
+\c@commentator=\count178
+\c@savedcommentator=\count179
+\c@editor=\count180
+\c@savededitor=\count181
+\c@editora=\count182
+\c@savededitora=\count183
+\c@editorb=\count184
+\c@savededitorb=\count185
+\c@editorc=\count186
+\c@savededitorc=\count187
+\c@foreword=\count188
+\c@savedforeword=\count189
+\c@holder=\count190
+\c@savedholder=\count191
+\c@introduction=\count192
+\c@savedintroduction=\count193
+\c@namea=\count194
+\c@savednamea=\count195
+\c@nameb=\count196
+\c@savednameb=\count197
+\c@namec=\count198
+\c@savednamec=\count199
 \c@shortauthor=\count200
 \c@savedshortauthor=\count201
 \c@shorteditor=\count202
 \c@savedshorteditor=\count203
-\c@labelname=\count204
-\c@savedlabelname=\count205
-\c@institution=\count206
-\c@savedinstitution=\count207
-\c@lista=\count208
-\c@savedlista=\count209
-\c@listb=\count210
-\c@savedlistb=\count211
-\c@listc=\count212
-\c@savedlistc=\count213
-\c@listd=\count214
-\c@savedlistd=\count215
-\c@liste=\count216
-\c@savedliste=\count217
-\c@listf=\count218
-\c@savedlistf=\count219
-\c@location=\count220
-\c@savedlocation=\count221
-\c@organization=\count222
-\c@savedorganization=\count223
-\c@origlocation=\count224
-\c@savedoriglocation=\count225
-\c@origpublisher=\count226
-\c@savedorigpublisher=\count227
-\c@publisher=\count228
-\c@savedpublisher=\count229
-\c@language=\count230
-\c@savedlanguage=\count231
-\c@pageref=\count232
-\c@savedpageref=\count233
-\shorthandwidth=\skip59
-\shortjournalwidth=\skip60
-\shortserieswidth=\skip61
-\shorttitlewidth=\skip62
-\shortauthorwidth=\skip63
-\shorteditorwidth=\skip64
+\c@translator=\count204
+\c@savedtranslator=\count205
+\c@labelname=\count206
+\c@savedlabelname=\count207
+\c@institution=\count208
+\c@savedinstitution=\count209
+\c@lista=\count210
+\c@savedlista=\count211
+\c@listb=\count212
+\c@savedlistb=\count213
+\c@listc=\count214
+\c@savedlistc=\count215
+\c@listd=\count216
+\c@savedlistd=\count217
+\c@liste=\count218
+\c@savedliste=\count219
+\c@listf=\count220
+\c@savedlistf=\count221
+\c@location=\count222
+\c@savedlocation=\count223
+\c@organization=\count224
+\c@savedorganization=\count225
+\c@origlocation=\count226
+\c@savedoriglocation=\count227
+\c@origpublisher=\count228
+\c@savedorigpublisher=\count229
+\c@publisher=\count230
+\c@savedpublisher=\count231
+\c@language=\count232
+\c@savedlanguage=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\c@pageref=\count277
+\c@savedpageref=\count278
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count266
-\c@textcitetotal=\count267
-\c@textcitemaxnames=\count268
-\c@biburlnumpenalty=\count269
-\c@biburlucpenalty=\count270
-\c@biburllcpenalty=\count271
-\c@smartand=\count272
+\c@textcitecount=\count279
+\c@textcitetotal=\count280
+\c@textcitemaxnames=\count281
+\c@biburlnumpenalty=\count282
+\c@biburlucpenalty=\count283
+\c@biburllcpenalty=\count284
+\c@smartand=\count285
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count273
-\c@bbx:relatedtotal=\count274
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count286
+\c@bbx:relatedtotal=\count287
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2015/04/19 v3.0 biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -548,19 +558,19 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen130
@@ -571,61 +581,59 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \caption@parindent=\dimen135
 \caption@hangindent=\dimen136
 )
-\c@ContinuedFloat=\count275
+\c@ContinuedFloat=\count288
 Package caption Info: hyperref package is loaded.
 )
-\c@subfigure=\count276
-\c@subtable=\count277
+\c@subfigure=\count289
+\c@subtable=\count290
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip65
+\labelindent=\skip60
 \enit@outerparindent=\dimen137
 \enit@toks=\toks24
 \enit@inbox=\box28
-\enitdp@description=\count278
+\enitdp@description=\count291
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen138
 \extrarowheight=\dimen139
 \NC@list=\toks25
-\extratabsurround=\skip66
-\backup@length=\skip67
+\extratabsurround=\skip61
+\backup@length=\skip62
 )
 \TX@col@width=\dimen140
 \TX@old@table=\dimen141
 \TX@old@col=\dimen142
 \TX@target=\dimen143
 \TX@delta=\dimen144
-\TX@cols=\count279
+\TX@cols=\count292
 \TX@ftn=\toks26
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks27
 \XKV@tempa@toks=\toks28
-)
-\XKV@depth=\count280
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+\XKV@depth=\count293
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/collectbox/collectbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box29
 )
@@ -635,7 +643,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen148
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen149
@@ -643,25 +651,25 @@ File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 \adjbox@Depth=\dimen151
 \adjbox@Totalheight=\dimen152
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
-\c@checkoddpage=\count281
+\c@checkoddpage=\count294
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/varwidth/varwidth.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box30
-\sift@deathcycles=\count282
+\sift@deathcycles=\count295
 \@vwid@loff=\dimen153
 \@vwid@roff=\dimen154
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tabu/tabu.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
-\c@taburow=\count283
-\tabu@nbcols=\count284
-\tabu@cnt=\count285
-\tabu@Xcol=\count286
-\tabu@alloc=\count287
-\tabu@nested=\count288
+\c@taburow=\count296
+\tabu@nbcols=\count297
+\tabu@cnt=\count298
+\tabu@Xcol=\count299
+\tabu@alloc=\count300
+\tabu@nested=\count301
 \tabu@target=\dimen155
 \tabu@spreadtarget=\dimen156
 \tabu@naturalX=\dimen157
@@ -677,36 +685,36 @@ Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 \tabu@arstrutbox=\box32
 \tabu@hleads=\box33
 \tabu@vleads=\box34
-\tabu@cellskip=\skip68
+\tabu@cellskip=\skip63
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tabulary/tabulary.sty
-Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count289
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+\TY@count=\count302
 \TY@linewidth=\dimen164
 \tymin=\dimen165
 \tymax=\dimen166
 \TY@tablewidth=\dimen167
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip69
-\RaggedLeftLeftskip=\skip70
-\RaggedRightLeftskip=\skip71
-\CenteringRightskip=\skip72
-\RaggedLeftRightskip=\skip73
-\RaggedRightRightskip=\skip74
-\CenteringParfillskip=\skip75
-\RaggedLeftParfillskip=\skip76
-\RaggedRightParfillskip=\skip77
-\JustifyingParfillskip=\skip78
-\CenteringParindent=\skip79
-\RaggedLeftParindent=\skip80
-\RaggedRightParindent=\skip81
-\JustifyingParindent=\skip82
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
 )
 \@indexfile=\write4
 \openout4 = `thesis.idx'.
@@ -719,15 +727,14 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
-File: spanish.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
 (./thesis.aux
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
 LaTeX Info: Redefining \sptext on input line 32.
 LaTeX Info: Redefining \. on input line 32.
@@ -753,31 +760,30 @@ LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 58.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ptm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 LaTeX Info: Redefining \sptext on input line 58.
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
 
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
+\scratchcounter=\count303
 \scratchdimen=\dimen168
 \scratchbox=\box35
-\nofMPsegments=\count291
-\nofMParguments=\count292
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count293
+\MPscratchCnt=\count306
 \MPscratchDim=\dimen169
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks32
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -785,7 +791,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -795,13 +801,13 @@ Package crop Info: using `pdftex' graphics driver on input line 58.
 \AtBeginShipoutBox=\box36
 Package hyperref Info: Link coloring OFF on input line 58.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count309
 )
 LaTeX Info: Redefining \ref on input line 58.
 LaTeX Info: Redefining \pageref on input line 58.
@@ -817,22 +823,32 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout3 = `thesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
+
+
+Package biblatex Warning: File 'thesis.bbl' is wrong format version - expected 
+2.3.
+
 Package biblatex Info: ... file 'thesis.bbl' found.
- (./thesis.bbl)
+(./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 58.
 Package biblatex Info: Reference segment=0 on input line 58.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 58.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 64.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1phv.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 Overfull \hbox (4.53079pt too wide) in paragraph at lines 64--64
-[]\T1/phv/m/n/20.74 El ti-tu-lo de la te-si: In-silico met-hods to drug 
+[]\T1/phv/m/n/20.74 El tit-u-lo de la tesi: In-silico meth-ods to drug 
+ []
+
+
+Overfull \hbox (32.10661pt too wide) in paragraph at lines 64--64
+[]\T1/ptm/m/n/14.4 Director: Marc A. Marti-Renom De-par-ta-ment De-par-ta-ment:
+ Biomedicine  
  []
 
 <../figures/logo_upf.png, id=72, 36.135pt x 13.2495pt>
@@ -872,10 +888,10 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 64.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#1| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#1| 
  []
 
-[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
@@ -908,7 +924,7 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 65.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#2| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#2| 
  []
 
 [2
@@ -941,7 +957,7 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 72.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#3| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#3| 
  []
 
 [3]
@@ -971,7 +987,7 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 72.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#4| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#4| 
  []
 
 [4
@@ -1004,7 +1020,7 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 80.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#5| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#5| 
  []
 
 [5]
@@ -1034,7 +1050,7 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 80.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#6| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#6| 
  []
 
 [6
@@ -1042,20 +1058,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 85.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 85.
-LaTeX Info: Redefining \sptext on input line 89.
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 83.
+LaTeX Info: Redefining \sptext on input line 87.
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#7| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#7| 
  []
 
 [7]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#8| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#8| 
  []
 
 [8
@@ -1063,15 +1079,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 98.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#9| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#9| 
  []
 
 [9]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#10| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#10| 
  []
 
 [10
@@ -1079,7 +1095,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 107.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 105.
  (./thesis.toc
 LaTeX Info: Redefining \sptext on input line 4.
 LaTeX Info: Redefining \. on input line 4.
@@ -1094,7 +1110,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#11| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#11| 
  []
 
 [11
@@ -1106,7 +1122,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#12| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#12| 
  []
 
 [12] (./thesis.lof
@@ -1117,8 +1133,7 @@ LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 28.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pcr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Overfull \hbox (1.84418pt too wide) in paragraph at lines 28--28
@@ -1143,7 +1158,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#13| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#13| 
  []
 
 [13
@@ -1155,7 +1170,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#14| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#14| 
  []
 
 [14] (./thesis.lot
@@ -1171,7 +1186,7 @@ LaTeX Info: Redefining \% on input line 8.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#15| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#15| 
  []
 
 [15
@@ -1179,7 +1194,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page[]#16| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page[]#16| 
  []
 
 [16
@@ -1187,7 +1202,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page1#17| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page1#17| 
  []
 
 [1
@@ -1195,7 +1210,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page2#18| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page2#18| 
  []
 
 [2
@@ -1204,23 +1219,23 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
  []\T1/ptm/b/n/17.28 CHAPTER 1 
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 159--159
+Underfull \hbox (badness 6775) in paragraph at lines 157--157
  []\T1/ptm/b/n/24.88 INTRODUCTION 
  []
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 169.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 167.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page3#19| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page3#19| 
  []
 
 [3]
@@ -1229,10 +1244,10 @@ File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
 Package pdftex.def Info: ../figures/protein_structure_levels_en.png used on inp
-ut line 176.
+ut line 174.
 (pdftex.def)             Requested size: 188.20265pt x 328.22543pt.
 
-Underfull \hbox (badness 7907) in paragraph at lines 176--177
+Underfull \hbox (badness 7907) in paragraph at lines 174--175
  [][] 
  []
 
@@ -1241,7 +1256,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page4#20| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page4#20| 
  []
 
 [4] <../figures/structure_vs_sequence.png, id=264, 451.6875pt x 432.61626pt>
@@ -1249,21 +1264,21 @@ File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
 Package pdftex.def Info: ../figures/structure_vs_sequence.png used on input lin
-e 187.
+e 185.
 (pdftex.def)             Requested size: 225.84319pt x 216.3076pt.
 
-Underfull \hbox (badness 4254) in paragraph at lines 187--188
+Underfull \hbox (badness 4254) in paragraph at lines 185--186
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []\T1/ptm/m/n/12 Figure 1.2: |The orig-i-nal plot of the re-la-tion of residue 
 iden-tity and the r.m.s.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 \T1/ptm/m/n/12 de-vi-a-tion of the back-bone atoms of the com-mon cores of 32 p
 airs of ho-mol-o-gous
  []
@@ -1273,32 +1288,32 @@ Underfull \vbox (badness 4328) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page5#21| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page5#21| 
  []
 
 [5 <../figures/protein_structure_levels_en.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page6#22| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page6#22| 
  []
 
 [6 <../figures/structure_vs_sequence.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page7#23| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page7#23| 
  []
 
 [7]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page8#24| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page8#24| 
  []
 
 [8] <../figures/pdbs_per_year.pdf, id=333, 578.16pt x 433.62pt>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
-Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 218.
+Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 216.
 (pdftex.def)             Requested size: 292.5pt x 219.37006pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--219
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
  []\T1/ptm/m/n/10.95 (a)|| 
  []
 
@@ -1306,26 +1321,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--219
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
-Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 223.
+Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 221.
 (pdftex.def)             Requested size: 214.50119pt x 160.86623pt.
 
-Underfull \hbox (badness 7907) in paragraph at lines 224--224
+Underfull \hbox (badness 7907) in paragraph at lines 222--222
  []\T1/ptm/m/n/10.95 (b)|| 
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 217--227
+Underfull \hbox (badness 5203) in paragraph at lines 215--225
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 []\T1/ptm/m/n/12 Figure 1.3: |a) Growth of re-leased struc-tures per year. Data
  ex-tracted from PDB.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 \T1/ptm/m/n/12 b) Pie chart with the perc-etange of struc-tures de-ter-mined by
  the dif-fer-ent meth-
  []
@@ -1335,12 +1350,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page9#25| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page9#25| 
  []
 
 [9]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page10#26| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page10#26| 
  []
 
 [10 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
@@ -1348,95 +1363,95 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 File: ../figures/workflow.jpg Graphic file (type jpg)
 
 <use ../figures/workflow.jpg>
-Package pdftex.def Info: ../figures/workflow.jpg used on input line 247.
+Package pdftex.def Info: ../figures/workflow.jpg used on input line 245.
 (pdftex.def)             Requested size: 322.20296pt x 320.99846pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []\T1/ptm/m/n/12 Figure 1.4: |Work-flow in com-par-a-tive pro-tein struc-ture m
 od-el-ing. The fig-ure has
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page11#27| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page11#27| 
  []
 
 [11]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page12#28| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page12#28| 
  []
 
 [12 <../figures/workflow.jpg>]
-Overfull \hbox (6.26167pt too wide) in paragraph at lines 268--269
+Overfull \hbox (6.26167pt too wide) in paragraph at lines 266--267
 \T1/ptm/m/n/12 al-go-rithms. Atom-based distance-depend scor-ing func-tions hav
 e proved
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page13#29| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page13#29| 
  []
 
 [13] <../figures/homology_plot.pdf, id=524, 895.345pt x 575.14874pt>
 File: ../figures/homology_plot.pdf Graphic file (type pdf)
 
 <use ../figures/homology_plot.pdf>
-Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 275.
+Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 273.
 (pdftex.def)             Requested size: 313.37544pt x 201.30507pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
 []\T1/ptm/m/n/12 Figure 1.5: |Ho-mol-ogy thresh-old curve as a func-tion of ali
 gn-ment length. Data
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page14#30| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page14#30| 
  []
 
 [14 <../figures/homology_plot.pdf>]
 
-Package caption Warning: \label without proper \caption on input line 310.
+Package caption Warning: \label without proper \caption on input line 308.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `table:table_software' on page 15 undefined on input l
-ine 281.
+ine 279.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--311
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
  [] 
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 311--311
+Underfull \hbox (badness 2617) in paragraph at lines 309--309
  []\T1/ptm/m/n/12 Table 1.1: |List of the pub-lic Pro-tein Mod-el-ing Tools| 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page15#31| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page15#31| 
  []
 
 [15]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page16#32| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page16#32| 
  []
 
 [16] <../figures/lock_key_model.jpg, id=639, 447.6725pt x 76.285pt>
 File: ../figures/lock_key_model.jpg Graphic file (type jpg)
 
 <use ../figures/lock_key_model.jpg>
-Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 334.
+Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 332.
 (pdftex.def)             Requested size: 292.5pt x 49.84422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
 []\T1/ptm/m/n/10.95 (a) |Fis-cher's \T1/ptm/m/it/10.95 lock and key model\T1/pt
 m/m/n/10.95 . The pro-tein is rep-re-sented
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
 \T1/ptm/m/n/10.95 in green and the lig-and in red. The lig-and's bind-ing site 
 of the
  []
@@ -1445,23 +1460,23 @@ of the
 File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
 
 <use ../figures/induce_fit_model.jpg>
-Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 340
+Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 338
 .
 (pdftex.def)             Requested size: 292.5pt x 44.59746pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 []\T1/ptm/m/n/10.95 (b) |Koshland's \T1/ptm/m/it/10.95 in-duced fit model\T1/pt
 m/m/n/10.95 . The pro-tein is rep-re-sented
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 \T1/ptm/m/n/10.95 in green and the lig-and in red. The over-all shape of the li
 g-and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 \T1/ptm/m/n/10.95 matches the bind-ing site. The lig-and bind-ings causes some 
 con-for-
  []
@@ -1470,34 +1485,34 @@ con-for-
 File: ../figures/mwc_model.jpg Graphic file (type jpg)
 
 <use ../figures/mwc_model.jpg>
-Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 346.
+Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 344.
 (pdftex.def)             Requested size: 292.5pt x 77.88011pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
 []\T1/ptm/m/n/10.95 (c) |\T1/ptm/m/it/10.95 MWC model's \T1/ptm/m/n/10.95 rep-r
 e-sen-ta-tion. The pro-tein changes its con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
 \T1/ptm/m/n/10.95 for-ma-tion con-stantly (one color per con-for-ma-tion), with
  at least
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
 \T1/ptm/m/n/10.95 one these con-for-ma-tion match-ing the lig-and. Its bind-ing
  trig-gers
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
 \T1/ptm/m/n/10.95 some con-for-ma-tional changes that im-proves the pro-tein's 
 en-ergy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
 []\T1/ptm/m/n/12 Figure 1.6: |Schematic rep-re-sen-ta-tion of three pop-u-lar p
 rotein-ligand bind-ing
  []
@@ -1507,23 +1522,23 @@ Underfull \vbox (badness 6348) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page17#33| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page17#33| 
  []
 
 [17]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page18#34| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page18#34| 
  []
 
 [18 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
 es/mwc_model.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page19#35| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page19#35| 
  []
 
 [19]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page20#36| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page20#36| 
  []
 
 [20]
@@ -1531,34 +1546,33 @@ Underfull \vbox (badness 1540) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page21#37| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page21#37| 
  []
 
 [21]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page22#38| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page22#38| 
  []
 
 [22]
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ../figures/drug_discovery_pi
-peline.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> 
-allowed
+pdfTeX warning: pdflatex (file ../figures/drug_discovery_pipeline.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
 <../figures/drug_discovery_pipeline.pdf, id=771, 1247.66125pt x 473.77pt>
 File: ../figures/drug_discovery_pipeline.pdf Graphic file (type pdf)
 
 <use ../figures/drug_discovery_pipeline.pdf>
 Package pdftex.def Info: ../figures/drug_discovery_pipeline.pdf used on input l
-ine 399.
+ine 397.
 (pdftex.def)             Requested size: 390.0pt x 148.0889pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []\T1/ptm/m/n/12 Figure 1.7: |Drug dis-cov-ery and de-vel-op-ment pipeline. For
  each stage the av-er-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \T1/ptm/m/n/12 age cost and time are in-cluded. Post-approval times not in-clud
 ed in the time-line.
  []
@@ -1568,35 +1582,35 @@ File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
 
 <use ../figures/drug_discovery_evolution.jpg>
 Package pdftex.def Info: ../figures/drug_discovery_evolution.jpg used on input 
-line 410.
+line 408.
 (pdftex.def)             Requested size: 350.99762pt x 252.96893pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
 []\T1/ptm/m/n/12 Figure 1.8: |Cost of de-vel-op-ing a new drug. Blue bars in-di
 -cate ex-penses in clin-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
 \T1/ptm/m/n/12 cal phases while red rep-re-sents ex-penses in pre-clinical stag
 es. Costs are shown
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
 \T1/ptm/m/n/12 in $\OT1/cmr/m/n/12 $$ \T1/ptm/m/n/12 mil-lions. Data ex-tracted
  form: Tufts Cen-ter for the Study of Drug De-vel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
 \T1/ptm/m/n/12 op-ment ([]$\T1/pcr/m/n/12 http : / / csdd . tufts . edu / news 
 / complete _ story / pr _
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page23#39| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page23#39| 
  []
 
 [23 <../figures/drug_discovery_pipeline.pdf>]
@@ -1604,43 +1618,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page24#40| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page24#40| 
  []
 
 [24 <../figures/drug_discovery_evolution.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page25#41| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page25#41| 
  []
 
 [25]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page26#42| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page26#42| 
  []
 
 [26]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page27#43| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page27#43| 
  []
 
 [27]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page28#44| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page28#44| 
  []
 
 [28]
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ../figures/map_incidence_tb.
-pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
+pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
 <../figures/map_incidence_tb.pdf, id=906, 891.33pt x 555.07375pt>
 File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
 
 <use ../figures/map_incidence_tb.pdf>
-Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 451
+Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 449
 .
 (pdftex.def)             Requested size: 350.99762pt x 218.57837pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--452
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
 []\T1/ptm/m/n/12 Figure 1.9: |Es-ti-mated world-wide TB in-ci-dence rates in 20
 14. Fig-ure ex-tracted
  []
@@ -1650,7 +1663,7 @@ Underfull \vbox (badness 4036) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page29#45| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page29#45| 
  []
 
 [29]
@@ -1658,299 +1671,302 @@ Underfull \vbox (badness 7415) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page30#46| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page30#46| 
  []
 
 [30 <../figures/map_incidence_tb.pdf>]
 
 LaTeX Warning: Reference `table_mtb_methods' on page 31 undefined on input line
- 467.
+ 465.
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page31#47| 
- []
-
-[31]
-Overfull \hbox (6.83775pt too wide) in paragraph at lines 478--479
+Overfull \hbox (6.83775pt too wide) in paragraph at lines 473--474
 []|[]\T1/ptm/b/n/12 Reference(s)[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []|\T1/ptm/m/n/12 Target iden-ti-fi-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []|\T1/ptm/m/n/12 Target pri-or-i-ti-za-tion in TB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 \T1/ptm/m/n/12 thor-ough a com-pu-ta-tional
  []
 
 
-Overfull \hbox (3.13759pt too wide) in paragraph at lines 482--482
+Overfull \hbox (3.13759pt too wide) in paragraph at lines 477--477
 []|\T1/ptm/m/n/12 TDRtargets| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\T1/ptm/m/n/12 Database and method for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 \T1/ptm/m/n/12 iden-ti-fi-ca-tion of po-ten-tial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
 \T1/ptm/m/n/12 bioin-for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
 []|\T1/ptm/m/n/12 Drug repo-si-tion-ing ap-plied to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 []|\T1/ptm/m/n/12 Database of anti-tubercular
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 \T1/ptm/m/n/12 com-pounds re-ported from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 \T1/ptm/m/n/12 HTS along-side com-pu-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 \T1/ptm/m/n/12 tional mod-els to an-a-lyze the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \T1/ptm/m/n/12 bioin-for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \T1/ptm/m/n/12 and chemoin-for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 []|\T1/ptm/m/n/12 Identification of the MTB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \T1/ptm/m/n/12 tar-gets of bio-active anti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \T1/ptm/m/n/12 tubercular com-pounds us-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
 \T1/ptm/m/n/12 three or-thog-o-nal \T1/ptm/m/it/12 in-silico
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 \T1/ptm/m/n/12 bioin-for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 []|\T1/ptm/m/n/12 Homology mod-elling and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 \T1/ptm/m/n/12 vir-tual dok-ing ap-plied to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 \T1/ptm/m/n/12 ligand-protein in-ter-ac-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 \T1/ptm/m/n/12 chemoin-fo-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 []|\T1/ptm/m/n/12 TB Mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 []|\T1/ptm/m/n/12 Mobile app that pro-vides a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--492
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 \T1/ptm/m/n/12 plat-form to in-ter-act with data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \T1/ptm/m/n/12 bioin-for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \T1/ptm/m/n/12 and chemoin-for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 []|\T1/ptm/m/n/12 Identification of Enoyl acyl
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \T1/ptm/m/n/12 car-rier pro-tein re-duc-tase
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \T1/ptm/m/n/12 binders us-ing a 3D-QSAR
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 []|\T1/ptm/m/n/12 Application of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 \T1/ptm/m/n/12 bioin-for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 []|\T1/ptm/m/n/12 Interactome com-pu-ta-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 \T1/ptm/m/n/12 anal-y-sis to iden-tify po-ten-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 \T1/ptm/m/n/12 tial mech-a-nisms of drug
  []
 
 
-Overfull \hbox (1.48158pt too wide) in paragraph at lines 499--499
+Overfull \hbox (1.48158pt too wide) in paragraph at lines 494--494
 []|\T1/ptm/m/n/12 Tuberculist| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
 []|\T1/ptm/m/n/12 Database of ex-per-i-men-tally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 []|\T1/ptm/m/n/12 MTB pro-tein drug-ga-bil-ity
  []
 
 
-Overfull \hbox (1.96527pt too wide) in paragraph at lines 476--505
+Overfull \hbox (1.96527pt too wide) in paragraph at lines 471--500
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
 []\T1/ptm/m/n/12 Table 1.2: |Ta-ble con-tain-ing mul-ti-ple com-pu-ta-tional re
 -sources used in the dis-cov-
  []
 
 
-LaTeX Warning: Float too large for page by 70.19896pt on input line 508.
+LaTeX Warning: Float too large for page by 70.19896pt on input line 503.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page32#48| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page31#47| 
+ []
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page32#48| 
  []
 
 [32]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page33#49| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page33#49| 
  []
 
 [33]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page34#50| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page34#50| 
  []
 
-[34
-
-
-]
+[34]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
  []\T1/ptm/b/n/17.28 CHAPTER 2 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
  []\T1/ptm/b/n/24.88 OBJECTIVES 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page35#51| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page35#51| 
  []
 
-[35]
+[35
+
+
+]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page36#52| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page36#52| 
  []
 
 [36
@@ -1959,23 +1975,23 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--524
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
  []\T1/ptm/b/n/17.28 CHAPTER 3 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--524
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
  []\T1/ptm/b/n/24.88 NANNOLYZE 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page37#53| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page37#53| 
  []
 
 [37]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page38#54| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page38#54| 
  []
 
 [38
@@ -1984,18 +2000,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
  []\T1/ptm/b/n/17.28 CHAPTER 4 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page39#55| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page39#55| 
  []
 
 [39]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page40#56| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page40#56| 
  []
 
 [40
@@ -2004,32 +2020,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
+Underfull \hbox (badness 10000) in paragraph at lines 530--530
  []\T1/ptm/b/n/17.28 CHAPTER 5 
  []
 
 File: ../figures/logo_upf.png Graphic file (type png)
 <use ../figures/logo_upf.png>
-Package pdftex.def Info: ../figures/logo_upf.png used on input line 532.
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 536.
 (pdftex.def)             Requested size: 18.06744pt x 6.62473pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--533
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--533
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
  []\T1/ptm/m/n/12 Figure 5.1: |Ex-am-ple| 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page41#57| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page41#57| 
  []
 
 [41]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page42#58| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page42#58| 
  []
 
 [42
@@ -2038,7 +2054,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 No file thesis.ind.
 
-Overfull \hbox (8.91217pt too wide) in paragraph at lines 549--549
+Overfull \hbox (8.91217pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 (1990), pp. 7133^^U7155. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 00
 06-2960. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1021 / bi00
 483a001$[]
@@ -2046,230 +2062,252 @@ Overfull \hbox (8.91217pt too wide) in paragraph at lines 549--549
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page43#59| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page43#59| 
  []
 
 [43
 
 
 ]
-Overfull \hbox (14.15862pt too wide) in paragraph at lines 549--549
+Overfull \hbox (14.15862pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 tein struc-ture de-ter-mi-na-tion^^T. In: \T1/ptm/m/it/12 Na-tur
 e Biotech-nol-ogy \T1/ptm/m/n/12 29.4 (2011), pp. 335^^U
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page44#60| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page44#60| 
  []
 
 [44]
-Overfull \hbox (1.19978pt too wide) in paragraph at lines 549--549
+Overfull \hbox (1.19978pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 1934-3663. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12
  10 . 1002 / 0471140864 . ps0209s50$[] \T1/ptm/m/n/12 (cit. on pp. []12[],
  []
 
 
-Overfull \hbox (3.86006pt too wide) in paragraph at lines 549--549
+Overfull \hbox (3.86006pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/it/12 ence \T1/ptm/m/n/12 294 (2001), pp. 93^^U96. \T1/ptm/m/sc/12 is
 sn\T1/ptm/m/n/12 : 00368075. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n
 /12 10 . 1126 / science .
  []
 
 
-Overfull \hbox (20.00471pt too wide) in paragraph at lines 549--549
+Overfull \hbox (20.00471pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 zone of pro-tein se-quence ho-mol-ogy^^T. In: \T1/ptm/m/it/12 St
 ruc-ture \T1/ptm/m/n/12 4.10 (Oct. 1996), pp. 1123^^U
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page45#61| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page45#61| 
  []
 
 [45]
-Overfull \hbox (6.84593pt too wide) in paragraph at lines 549--549
+Overfull \hbox (6.84593pt too wide) in paragraph at lines 553--553
 []\T1/ptm/m/n/12 D.B. Mc-Gar-rah and R.S. Jud-son. ^^S  Anal-y-sis of the ge-ne
 tic al-go-rithm method
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page46#62| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page46#62| 
  []
 
 [46]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page47#63| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page47#63| 
  []
 
 [47]
-Overfull \hbox (3.43718pt too wide) in paragraph at lines 549--549
+Overfull \hbox (3.43718pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 In: \T1/ptm/m/it/12 Nu-cleic Acids Re-search \T1/ptm/m/n/12 33.W
 eb Server is-sue (July 2005), W244^^UW248.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page48#64| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page48#64| 
  []
 
 [48]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page49#65| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page49#65| 
  []
 
 [49]
-Overfull \hbox (23.75514pt too wide) in paragraph at lines 549--549
+Overfull \hbox (23.75514pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 In: \T1/ptm/m/it/12 Nu-cleic Acids Re-search \T1/ptm/m/n/12 37.S
 UPPL. 1 (2009), pp. 211^^U215. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/12 : 03051048.
  []
 
 
-Overfull \hbox (0.57004pt too wide) in paragraph at lines 549--549
+Overfull \hbox (0.57004pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 years to-wards a Supra-cel-lu-lar Chem-istry^^T. In: \T1/ptm/m/i
 t/12 Per-spec-tives in Supramolec-
  []
 
 
-Overfull \hbox (32.43199pt too wide) in paragraph at lines 549--549
+Overfull \hbox (32.43199pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/it/12 u-lar Chem-istry\T1/ptm/m/n/12 . John Wi-ley & Sons, Ltd., 1994
 , pp. 1^^U23. \T1/ptm/m/sc/12 isbn\T1/ptm/m/n/12 : 9780470511411.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page50#66| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page50#66| 
  []
 
 [50]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page51#67| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page51#67| 
  []
 
 [51]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page52#68| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page52#68| 
  []
 
 [52]
-Overfull \hbox (6.9313pt too wide) in paragraph at lines 549--549
+Overfull \hbox (6.9313pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 Ki-nase CK2 In-hibitor by High-Throughput Dock-ing^^T. In: \T1/p
 tm/m/it/12 Jour-nal of Medic-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page53#69| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page53#69| 
  []
 
 [53]
-Overfull \hbox (9.39221pt too wide) in paragraph at lines 549--549
+Overfull \hbox (9.39221pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 503.7477 (2013), pp. 449^^U50. \T1/ptm/m/sc/12 issn\T1/ptm/m/n/1
 2 : 1476-4687. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1038 
 / 503449a$[]
  []
 
 
-Overfull \hbox (23.60071pt too wide) in paragraph at lines 549--549
+Overfull \hbox (23.60071pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 Sons, Ltd, 2001. \T1/ptm/m/sc/12 isbn\T1/ptm/m/n/12 : 9780470015
 902. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : []$\T1/pcr/m/n/12 10 . 1002 / 97804700
 15902 .
  []
 
 
-Overfull \hbox (6.24274pt too wide) in paragraph at lines 549--549
+Overfull \hbox (6.24274pt too wide) in paragraph at lines 553--553
 []\T1/ptm/m/n/12 Lisa Hutchin-son and Re-becca Kirk. ^^S  High drug at-tri-tion
  rates[mdash]where
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page54#70| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page54#70| 
  []
 
 [54]
-Overfull \hbox (9.38474pt too wide) in paragraph at lines 549--549
+Overfull \hbox (9.38474pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 tar-gets us-ing ma-chine learn-ing, in-hibitor de-sign and high-
 throughput screen-
  []
 
 
-Overfull \hbox (8.81865pt too wide) in paragraph at lines 549--549
+Overfull \hbox (8.81865pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 val-i-da-tion of mi-croR-NAs bind-ing to the Alzheimer-related g
 ene ADAM10^^T.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page55#71| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page55#71| 
  []
 
 [55]
-Overfull \hbox (12.23505pt too wide) in paragraph at lines 549--549
+Overfull \hbox (12.23505pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 Use in the De-sign of Novel p38-MAPK In-hibitors^^T. In: \T1/ptm
 /m/it/12 Jour-nal of Computer-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page56#72| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page56#72| 
  []
 
 [56]
-Overfull \hbox (10.51091pt too wide) in paragraph at lines 549--549
+Overfull \hbox (10.51091pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 duced Fit^^T. In: \T1/ptm/m/it/12 Jour-nal of Medic-i-nal Chem-i
 stry \T1/ptm/m/n/12 45.11 (May 2002), pp. 2139^^U
  []
 
 
-Overfull \hbox (15.7851pt too wide) in paragraph at lines 549--549
+Overfull \hbox (15.7851pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/n/12 rev-o-lu-tion.^^T In: \T1/ptm/m/it/12 Drug dis-cov-ery to-day. T
 ech-nolo-gies \T1/ptm/m/n/12 1.4 (Dec. 2004), pp. 337^^U
  []
 
 
-Overfull \hbox (1.13435pt too wide) in paragraph at lines 549--549
+Overfull \hbox (1.13435pt too wide) in paragraph at lines 553--553
 []\T1/ptm/m/n/12 Clare M. Lewandowski, New Co-investigator, and Clare M. Lewand
 owski.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page57#73| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page57#73| 
  []
 
 [57]
-Overfull \hbox (63.24956pt too wide) in paragraph at lines 549--549
+Overfull \hbox (63.24956pt too wide) in paragraph at lines 553--553
 \T1/ptm/m/it/12 com-bined $20 mil-lion gift to Broad In-sti-tute - https://www.
 broadinstitute.org/news/6981
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page58#74| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page58#74| 
  []
 
 [58]
-Overfull \hbox (10.20602pt too wide) in paragraph at lines 549--549
+Overfull \hbox (10.20602pt too wide) in paragraph at lines 553--553
 []\T1/ptm/m/n/12 Lluís Bal-lell et al. ^^S  Fu-el-ing open-source drug dis-cov-
 ery: 177 small-molecule
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page59#75| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page59#75| 
  []
 
 [59]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 555.
+Overfull \hbox (8.04448pt too wide) in paragraph at lines 553--553
+\T1/ptm/m/n/12 and neck can-cer^^T. In: \T1/ptm/m/it/12 Bi-o-log-ics : Tar-gets
+ & Ther-apy \T1/ptm/m/n/12 4 (Aug. 2010), pp. 173^^U
+ []
+
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\T1/ptm/m/n/12 ``thesis''2016/5/912:12page60#76| 
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page60#76| 
  []
 
 [60]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 555.
+Overfull \hbox (22.43835pt too wide) in paragraph at lines 553--553
+\T1/ptm/m/n/12 munother-apy in Pa-tients With Rituximab-Refractory Fol-lic-u-la
+r Non-Hodgkin's
+ []
+
+
+Overfull \hbox (9.79309pt too wide) in paragraph at lines 553--553
+\T1/ptm/m/n/12 Lym-phoma^^T. In: \T1/ptm/m/it/12 Jour-nal of Clin-i-cal On-col-
+ogy \T1/ptm/m/n/12 20.15 (Aug. 2002), pp. 3262^^U
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\T1/ptm/m/n/12 ``thesis''2016/7/418:28page61#77| 
+ []
+
+[61]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
  (./thesis.aux
 LaTeX Info: Redefining \sptext on input line 32.
 LaTeX Info: Redefining \. on input line 32.
@@ -2278,10 +2316,10 @@ LaTeX Info: Redefining \sptext on input line 40.
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 555.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 555.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 559.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8AAF7FB1F6029D4715180229D546184D;1114.
+(rerunfilecheck)             Checksum: DD09EEDDA24538EC1167C18B861E1985;1127.
 
 
 LaTeX Warning: There were undefined references.
@@ -2289,36 +2327,34 @@ LaTeX Warning: There were undefined references.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 555.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 559.
  ) 
 Here is how much of TeX's memory you used:
- 17191 strings out of 493089
- 278619 string characters out of 6134842
- 831074 words of memory out of 5000000
- 20069 multiletter control sequences out of 15000+600000
+ 16964 strings out of 495034
+ 270858 string characters out of 6181677
+ 1258457 words of memory out of 5000000
+ 19556 multiletter control sequences out of 15000+600000
  71138 words of font info for 75 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 42i,11n,75p,4222b,2465s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/ur
-w/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/ut
-mr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-
-Output written on thesis.pdf (76 pages, 911677 bytes).
+ 14 hyphenation exceptions out of 8191
+ 42i,12n,75p,4222b,2380s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (77 pages, 917496 bytes).
 PDF statistics:
- 1609 PDF objects out of 1728 (max. 8388607)
- 1418 compressed objects within 15 object streams
- 326 named destinations out of 1000 (max. 500000)
+ 1638 PDF objects out of 1728 (max. 8388607)
+ 1446 compressed objects within 15 object streams
+ 336 named destinations out of 1000 (max. 500000)
  202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
