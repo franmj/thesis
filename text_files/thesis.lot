@@ -1,7 +1,7 @@
 \select@language {english}
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\select@language {spanish}
+\select@language {english}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
@@ -9,16 +9,6 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
+\contentsline {table}{\numberline {1}{\ignorespaces List of the public Protein Modeling Tools\relax }}{13}{table.caption.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {1.1}{\ignorespaces List of the public Protein Modeling Tools\relax }}{15}{table.caption.16}
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {1.2}{\ignorespaces Table containing multiple computational resources used in the discovery and research against TB\relax }}{34}{table.caption.24}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }{}{}
+\contentsline {table}{\numberline {3}{\ignorespaces FDA approved kinase inhibitors alonsgide their pharmacological target, binding mode and year of FDA approval.\relax }}{52}{table.caption.28}

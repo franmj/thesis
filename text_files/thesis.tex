@@ -1,8 +1,21 @@
-\documentclass[12pt, a4paper,twoside]{tesi_upf}
+%\documentclass[12pt, a4paper,twoside]{tesi_upf}
+%\documentclass[12pt, b5paper]{tesi_upf}
+
+%\usepackage[latin1]{inputenc}
+%\usepackage[T1]{fontenc}
+\documentclass[12pt, b5paper,twoside]{tesi_upf}
 
 
+%CODIFICACIÓ
 \usepackage[latin1]{inputenc}
-\usepackage[T1]{fontenc}
+
+
+%IDIOMES
+\usepackage[spanish,english]{babel}
+
+%NOMÉS PER A OBTENIR INDICACIÓ DEL MARC EN MIDA B5
+\usepackage[b5paper]{geometry}
+\usepackage[cam,a4,center,frame]{crop}
 
 
 %IDIOMES
@@ -13,6 +26,8 @@
 \usepackage{mathtools}
 \usepackage{csquotes}
 \usepackage{times}
+\usepackage{caption}
+
 \pagestyle{plain}
 \usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
 \usepackage{biblatex}
@@ -25,7 +40,9 @@
 \usepackage{tabu}
 \usepackage{mathtools}
 \usepackage{tabulary}
-
+%\usepackage[b5paper,layout=b5paper]{geometry}
+\usepackage{longtable}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
 \usepackage[newcommands]{ragged2e}
 \newcommand\tr{\rule{0pt}{3.5ex}}
 \newcommand\br{\rule[-3ex]{0pt}{3ex}}
@@ -56,9 +73,9 @@
 
 
 \begin{document}
-
+\captionsetup[table]{skip=20pt}
+\captionsetup[longtable]{skip=20pt}
 \frontmatter
-
 
 \maketitle
 
@@ -117,7 +134,7 @@ Vet aqui el resum de la tesi en catala.
 
 \mainmatter
 
-\chapter*{Summary}
+\section*{Summary}
 
 sencillo
 
@@ -154,9 +171,9 @@ Consta de
 
 
 
-\chapter{Introduction} \label{introduction} 
+\section*{Introduction} \label{introduction} 
 
-\section{Protein are essential molecules}
+\subsection*{Protein are essential molecules}
 
 
 
@@ -462,13 +479,21 @@ This raise in the drug development cost has lead to a dramatic shrinkage of the 
 
 \subsubsection{In-silico approaches in TB}
 
-\par Similarly to many other diseases, CADD methods play a substantial role in the Tuberculosis R$\&$ field. Uncountable \textit{in-silico} methods have been published over the last decade \cite{Ekins2013}, each of them applying different strategies to solve a specific bio-medical question. However, all of them pursue the very same goal: fueling drug discovery against TB. Table \ref{table_mtb_methods} contains some remarkable \textit{in-silico} resources for the fight
-against TB. The purpose of these resources is very diverse. One popular resource is targetTB, which consist on an open-source pipeline to identify targets in MTB \cite{Raman2008}. Similarly, chapter [REF OUT CHAPTER] presents how the combination of three orthogonal approaches can help to identify the molecular targets of new anti-tubercular compounds. Other resources go beyond a computational pipeline and join a target detection tool with a database of known existing targets and anti-microbial compounds, such is the case of TDRtargets \cite{Crowther2010} (\url{http://tdrtargets.org/}) and CCD-TB \cite{Ekins2010} . Other resources, on the other hand,  are focused on provide specific insights about particular  Most of these resources take advantage of Tuberculist and TuberQ, two databases that include data respectively. Finally, TB-Mobile. 
-\renewcommand{\arraystretch}{1.2} %<- modify value to suit your needs
-\begin{table}[h!]
- \centering
+\par Similarly to many other diseases, CADD methods play a substantial role in the Tuberculosis R$\&$D field. Uncountable \textit{in-silico} methods have been published over the last decade \cite{Ekins2013}, each of them applying different strategies to solve a specific bio-medical question. However, all of them pursue the very same goal: fueling drug discovery against TB. Table \ref{table:table_mtb_methods} contains some remarkable \textit{in-silico} resources for the fight
+against TB. The purpose of these resources is very diverse. One popular resource is targetTB, which consist on an open-source pipeline to identify targets in MTB \cite{Raman2008}. Similarly, chapter [REF OUT CHAPTER] presents how the combination of three orthogonal approaches can help to identify the molecular targets of novel anti-tubercular compounds. Other resources, such as TDRtargets \cite{Crowther2010} (\url{http://tdrtargets.org/}) and CCD-TB \cite{Ekins2010},  blend a target detection tool with a publicly accesible database of known existing targets and anti-microbial compounds. Some methods, on the other hand,  are focused on provide specific insights into a specific problem in TB treatment. Such is the case of the computational detection of Comtan as a potential agent in the treatment of MDR-TB and XDR-TB \cite{Kinnings2009}, or the examples from \cite{DeJonge2007} and \cite{Kumar2009}. Most of these resources take advantage of Tuberculist \cite{Lew2011}, a database of experimentally measured gene essentiality in MTB; and TuberQ \cite{Radusky2014} , which contains information about MTB protein druggability. Is such the importance of computational resources in TB research that recently a Mobile app, called TB-Mobile \cite{Ekins2013, Clark2014}, was published. TB-Mobile provides an agile way to interact with TB data and includes some chemoinformatics tools for clustering and finding new molecular targets to known anti-tubercular compounds. This app is therefore pushing the boundaries of real science on mobile devices in several important ways, and could set up a milestone in bringing mobile apps into the computational biology research field.
 
- \begin{tabular}{*{4}{|| p{3cm} | p{1.85cm}  |  p{5cm} | p{2cm}} ||} 
+\par Overall, \textit{in-silico} methods have played a major role in the research against tropical infectious diseases. Particularly,  Tuberculosis have benefited enormously from the contribution of such methods and therefore they are partly responsible of the improvement in the outcome of the disease. 
+
+
+
+\tabulinesep=1.4mm{
+\begin{longtabu} to \textwidth {|| X | X |  p{4cm} | X ||}
+ 
+
+ 
+ %\begin{adjustbox}{width=1\textwidth, totalheight=\textheight,keepaspectratio}
+ %\small
+ %\begin{tabularx}
  \hline
  \tr\textbf{Type of method}\br &\tr\textbf{Name}\br  & \tr\textbf{Resource description}\br & \tr\textbf{Reference(s)}\br\\  
 \hline
@@ -495,12 +520,12 @@ against TB. The purpose of these resources is very diverse. One popular resource
    \hline
     Database & TuberQ &  MTB protein druggability database  &  \cite{Radusky2014} \\
    \hline
-  
-\end{tabular}
+   \caption[]{Table containing multiple computational resources used in the discovery and research against TB} \label{table:table_mtb_methods} 
+%\end{tabularx}
 
-\label{table:table_mtb_methods}
-\caption{Table containing multiple computational resources used in the discovery and research against TB}
-\end{table}
+
+
+\end{longtabu}}
 
 
 
@@ -520,56 +545,132 @@ against TB. The purpose of these resources is very diverse. One popular resource
 
 \par Small molecule inhibitors is the second main class of targeted cancer therapies.  Unlike monoclonal antibodies, they can penetrate into the cell throughout the plasma membrane. Small molecule targeted cancer therapies focus on inhibiting protein kinases. In fact, kinases have been established as promising drug targets for the treatment of various types of human disease because of their essential roles in signal transductions and regulation of a range of cellular activities. However, the vast majority of these targets are being investigated for the treatment of cancer \cite{Zhang2009}.  Over the last years,  many kinases have been found to be deeply involved in the processes leading to tumorigenesis. Depending of their role in cancer progression we can classify small molecule kinase targets into different groups.  First, there are kinases that have become insensitive to normal regulatory mechanisms. The altered activity of such kinases can be the consequence of genetic alterations (e.g. mutations or translocations) or epigenetic changes (e.g. gene amplification, increased expression) and are considered to be oncogenic. The constitutive activity of this class of kinase target makes them essential for survival and/or proliferation of the cancer cell. This phenomenon is known as oncogene addiction \cite{Weinstein2006}, and makes the cancer cell exceptionally susceptible to the oncogene kinase inhibitor. One of best examples of this phenomenon is the activating V600E BRAF mutation. About 50 $\%$ of melanomas harbour this oncogenic mutation \cite{Ascierto2012}. Currently, there are two small molecules FDA approved inhibitors (vemurafenib \cite{Bollag2010} and dabrafenib \cite{Gibney2013}) that specifically target the BRAF V600E-mutated metastatic melanoma. Inhibiting mutationally activated kinases (i.e., oncogenic kinases) has resulted in the most dramatic clinical responses \cite{Zhang2009}.  A second class of target kinases is composed by those non-oncogenic kinases whose presence is preferentially required for the survival and/or proliferation of tumour cells.  These kinases are usually located in key signalling pathways downstream of cancer oncogenes. Examples of this type of targets include MEK1 and MEK2 (also known as MAP2K1 and MAP2K2), which are targeted by several small molecule inhibitors such as trametinib or cobimetinib. Combinations of these inhibitors with oncogene inhibitors led into a significant improvement in patient survival compared with single treatment regime in melanoma \cite{Flaherty2012, Flaherty2012a}. Another class of kinases targets are those highly expressed in the tumour stroma and that are required for different stages of tumour formation and development in the human host. Examples of this class include the inhibition of VEGFR by pazopanib or other small molecule inhibitors \cite{Ivy2009}. Kinase targets of the second and third classes are not directly oncogenic, but instead are required for the survival and proliferation of cancer cells. Hence, the inhibition of these kinases is usually combined with oncogene inhibition to strengthen the inhibitory effect and overcome resistance due to activation of downstream survival mechanisms \cite{Holohan2013}. 
  
- \par Protein kinases are defined by their ability to catalyse the transfer of the terminal phosphate of ATP to a substrate that usually contains a serine, threonine or tyrosine. They share a highly conserved arrangement of secondary structure elements that fold into a bi-lobed catalytic core structure (N-terminal lobe and C-terminal lobe), with ATP binding site located in a deep cleft located between the two lobes \cite{Manning2002}. The ATP adenine ring forms hydrogen bonds with the kinase hinge region (i.e., the segment that connects the amino and carboxy terminal kinase domains , FIGURE), while the ribose and triphosphate groups of ATP bind in a hydrophilic channel adjacent to the ATP binding site that contains conserved residues that are essential to catalysis. Additionally, kinases have a conserved activation loop, which regulates the kinase activity and that contains a extremely conserved DFG motif (i.e., aspartic acid, phenylalanine and glycine) at the start of the loop (Figure). The structural disposition of the activation loop switches between the active and inactive conformations of the protein kinase \cite{Manning2002}. Since the catalytic mechanism requires the exact positioning of highly conserved active site residues, the kinase active state is rigid and highly conserved. In contrast, kinase inactive states are structurally highly diverse and dynamic \cite{Muller2015}. Furthermore, the kinase ATP binding site contains a highly flexible phosphate-binding loop (P-loop). In many kinases the the P-loop contains an aromatic residue that points upward in the active kinase state, enabling the binding of ATP. Finally, kinases contain a key residue in the ATP-binding site known as \textit{gatekeeper}. This residue is located close to the hinge region and controls the access of small molecule inhibitors to a hydrophobic pocket in the active site that is not contacted by ATP \cite{Lui1998} (Figure).  
+ \par Protein kinases are defined by their ability to catalyse the transfer of the terminal phosphate of ATP to a substrate that usually contains a serine, threonine or tyrosine. They share a highly conserved arrangement of secondary structure elements that fold into a bi-lobed catalytic core structure (N-terminal lobe and C-terminal lobe), with ATP binding site located in a deep cleft located between the two lobes \cite{Manning2002} \ref{fig:kinase_general_conformation}. The ATP adenine ring forms hydrogen bonds with the kinase hinge region (i.e., the segment that connects the amino and carboxy terminal kinase domains), while the ribose and triphosphate groups of ATP bind in a hydrophilic channel adjacent to the ATP binding site that contains conserved residues that are essential to catalysis. Additionally, kinases have a conserved activation loop, which regulates the kinase activity and that contains a extremely conserved DFG motif (i.e., aspartic acid, phenylalanine and glycine) at the start of the loop. The structural disposition of the activation loop switches between the active and inactive conformations of the protein kinase \cite{Manning2002}. Since the catalytic mechanism requires the exact positioning of highly conserved active site residues, the kinase active state is rigid and highly conserved. In contrast, kinase inactive states are structurally highly diverse and dynamic \cite{Muller2015}. Furthermore, the kinase ATP binding site contains a highly flexible phosphate-binding loop (P-loop). In many kinases the the P-loop contains an aromatic residue that points upward in the active kinase state, enabling the binding of ATP. Finally, kinases contain a key residue in the ATP-binding site known as \textit{gatekeeper}. This residue is located close to the hinge region and controls the access of small molecule inhibitors to a hydrophobic pocket in the active site that is not contacted by ATP \cite{Lui1998} \ref{fig:kinase_general_conformation}.  
 
 \par Most of the current small molecule kinase inhibitors are ATP-competitive that mimics the ATP binding mode. However, depending of their specific binding mode small molecule protein kinase inhibitors can be classified into multiple classes:
  
  \begin{enumerate}
  
-\item \textbf{Type I inhibitors}. This type of ATP-competitive inhibitor bind the active conformation of the protein kinase. As mentioned above, the kinase active state is well defined and it is more rigid than inactive kinase states. Moreover, is very conserved among kinases making the development of selective type I inhibitors a very challenging task. The specificity is therefore given by unusual active site features such as rare amino acids in conserved positions, inserts/deletions, and, in some cases, residues that can be targeted by irreversible inhibitors. Additionally,  small gatekeeper residues, such as threonine, can provide access to a hydrophobic \textit{back pocket} not contacted by ATP \cite{Noble2004}. Type 1 inhibitors typically consist of a heterocyclic core scaffold that occupies the adenine binding site alongside side chains that occupy the adjacent hydrophobic regions Figure?. Examples of this class include the EGFR inhibitors gefitinib and erlotinib, the BRAF V600E-mutant inhibitor vemurafenib, the anaplastic lymphoma kinase (ALK) inhibitor crizotinib or the Bcr-Abl tyrosine kinase inhibitor dasatinib. The complete list of type I inhibitors is shown in table X. 
-\item \textbf{Type II inhibitors}. Type 2 kinase inhibitors recognize the inactive conformation of the kinase. The most frequent conformation recognized by type 2 inhibitors is the so-called DFG-out. This conformation is created by a rearrangement of the activation loop that creates an extended and flexible binding pocket adjacent to the ATP binding site Figure ?. The high degree of flexibility generated by this conformation suggests that inhibitors targeting such states should have a better chance being selective. However, recent comprehensive analysis of type II selectivity revealed that many kinases can assume this inactive state and that type II inhibitors may not be intrinsically more selective than type I inhibitors \cite{Inhibitor2016}. The original discovery that inhibitors such as imatinib and sorafenib bind in the type 2 conformation was serendipitous, but subsequent analysis of multiple type 2 kinase inhibitor revealed that most of them share a similar binding pattern \cite{Inhibitor2016}. Other examples of type II kinase inhibitors include the Bcr-Abl tyrosine kinase inhibitors nilotinib or ponatinib. The complete list of type II inhibitors is shown in table X. 
-\item \textbf{Targeting P-loop conformations}. In kinase-inhibitor complexes, the P-loop may fold into the ATP -binding site, forming aromatic stacking interactions with the inhibitor \cite{Guimaraes2011}. An additional characteristic of folded P-loop conformations is the induction of a large binding cavity between the P-loop and the $\alpha$C helix. This binding cavity is present in many structures with folded P-loops and has been explored, for the first time, by the selective ERK1/2 inhibitor SCH772984 \cite{Morris2013}. Multiple kinases can adopt a folded P-loop conformation, and the unique geometric features of this binding mode, may lead into the development of selective inhibitors for these kinases. Nevertheless, none of FDA approved drugs adopt this conformation, and therefore a broader general demonstration of this inhibitor binding mode is still necessary. 
+\item \textbf{Type I inhibitors}. This type of ATP-competitive inhibitor bind the active conformation of the protein kinase. As mentioned above, the kinase active state is well defined and it is more rigid than inactive kinase states. Moreover, is very conserved among kinases making the development of selective type I inhibitors a very challenging task. The specificity is therefore given by unusual active site features such as rare amino acids in conserved positions, inserts/deletions, and, in some cases, residues that can be targeted by irreversible inhibitors. Additionally,  small gatekeeper residues, such as threonine, can provide access to a hydrophobic \textit{back pocket} not contacted by ATP \cite{Noble2004}. Type 1 inhibitors typically consist of a heterocyclic core scaffold that occupies the adenine binding site alongside side chains that occupy the adjacent hydrophobic regions \ref{fig:type_inhibitors}. Examples of this class include the EGFR inhibitors gefitinib and erlotinib, the BRAF V600E-mutant inhibitor vemurafenib, the anaplastic lymphoma kinase (ALK) inhibitor crizotinib or the Bcr-Abl tyrosine kinase inhibitor dasatinib. The complete list of type I inhibitors is shown in table X. 
 
-\item \textbf{Type III allosteric inhibitors}. Type III kinase inhibitors are non ATP-competitive inhibitors that bind the kinase in a allosteric site (i.e., a site distinct from the enzyme active site that can bind a ligand) modulating kinase activity in an allosteric manner. Allosteric inhibitors tend to exhibit the highest degree of selectivity since they exploit binding sites and regulatory mechanisms that are unique to each particular kinase. Most allosteric kinase inhibitors have been discovered serendipitously, and currently there is no general strategy for identifying such compounds. The best examples of this class are the MEK1/MEK2 allosteric inhibitors trametinib and cobimetinib, which occupy a pocket adjacent to the ATP binding site. Other FDA approved non-ATP competitive inhibitors are shown in table X. 
+\item \textbf{Type II inhibitors}. Type 2 kinase inhibitors recognize the inactive conformation of the kinase. The most frequent conformation recognized by type 2 inhibitors is the so-called DFG-out. This conformation is created by a rearrangement of the activation loop that creates an extended and flexible binding pocket adjacent to the ATP binding site \ref{fig:type_inhibitors}. The high degree of flexibility generated by this conformation suggests that inhibitors targeting such states should have a better chance being selective. However, recent comprehensive analysis of type II selectivity revealed that many kinases can assume this inactive state and that type II inhibitors may not be intrinsically more selective than type I inhibitors \cite{Inhibitor2016}. The original discovery that inhibitors such as imatinib and sorafenib bind in the type 2 conformation was serendipitous, but subsequent analysis of multiple type 2 kinase inhibitor revealed that most of them share a similar binding pattern \cite{Inhibitor2016}. Other examples of type II kinase inhibitors include the Bcr-Abl tyrosine kinase inhibitors nilotinib or ponatinib. The complete list of type II inhibitors is shown in table X. 
+
+\item \textbf{Targeting P-loop conformations}. In kinase-inhibitor complexes, the P-loop may fold into the ATP -binding site, forming aromatic stacking interactions with the inhibitor \cite{Guimaraes2011}. An additional characteristic of folded P-loop conformations is the induction of a large binding cavity between the P-loop and the $\alpha$C helix \ref{fig:type_inhibitors}. This binding cavity is present in many structures with folded P-loops and has been explored, for the first time, by the selective ERK1/2 inhibitor SCH772984 \cite{Morris2013}. Multiple kinases can adopt a folded P-loop conformation, and the unique geometric features of this binding mode, may lead into the development of selective inhibitors for these kinases. Nevertheless, none of FDA approved drugs adopt this conformation, and therefore a broader general demonstration of this inhibitor binding mode is still necessary. 
+
+\item \textbf{Type III allosteric inhibitors}. Type III kinase inhibitors are non ATP-competitive inhibitors that bind the kinase in a allosteric site (i.e., a site distinct from the enzyme active site that can bind a ligand) modulating kinase activity in an allosteric manner. Allosteric inhibitors tend to exhibit the highest degree of selectivity since they exploit binding sites and regulatory mechanisms that are unique to each particular kinase \ref{fig:type_inhibitors}. Most allosteric kinase inhibitors have been discovered serendipitously, and currently there is no general strategy for identifying such compounds. The best examples of this class are the MEK1/MEK2 allosteric inhibitors trametinib and cobimetinib, which occupy a pocket adjacent to the ATP binding site. Other FDA approved non-ATP competitive inhibitors are shown in table X. 
 
 \item \textbf{Covalent inhibitors}. The last class of kinase inhibitors are those capable of forming an irreversible, covalent bond to the kinase active site, most frequently thorough the reaction with a nucleophilic cysteine residue \cite{Cohen2005}. Most of the covalent kinase inhibitors have been developed by structure-guided incorporation of an electrophilic group into an inhibitor that already had sub-micromolar binding affinity \cite{Potashman2009}. Although a large number of kinases have cysteine residues in and around the ATP-binding site, there are not conserved cysteines residues across the human kinome \cite{Liu2013a}. This lack of conservation has been used to develop selective irreversible inhibitors of kinases habouring cysteine residues in the ATP-binding site. However, cross-reactivity of cysteine-reactive groups can lead to non-selective reactions with off-target proteins, which eventually gives rise to increased toxicity and lack of target specificity \cite{Barf2012, Liebler2008}. Examples of FDA approved irreversible inhibitors include the Bruton's tyrosine kinase (BTK) Ibrutinib or the EGFR inhibitor afatinib.
  
  
 \end{enumerate}  
  
+ \begin{figure}[!tp]
+  
+  \centering
+    
+   
+	\includegraphics[width=1\linewidth]{../figures/kinase_structure.png}
+	\caption{3D structure of ABL1 kinase in complex with imatinib displaying the different structural regions of protein kinases. The structure represents the typical kinase inactive DGF-out conformation. The protein is represented as ribbons and the ligand as sticks. The activation loop is coloured in cyan, the DGF motif in blue, the P-loop is coloured in red, the hinge region in purple and the $\alpha$C helix in green. PDB accession code 2HYY.}
+	\label{fig:kinase_general_conformation}
+	
+	\end{figure}
+\begin{figure}[!tp]
+	\includegraphics[width=1\linewidth]{../figures/type_kinases_inhibitors.pdf}
+	\caption{Structural features of the canonical classes of small molecule kinase inhibitors. The center panel shows the main interaction sites of different inhibitors types. The side panels show the specific structural features of each of the binding modes. Figure extracted from \cite{Muller2015}.}
+	\label{fig:type_inhibitors}
+	\vspace*{4mm}
+\end{figure}
+	
+   
+ 
+ 
   
 Rapamycin analogs Everolimus and Temsirolimus are non-ATP-competitive mTORC1 
 Problem of multitarget!!! 
 REsistance conextion next chapter. 
  
+   
+
+\renewcommand{\arraystretch}{1.2}
+\begin{table}[ht]
+
+ \centering
+ \resizebox{\textwidth}{!}{
+ %\begin{tabular}{*{4}{|| p{2cm} | p{4cm}  |  p{3cm} | p{1cm} } ||} 
+ \begin{tabular}{*{4}{|| c | c  |  c | c  ||}} 
+ \hline
+ \tr\textbf{Compound name}\br &\tr\textbf{Pharmacological Target}\br  & \tr\textbf{Binding mode}\br & \tr\textbf{First FDA approval}\br\\  
+
+\hline
+ Imatinib & ABL1 &  Type II   & 2001  \\  
+\hline
+ Gefitinib & EGFR &  Type I   & 2003  \\  
+ \hline
+ Erlotinib & EGFR &  Type I   & 2005  \\  
+ \hline
+ Sorafenib & VEGFR, PDGFR, BRAF, etc. & Type II & 2005  \\  
+ \hline
+ Dasatinib & ABL1 &  Type I   & 2006  \\ 
+ \hline
+ Sunitinib & VEGFR &  Type I   & 2006  \\
+ \hline
+ Nilotinib & ABL1 &  Type II   & 2007  \\ 
+ \hline
+ Lapatinib & EGFR, HER2 &  Type I and II   & 2007  \\  
+  \hline
+ Lapatinib & EGFR, HER2 &  Type I   & 2007  \\  
+ \hline
+ Pazopanib & VEGFR, PDGFR, c-KIT, etc.&  Type I and II   & 2009  \\ 
+ \hline
+ Crizotinib & ALK, c-MET &  Type I   & 2011  \\ 
+ \hline
+ Vemurafenib & BRAF &  Type I   & 2011  \\ 
+ \hline
+ Ruxolitinib & JAK1/2 &  Type I   & 2011  \\  
+ \hline
+ Vandetanib & VEGFR &  Type I   & 2011  \\ 
+  \hline
+ Bosutinib & BCR-ABL1 &  Type I   & 2012  \\ 
+  \hline
+ Tofacitinib & JAK3 &  Type I   & 2012  \\
+  \hline
+ Axitinib & VEGFR, PDGFR, c-KIT &  Type I   & 2012  \\ 
+  \hline
+ Cabozantinib & c-MET &  Type II   & 2012  \\  
+  \hline
+ Regorafenib & VEGFR, PDGFR, etc. &  Type II   & 2012  \\  
+  \hline
+ Ponatinib & ABL1 &  Type II   & 2012  \\   
+  \hline
+ Dabrafenib & BRAF &  Type I   & 2013  \\     
+ \hline
+ Trametinib & MEK1/2 &  Type III   & 2013  \\ 
+  \hline
+ Afatinib & EGFR &  Type I, Irreversible  & 2013  \\ 
+  \hline
+ Ibrutinib & BTK &  Type I, Irreversible  & 2013  \\
+  \hline
+ Idelalisib & PI3K-delta &  Type I   & 2014  \\
+  \hline
+ Nintedanib & VEGFR, PDGFR, etc.&  Type II   & 2014  \\
+ \hline 
+ Ceritinib  &   ALK, MET &  Type II  & 2014 \\
+ \hline 
+ Lenvatinib  &   VEGFR, PDGFR, c-KIT, FGFR, etc. &  Type V \footnote{In a recent publication, lenvatinib was proposed as a special class of kinase inhibitors (the so-called type V inhibitors). Compounds of this class are those binding both the ATP-binding site and the neighboring allosteric region in kinases with DFG-in conformation \cite{Okamoto2015}. }  & 2015 \\
+ \hline 
+ Palbociclib  &   CDK4/6 &  Type I  & 2015 \\
+ \hline
  
- 
-  
-
-
-\par complete list. 
-
+ \end{tabular}} 
+ \label{table:table_inhibitors}
+\caption{FDA approved kinase inhibitors alonsgide their pharmacological target, binding mode and year of FDA approval.} 
+ \end{table}
 
 \subsection{Resistance to targeted cancer therapies}
 
 
 
 
-
-\chapter{Objectives}
-
-\chapter{nAnnolyze}
-\chapter{Predicting targets in MTB}
-\chapter{Drug resistance in cancer}
-
-
-
-\begin{figure}[b]
-  \centering
-  \includegraphics[scale=0.5]{../figures/logo_upf.png}
-    \caption{Example}
-    \label{fig:logo}
-\end{figure}
 
 
 
