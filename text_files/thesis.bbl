@@ -7422,6 +7422,85 @@
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291723/
       \endverb
     \endentry
+    \entry{Davis2011}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=0873b559d19f44effc0698b297cf54b5}{Davis}{D\bibinitperiod}{Mindy\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=84beb3ef02821b31444b556e4f5aa501}{Hunt}{H\bibinitperiod}{Jeremy\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c94d2bf13a5fe9e4dd5d6302f3021036}{Herrgard}{H\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eedf61a524cf71c6b7e19c33d5d10354}{Ciceri}{C\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=019c61c35d671cb404d9fd81fc9a06bc}{Wodicka}{W\bibinitperiod}{Lisa\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=65406820b865b00f94176716ba9fc8ec}{Pallares}{P\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe2f95a46f2668f90196c63d3bb91908}{Hocker}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=281ffed0bab47ea010245e901dd06ced}{Treiber}{T\bibinitperiod}{Daniel\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=80d27d9db3f3649cf2b1c2fa9e1ff230}{Zarrinkar}{Z\bibinitperiod}{Patrick\bibnamedelima P}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=0873b559d19f44effc0698b297cf54b5}{Davis}{D\bibinitperiod}{Mindy\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=84beb3ef02821b31444b556e4f5aa501}{Hunt}{H\bibinitperiod}{Jeremy\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c94d2bf13a5fe9e4dd5d6302f3021036}{Herrgard}{H\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eedf61a524cf71c6b7e19c33d5d10354}{Ciceri}{C\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=019c61c35d671cb404d9fd81fc9a06bc}{Wodicka}{W\bibinitperiod}{Lisa\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=65406820b865b00f94176716ba9fc8ec}{Pallares}{P\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe2f95a46f2668f90196c63d3bb91908}{Hocker}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=281ffed0bab47ea010245e901dd06ced}{Treiber}{T\bibinitperiod}{Daniel\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=80d27d9db3f3649cf2b1c2fa9e1ff230}{Zarrinkar}{Z\bibinitperiod}{Patrick\bibnamedelima P}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{20769f4908436a68d1aef9abbf11660a}
+      \strng{fullhash}{b35e6d44af0304ba5eb289002615c422}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comprehensive analysis of kinase inhibitor selectivity}}
+      \field{annotation}{10.1038/nbt.1990}
+      \field{issn}{1087-0156}
+      \field{journaltitle}{Nat Biotech}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Comprehensive analysis of kinase inhibitor selectivity}}
+      \field{volume}{29}
+      \field{year}{2011}
+      \field{pages}{1046\bibrangedash 1051}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nbt.1990%20http://www.nature.com/nbt/journal/v29/n11/abs/nbt.1990.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Zhang2009a}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{Zhang}{Z\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60061fbf1aecd520b9add74fdc4f61eb}{Yang}{Y\bibinitperiod}{Priscilla\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{Zhang}{Z\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60061fbf1aecd520b9add74fdc4f61eb}{Yang}{Y\bibinitperiod}{Priscilla\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{4737b124b9a903e114646b7add908b56}
+      \strng{fullhash}{4737b124b9a903e114646b7add908b56}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Targeting cancer with small molecule kinase inhibitors}}
+      \field{annotation}{10.1038/nrc2559}
+      \field{issn}{1474-175X}
+      \field{journaltitle}{Nat Rev Cancer}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Targeting cancer with small molecule kinase inhibitors}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{28\bibrangedash 39}
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Yang, Gray - 2009 - Targeting cancer with small molecule kinase inhibitors.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -14825,6 +14904,85 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291723/
+      \endverb
+    \endentry
+    \entry{Davis2011}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=0873b559d19f44effc0698b297cf54b5}{Davis}{D\bibinitperiod}{Mindy\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=84beb3ef02821b31444b556e4f5aa501}{Hunt}{H\bibinitperiod}{Jeremy\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c94d2bf13a5fe9e4dd5d6302f3021036}{Herrgard}{H\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eedf61a524cf71c6b7e19c33d5d10354}{Ciceri}{C\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=019c61c35d671cb404d9fd81fc9a06bc}{Wodicka}{W\bibinitperiod}{Lisa\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=65406820b865b00f94176716ba9fc8ec}{Pallares}{P\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe2f95a46f2668f90196c63d3bb91908}{Hocker}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=281ffed0bab47ea010245e901dd06ced}{Treiber}{T\bibinitperiod}{Daniel\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=80d27d9db3f3649cf2b1c2fa9e1ff230}{Zarrinkar}{Z\bibinitperiod}{Patrick\bibnamedelima P}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=0873b559d19f44effc0698b297cf54b5}{Davis}{D\bibinitperiod}{Mindy\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=84beb3ef02821b31444b556e4f5aa501}{Hunt}{H\bibinitperiod}{Jeremy\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c94d2bf13a5fe9e4dd5d6302f3021036}{Herrgard}{H\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eedf61a524cf71c6b7e19c33d5d10354}{Ciceri}{C\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=019c61c35d671cb404d9fd81fc9a06bc}{Wodicka}{W\bibinitperiod}{Lisa\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=65406820b865b00f94176716ba9fc8ec}{Pallares}{P\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe2f95a46f2668f90196c63d3bb91908}{Hocker}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=281ffed0bab47ea010245e901dd06ced}{Treiber}{T\bibinitperiod}{Daniel\bibnamedelima K}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=80d27d9db3f3649cf2b1c2fa9e1ff230}{Zarrinkar}{Z\bibinitperiod}{Patrick\bibnamedelima P}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{20769f4908436a68d1aef9abbf11660a}
+      \strng{fullhash}{b35e6d44af0304ba5eb289002615c422}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Comprehensive analysis of kinase inhibitor selectivity}}
+      \field{annotation}{10.1038/nbt.1990}
+      \field{issn}{1087-0156}
+      \field{journaltitle}{Nat Biotech}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Comprehensive analysis of kinase inhibitor selectivity}}
+      \field{volume}{29}
+      \field{year}{2011}
+      \field{pages}{1046\bibrangedash 1051}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nbt.1990%20http://www.nature.com/nbt/journal/v29/n11/abs/nbt.1990.html%7B%5C#%7Dsupplementary-information
+      \endverb
+    \endentry
+    \entry{Zhang2009a}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{Zhang}{Z\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60061fbf1aecd520b9add74fdc4f61eb}{Yang}{Y\bibinitperiod}{Priscilla\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{Zhang}{Z\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60061fbf1aecd520b9add74fdc4f61eb}{Yang}{Y\bibinitperiod}{Priscilla\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{4737b124b9a903e114646b7add908b56}
+      \strng{fullhash}{4737b124b9a903e114646b7add908b56}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Targeting cancer with small molecule kinase inhibitors}}
+      \field{annotation}{10.1038/nrc2559}
+      \field{issn}{1474-175X}
+      \field{journaltitle}{Nat Rev Cancer}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Targeting cancer with small molecule kinase inhibitors}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{28\bibrangedash 39}
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Yang, Gray - 2009 - Targeting cancer with small molecule kinase inhibitors.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
       \endverb
     \endentry
   \endsortlist

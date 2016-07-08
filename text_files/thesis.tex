@@ -27,6 +27,9 @@
 \usepackage{csquotes}
 \usepackage{times}
 \usepackage{caption}
+\usepackage{float}
+\restylefloat{table}
+\usepackage{tablefootnote}
 
 \pagestyle{plain}
 \usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
@@ -47,13 +50,15 @@
 \newcommand\tr{\rule{0pt}{3.5ex}}
 \newcommand\br{\rule[-3ex]{0pt}{3ex}}
 \makeindex
-
-
+\usepackage{footnote}
+\usepackage{threeparttable}
+\makesavenoteenv{tabular}
+\makesavenoteenv{table}
 %\bibliographystyle{apalike}
 \setlength{\parindent}{1em}
 \setlength{\parskip}{1em}
 
-
+\floatplacement{figure}{H}
 
 \selectlanguage{english}
 
@@ -185,10 +190,10 @@ Consta de
 
 \par A protein is a molecule made from a long chain of amino acids linked thorough a covalent peptide bond. Proteins are therefore also known as \textit{polypeptides}. Attached to this repetitive chain are those portions of the amino acids that are not involved in the covalent bond, the \textbf{side chains}. Side chains confer the different physico-chemical properties of each of the 20 types of amino acids \cite{thecell2008}. The composition of the amino acid sequence determines the function and the structure of a protein. That is because the unique sequence creates a specific pattern of attractive and repulsive forces between amino acids along the polypeptide that leads to a folding process resulting in a specific three-dimensional structure. These forces are usually non-covalent  interactions between the side chains of the amino acids. Non-covalent interactions are weaker than covalent ones, allowing the folded structure to certain degree of  conformation mobility i.e: to be dynamic. This phenomenon is really important to facilitate the interaction with other molecules as we will explore further in \ref{ligand_intect}.  
 \par Protein structures are complex conformation of atoms organized in a hierarchical manner \ref{fig:hierarchy_figure}. The first level of this hierarchy, referred to as the \textbf{primary structure}, is the ordered sequence of amino acids of the polypeptide. Certain segments of these chains, tend to form simple shapes such as helices, strands, turns or loops.  These folding patterns are referred to as secondary elements and collectively constitute the \textbf{secondary structure} of the protein. The two most frequent type of secondary elements are the $\alpha$-helixes and the $\beta$-sheets \cite{DSSP}. The overall chain tends to fold further into a three-dimensional  \textbf{tertiary structure}. Contrary to the secondary structure, the tertiary structure folding is driven by interactions from amino acids far apart in the primary sequence. The tertiary structure, is generally the most stable form of the protein, that is, the one that minimizes its free energy \cite{Dill1990}. Furthermore, the tertiary structure is also the biologically active form of the protein, and its unfolding usually leads towards partial o total inactivation of the protein. Finally, some proteins are composed by multiple folded chains. In such cases, each folded subunit folds independently and then joins the others forming a biologically active complex. This type of organization is considered as the \textbf{quaternary structure}.
-\begin{figure}[h]
+\begin{figure}[htbp]
 
   \centering
-  	\includegraphics[scale=0.75]{../figures/protein_structure_levels_en.png} % Figure was taking from...
+  	\includegraphics[scale=0.5]{../figures/protein_structure_levels_en.png} % Figure was taking from...
 
 	\caption{Hierarchical distribution of layers in protein structure}
 	\label{fig:hierarchy_figure}
@@ -196,7 +201,7 @@ Consta de
 \par This traditional paradigm of protein structure has been challenged by some exceptions of proteins that lacks of a fixed or ordered three-dimensional structure. The intrinsically disordered proteins (IDPs) cover a wide spectrum of states from fully unstructured to partially structured including conformations such as \textit{random coils} or \textit{molten globules}. Moreover, some  factors may lead to the permanent loss of structure of a protein, and when that occurs, they endanger the entire organism. How problematic protein misfolding can be for the organism is illustrated by examples such as cystic fibrosis, Alzheimer's, Parkinson's and Huntington's diseases.
 \par Figure \ref{fig:strucrure_sequence_figure} from the seminal paper \cite{StructureSequence} shows the correlation degree to which protein structures changed as a function of sequence divergence. This work helped to set up the fundaments of what is considered a central paradigm in protein evolution: protein structure is more conserved than sequence. However, not all the regions in a protein structure are equally conserved. It's been shown that functionally important amino acids, responsible of the interaction with other molecules, are more conserved than the rest of the protein structure \cite{conservPPI}. Additionally, the structural core is more conserved than the surface \cite{Raj2007}. The high conservation of the core enables the protein to maintain the global shape, while the surface is free to change (i.e.to mutate) some functional features \cite{Todd2001}.   These evolutionary mechanism are in accordance with the central \textit{sequence $\rightarrow$ structure $\rightarrow$ function} paradigm that prevails in the protein evolution field. 
 
-\begin{figure}[h]
+\begin{figure}[htbp]
 
   \centering
   	\includegraphics[scale=0.5]{../figures/structure_vs_sequence.png} % Figure was taking from...
@@ -226,7 +231,7 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 \end{enumerate}
  
 
-\begin{figure}[!tbp]
+\begin{figure}[htbp]
   
   \centering
     \begin{subfigure}[b]{0.75\textwidth}
@@ -256,10 +261,10 @@ Computational methods for structure determination are helping to bridge this gap
  
 \subsubsection{Homology modeling} \label{Homology_modeling}
 
-\begin{figure}[htb!]
+\begin{figure}[htbp]
 
   \centering
-  	\includegraphics[scale=1]{../figures/workflow.jpg} % Figure was taking from...
+  	\includegraphics[scale=0.75]{../figures/workflow.jpg} % Figure was taking from...
 
 	\caption{Workflow in comparative protein structure modeling.  The figure has been extracted from \cite{Eswar2007}}
 	\label{fig:workflow_modeling}
@@ -284,7 +289,7 @@ Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology mo
 \item \textit{Which is the overall accuracy of the model? Which is the accuracy of the model in a particular region of the model?} These questions can be addressed by defining scores that correlates with the RMSD after superimposing a model and its native structure. Numerous scoring functions have been implemented to address this issue. Some of them, the \textit{physics-based scoring functions}, attempt  to  approximately  calculate the  atomic  interaction  energies  in  the  system.  These scoring functions usually encode a set of parameters that describes the energy of a system of particles. Examples of these scoring functions are AMBER\cite{CASE2005}, CHARMM\cite{Brooks1983} or MM-PDBSA\cite{Fogolari2003}. Differently the \textit{knowledge-based potentials} or \textit{potentials mean force} are scoring functions derived from an analysis of empirical information. Although the obtained scores are often considered approximations of the free energy, this physical interpretation is incorrect \cite{Thomas1996}. Nevertheless, since they frequently correlate with the actual free energy differences, they have been broadly used with significant success \cite{Shen2006, Zhou2002, Sippl1995}. 
 \end{enumerate}
 \end{enumerate}
-\begin{figure}[h]
+\begin{figure}[htbp]
 
   \centering
   	\includegraphics[scale=0.35]{../figures/homology_plot.pdf} % Figure was taking from...
@@ -322,8 +327,9 @@ Figure \ref{fig:homology_modeling} shows an empirical threshold for  homology mo
    \hline
 \end{tabular}
 \end{adjustbox}
-\label{table:table_software}
+
 \caption{List of the public Protein Modeling Tools}
+\label{table:table_software}
 \end{table}
 
 
@@ -342,7 +348,7 @@ Such is the importance  of domains in protein evolution, that they have been inc
 
 \par The roles played by the protein ligands are diverse. Catalysis of enzyme substrates, regulation of the protein activity, cellular communication or defense from external attackers are just few some examples of the multiple functions that small-molecule ligands perform in living organisms. All these functions are performed by small-molecules that selectively bind their \textit{target} proteins. However, given the vast amount of proteins and small-molecule ligands in the cytoplasm, how do the small-molecule ligands select their protein targets? There has been several protein-ligand binding theories. In the \textit{Lock and key Theory} \cite{Cramer1994}, Emil Fischer proposed a system where the binding sites of enzymes are rigid and pre-adjusted geometrically to the natural substrate \ref{fig:lock_and_key_model}. This theory became widely accepted for years. Nevertheless, during subsequent years, evidence started to accumulate suggesting that the binding sites of proteins do not match perfectly their ligands, but rather the binding process triggers some conformational changes in the enzyme. Therefore the obsolete Lock and key model was replaced by the \textit{Induced fit theory} \cite{Koshland1959}. The induced fit theory proposes that initially enzymes do not perfectly match their substrate geometrically. However, the binding-process triggers a set of conformational changes in the protein binding site that improves the match \ref{fig:induced_fit_model}. More recently, another theory called the \textit{Monod-Wyman-Changeux model or  MWC model } came up\cite{Monod1965}. This theory contends that proteins are able to shift spontaneously between multiple conformations called \textit{substates}\cite{Kitao1998, Petsko1984}. This model could also explain \textit{allostery}, a phenomenon in which the binding of the molecule to the catalytic site is affected the binding of other ligand to a different site. This theory has undergone some changes and the current accepted theory posits that ligands bind preferentially to one of the conformation sampled spontaneously by the protein, and therefore stabilizes it. It means that, by changing the protein's energy landscape, ligands change a less favorable conformation into the most favorable one. This model does not necessarily refute the induce fit theory since in many cases, the restrains applied by the ligand on the binding site is expected to induce some conformational changes that will further stabilize the interaction \cite{Foote1994, James2003}. 
 
-\begin{figure}[!tbp]
+\begin{figure}[htbp]
   
   \centering
     \begin{subfigure}[b]{0.75\textwidth}
@@ -407,7 +413,7 @@ Kbind = \frac{[C]}{[P]*[L]}
 
 \par Drug discovery is the process by which potential new potential medications are discovered. It involves a wide range of scientific disciplines, including biology, chemistry, pharmacology and recently also the computational branches of these fields. Historically, drugs were discovered through the identification of the active ingredient from traditional remedies or by serendipitous discovery. Later, the development of synthetic methods allowed the generation of purely synthetic structures that were not found in nature and that were investigated as potential therapeutic agents. More recently, the advent of new genomics, proteomics and high throughput screening (HTS) techniques, resulted in the identification of large number of novel targets for future drug research. In addition to this \textit{technological revolution}, the advances in bioinformatics and system biology field has prompted the change in drug discovery paradigm towards a more target-centric approach. This \textit{modern drug discovery paradigm} usually implies the screening of thousands of molecules in order to identify those that have the desirable therapeutic effect in the previously validated protein target \cite{Drews2000, Patrick2001}. Figure \ref{fig:drug_discovery_pipeline} shows the current drug discovery pipeline alongside the estimated cost and time of each of the phases.  Most modern drug discovery programs begin with the identification of a bio-molecular target which pharmacological intervention is theoretically beneficial for the treating disease. A target is a broad term which can be applied to a range of biological entities which include proteins, DNA and RNA. The target needs to be accessible to the putative drug molecule(s), this property is called as \textit{target druggability}. Wrong selection of the target (i.e. weak association between the target and the treating disease) implies lack of the expected efficacy, which is the most important cause of project failure in clinical trials\cite{Hutchinson2011, Lindsay2003}. During the \textit{Target-to-hit} stage, the target is screened against a set of candidate molecules seeking for the identification of those which able to perform the desired therapeutic activity. Alternatively, in some cases the first step of the discovery process is based on a \textit{Phenotypic screening} of a collection of molecules. This screening pursues the identification of those molecules that perform a predefined function in a biological model. In any case, prior knowledge of the bio-molecular target of the therapeutic activity is generally associated with better outcomes in clinical trials \cite{Hughes2011}. However, there are various drugs in the market with unknown \textit{mechanism of action} (i.e. the drug target is still unknown) \cite{Imming2006}, most of them coming from the traditional drug discovery paradigm.  After this hit(s){\footnote{ A hit compound could have several definitions. Here we use the one from \cite{Hughes2011}  where they defined a hit as being a compound which  \textit{has  the  desired  activity  in  a  compound  screen  and whose  activity  is  confirmed  upon  retesting}}   identification, in the \textit{hit-to-lead} stage,  molecular hits are evaluated and undergo limited optimization to identify promising lead compounds for further stages. The optimization to convert a hit to a lead molecule, implies several properties. Properties such as the potency, the selectivity or the pharmacokinetics (PK) properties [hablar en computational methods, SAR]. These lead compounds undergo more extensive optimization in a subsequent step of drug discovery called lead optimization (LO). The main goal of this stage is to maintain favorable properties in lead compound(s) while improving on deficiencies in the lead structure(s). Finally, the selected lead(s) enters into the preclinical stage where the main goals are determining the safe dose for \textit{First-in-man study} and the first assessing the product's safety profile. Estimates say that, on average, of every 5,000 to 10,000 compounds that begins the pre-clinical stage, only one becomes an approved drug \cite{Klees1997}. 
 
-\begin{figure}[!tbp]
+\begin{figure}[htbp]
   
   \centering
     
@@ -420,7 +426,7 @@ Kbind = \frac{[C]}{[P]*[L]}
 
 \par  According to the The Tufts Center for the Study of Drug Development (\url{http://csdd.tufts.edu}), the development and marketing approval for a New Molecular Entity (NME) takes more than 13 years and around  $\$$2.6 billion \ref{fig:drug_discovery_pipeline}. In fact, the cost of developing a new drug has dramatically increased since the 1970s \ref{fig:drug_discovery_evolution}. Currently,  the cost of developing a NME is more than two times the 1990s one, and more than ten times of the cost in the 1970s.   
 This raise in the drug development cost has lead to a dramatic shrinkage of the efficiency, measured in terms of the number of new approved drugs per billion US dollars of research and discovery (R$\&$D) spending \cite{Scannell2012}. Both research and development phases have significantly raised their expenses \ref{fig:drug_discovery_evolution}. Factors that have contributed to the raise of clinical costs include increased clinical trial complexity, larger clinical trial size, greater assessment of safety and toxicity drug profiles or evaluation on equivalent drugs to accommodate payer demands for comparative effectiveness data \cite{Scannell2012}. Similarly, factors such as the complexity of the target disease, expenses associated with the application of high-throughput technologies or the increased complexity of mechanism of action are boosting the prizes of pre-clinical stages. However, pre-clinical associated expenses could be narrowed down with a rational use of the state-of-the-art technologies. In this matter, computational methods are emerging as a tool to speed-up by allowing the management of the massive amount of data generated during the discovery stages. The next section presents different computational methods currently applied during the drug discovery pipeline.  
-\begin{figure}[!tbp]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=0.9\linewidth]{../figures/drug_discovery_evolution.jpg}
 	\caption{Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url{http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).}
@@ -461,7 +467,7 @@ This raise in the drug development cost has lead to a dramatic shrinkage of the 
 
 \end{enumerate}
 
-\begin{figure}[!tbp]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=0.9\linewidth]{../figures/map_incidence_tb.pdf}
 	\caption{Estimated worldwide TB incidence rates in 2014. Figure extracted from \cite{Lewandowski2015}.}
@@ -520,7 +526,8 @@ against TB. The purpose of these resources is very diverse. One popular resource
    \hline
     Database & TuberQ &  MTB protein druggability database  &  \cite{Radusky2014} \\
    \hline
-   \caption[]{Table containing multiple computational resources used in the discovery and research against TB} \label{table:table_mtb_methods} 
+   \caption[]{Table containing multiple computational resources used in the discovery and research against TB} 
+   \label{table:table_mtb_methods} 
 %\end{tabularx}
 
 
@@ -546,25 +553,8 @@ against TB. The purpose of these resources is very diverse. One popular resource
 \par Small molecule inhibitors is the second main class of targeted cancer therapies.  Unlike monoclonal antibodies, they can penetrate into the cell throughout the plasma membrane. Small molecule targeted cancer therapies focus on inhibiting protein kinases. In fact, kinases have been established as promising drug targets for the treatment of various types of human disease because of their essential roles in signal transductions and regulation of a range of cellular activities. However, the vast majority of these targets are being investigated for the treatment of cancer \cite{Zhang2009}.  Over the last years,  many kinases have been found to be deeply involved in the processes leading to tumorigenesis. Depending of their role in cancer progression we can classify small molecule kinase targets into different groups.  First, there are kinases that have become insensitive to normal regulatory mechanisms. The altered activity of such kinases can be the consequence of genetic alterations (e.g. mutations or translocations) or epigenetic changes (e.g. gene amplification, increased expression) and are considered to be oncogenic. The constitutive activity of this class of kinase target makes them essential for survival and/or proliferation of the cancer cell. This phenomenon is known as oncogene addiction \cite{Weinstein2006}, and makes the cancer cell exceptionally susceptible to the oncogene kinase inhibitor. One of best examples of this phenomenon is the activating V600E BRAF mutation. About 50 $\%$ of melanomas harbour this oncogenic mutation \cite{Ascierto2012}. Currently, there are two small molecules FDA approved inhibitors (vemurafenib \cite{Bollag2010} and dabrafenib \cite{Gibney2013}) that specifically target the BRAF V600E-mutated metastatic melanoma. Inhibiting mutationally activated kinases (i.e., oncogenic kinases) has resulted in the most dramatic clinical responses \cite{Zhang2009}.  A second class of target kinases is composed by those non-oncogenic kinases whose presence is preferentially required for the survival and/or proliferation of tumour cells.  These kinases are usually located in key signalling pathways downstream of cancer oncogenes. Examples of this type of targets include MEK1 and MEK2 (also known as MAP2K1 and MAP2K2), which are targeted by several small molecule inhibitors such as trametinib or cobimetinib. Combinations of these inhibitors with oncogene inhibitors led into a significant improvement in patient survival compared with single treatment regime in melanoma \cite{Flaherty2012, Flaherty2012a}. Another class of kinases targets are those highly expressed in the tumour stroma and that are required for different stages of tumour formation and development in the human host. Examples of this class include the inhibition of VEGFR by pazopanib or other small molecule inhibitors \cite{Ivy2009}. Kinase targets of the second and third classes are not directly oncogenic, but instead are required for the survival and proliferation of cancer cells. Hence, the inhibition of these kinases is usually combined with oncogene inhibition to strengthen the inhibitory effect and overcome resistance due to activation of downstream survival mechanisms \cite{Holohan2013}. 
  
  \par Protein kinases are defined by their ability to catalyse the transfer of the terminal phosphate of ATP to a substrate that usually contains a serine, threonine or tyrosine. They share a highly conserved arrangement of secondary structure elements that fold into a bi-lobed catalytic core structure (N-terminal lobe and C-terminal lobe), with ATP binding site located in a deep cleft located between the two lobes \cite{Manning2002} \ref{fig:kinase_general_conformation}. The ATP adenine ring forms hydrogen bonds with the kinase hinge region (i.e., the segment that connects the amino and carboxy terminal kinase domains), while the ribose and triphosphate groups of ATP bind in a hydrophilic channel adjacent to the ATP binding site that contains conserved residues that are essential to catalysis. Additionally, kinases have a conserved activation loop, which regulates the kinase activity and that contains a extremely conserved DFG motif (i.e., aspartic acid, phenylalanine and glycine) at the start of the loop. The structural disposition of the activation loop switches between the active and inactive conformations of the protein kinase \cite{Manning2002}. Since the catalytic mechanism requires the exact positioning of highly conserved active site residues, the kinase active state is rigid and highly conserved. In contrast, kinase inactive states are structurally highly diverse and dynamic \cite{Muller2015}. Furthermore, the kinase ATP binding site contains a highly flexible phosphate-binding loop (P-loop). In many kinases the the P-loop contains an aromatic residue that points upward in the active kinase state, enabling the binding of ATP. Finally, kinases contain a key residue in the ATP-binding site known as \textit{gatekeeper}. This residue is located close to the hinge region and controls the access of small molecule inhibitors to a hydrophobic pocket in the active site that is not contacted by ATP \cite{Lui1998} \ref{fig:kinase_general_conformation}.  
-
-\par Most of the current small molecule kinase inhibitors are ATP-competitive that mimics the ATP binding mode. However, depending of their specific binding mode small molecule protein kinase inhibitors can be classified into multiple classes:
  
- \begin{enumerate}
- 
-\item \textbf{Type I inhibitors}. This type of ATP-competitive inhibitor bind the active conformation of the protein kinase. As mentioned above, the kinase active state is well defined and it is more rigid than inactive kinase states. Moreover, is very conserved among kinases making the development of selective type I inhibitors a very challenging task. The specificity is therefore given by unusual active site features such as rare amino acids in conserved positions, inserts/deletions, and, in some cases, residues that can be targeted by irreversible inhibitors. Additionally,  small gatekeeper residues, such as threonine, can provide access to a hydrophobic \textit{back pocket} not contacted by ATP \cite{Noble2004}. Type 1 inhibitors typically consist of a heterocyclic core scaffold that occupies the adenine binding site alongside side chains that occupy the adjacent hydrophobic regions \ref{fig:type_inhibitors}. Examples of this class include the EGFR inhibitors gefitinib and erlotinib, the BRAF V600E-mutant inhibitor vemurafenib, the anaplastic lymphoma kinase (ALK) inhibitor crizotinib or the Bcr-Abl tyrosine kinase inhibitor dasatinib. The complete list of type I inhibitors is shown in table X. 
-
-\item \textbf{Type II inhibitors}. Type 2 kinase inhibitors recognize the inactive conformation of the kinase. The most frequent conformation recognized by type 2 inhibitors is the so-called DFG-out. This conformation is created by a rearrangement of the activation loop that creates an extended and flexible binding pocket adjacent to the ATP binding site \ref{fig:type_inhibitors}. The high degree of flexibility generated by this conformation suggests that inhibitors targeting such states should have a better chance being selective. However, recent comprehensive analysis of type II selectivity revealed that many kinases can assume this inactive state and that type II inhibitors may not be intrinsically more selective than type I inhibitors \cite{Inhibitor2016}. The original discovery that inhibitors such as imatinib and sorafenib bind in the type 2 conformation was serendipitous, but subsequent analysis of multiple type 2 kinase inhibitor revealed that most of them share a similar binding pattern \cite{Inhibitor2016}. Other examples of type II kinase inhibitors include the Bcr-Abl tyrosine kinase inhibitors nilotinib or ponatinib. The complete list of type II inhibitors is shown in table X. 
-
-\item \textbf{Targeting P-loop conformations}. In kinase-inhibitor complexes, the P-loop may fold into the ATP -binding site, forming aromatic stacking interactions with the inhibitor \cite{Guimaraes2011}. An additional characteristic of folded P-loop conformations is the induction of a large binding cavity between the P-loop and the $\alpha$C helix \ref{fig:type_inhibitors}. This binding cavity is present in many structures with folded P-loops and has been explored, for the first time, by the selective ERK1/2 inhibitor SCH772984 \cite{Morris2013}. Multiple kinases can adopt a folded P-loop conformation, and the unique geometric features of this binding mode, may lead into the development of selective inhibitors for these kinases. Nevertheless, none of FDA approved drugs adopt this conformation, and therefore a broader general demonstration of this inhibitor binding mode is still necessary. 
-
-\item \textbf{Type III allosteric inhibitors}. Type III kinase inhibitors are non ATP-competitive inhibitors that bind the kinase in a allosteric site (i.e., a site distinct from the enzyme active site that can bind a ligand) modulating kinase activity in an allosteric manner. Allosteric inhibitors tend to exhibit the highest degree of selectivity since they exploit binding sites and regulatory mechanisms that are unique to each particular kinase \ref{fig:type_inhibitors}. Most allosteric kinase inhibitors have been discovered serendipitously, and currently there is no general strategy for identifying such compounds. The best examples of this class are the MEK1/MEK2 allosteric inhibitors trametinib and cobimetinib, which occupy a pocket adjacent to the ATP binding site. Other FDA approved non-ATP competitive inhibitors are shown in table X. 
-
-\item \textbf{Covalent inhibitors}. The last class of kinase inhibitors are those capable of forming an irreversible, covalent bond to the kinase active site, most frequently thorough the reaction with a nucleophilic cysteine residue \cite{Cohen2005}. Most of the covalent kinase inhibitors have been developed by structure-guided incorporation of an electrophilic group into an inhibitor that already had sub-micromolar binding affinity \cite{Potashman2009}. Although a large number of kinases have cysteine residues in and around the ATP-binding site, there are not conserved cysteines residues across the human kinome \cite{Liu2013a}. This lack of conservation has been used to develop selective irreversible inhibitors of kinases habouring cysteine residues in the ATP-binding site. However, cross-reactivity of cysteine-reactive groups can lead to non-selective reactions with off-target proteins, which eventually gives rise to increased toxicity and lack of target specificity \cite{Barf2012, Liebler2008}. Examples of FDA approved irreversible inhibitors include the Bruton's tyrosine kinase (BTK) Ibrutinib or the EGFR inhibitor afatinib.
- 
- 
-\end{enumerate}  
- 
- \begin{figure}[!tp]
+ \begin{figure}[htbp]
   
   \centering
     
@@ -573,29 +563,42 @@ against TB. The purpose of these resources is very diverse. One popular resource
 	\caption{3D structure of ABL1 kinase in complex with imatinib displaying the different structural regions of protein kinases. The structure represents the typical kinase inactive DGF-out conformation. The protein is represented as ribbons and the ligand as sticks. The activation loop is coloured in cyan, the DGF motif in blue, the P-loop is coloured in red, the hinge region in purple and the $\alpha$C helix in green. PDB accession code 2HYY.}
 	\label{fig:kinase_general_conformation}
 	
-	\end{figure}
-\begin{figure}[!tp]
+\end{figure}
+\par Most of the current small molecule kinase inhibitors are ATP-competitive that mimics the ATP binding mode. However, depending of their specific binding mode small molecule protein kinase inhibitors can be classified into multiple classes:
+ 
+ \begin{enumerate}
+ 
+\item \textbf{Type I inhibitors}. This type of ATP-competitive inhibitor bind the active conformation of the protein kinase. As mentioned above, the kinase active state is well defined and it is more rigid than inactive kinase states. Moreover, is very conserved among kinases making the development of selective type I inhibitors a very challenging task. The specificity is therefore given by unusual active site features such as rare amino acids in conserved positions, inserts/deletions, and, in some cases, residues that can be targeted by irreversible inhibitors. Additionally,  small gatekeeper residues, such as threonine, can provide access to a hydrophobic \textit{back pocket} not contacted by ATP \cite{Noble2004}. Type 1 inhibitors typically consist of a heterocyclic core scaffold that occupies the adenine binding site alongside side chains that occupy the adjacent hydrophobic regions \ref{fig:type_inhibitors}. Examples of this class include the EGFR inhibitors gefitinib and erlotinib, the BRAF V600E-mutant inhibitor vemurafenib, the anaplastic lymphoma kinase (ALK) inhibitor crizotinib or the Bcr-Abl tyrosine kinase inhibitor dasatinib. The complete list of type I inhibitors is shown in table \ref{table:table_inhibitors}. 
+
+\item \textbf{Type II inhibitors}. Type 2 kinase inhibitors recognize the inactive conformation of the kinase. The most frequent conformation recognized by type 2 inhibitors is the so-called DFG-out. This conformation is created by a rearrangement of the activation loop that creates an extended and flexible binding pocket adjacent to the ATP binding site \ref{fig:type_inhibitors}. The high degree of flexibility generated by this conformation suggests that inhibitors targeting such states should have a better chance being selective. However, recent comprehensive analysis of type II selectivity revealed that many kinases can assume this inactive state and that type II inhibitors may not be intrinsically more selective than type I inhibitors \cite{Inhibitor2016}. The original discovery that inhibitors such as imatinib and sorafenib bind in the type 2 conformation was serendipitous, but subsequent analysis of multiple type 2 kinase inhibitor revealed that most of them share a similar binding pattern \cite{Inhibitor2016}. Other examples of type II kinase inhibitors include the Bcr-Abl tyrosine kinase inhibitors nilotinib or ponatinib. The complete list of type II inhibitors is shown in table \ref{table:table_inhibitors}. 
+
+\item \textbf{Targeting P-loop conformations}. In kinase-inhibitor complexes, the P-loop may fold into the ATP -binding site, forming aromatic stacking interactions with the inhibitor \cite{Guimaraes2011}. An additional characteristic of folded P-loop conformations is the induction of a large binding cavity between the P-loop and the $\alpha$C helix \ref{fig:type_inhibitors}. This binding cavity is present in many structures with folded P-loops and has been explored, for the first time, by the selective ERK1/2 inhibitor SCH772984 \cite{Morris2013}. Multiple kinases can adopt a folded P-loop conformation, and the unique geometric features of this binding mode, may lead into the development of selective inhibitors for these kinases. Nevertheless, none of FDA approved drugs adopt this conformation, and therefore a broader general demonstration of this inhibitor binding mode is still necessary. 
+
+\item \textbf{Type III allosteric inhibitors}. Type III kinase inhibitors are non ATP-competitive inhibitors that bind the kinase in a allosteric site (i.e., a site distinct from the enzyme active site that can bind a ligand) modulating kinase activity in an allosteric manner. Allosteric inhibitors tend to exhibit the highest degree of selectivity since they exploit binding sites and regulatory mechanisms that are unique to each particular kinase \ref{fig:type_inhibitors}. Most allosteric kinase inhibitors have been discovered serendipitously, and currently there is no general strategy for identifying such compounds. The best examples of this class are the MEK1/MEK2 allosteric inhibitors trametinib and cobimetinib, which occupy a pocket adjacent to the ATP binding site. Other FDA approved non-ATP competitive inhibitors are shown in table \ref{table:table_inhibitors}. 
+
+\item \textbf{Covalent inhibitors}. The last class of kinase inhibitors are those capable of forming an irreversible, covalent bond to the kinase active site, most frequently thorough the reaction with a nucleophilic cysteine residue \cite{Cohen2005}. Most of the covalent kinase inhibitors have been developed by structure-guided incorporation of an electrophilic group into an inhibitor that already had sub-micromolar binding affinity \cite{Potashman2009}. Although a large number of kinases have cysteine residues in and around the ATP-binding site, there are not conserved cysteines residues across the human kinome \cite{Liu2013a}. This lack of conservation has been used to develop selective irreversible inhibitors of kinases habouring cysteine residues in the ATP-binding site. However, cross-reactivity of cysteine-reactive groups can lead to non-selective reactions with off-target proteins, which eventually gives rise to increased toxicity and lack of target specificity \cite{Barf2012, Liebler2008}. Examples of FDA approved irreversible inhibitors include the Bruton's tyrosine kinase (BTK) Ibrutinib or the EGFR inhibitor afatinib.
+ 
+ 
+\end{enumerate}  
+ 
+ 
+ 
+ 
+ 
+\begin{figure}[htbp]
 	\includegraphics[width=1\linewidth]{../figures/type_kinases_inhibitors.pdf}
 	\caption{Structural features of the canonical classes of small molecule kinase inhibitors. The center panel shows the main interaction sites of different inhibitors types. The side panels show the specific structural features of each of the binding modes. Figure extracted from \cite{Muller2015}.}
 	\label{fig:type_inhibitors}
 	\vspace*{4mm}
 \end{figure}
-	
-   
- 
- 
-  
-Rapamycin analogs Everolimus and Temsirolimus are non-ATP-competitive mTORC1 
-Problem of multitarget!!! 
-REsistance conextion next chapter. 
- 
    
 
 \renewcommand{\arraystretch}{1.2}
-\begin{table}[ht]
+\begin{adjustbox}{max width=\textwidth}
+\begin{threeparttable}[htbp]
 
  \centering
- \resizebox{\textwidth}{!}{
+
  %\begin{tabular}{*{4}{|| p{2cm} | p{4cm}  |  p{3cm} | p{1cm} } ||} 
  \begin{tabular}{*{4}{|| c | c  |  c | c  ||}} 
  \hline
@@ -618,8 +621,6 @@ REsistance conextion next chapter.
  \hline
  Lapatinib & EGFR, HER2 &  Type I and II   & 2007  \\  
   \hline
- Lapatinib & EGFR, HER2 &  Type I   & 2007  \\  
- \hline
  Pazopanib & VEGFR, PDGFR, c-KIT, etc.&  Type I and II   & 2009  \\ 
  \hline
  Crizotinib & ALK, c-MET &  Type I   & 2011  \\ 
@@ -656,15 +657,40 @@ REsistance conextion next chapter.
  \hline 
  Ceritinib  &   ALK, MET &  Type II  & 2014 \\
  \hline 
- Lenvatinib  &   VEGFR, PDGFR, c-KIT, FGFR, etc. &  Type V \footnote{In a recent publication, lenvatinib was proposed as a special class of kinase inhibitors (the so-called type V inhibitors). Compounds of this class are those binding both the ATP-binding site and the neighboring allosteric region in kinases with DFG-in conformation \cite{Okamoto2015}. }  & 2015 \\
+ Lenvatinib  &   VEGFR, PDGFR, c-KIT, FGFR, etc. &  Type V \tnote{\textdagger}  & 2015 \\
  \hline 
  Palbociclib  &   CDK4/6 &  Type I  & 2015 \\
  \hline
  
- \end{tabular}} 
- \label{table:table_inhibitors}
-\caption{FDA approved kinase inhibitors alonsgide their pharmacological target, binding mode and year of FDA approval.} 
- \end{table}
+ \end{tabular} 
+ 
+  \begin{tablenotes}
+  
+  \footnotesize
+\item[\textdagger] In a recent publication, lenvatinib was proposed as a special class of kinase inhibitors (the so-called type V inhibitors). Compounds of this class are those binding both the ATP-binding site and the neighboring allosteric region in kinases with DFG-in conformation \cite{Okamoto2015}. 
+\end{tablenotes}
+
+
+
+\caption{FDA approved kinase inhibitors alonsgide their pharmacological target, binding mode and year of FDA approval.}
+\label{table:table_inhibitors} 
+
+ \end{threeparttable}
+\end{adjustbox} 
+ 
+\par The approval of imatinib in 2001 radically transformed the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Since then, more than 27 different small molecule kinase inhibitors have been approved by the FDA \ref{table:table_inhibitors}, and many others are currently in clinical trials for the treatment of cancer. Despite of their great success in cancer treatment, small molecule kinase inhibitors suffer from major limitations that need to be addressed to improve their clinical impact. Next, I outline some of their most important challenges and limitations:  
+
+\begin{enumerate}
+
+\item Of the total 538 estimated human kinases \cite{Manning2002}, only a few, and most of them belonging to the tyrosine kinase group, have been pharmacologically targeted by small molecule inhibitors. It is thus necessary to increase the spectrum of clinically targeted kinases. Moreover, the increment of the number of targeted kinases would create new therapeutic opportunities for disorders where kinases play an important, but yet clinically unexplored role. 
+\item Other important limitation is the lack of specificity of many small molecule kinase inhibitors. This is mainly consequence of the high structural conservation of the ATP-binding site in kinases, which causes that a large number of inhibitors interact with more than one target \cite{Davis2011}. The multitarget nature of many kinase inhibitors gives rises to severe side effects that dramatically restricts its applicability to the clinic. Fostering the development of type III allosteric inhibitors would lead into more selective inhibitors preventing the appearance of unexpected toxicities.  
+\item Related to the previous point, the mechanistic basis of unexpected toxicities observed during the preclinical and clinical stages need to be studied more rigorously. Improved documentation of kinase inhibitor specificity and observed toxicities would provide a valuable database for understanding whether there are particular kinases of which inhibition should be particularly avoided \cite{Zhang2009a}.
+\item The most important limitation of small-molecule kinase inhibitors, in particular, and targeted cancer therapies, in general, is the rapid acquisition of drug resistance. The duration of clinical benefits is frequently short lived, which dramatically restricts the utility of many targeted cancer therapies. The next section will focus on the mechanistic basis of resistance to targeted cancer therapies, with particular emphasis on mutations of kinase targets altering the efficacy of the treatment.    
+ \end{enumerate}
+ 
+
+	
+
 
 \subsection{Resistance to targeted cancer therapies}
 

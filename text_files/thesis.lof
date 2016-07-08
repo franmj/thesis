@@ -9,24 +9,24 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Hierarchical distribution of layers in protein structure\relax }}{41}{figure.caption.10}
+\contentsline {figure}{\numberline {1}{\ignorespaces Hierarchical distribution of layers in protein structure\relax }}{4}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2}{\ignorespaces The original plot of the relation of residue identity and the r.m.s. deviation of the backbone atoms of the common cores of 32 pairs of homologous proteins. Figure extracted from \cite {StructureSequence}\relax }}{42}{figure.caption.11}
+\contentsline {figure}{\numberline {2}{\ignorespaces The original plot of the relation of residue identity and the r.m.s. deviation of the backbone atoms of the common cores of 32 pairs of homologous proteins. Figure extracted from \cite {StructureSequence}\relax }}{5}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3}{\ignorespaces a) Growth of released structures per year. Data extracted from PDB. b) Pie chart with the percetange of structures determined by the different methods. Data extracted from PDB.\relax }}{43}{figure.caption.13}
+\contentsline {figure}{\numberline {3}{\ignorespaces a) Growth of released structures per year. Data extracted from PDB. b) Pie chart with the percetange of structures determined by the different methods. Data extracted from PDB.\relax }}{10}{figure.caption.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4}{\ignorespaces Workflow in comparative protein structure modeling. The figure has been extracted from \cite {Eswar2007}\relax }}{44}{figure.caption.16}
+\contentsline {figure}{\numberline {4}{\ignorespaces Workflow in comparative protein structure modeling. The figure has been extracted from \cite {Eswar2007}\relax }}{12}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5}{\ignorespaces Homology threshold curve as a function of alignment length. Data extracted from \cite {Sander1991}\relax }}{45}{figure.caption.17}
+\contentsline {figure}{\numberline {5}{\ignorespaces Homology threshold curve as a function of alignment length. Data extracted from \cite {Sander1991}\relax }}{16}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{46}{figure.caption.19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Schematic representation of three popular protein-ligand binding theories.\relax }}{20}{figure.caption.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7}{\ignorespaces Drug discovery and development pipeline. For each stage the average cost and time are included. Post-approval times not included in the time-line. Data extracted from \cite {Paul2010}.\relax }}{47}{figure.caption.22}
+\contentsline {figure}{\numberline {7}{\ignorespaces Drug discovery and development pipeline. For each stage the average cost and time are included. Post-approval times not included in the time-line. Data extracted from \cite {Paul2010}.\relax }}{27}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{48}{figure.caption.23}
+\contentsline {figure}{\numberline {8}{\ignorespaces Cost of developing a new drug. Blue bars indicate expenses in clinical phases while red represents expenses in pre-clinical stages. Costs are shown in $\$$ millions. Data extracted form: Tufts Center for the Study of Drug Development (\url {http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study}).\relax }}{28}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9}{\ignorespaces Estimated worldwide TB incidence rates in 2014. Figure extracted from \cite {Lewandowski2015}.\relax }}{49}{figure.caption.24}
+\contentsline {figure}{\numberline {9}{\ignorespaces Estimated worldwide TB incidence rates in 2014. Figure extracted from \cite {Lewandowski2015}.\relax }}{35}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10}{\ignorespaces 3D structure of ABL1 kinase in complex with imatinib displaying the different structural regions of protein kinases. The structure represents the typical kinase inactive DGF-out conformation. The protein is represented as ribbons and the ligand as sticks. The activation loop is coloured in cyan, the DGF motif in blue, the P-loop is coloured in red, the hinge region in purple and the $\alpha $C helix in green. PDB accession code 2HYY.\relax }}{50}{figure.caption.26}
+\contentsline {figure}{\numberline {10}{\ignorespaces 3D structure of ABL1 kinase in complex with imatinib displaying the different structural regions of protein kinases. The structure represents the typical kinase inactive DGF-out conformation. The protein is represented as ribbons and the ligand as sticks. The activation loop is coloured in cyan, the DGF motif in blue, the P-loop is coloured in red, the hinge region in purple and the $\alpha $C helix in green. PDB accession code 2HYY.\relax }}{44}{figure.caption.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11}{\ignorespaces Structural features of the canonical classes of small molecule kinase inhibitors. The center panel shows the main interaction sites of different inhibitors types. The side panels show the specific structural features of each of the binding modes. Figure extracted from \cite {Muller2015}.\relax }}{51}{figure.caption.27}
+\contentsline {figure}{\numberline {11}{\ignorespaces Structural features of the canonical classes of small molecule kinase inhibitors. The center panel shows the main interaction sites of different inhibitors types. The side panels show the specific structural features of each of the binding modes. Figure extracted from \cite {Muller2015}.\relax }}{47}{figure.caption.26}

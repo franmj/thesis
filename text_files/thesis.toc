@@ -15,34 +15,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {0.0.1}Protein structure}{2}{subsection.0.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein Structure Determination}{4}{section*.12}
+\contentsline {subsubsection}{Protein Structure Determination}{5}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein Structure Prediction}{9}{section*.14}
+\contentsline {subsubsection}{Protein Structure Prediction}{11}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Homology modeling}{9}{section*.15}
+\contentsline {subsubsection}{Homology modeling}{11}{section*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.0.2}Protein function}{13}{subsection.0.0.2}
+\contentsline {subsection}{\numberline {0.0.2}Protein function}{17}{subsection.0.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.0.3}Protein-Ligand Interactions}{15}{subsection.0.0.3}
+\contentsline {subsection}{\numberline {0.0.3}Protein-Ligand Interactions}{18}{subsection.0.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein-ligand binding energetics}{16}{section*.20}
+\contentsline {subsubsection}{Protein-ligand binding energetics}{19}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein-ligand prediction}{18}{section*.21}
+\contentsline {subsubsection}{Protein-ligand prediction}{23}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Drug discovery}{20}{section.0.1}
+\contentsline {section}{\numberline {0.1}Drug discovery}{25}{section.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.1.1}Computational drug discovery}{23}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.1}Computational drug discovery}{28}{subsection.0.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.2}Drug discovery in Tuberculosis}{26}{section.0.2}
+\contentsline {section}{\numberline {0.2}Drug discovery in Tuberculosis}{32}{section.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.2.1}Research strategies against MTB.}{30}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.1}Research strategies against MTB.}{36}{subsection.0.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{In-silico approaches in TB}{31}{section*.25}
+\contentsline {subsubsection}{In-silico approaches in TB}{37}{section*.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.3}Targeted cancer therapies}{33}{section.0.3}
+\contentsline {section}{\numberline {0.3}Targeted cancer therapies}{39}{section.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.1}Monoclonal antibodies}{34}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {0.3.1}Monoclonal antibodies}{40}{subsection.0.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.2}Small molecule kinase inhibitors}{36}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {0.3.2}Small molecule kinase inhibitors}{42}{subsection.0.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.3}Resistance to targeted cancer therapies}{40}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {0.3.3}Resistance to targeted cancer therapies}{50}{subsection.0.3.3}
