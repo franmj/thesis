@@ -6959,7 +6959,7 @@
       \verb 10.1038/nchembio.1938
       \endverb
       \verb{file}
-      \verb :home/fran/Downloads/nchembio.1938.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/M{\"{u}}ller et al. - 2015 - The ins and outs of selective kinase inhibitor development.pdf:pdf
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nchembio.1938
@@ -7499,6 +7499,745 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Lowe2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=15c91d0027dc4d881d0379c5e0894c4e}{Cepero}{C\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f57536643371a452e08971b8ad5073da}{Evan}{E\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=15c91d0027dc4d881d0379c5e0894c4e}{Cepero}{C\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f57536643371a452e08971b8ad5073da}{Evan}{E\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{591e6c4492d37ce584f753c14deebcb4}
+      \strng{fullhash}{591e6c4492d37ce584f753c14deebcb4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Intrinsic tumour suppression}}
+      \field{annotation}{10.1038/nature03098}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{7015}
+      \field{title}{{Intrinsic tumour suppression}}
+      \field{volume}{432}
+      \field{year}{2004}
+      \field{pages}{307\bibrangedash 315}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature03098
+      \endverb
+    \endentry
+    \entry{Logue2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f55da953001639a8f8362a83f5fd0fd4}{Logue}{L\bibinitperiod}{Jeremy\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=10ea24437e630bf72ce6b5de74925beb}{Morrison}{M\bibinitperiod}{Deborah\bibnamedelima K.}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f55da953001639a8f8362a83f5fd0fd4}{Logue}{L\bibinitperiod}{Jeremy\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=10ea24437e630bf72ce6b5de74925beb}{Morrison}{M\bibinitperiod}{Deborah\bibnamedelima K.}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ba59ee8f1d98fffbd59dcc5651d9b291}
+      \strng{fullhash}{ba59ee8f1d98fffbd59dcc5651d9b291}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Complexity in the signaling network: Insights from the use of targeted inhibitors in cancer therapy}}
+      \field{abstract}{Cancer often arises when normal cellular growth goes awry due to defects in critical signal transduction pathways. A growing number of inhibitors that target specific components of these pathways are in clinical use, but the success of these agents has been limited by the resistance to inhibitor therapy that ultimately develops. Studies have now shown that cancer cells respond to chronic drug treatment by adapting their signaling circuitry, taking advantage of pathway redundancy and routes of feedback and cross-talk to maintain their function. This review focuses on the compensatory signaling mechanisms highlighted by the use of targeted inhibitors in cancer therapy.}
+      \field{isbn}{1549-5477 (Electronic)$\backslash$r0890-9369 (Linking)}
+      \field{issn}{08909369}
+      \field{journaltitle}{Genes and Development}
+      \field{number}{7}
+      \field{title}{{Complexity in the signaling network: Insights from the use of targeted inhibitors in cancer therapy}}
+      \field{volume}{26}
+      \field{year}{2012}
+      \field{pages}{641\bibrangedash 650}
+      \verb{doi}
+      \verb 10.1101/gad.186965.112
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/Genes Dev.-2012-Logue-641-50.pdf:pdf
+      \endverb
+    \endentry
+    \entry{McMillin2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c30fb952510309c896ab0e40e4484cb6}{McMillin}{M\bibinitperiod}{Douglas\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=83b25172a11d5d9a84c82051d78c5cc1}{Negri}{N\bibinitperiod}{Joseph\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3b6118fc53c59da93b95a8c510432bde}{Mitsiades}{M\bibinitperiod}{Constantine\bibnamedelima S}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c30fb952510309c896ab0e40e4484cb6}{McMillin}{M\bibinitperiod}{Douglas\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=83b25172a11d5d9a84c82051d78c5cc1}{Negri}{N\bibinitperiod}{Joseph\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3b6118fc53c59da93b95a8c510432bde}{Mitsiades}{M\bibinitperiod}{Constantine\bibnamedelima S}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{0b40abbb7f2bdc3045c07c6850a7343c}
+      \strng{fullhash}{0b40abbb7f2bdc3045c07c6850a7343c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The role of tumour-stromal interactions in modifying drug response: challenges and opportunities}}
+      \field{annotation}{10.1038/nrd3870}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nat Rev Drug Discov}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{The role of tumour-stromal interactions in modifying drug response: challenges and opportunities}}
+      \field{volume}{12}
+      \field{year}{2013}
+      \field{pages}{217\bibrangedash 228}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3870
+      \endverb
+    \endentry
+    \entry{Maier2005}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=e6332b3fbc053e818beb40d6b92306d1}{Maier}{M\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c9d9f1741c41277726c521dc7fbf4e1}{Dahlstroem}{D\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6ccd7e784b4fc236e90ebfc8cd3e0a62}{Haefliger}{H\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27baf3e62a5cfa12c1e6f95b90b40284}{Plum}{P\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=360e5b8f2e397dd0acdf2916097159f3}{Piepenbrock}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=e6332b3fbc053e818beb40d6b92306d1}{Maier}{M\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c9d9f1741c41277726c521dc7fbf4e1}{Dahlstroem}{D\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6ccd7e784b4fc236e90ebfc8cd3e0a62}{Haefliger}{H\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27baf3e62a5cfa12c1e6f95b90b40284}{Plum}{P\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=360e5b8f2e397dd0acdf2916097159f3}{Piepenbrock}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{52dcbddef5b35796453038d1e1d55930}
+      \strng{fullhash}{6a4b16c1e94efd70a593e8b47bc07817}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identifying DNA Methylation Biomarkers of Cancer Drug Response}}
+      \field{abstract}{In the last few years, DNA methylation has become one of the most studied gene regulation mechanisms in carcinogenesis as a result of the cumulative evidence produced by the scientific community. Moreover, advances in the technologies that allow detection of DNA methylation in a variety of analytes have opened the possibility of developing methylation-based tests. A number of studies have provided evidence that specific methylation changes can alter the response to different therapeutic agents in cancer and, therefore, be useful biomarkers. For example, the association of the methylation status of DNA repair genes such as MGMT and MLH1 illustrate the two main mechanisms of response to DNA damaging agents. Loss of methylation of MGMT, and the subsequent increase in gene expression, leads to a reduction in response to alkylating agents as a result of enhanced repair of drug-induced DNA damage. Conversely, the increase in methylation of MLH1 and its resulting loss of expression has been consistently observed in drug-resistant tumor cells. MLH1 encodes a mismatch repair enzyme activated in response to DNA damage; activation of MLH1 also induces apoptosis of tumor cells, and thus loss of its expression leads to resistance to DNA-damaging agents. Other methylation-regulated genes that could serve as biomarkers in cancer therapy include drug transporters, genes involved in microtubule formation and stability, and genes related to hormonal therapy response. These methylation markers have potential applications for disease prognosis, treatment response prediction, and the development of novel treatment strategies.}
+      \field{issn}{1175-2203}
+      \field{journaltitle}{American Journal of Pharmacogenomics}
+      \field{number}{4}
+      \field{title}{{Identifying DNA Methylation Biomarkers of Cancer Drug Response}}
+      \field{volume}{5}
+      \field{year}{2005}
+      \field{pages}{223\bibrangedash 232}
+      \verb{doi}
+      \verb 10.2165/00129785-200505040-00003
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2165/00129785-200505040-00003
+      \endverb
+    \endentry
+    \entry{Koivisto1997}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=83021009def8842ea5ab4a483868842c}{Koivisto}{K\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=199a9152a2e6bb96b2beb4f09ed64b21}{Kononen}{K\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=560d241e00d660bcd40521091c38c389}{Palmberg}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3dad937f613791a00e74f7fe16642ba4}{Tammela}{T\bibinitperiod}{Teuvo}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b932363a5f64dc893a8c8aa13826187c}{Hyytinen}{H\bibinitperiod}{Eija}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=69f651c5aa39ad29a55b83c4828d915e}{Isola}{I\bibinitperiod}{Jorma}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c1fb4e38b6d63246deccbbf86d3b1575}{Trapman}{T\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=56e94e52248ef6490dbd18cd2eaf7cce}{Cleutjens}{C\bibinitperiod}{Kitty}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e63ad953054a2923b8a3c0b94fbb4df1}{Noordzij}{N\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4fec5b3d1a4c9169a688d0827889c1fa}{Visakorpi}{V\bibinitperiod}{Tapio}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f5dd63ebcc739e6edbd7ae920b10490d}{Kallioniemi}{K\bibinitperiod}{Olli-P.}{O\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=83021009def8842ea5ab4a483868842c}{Koivisto}{K\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=199a9152a2e6bb96b2beb4f09ed64b21}{Kononen}{K\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=560d241e00d660bcd40521091c38c389}{Palmberg}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3dad937f613791a00e74f7fe16642ba4}{Tammela}{T\bibinitperiod}{Teuvo}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b932363a5f64dc893a8c8aa13826187c}{Hyytinen}{H\bibinitperiod}{Eija}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=69f651c5aa39ad29a55b83c4828d915e}{Isola}{I\bibinitperiod}{Jorma}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c1fb4e38b6d63246deccbbf86d3b1575}{Trapman}{T\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=56e94e52248ef6490dbd18cd2eaf7cce}{Cleutjens}{C\bibinitperiod}{Kitty}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e63ad953054a2923b8a3c0b94fbb4df1}{Noordzij}{N\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4fec5b3d1a4c9169a688d0827889c1fa}{Visakorpi}{V\bibinitperiod}{Tapio}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f5dd63ebcc739e6edbd7ae920b10490d}{Kallioniemi}{K\bibinitperiod}{Olli-P.}{O\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f895be2a33ad75758813678735d6b15c}
+      \strng{fullhash}{14ddaf44959bd07e3b2a7424581b777f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Androgen Receptor Gene Amplification: A Possible Molecular Mechanism for Androgen Deprivation Therapy Failure in Prostate Cancer}}
+      \field{abstract}{Progression of prostate cancer during endocrine therapy is a major clinical problem, the molecular mechanisms of which remain poorly understood. Amplification of the androgen receptor (AR) gene was recently described in recurrent prostate carcinomas from patients who had failed androgen deprivation therapy. To evaluate the hypothesis that amplification of the AR gene is a cause for the failure of androgen deprivation therapy in prostate cancer, we studied whether AR amplification leads to gene overexpression, whether the amplified AR gene is structurally intact, and whether tumors with AR amplification have distinct biological and clinical characteristics. Tumor specimens were collected from 54 prostate cancer patients at the time of a local recurrence following therapy failure. In 26 cases, paired primary tumor specimens from the same patients prior to therapy were also available. Fifteen (28{\%}) of the recurrent therapy-resistant tumors, but none of the untreated primary tumors, contained AR gene amplification as determined by fluorescence in situ hybridization. According to single-stranded conformation polymorphism analysis, the AR gene was wild type in all but one of the 13 AR amplified cases studied. In one tumor, a presumed mutation in the hormone-binding domain at codon 674 leading to a Gly \x{2192} Ala substitution was found, but functional studies indicated that this mutation did not change the transactivational properties of the receptor. AR amplification was associated with a substantially increased level of mRNA expression of the gene by in situ hybridization. Clinicopathological correlations indicated that AR amplification was most likely to occur in tumors that had initially responded well to endocrine therapy and whose response duration was more than 12 months. Tumors that recurred earlier or those that showed no initial therapy response did not contain AR amplification. The median survival time after recurrence was two times longer for patients with AR amplification in comparison to those with no amplification (P = 0.03, Willcoxon-Breslow test). In conclusion, failure of conventional androgen deprivation therapy in prostate cancer may be caused by a clonal expansion of tumor cells that are able to continue androgen-dependent growth despite of the low concentrations of serum androgens. Amplification and the increased expression of a wild-type AR gene may play a key role in this process. {{$\copyright$}}1997 American Association for Cancer Research.}
+      \field{journaltitle}{Cancer Research}
+      \field{month}{01}
+      \field{number}{2}
+      \field{title}{{Androgen Receptor Gene Amplification: A Possible Molecular Mechanism for Androgen Deprivation Therapy Failure in Prostate Cancer}}
+      \field{volume}{57}
+      \field{year}{1997}
+      \field{pages}{314\bibrangedash 319}
+      \verb{url}
+      \verb http://cancerres.aacrjournals.org/content/57/2/314.abstract
+      \endverb
+    \endentry
+    \entry{Schmitt2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=a36e66a0f1ebea79542937d112f33c2c}{Schmitt}{S\bibinitperiod}{Michael\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=6e4eb2931bf50ae5d848b0b3f3dc1524}{Loeb}{L\bibinitperiod}{Lawrence\bibnamedelima A.}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=47a3e5c261ea08656d36bccde039469f}{Salk}{S\bibinitperiod}{Jesse\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=a36e66a0f1ebea79542937d112f33c2c}{Schmitt}{S\bibinitperiod}{Michael\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=6e4eb2931bf50ae5d848b0b3f3dc1524}{Loeb}{L\bibinitperiod}{Lawrence\bibnamedelima A.}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=47a3e5c261ea08656d36bccde039469f}{Salk}{S\bibinitperiod}{Jesse\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ebe5644efcdc41f0769afe7616e82668}
+      \strng{fullhash}{ebe5644efcdc41f0769afe7616e82668}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The influence of subclonal resistance mutations on targeted cancer therapy.}}
+      \field{abstract}{Clinical oncology is being revolutionized by the increasing use of molecularly targeted therapies. This paradigm holds great promise for improving cancer treatment; however, allocating specific therapies to the patients who are most likely to derive a durable benefit continues to represent a considerable challenge. Evidence continues to emerge that cancers are characterized by extensive intratumour genetic heterogeneity, and that patients being considered for treatment with a targeted agent might, therefore, already possess resistance to the drug in a minority of cells. Indeed, multiple examples of pre-existing subclonal resistance mutations to various molecularly targeted agents have been described, which we review herein. Early detection of pre-existing or emerging drug resistance could enable more personalized use of targeted cancer therapy, as patients could be stratified to receive the therapies that are most likely to be effective. We consider how monitoring of drug resistance could be incorporated into clinical practice to optimize the use of targeted therapies in individual patients.}
+      \field{issn}{1759-4782}
+      \field{journaltitle}{Nature reviews. Clinical oncology}
+      \field{title}{{The influence of subclonal resistance mutations on targeted cancer therapy.}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1038/nrclinonc.2015.175
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/schmitt2015.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nrclinonc.2015.175$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/26483300
+      \endverb
+    \endentry
+    \entry{Chen2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=838eb8b79df802c3fc789123cb8868dd}{Chen}{C\bibinitperiod}{Yi-fan}{Y\bibinithyphendelim f\bibinitperiod}{}{}{}{}}%
+        {{hash=346db2d2a87e22a9250e7bfe471beb3e}{Fu}{F\bibinitperiod}{Li-wu}{L\bibinithyphendelim w\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=838eb8b79df802c3fc789123cb8868dd}{Chen}{C\bibinitperiod}{Yi-fan}{Y\bibinithyphendelim f\bibinitperiod}{}{}{}{}}%
+        {{hash=346db2d2a87e22a9250e7bfe471beb3e}{Fu}{F\bibinitperiod}{Li-wu}{L\bibinithyphendelim w\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5cbefd25773cc49085ba67de0a1c5560}
+      \strng{fullhash}{5cbefd25773cc49085ba67de0a1c5560}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of acquired resistance to tyrosine kinase inhibitors}}
+      \field{issn}{2211-3835}
+      \field{journaltitle}{Acta Pharmaceutica Sinica B}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Mechanisms of acquired resistance to tyrosine kinase inhibitors}}
+      \field{volume}{1}
+      \field{year}{2011}
+      \field{pages}{197\bibrangedash 207}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.apsb.2011.10.007
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211383511000876
+      \endverb
+    \endentry
+    \entry{Barouch-Bentov2011a}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f1c3e5165a862ff0406acf074bc1a4ff}{Barouch-Bentov}{B\bibinithyphendelim B\bibinitperiod}{Rina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5bf5358f926234ff2094c55b885010}{Sauer}{S\bibinitperiod}{Karsten}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f1c3e5165a862ff0406acf074bc1a4ff}{Barouch-Bentov}{B\bibinithyphendelim B\bibinitperiod}{Rina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5bf5358f926234ff2094c55b885010}{Sauer}{S\bibinitperiod}{Karsten}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b996fa312837b24998517323bb416ace}
+      \strng{fullhash}{b996fa312837b24998517323bb416ace}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Drug-Resistance in Kinases}}
+      \field{abstract}{INTRODUCTION: Because of their important roles in disease and excellent {$\textquotedblleft$}druggability{$\textquotedblright$}, kinases have become the second-largest drug target family. The great success of the BCR-ABL inhibitor imatinib in treating CML illustrates the high potential of kinase inhibitor (KI) therapeutics, but also unveiled a major limitation: the development of drug-resistance. This is a significant concern as KIs reach large patient populations for an expanding array of indications. AREAS COVERED: We provide an up-to-date understanding of the mechanisms through which KIs function, and through which cells can become KI-resistant. We review current and future approaches to overcome KI-resistance, focussing on currently approved KIs and KIs in clinical trials. We then discuss approaches to improve KI efficacy and overcome drug-resistance and novel approaches to develop less drug-resistance prone KI-therapeutics. EXPERT OPINION: Although drug-resistance is a concern for current KI-therapeutics, recent progress in our understanding of the underlying mechanisms and promising technological advances may overcome this limitation and provide powerful new therapeutics.}
+      \field{issn}{1354-3784}
+      \field{journaltitle}{Expert opinion on investigational drugs}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{{Mechanisms of Drug-Resistance in Kinases}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{153\bibrangedash 208}
+      \verb{doi}
+      \verb 10.1517/13543784.2011.546344
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3095104/
+      \endverb
+    \endentry
+    \entry{Gorre2001}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=c8a9cbad8cfa2b5a8ad09452a9533cb9}{Gorre}{G\bibinitperiod}{Mercedes\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c0b63a80cf33f0666a50c643d6e6c798}{Mohammed}{M\bibinitperiod}{Mansoor}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=71c6d88cef5acaa8bc18e9be42d8dde8}{Ellwood}{E\bibinitperiod}{Katharine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac7a2252da43c90b85c4b1f6d31df7fc}{Hsu}{H\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cc11273b857b652546513e2e2f73129a}{Paquette}{P\bibinitperiod}{Ron}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=35aa2081393170f21bb85d865876677a}{Rao}{R\bibinitperiod}{P\bibnamedelima Nagesh}{P\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f22edf6d53eef45e28e683b05a6365ea}{Sawyers}{S\bibinitperiod}{Charles\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=c8a9cbad8cfa2b5a8ad09452a9533cb9}{Gorre}{G\bibinitperiod}{Mercedes\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c0b63a80cf33f0666a50c643d6e6c798}{Mohammed}{M\bibinitperiod}{Mansoor}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=71c6d88cef5acaa8bc18e9be42d8dde8}{Ellwood}{E\bibinitperiod}{Katharine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac7a2252da43c90b85c4b1f6d31df7fc}{Hsu}{H\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cc11273b857b652546513e2e2f73129a}{Paquette}{P\bibinitperiod}{Ron}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=35aa2081393170f21bb85d865876677a}{Rao}{R\bibinitperiod}{P\bibnamedelima Nagesh}{P\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f22edf6d53eef45e28e683b05a6365ea}{Sawyers}{S\bibinitperiod}{Charles\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a45409e6edc0726bd1b561df7fd2346a}
+      \strng{fullhash}{6c01aee90bc8caab0fcc46be97b7b672}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Clinical Resistance to STI-571 Cancer Therapy Caused by BCR-ABL Gene Mutation or Amplification}}
+      \field{abstract}{Clinical studies with the Abl tyrosine kinase inhibitor STI-571 in chronic myeloid leukemia demonstrate that many patients with advanced stage disease respond initially but then relapse. Through biochemical and molecular analysis of clinical material, we find that drug resistance is associated with the reactivation of BCR-ABL signal transduction in all cases examined. In six of nine patients, resistance was associated with a single amino acid substitution in a threonine residue of the Abl kinase domain known to form a critical hydrogen bond with the drug. This substitution of threonine with isoleucine was sufficient to confer STI-571 resistance in a reconstitution experiment. In three patients, resistance was associated with progressiveBCR-ABL gene amplification. These studies provide evidence that genetically complex cancers retain dependence on an initial oncogenic event and suggest a strategy for identifying inhibitors of STI-571 resistance.}
+      \field{journaltitle}{Science}
+      \field{month}{08}
+      \field{number}{5531}
+      \field{title}{{Clinical Resistance to STI-571 Cancer Therapy Caused by BCR-ABL Gene Mutation or Amplification}}
+      \field{volume}{293}
+      \field{year}{2001}
+      \field{pages}{876\bibrangedash 880}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/293/5531/876.abstract
+      \endverb
+    \endentry
+    \entry{Soverini2016}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=0a9e9a02e71800c149bfaff090a05e47}{Soverini}{S\bibinitperiod}{Simona}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{Branford}{B\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0cde4574b87e87e5767dd9e024f4427a}{Nicolini}{N\bibinitperiod}{Franck\bibnamedelima E}{F\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c35a3fbc1bf6528c77e1b61ae7f77709}{Talpaz}{T\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=249fe77ad183fc6795a8499b6863eb90}{Deininger}{D\bibinitperiod}{Michael\bibnamedelimb W\bibnamedelima N}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=032a8d086021b639c99eec77315a3f32}{Martinelli}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ed21f2add1c5b9222c502609601b029b}{M{\"{u}}ller}{M\bibinitperiod}{Martin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=494cfc6fb18817448568dbf4e911e819}{Radich}{R\bibinitperiod}{Jerald\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=09d68d1fdd85e495ccf25e270b1f2023}{Shah}{S\bibinitperiod}{Neil\bibnamedelima P}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=0a9e9a02e71800c149bfaff090a05e47}{Soverini}{S\bibinitperiod}{Simona}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{Branford}{B\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0cde4574b87e87e5767dd9e024f4427a}{Nicolini}{N\bibinitperiod}{Franck\bibnamedelima E}{F\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c35a3fbc1bf6528c77e1b61ae7f77709}{Talpaz}{T\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=249fe77ad183fc6795a8499b6863eb90}{Deininger}{D\bibinitperiod}{Michael\bibnamedelimb W\bibnamedelima N}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=032a8d086021b639c99eec77315a3f32}{Martinelli}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ed21f2add1c5b9222c502609601b029b}{M{\"{u}}ller}{M\bibinitperiod}{Martin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=494cfc6fb18817448568dbf4e911e819}{Radich}{R\bibinitperiod}{Jerald\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=09d68d1fdd85e495ccf25e270b1f2023}{Shah}{S\bibinitperiod}{Neil\bibnamedelima P}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e652330e53b4fb86088418234ea76d68}
+      \strng{fullhash}{e75f7f2ddf7f6afd77a7f16cf54902b1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Implications of BCR-ABL1 kinase domain-mediated resistance in chronic myeloid leukemia}}
+      \field{annotation}{doi: 10.1016/j.leukres.2013.09.011}
+      \field{issn}{0145-2126}
+      \field{journaltitle}{Leukemia Research}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Implications of BCR-ABL1 kinase domain-mediated resistance in chronic myeloid leukemia}}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{10\bibrangedash 20}
+      \verb{doi}
+      \verb 10.1016/j.leukres.2013.09.011
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.leukres.2013.09.011
+      \endverb
+    \endentry
+    \entry{Shih2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=097b13d55a363aeef488832a2555978e}{Shih}{S\bibinitperiod}{Jin-Yuan}{J\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=26255e7a3c1ba4e8e0e0f5fa63a741d6}{Gow}{G\bibinitperiod}{Chien-Hung}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8c7b09ba94093e2119b6af7becca215a}{Yang}{Y\bibinitperiod}{Pan-Chyr}{P\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=097b13d55a363aeef488832a2555978e}{Shih}{S\bibinitperiod}{Jin-Yuan}{J\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=26255e7a3c1ba4e8e0e0f5fa63a741d6}{Gow}{G\bibinitperiod}{Chien-Hung}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8c7b09ba94093e2119b6af7becca215a}{Yang}{Y\bibinitperiod}{Pan-Chyr}{P\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{d06c803369769e84025216ed5637b6a9}
+      \strng{fullhash}{d06c803369769e84025216ed5637b6a9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{EGFR Mutation Conferring Primary Resistance to Gefitinib in Non--Small-Cell Lung Cancer}}
+      \field{annotation}{doi: 10.1056/NEJM200507143530217}
+      \field{issn}{0028-4793}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{{EGFR Mutation Conferring Primary Resistance to Gefitinib in Non--Small-Cell Lung Cancer}}
+      \field{volume}{353}
+      \field{year}{2005}
+      \field{pages}{207\bibrangedash 208}
+      \verb{doi}
+      \verb 10.1056/NEJM200507143530217
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1056/NEJM200507143530217
+      \endverb
+    \endentry
+    \entry{Walter2013}{article}{}
+      \name{labelname}{30}{}{%
+        {{hash=cca789921c494236ec14c7db5c2878fc}{Walter}{W\bibinitperiod}{Annette\bibnamedelima O}{A\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=cf677020cb59ee903228bd940483f261}{Sjin}{S\bibinitperiod}{Robert\bibnamedelimb Tjin\bibnamedelima Tham}{R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=6c5b4f554b577226a962e927ad4b196d}{Haringsma}{H\bibinitperiod}{Henry\bibnamedelima J}{H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=bf7ffa68555d1660e1f6f0dcdf1a38e2}{Ohashi}{O\bibinitperiod}{Kadoaki}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bfe1058ef5492d64f1e0f193c736faa8}{Lee}{L\bibinitperiod}{Kwangho}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f0e5e463196c34f4b907df07394a20df}{Dubrovskiy}{D\bibinitperiod}{Aleksandr}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbdfca8ebe0f2869d00f9107338bcdc}{Labenski}{L\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba72e8d8a8abe30d9d20832861803a72}{Zhu}{Z\bibinitperiod}{Zhendong}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9f4446a6d583221d3d173f806ecf8627}{Wang}{W\bibinitperiod}{Zhigang}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=317a92fa1f91c6949eb2bcdb302df34c}{Sheets}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8fd09416626a0e5bd54a542296e3cc02}{{St\bibnamedelimb Martin}}{S\bibinitperiod}{Thia}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d320eb9999cfa2b9ca9eada10017fc88}{Karp}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32a6fa3fb0519b0f2ad00732902c571c}{Kalken}{K\bibinitperiod}{Dan}{D\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=74e8771eabf644b9966df55877434537}{Chaturvedi}{C\bibinitperiod}{Prasoon}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6c13a43e4a88eadf82c6c7aaf2976e}{Niu}{N\bibinitperiod}{Deqiang}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=230219635bc09a341b8b87210877a101}{Nacht}{N\bibinitperiod}{Mariana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f048e1809ed2d21d092a20d30987b9ab}{Petter}{P\bibinitperiod}{Russell\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=4e88a62d4f3a7f529b3c5a77a2c5a2d8}{Westlin}{W\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=68434cdeb7a3c089fd99baba0e0a4a3b}{Lin}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=4666719f28c34e4f94e852bc4fc18b8e}{Jaw-Tsai}{J\bibinithyphendelim T\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67b202c72147e9c0a41f943ef7d2da50}{Raponi}{R\bibinitperiod}{Mitch}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5efe5ccfcb886b6e498c802a46ec7ec}{{Van\bibnamedelimb Dyke}}{V\bibinitperiod}{Terry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=841fb4e62a9a5d592b9e89194f7b13aa}{Etter}{E\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edc177d9163f251894097883fa6a592f}{Weaver}{W\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ba7cc9c093b23938d671bf86afa5b3fd}{Singh}{S\bibinitperiod}{Juswinder}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60be570203dbd7412e376dc3051fce5f}{Simmons}{S\bibinitperiod}{Andrew\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=5d71d3960f01caa4ecafb3fcf8986f1d}{Harding}{H\bibinitperiod}{Thomas\bibnamedelima C}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d2c136ce91bb9434800c7bbb5529e412}{Allen}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{30}{}{%
+        {{hash=cca789921c494236ec14c7db5c2878fc}{Walter}{W\bibinitperiod}{Annette\bibnamedelima O}{A\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=cf677020cb59ee903228bd940483f261}{Sjin}{S\bibinitperiod}{Robert\bibnamedelimb Tjin\bibnamedelima Tham}{R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=6c5b4f554b577226a962e927ad4b196d}{Haringsma}{H\bibinitperiod}{Henry\bibnamedelima J}{H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=bf7ffa68555d1660e1f6f0dcdf1a38e2}{Ohashi}{O\bibinitperiod}{Kadoaki}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bfe1058ef5492d64f1e0f193c736faa8}{Lee}{L\bibinitperiod}{Kwangho}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f0e5e463196c34f4b907df07394a20df}{Dubrovskiy}{D\bibinitperiod}{Aleksandr}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbdfca8ebe0f2869d00f9107338bcdc}{Labenski}{L\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba72e8d8a8abe30d9d20832861803a72}{Zhu}{Z\bibinitperiod}{Zhendong}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9f4446a6d583221d3d173f806ecf8627}{Wang}{W\bibinitperiod}{Zhigang}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=317a92fa1f91c6949eb2bcdb302df34c}{Sheets}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8fd09416626a0e5bd54a542296e3cc02}{{St\bibnamedelimb Martin}}{S\bibinitperiod}{Thia}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d320eb9999cfa2b9ca9eada10017fc88}{Karp}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32a6fa3fb0519b0f2ad00732902c571c}{Kalken}{K\bibinitperiod}{Dan}{D\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=74e8771eabf644b9966df55877434537}{Chaturvedi}{C\bibinitperiod}{Prasoon}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6c13a43e4a88eadf82c6c7aaf2976e}{Niu}{N\bibinitperiod}{Deqiang}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=230219635bc09a341b8b87210877a101}{Nacht}{N\bibinitperiod}{Mariana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f048e1809ed2d21d092a20d30987b9ab}{Petter}{P\bibinitperiod}{Russell\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=4e88a62d4f3a7f529b3c5a77a2c5a2d8}{Westlin}{W\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=68434cdeb7a3c089fd99baba0e0a4a3b}{Lin}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=4666719f28c34e4f94e852bc4fc18b8e}{Jaw-Tsai}{J\bibinithyphendelim T\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67b202c72147e9c0a41f943ef7d2da50}{Raponi}{R\bibinitperiod}{Mitch}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5efe5ccfcb886b6e498c802a46ec7ec}{{Van\bibnamedelimb Dyke}}{V\bibinitperiod}{Terry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=841fb4e62a9a5d592b9e89194f7b13aa}{Etter}{E\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edc177d9163f251894097883fa6a592f}{Weaver}{W\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ba7cc9c093b23938d671bf86afa5b3fd}{Singh}{S\bibinitperiod}{Juswinder}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60be570203dbd7412e376dc3051fce5f}{Simmons}{S\bibinitperiod}{Andrew\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=5d71d3960f01caa4ecafb3fcf8986f1d}{Harding}{H\bibinitperiod}{Thomas\bibnamedelima C}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d2c136ce91bb9434800c7bbb5529e412}{Allen}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d4581139d53d7d61cf2c68faa01469b}
+      \strng{fullhash}{0f0805436004ca10cc2cb6cc18dd3b53}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Discovery of a Mutant-Selective Covalent Inhibitor of EGFR that Overcomes T790M-Mediated Resistance in NSCLC}}
+      \field{abstract}{Patients with non--small cell lung cancer (NSCLC) with activating EGF receptor (EGFR) mutations initially respond to first-generation reversible EGFR tyrosine kinase inhibitors. However, clinical efficacy is limited by acquired resistance, frequently driven by the EGFRT790M mutation. CO-1686 is a novel, irreversible, and orally delivered kinase inhibitor that specifically targets the mutant forms of EGFR, including T790M, while exhibiting minimal activity toward the wild-type (WT) receptor. Oral administration of CO-1686 as single agent induces tumor regression in EGFR-mutated NSCLC tumor xenograft and transgenic models. Minimal activity of CO-1686 against the WT EGFR receptor was observed. In NSCLC cells with acquired resistance to CO-1686 in vitro, there was no evidence of additional mutations or amplification of the EGFR gene, but resistant cells exhibited signs of epithelial--mesenchymal transition and demonstrated increased sensitivity to AKT inhibitors. These results suggest that CO-1686 may offer a novel therapeutic option for patients with mutant EGFR NSCLC.Significance: We report the preclinical development of a novel covalent inhibitor, CO-1686, that irreversibly and selectively inhibits mutant EGFR, in particular the T790M drug-resistance mutation, in NSCLC models. CO-1686 is the first drug of its class in clinical development for the treatment of T790M-positive NSCLC, potentially offering potent inhibition of mutant EGFR while avoiding the on-target toxicity observed with inhibition of the WT EGFR. Cancer Discov; 3(12); 1404--15. {{$\copyright$}}2013 AACR.This article is highlighted in the In This Issue feature, p. 1317}
+      \field{annotation}{10.1158/2159-8290.CD-13-0314}
+      \field{journaltitle}{Cancer Discovery}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Discovery of a Mutant-Selective Covalent Inhibitor of EGFR that Overcomes T790M-Mediated Resistance in NSCLC}}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{1404\bibrangedash 1415}
+      \verb{doi}
+      \verb 10.1158/2159-8290.CD-13-0314
+      \endverb
+      \verb{url}
+      \verb http://cancerdiscovery.aacrjournals.org/content/3/12/1404.abstract
+      \endverb
+    \endentry
+    \entry{Cross2014}{article}{}
+      \name{labelname}{26}{}{%
+        {{hash=730caf584e659bb8c7b2cdb21a2ff85d}{Cross}{C\bibinitperiod}{Darren\bibnamedelimb A\bibnamedelima E}{D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f89ccdf09de3450bd4678c362348b7}{Ashton}{A\bibinitperiod}{Susan\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=bfb954977cc0afc320caed7d1cdd92ec}{Ghiorghiu}{G\bibinitperiod}{Serban}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b7cd7e931130b100968ab68e7990179f}{Eberlein}{E\bibinitperiod}{Cath}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b1f53e50947052b0dd53ab4c54700f39}{Nebhan}{N\bibinitperiod}{Caroline\bibnamedelima A}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07f181f03d9209e0bd608cb46864ed93}{Spitzler}{S\bibinitperiod}{Paula\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4be7ed8315ea23f658c28349ee55a98a}{Orme}{O\bibinitperiod}{Jonathon\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e47976f1fe8587c931d63fb1814246a6}{Finlay}{F\bibinitperiod}{M\bibnamedelima Raymond\bibnamedelima V}{M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=bbf0958ea69ace728ec58e0199b72027}{Ward}{W\bibinitperiod}{Richard\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5314d8131e9a6633cb2ac83521f7ce03}{Mellor}{M\bibinitperiod}{Martine\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9e04c7b5619196867412acc6ee5817}{Hughes}{H\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=30e3b5e08e476aa6ede3ad8c7fb7caed}{Rahi}{R\bibinitperiod}{Amar}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f2804395ed5443db24e7009f329c591f}{Jacobs}{J\bibinitperiod}{Vivien\bibnamedelima N}{V\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1c2895c17d684dfbb5f680286e6481ab}{Brewer}{B\bibinitperiod}{Monica\bibnamedelima Red}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5a098895ee1f55efcfcd84e6320b4fc}{Ichihara}{I\bibinitperiod}{Eiki}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46869c5054f2de0c51621d9b60bab602}{Jin}{J\bibinitperiod}{Hailing}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=c4395e579ca44aaced064425a258dbf3}{Ballard}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f8e5d2280281be9b381647bab8a611e6}{Al-Kadhimi}{A\bibinithyphendelim K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=baf2684715e4619413119a2f21224c2a}{Rowlinson}{R\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bad48efd2b68f1a54ec4f11cded655bb}{Klinowska}{K\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=df2cf1b98d260362cf694cd3e6461184}{Richmond}{R\bibinitperiod}{Graham\bibnamedelimb H\bibnamedelima P}{G\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c2bfc744d84c6bd9ec7d9f83404255fd}{Cantarini}{C\bibinitperiod}{Mireille}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d2229394934f5465cb16aa426b2fd68c}{Kim}{K\bibinitperiod}{Dong-Wan}{D\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbad32221d61c4cd3aaded9d5222573}{Ranson}{R\bibinitperiod}{Malcolm\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{26}{}{%
+        {{hash=730caf584e659bb8c7b2cdb21a2ff85d}{Cross}{C\bibinitperiod}{Darren\bibnamedelimb A\bibnamedelima E}{D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f89ccdf09de3450bd4678c362348b7}{Ashton}{A\bibinitperiod}{Susan\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=bfb954977cc0afc320caed7d1cdd92ec}{Ghiorghiu}{G\bibinitperiod}{Serban}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b7cd7e931130b100968ab68e7990179f}{Eberlein}{E\bibinitperiod}{Cath}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b1f53e50947052b0dd53ab4c54700f39}{Nebhan}{N\bibinitperiod}{Caroline\bibnamedelima A}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07f181f03d9209e0bd608cb46864ed93}{Spitzler}{S\bibinitperiod}{Paula\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4be7ed8315ea23f658c28349ee55a98a}{Orme}{O\bibinitperiod}{Jonathon\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e47976f1fe8587c931d63fb1814246a6}{Finlay}{F\bibinitperiod}{M\bibnamedelima Raymond\bibnamedelima V}{M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=bbf0958ea69ace728ec58e0199b72027}{Ward}{W\bibinitperiod}{Richard\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5314d8131e9a6633cb2ac83521f7ce03}{Mellor}{M\bibinitperiod}{Martine\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9e04c7b5619196867412acc6ee5817}{Hughes}{H\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=30e3b5e08e476aa6ede3ad8c7fb7caed}{Rahi}{R\bibinitperiod}{Amar}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f2804395ed5443db24e7009f329c591f}{Jacobs}{J\bibinitperiod}{Vivien\bibnamedelima N}{V\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1c2895c17d684dfbb5f680286e6481ab}{Brewer}{B\bibinitperiod}{Monica\bibnamedelima Red}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5a098895ee1f55efcfcd84e6320b4fc}{Ichihara}{I\bibinitperiod}{Eiki}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46869c5054f2de0c51621d9b60bab602}{Jin}{J\bibinitperiod}{Hailing}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=c4395e579ca44aaced064425a258dbf3}{Ballard}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f8e5d2280281be9b381647bab8a611e6}{Al-Kadhimi}{A\bibinithyphendelim K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=baf2684715e4619413119a2f21224c2a}{Rowlinson}{R\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bad48efd2b68f1a54ec4f11cded655bb}{Klinowska}{K\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=df2cf1b98d260362cf694cd3e6461184}{Richmond}{R\bibinitperiod}{Graham\bibnamedelimb H\bibnamedelima P}{G\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c2bfc744d84c6bd9ec7d9f83404255fd}{Cantarini}{C\bibinitperiod}{Mireille}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d2229394934f5465cb16aa426b2fd68c}{Kim}{K\bibinitperiod}{Dong-Wan}{D\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbad32221d61c4cd3aaded9d5222573}{Ranson}{R\bibinitperiod}{Malcolm\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{697190affcef5e8252710cdce4259277}
+      \strng{fullhash}{177280f9b627870fec550c1f70fbce25}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{AZD9291, an irreversible EGFR TKI, overcomes T790M-mediated resistance to EGFR inhibitors in lung cancer}}
+      \field{abstract}{First generation EGF receptor tyrosine kinase inhibitors (EGFR TKIs) provide significant clinical benefit in patients with advanced EGFR mutant (EGFRm+) non-small cell lung cancer (NSCLC). Patients ultimately develop disease progression, often driven by acquisition of a second T790M EGFR TKI resistance mutation. AZD9291 is a novel oral, potent and selective third generation irreversible inhibitor of both EGFRm+ sensitizing and T790M resistance mutants that spares wild-type EGFR. This monoanilino-pyrimidine compound is structurally distinct from other third generation EGFR TKIs and offers a pharmacologically differentiated profile from earlier generation EGFR TKIs. Pre-clinically, the drug potently inhibits signaling pathways and cellular growth in both EGFRm+ and EGFRm+/T790M mutant cell lines in vitro, with lower activity against wild-type EGFR lines, translating into profound and sustained tumor regression in EGFR mutant tumor xenograft and transgenic models. The treatment of two patients with advanced EGFRm T790M+ NSCLC is described as proof of principle.}
+      \field{issn}{2159-8274}
+      \field{journaltitle}{Cancer discovery}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{{AZD9291, an irreversible EGFR TKI, overcomes T790M-mediated resistance to EGFR inhibitors in lung cancer}}
+      \field{volume}{4}
+      \field{year}{2014}
+      \field{pages}{1046\bibrangedash 1061}
+      \verb{doi}
+      \verb 10.1158/2159-8290.CD-14-0337
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315625/
+      \endverb
+    \endentry
+    \entry{Ercan2015}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=808dd167f023b8edc89c9fa87362ad69}{Ercan}{E\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec3602d84fa696e9d0277bed04f6485}{Choi}{C\bibinitperiod}{Hwan\bibnamedelima Geun}{H\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ba104fde2bb4aba691518a73c8ae34}{Yun}{Y\bibinitperiod}{Cai-Hong}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c09d676ff94346afdb4de7d73029253c}{Capelletti}{C\bibinitperiod}{Marzia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=141eee66b6dff86df5d983d145e98b14}{Xie}{X\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=17a71501a921f463a4ec3f0da1ce20b0}{Eck}{E\bibinitperiod}{Michael\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ad239ed98ae02c67ea857442596c2084}{J{\"{a}}nne}{J\bibinitperiod}{Pasi\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=808dd167f023b8edc89c9fa87362ad69}{Ercan}{E\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec3602d84fa696e9d0277bed04f6485}{Choi}{C\bibinitperiod}{Hwan\bibnamedelima Geun}{H\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ba104fde2bb4aba691518a73c8ae34}{Yun}{Y\bibinitperiod}{Cai-Hong}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c09d676ff94346afdb4de7d73029253c}{Capelletti}{C\bibinitperiod}{Marzia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=141eee66b6dff86df5d983d145e98b14}{Xie}{X\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=17a71501a921f463a4ec3f0da1ce20b0}{Eck}{E\bibinitperiod}{Michael\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ad239ed98ae02c67ea857442596c2084}{J{\"{a}}nne}{J\bibinitperiod}{Pasi\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6d089ab0a02f4ec52a6769af8e9be120}
+      \strng{fullhash}{5ae70d9fb45ded5c9f2de36a991b8521}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{EGFR Mutations and Resistance to Irreversible Pyrimidine-Based EGFR Inhibitors}}
+      \field{abstract}{Purpose: Mutant selective irreversible pyrimidine-based EGFR kinase inhibitors, including WZ4002, CO-1686, and AZD9291, are effective in preclinical models and in lung cancer patients harboring the EGFR T790M gefitinib/erlotinib resistance mutation. However, little is known about how cancers develop acquired resistance to this class of EGFR inhibitors. We sought to identify and study EGFR mutations that confer resistance to this class of agents.Experimental Design: We performed an N-ethyl-N-nitrosourea (ENU) mutagenesis screen in EGFR-mutant (sensitizing alone or with concurrent EGFR T790M) Ba/F3 cells and selected drug-resistant clones. We evaluated the sensitivity of EGFR inhibitors in models harboring drug-resistant EGFR mutations.Results: We identified 3 major drug resistance mutations. EGFR L718Q, L844V, and C797S cause resistance to both WZ4002 and CO-1686 while, in contrast, only EGFR C797S leads to AZD9291 resistance. Cells containing an EGFR-sensitizing mutation, Del 19 or L858R, in conjunction with L718Q, L844V, or C797S retain sensitivity to quinazoline-based EGFR inhibitors, gefitinib and afatinib. The C797S mutation, in the presence of Del 19 or L858R and T790M, causes resistance to all current EGFR inhibitors, but L858R/T790M/C797S remains partially sensitive to cetuximab which leads to disruption of EGFR dimerization.Conclusions: Our findings provide insights into resistance mechanisms to irreversible pyrimidine-based EGFR inhibitors and identify specific genomic contexts in which sensitivity is retained to existing clinical EGFR inhibitors. These findings will guide the development of new strategies to inhibit EGFR. Clin Cancer Res; 21(17); 3913--23. {{$\copyright$}}2015 AACR.See related commentary by Ayeni et al., p. 3818}
+      \field{journaltitle}{American Association for Cancer Research}
+      \field{month}{08}
+      \field{number}{17}
+      \field{title}{{EGFR Mutations and Resistance to Irreversible Pyrimidine-Based EGFR Inhibitors}}
+      \field{volume}{21}
+      \field{year}{2015}
+      \field{pages}{3913\bibrangedash 3923}
+      \verb{url}
+      \verb http://clincancerres.aacrjournals.org/content/21/17/3913.abstract
+      \endverb
+    \endentry
+    \entry{Doebele2012}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=f892e20c7878cac4291dda2df8fbdef5}{Doebele}{D\bibinitperiod}{Robert\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=216659548df74f70e7a623d2446cb70d}{Pilling}{P\bibinitperiod}{Amanda\bibnamedelima B}{A\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=baf1d10fe98ea3a7760799186bf079de}{Aisner}{A\bibinitperiod}{Dara\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=dd1f8f0af2081da6eb220367e77eb810}{Kutateladze}{K\bibinitperiod}{Tatiana\bibnamedelima G}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf6cfac0921c31fa4fa843326ff1e53}{Le}{L\bibinitperiod}{Anh\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=e954de5d35aaa129ef458465cceb1e60}{Weickhardt}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=38b6ded2c677b77673850a6ab04a0a74}{Kondo}{K\bibinitperiod}{Kimi\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=83c192b18189cdb1cf5950da79bd6e5c}{Linderman}{L\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c8cc87dc86b444764638b45566c27fde}{Heasley}{H\bibinitperiod}{Lynn\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d11bb39ad713123dd66c6ed6e58e3631}{Franklin}{F\bibinitperiod}{Wilbur\bibnamedelima A}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3e77a7f396c134c410c592e1702ebe5f}{Varella-Garcia}{V\bibinithyphendelim G\bibinitperiod}{Marileila}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=84655618e0bd5c0cc9da2cfa927b74a2}{Camidge}{C\bibinitperiod}{D\bibnamedelima Ross}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=f892e20c7878cac4291dda2df8fbdef5}{Doebele}{D\bibinitperiod}{Robert\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=216659548df74f70e7a623d2446cb70d}{Pilling}{P\bibinitperiod}{Amanda\bibnamedelima B}{A\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=baf1d10fe98ea3a7760799186bf079de}{Aisner}{A\bibinitperiod}{Dara\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=dd1f8f0af2081da6eb220367e77eb810}{Kutateladze}{K\bibinitperiod}{Tatiana\bibnamedelima G}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf6cfac0921c31fa4fa843326ff1e53}{Le}{L\bibinitperiod}{Anh\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=e954de5d35aaa129ef458465cceb1e60}{Weickhardt}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=38b6ded2c677b77673850a6ab04a0a74}{Kondo}{K\bibinitperiod}{Kimi\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=83c192b18189cdb1cf5950da79bd6e5c}{Linderman}{L\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c8cc87dc86b444764638b45566c27fde}{Heasley}{H\bibinitperiod}{Lynn\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d11bb39ad713123dd66c6ed6e58e3631}{Franklin}{F\bibinitperiod}{Wilbur\bibnamedelima A}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3e77a7f396c134c410c592e1702ebe5f}{Varella-Garcia}{V\bibinithyphendelim G\bibinitperiod}{Marileila}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=84655618e0bd5c0cc9da2cfa927b74a2}{Camidge}{C\bibinitperiod}{D\bibnamedelima Ross}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{120caf6315ae2e6d57408e32031cd129}
+      \strng{fullhash}{7eae89ff4006f12ee9898e9a15623174}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Resistance to Crizotinib in Patients with ALK Gene Rearranged Non-Small Cell Lung Cancer}}
+      \field{abstract}{PURPOSE: Patients with anaplastic lymphoma kinase (ALK) gene rearrangements often manifest dramatic responses to crizotinib, a small molecule ALK inhibitor. Unfortunately, not every patient responds and acquired drug resistance inevitably develops in those that do respond. This study aimed to define molecular mechanisms of resistance to crizotinib in ALK+ non-small cell lung cancer (NSCLC) patients. EXPERIMENTAL DESIGN: We analyzed tissue obtained from 14 ALK+ NSCLC patients demonstrating evidence of radiologic progression while on crizotinib in order to define mechanisms of intrinsic and acquired resistance to crizotinib. RESULTS: Eleven patients had material evaluable for molecular analysis. Four patients (36{\%}) developed secondary mutations in the tyrosine kinase domain of ALK. A novel mutation in the ALK kinase domain, encoding a G1269A amino acid substitution that confers resistance to crizotinib in vitro, was identified in two of these cases. Two patients, one with a resistance mutation, exhibited new onset ALK copy number gain (CNG). One patient demonstrated outgrowth of EGFR mutant NSCLC without evidence of a persistent ALK gene rearrangement. Two patients exhibited a KRAS mutation, one of which occurred without evidence of a persisting ALK gene rearrangement. One patient demonstrated the emergence of an ALK gene fusion negative tumor compared to the baseline sample, but with no identifiable alternate driver. Two patients retained ALK positivity with no identifiable resistance mechanism. CONCLUSIONS: Crizotinib resistance in ALK+ NSCLC occurs through somatic kinase domain mutations, ALK gene fusion CNG, and emergence of separate oncogenic drivers.}
+      \field{issn}{1078-0432}
+      \field{journaltitle}{Clinical cancer research : an official journal of the American Association for Cancer Research}
+      \field{month}{03}
+      \field{number}{5}
+      \field{title}{{Mechanisms of Resistance to Crizotinib in Patients with ALK Gene Rearranged Non-Small Cell Lung Cancer}}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{1472\bibrangedash 1482}
+      \verb{doi}
+      \verb 10.1158/1078-0432.CCR-11-2906
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311875/
+      \endverb
+    \endentry
+    \entry{Shaw2015}{article}{}
+      \name{labelname}{23}{}{%
+        {{hash=26810537245ab20bf81e7bc8e77adffb}{Shaw}{S\bibinitperiod}{Alice\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=915aefadf29c81dc868d8a8eca13d1e7}{Friboulet}{F\bibinitperiod}{Luc}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e163f9bc8578bee284cfa1f841c68524}{Leshchiner}{L\bibinitperiod}{Ignaty}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2255d1786ea59311825c0de0a6981b20}{Gainor}{G\bibinitperiod}{Justin\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=d2760dd5145b66f69ed28ac840afa8d7}{Bergqvist}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7138cc2aaba25ecf23ed78f144293fa0}{Brooun}{B\bibinitperiod}{Alexei}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=046a9f5a5e167367d798dda9e8fde3b6}{Burke}{B\bibinitperiod}{Benjamin\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7ac189797c74a23b96bfd1b112e2a193}{Deng}{D\bibinitperiod}{Ya-Li}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{Liu}{L\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=6afff24c6bc00877b2c2f81a2decd2bb}{Dardaei}{D\bibinitperiod}{Leila}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4d183c60447231d5bf4e0f5037677953}{Frias}{F\bibinitperiod}{Rosa\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d560c7653af3480f5acbd25c31689704}{Schultz}{S\bibinitperiod}{Kate\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=503503487c354e1aa8da3e34cfc8f81e}{Logan}{L\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0019f9fcf669c64ce2bc05be2375ac4}{James}{J\bibinitperiod}{Leonard\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=046ffda9473dee948b6a769a271f034e}{Smeal}{S\bibinitperiod}{Tod}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=0e424fe6d9f257edfdf865c3eda64ba3}{Timofeevski}{T\bibinitperiod}{Sergei}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=01a8ed53b680160f06cf011f5b4afbdc}{Katayama}{K\bibinitperiod}{Ryohei}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9ff97c722ae958e8b5ee11ffe17fe7}{Iafrate}{I\bibinitperiod}{A\bibnamedelima John}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbbab8bcab15c08539869f2516e3198}{Le}{L\bibinitperiod}{Long}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=12d296ee4a7efdab147aa264767917d2}{McTigue}{M\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d71ca7bb52a670820a0fc3e9b3964fc6}{Johnson}{J\bibinitperiod}{Ted\bibnamedelima W}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3074982fe5e4cd63eb33357cd7bfcd4}{Engelman}{E\bibinitperiod}{Jeffrey\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{23}{}{%
+        {{hash=26810537245ab20bf81e7bc8e77adffb}{Shaw}{S\bibinitperiod}{Alice\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=915aefadf29c81dc868d8a8eca13d1e7}{Friboulet}{F\bibinitperiod}{Luc}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e163f9bc8578bee284cfa1f841c68524}{Leshchiner}{L\bibinitperiod}{Ignaty}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2255d1786ea59311825c0de0a6981b20}{Gainor}{G\bibinitperiod}{Justin\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=d2760dd5145b66f69ed28ac840afa8d7}{Bergqvist}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7138cc2aaba25ecf23ed78f144293fa0}{Brooun}{B\bibinitperiod}{Alexei}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=046a9f5a5e167367d798dda9e8fde3b6}{Burke}{B\bibinitperiod}{Benjamin\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7ac189797c74a23b96bfd1b112e2a193}{Deng}{D\bibinitperiod}{Ya-Li}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{Liu}{L\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=6afff24c6bc00877b2c2f81a2decd2bb}{Dardaei}{D\bibinitperiod}{Leila}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4d183c60447231d5bf4e0f5037677953}{Frias}{F\bibinitperiod}{Rosa\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d560c7653af3480f5acbd25c31689704}{Schultz}{S\bibinitperiod}{Kate\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=503503487c354e1aa8da3e34cfc8f81e}{Logan}{L\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0019f9fcf669c64ce2bc05be2375ac4}{James}{J\bibinitperiod}{Leonard\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=046ffda9473dee948b6a769a271f034e}{Smeal}{S\bibinitperiod}{Tod}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=0e424fe6d9f257edfdf865c3eda64ba3}{Timofeevski}{T\bibinitperiod}{Sergei}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=01a8ed53b680160f06cf011f5b4afbdc}{Katayama}{K\bibinitperiod}{Ryohei}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9ff97c722ae958e8b5ee11ffe17fe7}{Iafrate}{I\bibinitperiod}{A\bibnamedelima John}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbbab8bcab15c08539869f2516e3198}{Le}{L\bibinitperiod}{Long}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=12d296ee4a7efdab147aa264767917d2}{McTigue}{M\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d71ca7bb52a670820a0fc3e9b3964fc6}{Johnson}{J\bibinitperiod}{Ted\bibnamedelima W}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3074982fe5e4cd63eb33357cd7bfcd4}{Engelman}{E\bibinitperiod}{Jeffrey\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{6a05b6280e2339afbb0c4f5367b76a80}
+      \strng{fullhash}{df9598c765f62fb003fd5ae6ada321c7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Resensitization to Crizotinib by the Lorlatinib ALK Resistance Mutation L1198F}}
+      \field{annotation}{doi: 10.1056/NEJMoa1508887}
+      \field{issn}{0028-4793}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Resensitization to Crizotinib by the Lorlatinib ALK Resistance Mutation L1198F}}
+      \field{volume}{374}
+      \field{year}{2015}
+      \field{pages}{54\bibrangedash 61}
+      \verb{doi}
+      \verb 10.1056/NEJMoa1508887
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1056/NEJMoa1508887
+      \endverb
+    \endentry
+    \entry{Wu2016}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d2cb8568e7de25d94074687c187de256}
+      \strng{fullhash}{d2cb8568e7de25d94074687c187de256}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
+      \field{abstract}{Crizotinib as the first-generation ALK inhibitor has shown significant activity in ALK-mutated non-small cell lung cancer (NSCLC). Second- and third-generation ALK inhibitors are entering clinical applications for ALK+ NSCLC. In addition, a third-generation ALK inhibitor, lorlatinib (PF-06463922), was reported to resensitize NSCLC to crizotinib. This review provided a summary of clinical development of alectinib, ceritinib, brigatinib (AP26113), and lorlatinib.}
+      \field{issn}{1756-8722}
+      \field{journaltitle}{Journal of Hematology {\{}{\&}{\}} Oncology}
+      \field{number}{1}
+      \field{title}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 7}
+      \verb{doi}
+      \verb 10.1186/s13045-016-0251-8
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/s13045-016-0251-8
       \endverb
     \endentry
   \endsortlist
@@ -14443,7 +15182,7 @@
       \verb 10.1038/nchembio.1938
       \endverb
       \verb{file}
-      \verb :home/fran/Downloads/nchembio.1938.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/M{\"{u}}ller et al. - 2015 - The ins and outs of selective kinase inhibitor development.pdf:pdf
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nchembio.1938
@@ -14983,6 +15722,745 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Lowe2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=15c91d0027dc4d881d0379c5e0894c4e}{Cepero}{C\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f57536643371a452e08971b8ad5073da}{Evan}{E\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=15c91d0027dc4d881d0379c5e0894c4e}{Cepero}{C\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f57536643371a452e08971b8ad5073da}{Evan}{E\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{591e6c4492d37ce584f753c14deebcb4}
+      \strng{fullhash}{591e6c4492d37ce584f753c14deebcb4}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Intrinsic tumour suppression}}
+      \field{annotation}{10.1038/nature03098}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{7015}
+      \field{title}{{Intrinsic tumour suppression}}
+      \field{volume}{432}
+      \field{year}{2004}
+      \field{pages}{307\bibrangedash 315}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature03098
+      \endverb
+    \endentry
+    \entry{Logue2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f55da953001639a8f8362a83f5fd0fd4}{Logue}{L\bibinitperiod}{Jeremy\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=10ea24437e630bf72ce6b5de74925beb}{Morrison}{M\bibinitperiod}{Deborah\bibnamedelima K.}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f55da953001639a8f8362a83f5fd0fd4}{Logue}{L\bibinitperiod}{Jeremy\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=10ea24437e630bf72ce6b5de74925beb}{Morrison}{M\bibinitperiod}{Deborah\bibnamedelima K.}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ba59ee8f1d98fffbd59dcc5651d9b291}
+      \strng{fullhash}{ba59ee8f1d98fffbd59dcc5651d9b291}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Complexity in the signaling network: Insights from the use of targeted inhibitors in cancer therapy}}
+      \field{abstract}{Cancer often arises when normal cellular growth goes awry due to defects in critical signal transduction pathways. A growing number of inhibitors that target specific components of these pathways are in clinical use, but the success of these agents has been limited by the resistance to inhibitor therapy that ultimately develops. Studies have now shown that cancer cells respond to chronic drug treatment by adapting their signaling circuitry, taking advantage of pathway redundancy and routes of feedback and cross-talk to maintain their function. This review focuses on the compensatory signaling mechanisms highlighted by the use of targeted inhibitors in cancer therapy.}
+      \field{isbn}{1549-5477 (Electronic)$\backslash$r0890-9369 (Linking)}
+      \field{issn}{08909369}
+      \field{journaltitle}{Genes and Development}
+      \field{number}{7}
+      \field{title}{{Complexity in the signaling network: Insights from the use of targeted inhibitors in cancer therapy}}
+      \field{volume}{26}
+      \field{year}{2012}
+      \field{pages}{641\bibrangedash 650}
+      \verb{doi}
+      \verb 10.1101/gad.186965.112
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/Genes Dev.-2012-Logue-641-50.pdf:pdf
+      \endverb
+    \endentry
+    \entry{McMillin2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c30fb952510309c896ab0e40e4484cb6}{McMillin}{M\bibinitperiod}{Douglas\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=83b25172a11d5d9a84c82051d78c5cc1}{Negri}{N\bibinitperiod}{Joseph\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3b6118fc53c59da93b95a8c510432bde}{Mitsiades}{M\bibinitperiod}{Constantine\bibnamedelima S}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c30fb952510309c896ab0e40e4484cb6}{McMillin}{M\bibinitperiod}{Douglas\bibnamedelima W}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=83b25172a11d5d9a84c82051d78c5cc1}{Negri}{N\bibinitperiod}{Joseph\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3b6118fc53c59da93b95a8c510432bde}{Mitsiades}{M\bibinitperiod}{Constantine\bibnamedelima S}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{0b40abbb7f2bdc3045c07c6850a7343c}
+      \strng{fullhash}{0b40abbb7f2bdc3045c07c6850a7343c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The role of tumour-stromal interactions in modifying drug response: challenges and opportunities}}
+      \field{annotation}{10.1038/nrd3870}
+      \field{issn}{1474-1776}
+      \field{journaltitle}{Nat Rev Drug Discov}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{The role of tumour-stromal interactions in modifying drug response: challenges and opportunities}}
+      \field{volume}{12}
+      \field{year}{2013}
+      \field{pages}{217\bibrangedash 228}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrd3870
+      \endverb
+    \endentry
+    \entry{Maier2005}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=e6332b3fbc053e818beb40d6b92306d1}{Maier}{M\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c9d9f1741c41277726c521dc7fbf4e1}{Dahlstroem}{D\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6ccd7e784b4fc236e90ebfc8cd3e0a62}{Haefliger}{H\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27baf3e62a5cfa12c1e6f95b90b40284}{Plum}{P\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=360e5b8f2e397dd0acdf2916097159f3}{Piepenbrock}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=e6332b3fbc053e818beb40d6b92306d1}{Maier}{M\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=1c9d9f1741c41277726c521dc7fbf4e1}{Dahlstroem}{D\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6ccd7e784b4fc236e90ebfc8cd3e0a62}{Haefliger}{H\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=27baf3e62a5cfa12c1e6f95b90b40284}{Plum}{P\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=360e5b8f2e397dd0acdf2916097159f3}{Piepenbrock}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{52dcbddef5b35796453038d1e1d55930}
+      \strng{fullhash}{6a4b16c1e94efd70a593e8b47bc07817}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identifying DNA Methylation Biomarkers of Cancer Drug Response}}
+      \field{abstract}{In the last few years, DNA methylation has become one of the most studied gene regulation mechanisms in carcinogenesis as a result of the cumulative evidence produced by the scientific community. Moreover, advances in the technologies that allow detection of DNA methylation in a variety of analytes have opened the possibility of developing methylation-based tests. A number of studies have provided evidence that specific methylation changes can alter the response to different therapeutic agents in cancer and, therefore, be useful biomarkers. For example, the association of the methylation status of DNA repair genes such as MGMT and MLH1 illustrate the two main mechanisms of response to DNA damaging agents. Loss of methylation of MGMT, and the subsequent increase in gene expression, leads to a reduction in response to alkylating agents as a result of enhanced repair of drug-induced DNA damage. Conversely, the increase in methylation of MLH1 and its resulting loss of expression has been consistently observed in drug-resistant tumor cells. MLH1 encodes a mismatch repair enzyme activated in response to DNA damage; activation of MLH1 also induces apoptosis of tumor cells, and thus loss of its expression leads to resistance to DNA-damaging agents. Other methylation-regulated genes that could serve as biomarkers in cancer therapy include drug transporters, genes involved in microtubule formation and stability, and genes related to hormonal therapy response. These methylation markers have potential applications for disease prognosis, treatment response prediction, and the development of novel treatment strategies.}
+      \field{issn}{1175-2203}
+      \field{journaltitle}{American Journal of Pharmacogenomics}
+      \field{number}{4}
+      \field{title}{{Identifying DNA Methylation Biomarkers of Cancer Drug Response}}
+      \field{volume}{5}
+      \field{year}{2005}
+      \field{pages}{223\bibrangedash 232}
+      \verb{doi}
+      \verb 10.2165/00129785-200505040-00003
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2165/00129785-200505040-00003
+      \endverb
+    \endentry
+    \entry{Koivisto1997}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=83021009def8842ea5ab4a483868842c}{Koivisto}{K\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=199a9152a2e6bb96b2beb4f09ed64b21}{Kononen}{K\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=560d241e00d660bcd40521091c38c389}{Palmberg}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3dad937f613791a00e74f7fe16642ba4}{Tammela}{T\bibinitperiod}{Teuvo}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b932363a5f64dc893a8c8aa13826187c}{Hyytinen}{H\bibinitperiod}{Eija}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=69f651c5aa39ad29a55b83c4828d915e}{Isola}{I\bibinitperiod}{Jorma}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c1fb4e38b6d63246deccbbf86d3b1575}{Trapman}{T\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=56e94e52248ef6490dbd18cd2eaf7cce}{Cleutjens}{C\bibinitperiod}{Kitty}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e63ad953054a2923b8a3c0b94fbb4df1}{Noordzij}{N\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4fec5b3d1a4c9169a688d0827889c1fa}{Visakorpi}{V\bibinitperiod}{Tapio}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f5dd63ebcc739e6edbd7ae920b10490d}{Kallioniemi}{K\bibinitperiod}{Olli-P.}{O\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=83021009def8842ea5ab4a483868842c}{Koivisto}{K\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=199a9152a2e6bb96b2beb4f09ed64b21}{Kononen}{K\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=560d241e00d660bcd40521091c38c389}{Palmberg}{P\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3dad937f613791a00e74f7fe16642ba4}{Tammela}{T\bibinitperiod}{Teuvo}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b932363a5f64dc893a8c8aa13826187c}{Hyytinen}{H\bibinitperiod}{Eija}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=69f651c5aa39ad29a55b83c4828d915e}{Isola}{I\bibinitperiod}{Jorma}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c1fb4e38b6d63246deccbbf86d3b1575}{Trapman}{T\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=56e94e52248ef6490dbd18cd2eaf7cce}{Cleutjens}{C\bibinitperiod}{Kitty}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e63ad953054a2923b8a3c0b94fbb4df1}{Noordzij}{N\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4fec5b3d1a4c9169a688d0827889c1fa}{Visakorpi}{V\bibinitperiod}{Tapio}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f5dd63ebcc739e6edbd7ae920b10490d}{Kallioniemi}{K\bibinitperiod}{Olli-P.}{O\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f895be2a33ad75758813678735d6b15c}
+      \strng{fullhash}{14ddaf44959bd07e3b2a7424581b777f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Androgen Receptor Gene Amplification: A Possible Molecular Mechanism for Androgen Deprivation Therapy Failure in Prostate Cancer}}
+      \field{abstract}{Progression of prostate cancer during endocrine therapy is a major clinical problem, the molecular mechanisms of which remain poorly understood. Amplification of the androgen receptor (AR) gene was recently described in recurrent prostate carcinomas from patients who had failed androgen deprivation therapy. To evaluate the hypothesis that amplification of the AR gene is a cause for the failure of androgen deprivation therapy in prostate cancer, we studied whether AR amplification leads to gene overexpression, whether the amplified AR gene is structurally intact, and whether tumors with AR amplification have distinct biological and clinical characteristics. Tumor specimens were collected from 54 prostate cancer patients at the time of a local recurrence following therapy failure. In 26 cases, paired primary tumor specimens from the same patients prior to therapy were also available. Fifteen (28{\%}) of the recurrent therapy-resistant tumors, but none of the untreated primary tumors, contained AR gene amplification as determined by fluorescence in situ hybridization. According to single-stranded conformation polymorphism analysis, the AR gene was wild type in all but one of the 13 AR amplified cases studied. In one tumor, a presumed mutation in the hormone-binding domain at codon 674 leading to a Gly \x{2192} Ala substitution was found, but functional studies indicated that this mutation did not change the transactivational properties of the receptor. AR amplification was associated with a substantially increased level of mRNA expression of the gene by in situ hybridization. Clinicopathological correlations indicated that AR amplification was most likely to occur in tumors that had initially responded well to endocrine therapy and whose response duration was more than 12 months. Tumors that recurred earlier or those that showed no initial therapy response did not contain AR amplification. The median survival time after recurrence was two times longer for patients with AR amplification in comparison to those with no amplification (P = 0.03, Willcoxon-Breslow test). In conclusion, failure of conventional androgen deprivation therapy in prostate cancer may be caused by a clonal expansion of tumor cells that are able to continue androgen-dependent growth despite of the low concentrations of serum androgens. Amplification and the increased expression of a wild-type AR gene may play a key role in this process. {{$\copyright$}}1997 American Association for Cancer Research.}
+      \field{journaltitle}{Cancer Research}
+      \field{month}{01}
+      \field{number}{2}
+      \field{title}{{Androgen Receptor Gene Amplification: A Possible Molecular Mechanism for Androgen Deprivation Therapy Failure in Prostate Cancer}}
+      \field{volume}{57}
+      \field{year}{1997}
+      \field{pages}{314\bibrangedash 319}
+      \verb{url}
+      \verb http://cancerres.aacrjournals.org/content/57/2/314.abstract
+      \endverb
+    \endentry
+    \entry{Schmitt2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=a36e66a0f1ebea79542937d112f33c2c}{Schmitt}{S\bibinitperiod}{Michael\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=6e4eb2931bf50ae5d848b0b3f3dc1524}{Loeb}{L\bibinitperiod}{Lawrence\bibnamedelima A.}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=47a3e5c261ea08656d36bccde039469f}{Salk}{S\bibinitperiod}{Jesse\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=a36e66a0f1ebea79542937d112f33c2c}{Schmitt}{S\bibinitperiod}{Michael\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=6e4eb2931bf50ae5d848b0b3f3dc1524}{Loeb}{L\bibinitperiod}{Lawrence\bibnamedelima A.}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=47a3e5c261ea08656d36bccde039469f}{Salk}{S\bibinitperiod}{Jesse\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ebe5644efcdc41f0769afe7616e82668}
+      \strng{fullhash}{ebe5644efcdc41f0769afe7616e82668}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The influence of subclonal resistance mutations on targeted cancer therapy.}}
+      \field{abstract}{Clinical oncology is being revolutionized by the increasing use of molecularly targeted therapies. This paradigm holds great promise for improving cancer treatment; however, allocating specific therapies to the patients who are most likely to derive a durable benefit continues to represent a considerable challenge. Evidence continues to emerge that cancers are characterized by extensive intratumour genetic heterogeneity, and that patients being considered for treatment with a targeted agent might, therefore, already possess resistance to the drug in a minority of cells. Indeed, multiple examples of pre-existing subclonal resistance mutations to various molecularly targeted agents have been described, which we review herein. Early detection of pre-existing or emerging drug resistance could enable more personalized use of targeted cancer therapy, as patients could be stratified to receive the therapies that are most likely to be effective. We consider how monitoring of drug resistance could be incorporated into clinical practice to optimize the use of targeted therapies in individual patients.}
+      \field{issn}{1759-4782}
+      \field{journaltitle}{Nature reviews. Clinical oncology}
+      \field{title}{{The influence of subclonal resistance mutations on targeted cancer therapy.}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1038/nrclinonc.2015.175
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/schmitt2015.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nrclinonc.2015.175$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/26483300
+      \endverb
+    \endentry
+    \entry{Chen2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=838eb8b79df802c3fc789123cb8868dd}{Chen}{C\bibinitperiod}{Yi-fan}{Y\bibinithyphendelim f\bibinitperiod}{}{}{}{}}%
+        {{hash=346db2d2a87e22a9250e7bfe471beb3e}{Fu}{F\bibinitperiod}{Li-wu}{L\bibinithyphendelim w\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=838eb8b79df802c3fc789123cb8868dd}{Chen}{C\bibinitperiod}{Yi-fan}{Y\bibinithyphendelim f\bibinitperiod}{}{}{}{}}%
+        {{hash=346db2d2a87e22a9250e7bfe471beb3e}{Fu}{F\bibinitperiod}{Li-wu}{L\bibinithyphendelim w\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5cbefd25773cc49085ba67de0a1c5560}
+      \strng{fullhash}{5cbefd25773cc49085ba67de0a1c5560}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of acquired resistance to tyrosine kinase inhibitors}}
+      \field{issn}{2211-3835}
+      \field{journaltitle}{Acta Pharmaceutica Sinica B}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Mechanisms of acquired resistance to tyrosine kinase inhibitors}}
+      \field{volume}{1}
+      \field{year}{2011}
+      \field{pages}{197\bibrangedash 207}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.apsb.2011.10.007
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211383511000876
+      \endverb
+    \endentry
+    \entry{Barouch-Bentov2011a}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f1c3e5165a862ff0406acf074bc1a4ff}{Barouch-Bentov}{B\bibinithyphendelim B\bibinitperiod}{Rina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5bf5358f926234ff2094c55b885010}{Sauer}{S\bibinitperiod}{Karsten}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f1c3e5165a862ff0406acf074bc1a4ff}{Barouch-Bentov}{B\bibinithyphendelim B\bibinitperiod}{Rina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5bf5358f926234ff2094c55b885010}{Sauer}{S\bibinitperiod}{Karsten}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b996fa312837b24998517323bb416ace}
+      \strng{fullhash}{b996fa312837b24998517323bb416ace}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Drug-Resistance in Kinases}}
+      \field{abstract}{INTRODUCTION: Because of their important roles in disease and excellent {$\textquotedblleft$}druggability{$\textquotedblright$}, kinases have become the second-largest drug target family. The great success of the BCR-ABL inhibitor imatinib in treating CML illustrates the high potential of kinase inhibitor (KI) therapeutics, but also unveiled a major limitation: the development of drug-resistance. This is a significant concern as KIs reach large patient populations for an expanding array of indications. AREAS COVERED: We provide an up-to-date understanding of the mechanisms through which KIs function, and through which cells can become KI-resistant. We review current and future approaches to overcome KI-resistance, focussing on currently approved KIs and KIs in clinical trials. We then discuss approaches to improve KI efficacy and overcome drug-resistance and novel approaches to develop less drug-resistance prone KI-therapeutics. EXPERT OPINION: Although drug-resistance is a concern for current KI-therapeutics, recent progress in our understanding of the underlying mechanisms and promising technological advances may overcome this limitation and provide powerful new therapeutics.}
+      \field{issn}{1354-3784}
+      \field{journaltitle}{Expert opinion on investigational drugs}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{{Mechanisms of Drug-Resistance in Kinases}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{153\bibrangedash 208}
+      \verb{doi}
+      \verb 10.1517/13543784.2011.546344
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3095104/
+      \endverb
+    \endentry
+    \entry{Gorre2001}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=c8a9cbad8cfa2b5a8ad09452a9533cb9}{Gorre}{G\bibinitperiod}{Mercedes\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c0b63a80cf33f0666a50c643d6e6c798}{Mohammed}{M\bibinitperiod}{Mansoor}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=71c6d88cef5acaa8bc18e9be42d8dde8}{Ellwood}{E\bibinitperiod}{Katharine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac7a2252da43c90b85c4b1f6d31df7fc}{Hsu}{H\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cc11273b857b652546513e2e2f73129a}{Paquette}{P\bibinitperiod}{Ron}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=35aa2081393170f21bb85d865876677a}{Rao}{R\bibinitperiod}{P\bibnamedelima Nagesh}{P\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f22edf6d53eef45e28e683b05a6365ea}{Sawyers}{S\bibinitperiod}{Charles\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=c8a9cbad8cfa2b5a8ad09452a9533cb9}{Gorre}{G\bibinitperiod}{Mercedes\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c0b63a80cf33f0666a50c643d6e6c798}{Mohammed}{M\bibinitperiod}{Mansoor}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=71c6d88cef5acaa8bc18e9be42d8dde8}{Ellwood}{E\bibinitperiod}{Katharine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac7a2252da43c90b85c4b1f6d31df7fc}{Hsu}{H\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cc11273b857b652546513e2e2f73129a}{Paquette}{P\bibinitperiod}{Ron}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=35aa2081393170f21bb85d865876677a}{Rao}{R\bibinitperiod}{P\bibnamedelima Nagesh}{P\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=f22edf6d53eef45e28e683b05a6365ea}{Sawyers}{S\bibinitperiod}{Charles\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a45409e6edc0726bd1b561df7fd2346a}
+      \strng{fullhash}{6c01aee90bc8caab0fcc46be97b7b672}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Clinical Resistance to STI-571 Cancer Therapy Caused by BCR-ABL Gene Mutation or Amplification}}
+      \field{abstract}{Clinical studies with the Abl tyrosine kinase inhibitor STI-571 in chronic myeloid leukemia demonstrate that many patients with advanced stage disease respond initially but then relapse. Through biochemical and molecular analysis of clinical material, we find that drug resistance is associated with the reactivation of BCR-ABL signal transduction in all cases examined. In six of nine patients, resistance was associated with a single amino acid substitution in a threonine residue of the Abl kinase domain known to form a critical hydrogen bond with the drug. This substitution of threonine with isoleucine was sufficient to confer STI-571 resistance in a reconstitution experiment. In three patients, resistance was associated with progressiveBCR-ABL gene amplification. These studies provide evidence that genetically complex cancers retain dependence on an initial oncogenic event and suggest a strategy for identifying inhibitors of STI-571 resistance.}
+      \field{journaltitle}{Science}
+      \field{month}{08}
+      \field{number}{5531}
+      \field{title}{{Clinical Resistance to STI-571 Cancer Therapy Caused by BCR-ABL Gene Mutation or Amplification}}
+      \field{volume}{293}
+      \field{year}{2001}
+      \field{pages}{876\bibrangedash 880}
+      \verb{url}
+      \verb http://science.sciencemag.org/content/293/5531/876.abstract
+      \endverb
+    \endentry
+    \entry{Soverini2016}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=0a9e9a02e71800c149bfaff090a05e47}{Soverini}{S\bibinitperiod}{Simona}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{Branford}{B\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0cde4574b87e87e5767dd9e024f4427a}{Nicolini}{N\bibinitperiod}{Franck\bibnamedelima E}{F\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c35a3fbc1bf6528c77e1b61ae7f77709}{Talpaz}{T\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=249fe77ad183fc6795a8499b6863eb90}{Deininger}{D\bibinitperiod}{Michael\bibnamedelimb W\bibnamedelima N}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=032a8d086021b639c99eec77315a3f32}{Martinelli}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ed21f2add1c5b9222c502609601b029b}{M{\"{u}}ller}{M\bibinitperiod}{Martin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=494cfc6fb18817448568dbf4e911e819}{Radich}{R\bibinitperiod}{Jerald\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=09d68d1fdd85e495ccf25e270b1f2023}{Shah}{S\bibinitperiod}{Neil\bibnamedelima P}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=0a9e9a02e71800c149bfaff090a05e47}{Soverini}{S\bibinitperiod}{Simona}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{Branford}{B\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0cde4574b87e87e5767dd9e024f4427a}{Nicolini}{N\bibinitperiod}{Franck\bibnamedelima E}{F\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c35a3fbc1bf6528c77e1b61ae7f77709}{Talpaz}{T\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=249fe77ad183fc6795a8499b6863eb90}{Deininger}{D\bibinitperiod}{Michael\bibnamedelimb W\bibnamedelima N}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=032a8d086021b639c99eec77315a3f32}{Martinelli}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ed21f2add1c5b9222c502609601b029b}{M{\"{u}}ller}{M\bibinitperiod}{Martin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=494cfc6fb18817448568dbf4e911e819}{Radich}{R\bibinitperiod}{Jerald\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=09d68d1fdd85e495ccf25e270b1f2023}{Shah}{S\bibinitperiod}{Neil\bibnamedelima P}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e652330e53b4fb86088418234ea76d68}
+      \strng{fullhash}{e75f7f2ddf7f6afd77a7f16cf54902b1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Implications of BCR-ABL1 kinase domain-mediated resistance in chronic myeloid leukemia}}
+      \field{annotation}{doi: 10.1016/j.leukres.2013.09.011}
+      \field{issn}{0145-2126}
+      \field{journaltitle}{Leukemia Research}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Implications of BCR-ABL1 kinase domain-mediated resistance in chronic myeloid leukemia}}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{10\bibrangedash 20}
+      \verb{doi}
+      \verb 10.1016/j.leukres.2013.09.011
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.leukres.2013.09.011
+      \endverb
+    \endentry
+    \entry{Shih2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=097b13d55a363aeef488832a2555978e}{Shih}{S\bibinitperiod}{Jin-Yuan}{J\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=26255e7a3c1ba4e8e0e0f5fa63a741d6}{Gow}{G\bibinitperiod}{Chien-Hung}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8c7b09ba94093e2119b6af7becca215a}{Yang}{Y\bibinitperiod}{Pan-Chyr}{P\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=097b13d55a363aeef488832a2555978e}{Shih}{S\bibinitperiod}{Jin-Yuan}{J\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=26255e7a3c1ba4e8e0e0f5fa63a741d6}{Gow}{G\bibinitperiod}{Chien-Hung}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8c7b09ba94093e2119b6af7becca215a}{Yang}{Y\bibinitperiod}{Pan-Chyr}{P\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{d06c803369769e84025216ed5637b6a9}
+      \strng{fullhash}{d06c803369769e84025216ed5637b6a9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{EGFR Mutation Conferring Primary Resistance to Gefitinib in Non--Small-Cell Lung Cancer}}
+      \field{annotation}{doi: 10.1056/NEJM200507143530217}
+      \field{issn}{0028-4793}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{{EGFR Mutation Conferring Primary Resistance to Gefitinib in Non--Small-Cell Lung Cancer}}
+      \field{volume}{353}
+      \field{year}{2005}
+      \field{pages}{207\bibrangedash 208}
+      \verb{doi}
+      \verb 10.1056/NEJM200507143530217
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1056/NEJM200507143530217
+      \endverb
+    \endentry
+    \entry{Walter2013}{article}{}
+      \name{labelname}{30}{}{%
+        {{hash=cca789921c494236ec14c7db5c2878fc}{Walter}{W\bibinitperiod}{Annette\bibnamedelima O}{A\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=cf677020cb59ee903228bd940483f261}{Sjin}{S\bibinitperiod}{Robert\bibnamedelimb Tjin\bibnamedelima Tham}{R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=6c5b4f554b577226a962e927ad4b196d}{Haringsma}{H\bibinitperiod}{Henry\bibnamedelima J}{H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=bf7ffa68555d1660e1f6f0dcdf1a38e2}{Ohashi}{O\bibinitperiod}{Kadoaki}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bfe1058ef5492d64f1e0f193c736faa8}{Lee}{L\bibinitperiod}{Kwangho}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f0e5e463196c34f4b907df07394a20df}{Dubrovskiy}{D\bibinitperiod}{Aleksandr}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbdfca8ebe0f2869d00f9107338bcdc}{Labenski}{L\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba72e8d8a8abe30d9d20832861803a72}{Zhu}{Z\bibinitperiod}{Zhendong}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9f4446a6d583221d3d173f806ecf8627}{Wang}{W\bibinitperiod}{Zhigang}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=317a92fa1f91c6949eb2bcdb302df34c}{Sheets}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8fd09416626a0e5bd54a542296e3cc02}{{St\bibnamedelimb Martin}}{S\bibinitperiod}{Thia}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d320eb9999cfa2b9ca9eada10017fc88}{Karp}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32a6fa3fb0519b0f2ad00732902c571c}{Kalken}{K\bibinitperiod}{Dan}{D\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=74e8771eabf644b9966df55877434537}{Chaturvedi}{C\bibinitperiod}{Prasoon}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6c13a43e4a88eadf82c6c7aaf2976e}{Niu}{N\bibinitperiod}{Deqiang}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=230219635bc09a341b8b87210877a101}{Nacht}{N\bibinitperiod}{Mariana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f048e1809ed2d21d092a20d30987b9ab}{Petter}{P\bibinitperiod}{Russell\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=4e88a62d4f3a7f529b3c5a77a2c5a2d8}{Westlin}{W\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=68434cdeb7a3c089fd99baba0e0a4a3b}{Lin}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=4666719f28c34e4f94e852bc4fc18b8e}{Jaw-Tsai}{J\bibinithyphendelim T\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67b202c72147e9c0a41f943ef7d2da50}{Raponi}{R\bibinitperiod}{Mitch}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5efe5ccfcb886b6e498c802a46ec7ec}{{Van\bibnamedelimb Dyke}}{V\bibinitperiod}{Terry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=841fb4e62a9a5d592b9e89194f7b13aa}{Etter}{E\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edc177d9163f251894097883fa6a592f}{Weaver}{W\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ba7cc9c093b23938d671bf86afa5b3fd}{Singh}{S\bibinitperiod}{Juswinder}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60be570203dbd7412e376dc3051fce5f}{Simmons}{S\bibinitperiod}{Andrew\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=5d71d3960f01caa4ecafb3fcf8986f1d}{Harding}{H\bibinitperiod}{Thomas\bibnamedelima C}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d2c136ce91bb9434800c7bbb5529e412}{Allen}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{30}{}{%
+        {{hash=cca789921c494236ec14c7db5c2878fc}{Walter}{W\bibinitperiod}{Annette\bibnamedelima O}{A\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=cf677020cb59ee903228bd940483f261}{Sjin}{S\bibinitperiod}{Robert\bibnamedelimb Tjin\bibnamedelima Tham}{R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=6c5b4f554b577226a962e927ad4b196d}{Haringsma}{H\bibinitperiod}{Henry\bibnamedelima J}{H\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=bf7ffa68555d1660e1f6f0dcdf1a38e2}{Ohashi}{O\bibinitperiod}{Kadoaki}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bfe1058ef5492d64f1e0f193c736faa8}{Lee}{L\bibinitperiod}{Kwangho}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f0e5e463196c34f4b907df07394a20df}{Dubrovskiy}{D\bibinitperiod}{Aleksandr}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbdfca8ebe0f2869d00f9107338bcdc}{Labenski}{L\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba72e8d8a8abe30d9d20832861803a72}{Zhu}{Z\bibinitperiod}{Zhendong}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9f4446a6d583221d3d173f806ecf8627}{Wang}{W\bibinitperiod}{Zhigang}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=317a92fa1f91c6949eb2bcdb302df34c}{Sheets}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8fd09416626a0e5bd54a542296e3cc02}{{St\bibnamedelimb Martin}}{S\bibinitperiod}{Thia}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d320eb9999cfa2b9ca9eada10017fc88}{Karp}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=32a6fa3fb0519b0f2ad00732902c571c}{Kalken}{K\bibinitperiod}{Dan}{D\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=74e8771eabf644b9966df55877434537}{Chaturvedi}{C\bibinitperiod}{Prasoon}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6c13a43e4a88eadf82c6c7aaf2976e}{Niu}{N\bibinitperiod}{Deqiang}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=230219635bc09a341b8b87210877a101}{Nacht}{N\bibinitperiod}{Mariana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f048e1809ed2d21d092a20d30987b9ab}{Petter}{P\bibinitperiod}{Russell\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=4e88a62d4f3a7f529b3c5a77a2c5a2d8}{Westlin}{W\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=68434cdeb7a3c089fd99baba0e0a4a3b}{Lin}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=4666719f28c34e4f94e852bc4fc18b8e}{Jaw-Tsai}{J\bibinithyphendelim T\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67b202c72147e9c0a41f943ef7d2da50}{Raponi}{R\bibinitperiod}{Mitch}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5efe5ccfcb886b6e498c802a46ec7ec}{{Van\bibnamedelimb Dyke}}{V\bibinitperiod}{Terry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=841fb4e62a9a5d592b9e89194f7b13aa}{Etter}{E\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edc177d9163f251894097883fa6a592f}{Weaver}{W\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ba7cc9c093b23938d671bf86afa5b3fd}{Singh}{S\bibinitperiod}{Juswinder}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60be570203dbd7412e376dc3051fce5f}{Simmons}{S\bibinitperiod}{Andrew\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=5d71d3960f01caa4ecafb3fcf8986f1d}{Harding}{H\bibinitperiod}{Thomas\bibnamedelima C}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d2c136ce91bb9434800c7bbb5529e412}{Allen}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d4581139d53d7d61cf2c68faa01469b}
+      \strng{fullhash}{0f0805436004ca10cc2cb6cc18dd3b53}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Discovery of a Mutant-Selective Covalent Inhibitor of EGFR that Overcomes T790M-Mediated Resistance in NSCLC}}
+      \field{abstract}{Patients with non--small cell lung cancer (NSCLC) with activating EGF receptor (EGFR) mutations initially respond to first-generation reversible EGFR tyrosine kinase inhibitors. However, clinical efficacy is limited by acquired resistance, frequently driven by the EGFRT790M mutation. CO-1686 is a novel, irreversible, and orally delivered kinase inhibitor that specifically targets the mutant forms of EGFR, including T790M, while exhibiting minimal activity toward the wild-type (WT) receptor. Oral administration of CO-1686 as single agent induces tumor regression in EGFR-mutated NSCLC tumor xenograft and transgenic models. Minimal activity of CO-1686 against the WT EGFR receptor was observed. In NSCLC cells with acquired resistance to CO-1686 in vitro, there was no evidence of additional mutations or amplification of the EGFR gene, but resistant cells exhibited signs of epithelial--mesenchymal transition and demonstrated increased sensitivity to AKT inhibitors. These results suggest that CO-1686 may offer a novel therapeutic option for patients with mutant EGFR NSCLC.Significance: We report the preclinical development of a novel covalent inhibitor, CO-1686, that irreversibly and selectively inhibits mutant EGFR, in particular the T790M drug-resistance mutation, in NSCLC models. CO-1686 is the first drug of its class in clinical development for the treatment of T790M-positive NSCLC, potentially offering potent inhibition of mutant EGFR while avoiding the on-target toxicity observed with inhibition of the WT EGFR. Cancer Discov; 3(12); 1404--15. {{$\copyright$}}2013 AACR.This article is highlighted in the In This Issue feature, p. 1317}
+      \field{annotation}{10.1158/2159-8290.CD-13-0314}
+      \field{journaltitle}{Cancer Discovery}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Discovery of a Mutant-Selective Covalent Inhibitor of EGFR that Overcomes T790M-Mediated Resistance in NSCLC}}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{1404\bibrangedash 1415}
+      \verb{doi}
+      \verb 10.1158/2159-8290.CD-13-0314
+      \endverb
+      \verb{url}
+      \verb http://cancerdiscovery.aacrjournals.org/content/3/12/1404.abstract
+      \endverb
+    \endentry
+    \entry{Cross2014}{article}{}
+      \name{labelname}{26}{}{%
+        {{hash=730caf584e659bb8c7b2cdb21a2ff85d}{Cross}{C\bibinitperiod}{Darren\bibnamedelimb A\bibnamedelima E}{D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f89ccdf09de3450bd4678c362348b7}{Ashton}{A\bibinitperiod}{Susan\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=bfb954977cc0afc320caed7d1cdd92ec}{Ghiorghiu}{G\bibinitperiod}{Serban}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b7cd7e931130b100968ab68e7990179f}{Eberlein}{E\bibinitperiod}{Cath}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b1f53e50947052b0dd53ab4c54700f39}{Nebhan}{N\bibinitperiod}{Caroline\bibnamedelima A}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07f181f03d9209e0bd608cb46864ed93}{Spitzler}{S\bibinitperiod}{Paula\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4be7ed8315ea23f658c28349ee55a98a}{Orme}{O\bibinitperiod}{Jonathon\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e47976f1fe8587c931d63fb1814246a6}{Finlay}{F\bibinitperiod}{M\bibnamedelima Raymond\bibnamedelima V}{M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=bbf0958ea69ace728ec58e0199b72027}{Ward}{W\bibinitperiod}{Richard\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5314d8131e9a6633cb2ac83521f7ce03}{Mellor}{M\bibinitperiod}{Martine\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9e04c7b5619196867412acc6ee5817}{Hughes}{H\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=30e3b5e08e476aa6ede3ad8c7fb7caed}{Rahi}{R\bibinitperiod}{Amar}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f2804395ed5443db24e7009f329c591f}{Jacobs}{J\bibinitperiod}{Vivien\bibnamedelima N}{V\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1c2895c17d684dfbb5f680286e6481ab}{Brewer}{B\bibinitperiod}{Monica\bibnamedelima Red}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5a098895ee1f55efcfcd84e6320b4fc}{Ichihara}{I\bibinitperiod}{Eiki}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46869c5054f2de0c51621d9b60bab602}{Jin}{J\bibinitperiod}{Hailing}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=c4395e579ca44aaced064425a258dbf3}{Ballard}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f8e5d2280281be9b381647bab8a611e6}{Al-Kadhimi}{A\bibinithyphendelim K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=baf2684715e4619413119a2f21224c2a}{Rowlinson}{R\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bad48efd2b68f1a54ec4f11cded655bb}{Klinowska}{K\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=df2cf1b98d260362cf694cd3e6461184}{Richmond}{R\bibinitperiod}{Graham\bibnamedelimb H\bibnamedelima P}{G\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c2bfc744d84c6bd9ec7d9f83404255fd}{Cantarini}{C\bibinitperiod}{Mireille}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d2229394934f5465cb16aa426b2fd68c}{Kim}{K\bibinitperiod}{Dong-Wan}{D\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbad32221d61c4cd3aaded9d5222573}{Ranson}{R\bibinitperiod}{Malcolm\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{26}{}{%
+        {{hash=730caf584e659bb8c7b2cdb21a2ff85d}{Cross}{C\bibinitperiod}{Darren\bibnamedelimb A\bibnamedelima E}{D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f89ccdf09de3450bd4678c362348b7}{Ashton}{A\bibinitperiod}{Susan\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=bfb954977cc0afc320caed7d1cdd92ec}{Ghiorghiu}{G\bibinitperiod}{Serban}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b7cd7e931130b100968ab68e7990179f}{Eberlein}{E\bibinitperiod}{Cath}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b1f53e50947052b0dd53ab4c54700f39}{Nebhan}{N\bibinitperiod}{Caroline\bibnamedelima A}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=07f181f03d9209e0bd608cb46864ed93}{Spitzler}{S\bibinitperiod}{Paula\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4be7ed8315ea23f658c28349ee55a98a}{Orme}{O\bibinitperiod}{Jonathon\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e47976f1fe8587c931d63fb1814246a6}{Finlay}{F\bibinitperiod}{M\bibnamedelima Raymond\bibnamedelima V}{M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=bbf0958ea69ace728ec58e0199b72027}{Ward}{W\bibinitperiod}{Richard\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5314d8131e9a6633cb2ac83521f7ce03}{Mellor}{M\bibinitperiod}{Martine\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9e04c7b5619196867412acc6ee5817}{Hughes}{H\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=30e3b5e08e476aa6ede3ad8c7fb7caed}{Rahi}{R\bibinitperiod}{Amar}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f2804395ed5443db24e7009f329c591f}{Jacobs}{J\bibinitperiod}{Vivien\bibnamedelima N}{V\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1c2895c17d684dfbb5f680286e6481ab}{Brewer}{B\bibinitperiod}{Monica\bibnamedelima Red}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a5a098895ee1f55efcfcd84e6320b4fc}{Ichihara}{I\bibinitperiod}{Eiki}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=65ea74598909191bc1e0ad5a2d66e922}{Sun}{S\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46869c5054f2de0c51621d9b60bab602}{Jin}{J\bibinitperiod}{Hailing}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=c4395e579ca44aaced064425a258dbf3}{Ballard}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f8e5d2280281be9b381647bab8a611e6}{Al-Kadhimi}{A\bibinithyphendelim K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=baf2684715e4619413119a2f21224c2a}{Rowlinson}{R\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bad48efd2b68f1a54ec4f11cded655bb}{Klinowska}{K\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=df2cf1b98d260362cf694cd3e6461184}{Richmond}{R\bibinitperiod}{Graham\bibnamedelimb H\bibnamedelima P}{G\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c2bfc744d84c6bd9ec7d9f83404255fd}{Cantarini}{C\bibinitperiod}{Mireille}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d2229394934f5465cb16aa426b2fd68c}{Kim}{K\bibinitperiod}{Dong-Wan}{D\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbad32221d61c4cd3aaded9d5222573}{Ranson}{R\bibinitperiod}{Malcolm\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1f9445cbbdbb17a9eb7353afdab8a763}{Pao}{P\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{697190affcef5e8252710cdce4259277}
+      \strng{fullhash}{177280f9b627870fec550c1f70fbce25}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{AZD9291, an irreversible EGFR TKI, overcomes T790M-mediated resistance to EGFR inhibitors in lung cancer}}
+      \field{abstract}{First generation EGF receptor tyrosine kinase inhibitors (EGFR TKIs) provide significant clinical benefit in patients with advanced EGFR mutant (EGFRm+) non-small cell lung cancer (NSCLC). Patients ultimately develop disease progression, often driven by acquisition of a second T790M EGFR TKI resistance mutation. AZD9291 is a novel oral, potent and selective third generation irreversible inhibitor of both EGFRm+ sensitizing and T790M resistance mutants that spares wild-type EGFR. This monoanilino-pyrimidine compound is structurally distinct from other third generation EGFR TKIs and offers a pharmacologically differentiated profile from earlier generation EGFR TKIs. Pre-clinically, the drug potently inhibits signaling pathways and cellular growth in both EGFRm+ and EGFRm+/T790M mutant cell lines in vitro, with lower activity against wild-type EGFR lines, translating into profound and sustained tumor regression in EGFR mutant tumor xenograft and transgenic models. The treatment of two patients with advanced EGFRm T790M+ NSCLC is described as proof of principle.}
+      \field{issn}{2159-8274}
+      \field{journaltitle}{Cancer discovery}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{{AZD9291, an irreversible EGFR TKI, overcomes T790M-mediated resistance to EGFR inhibitors in lung cancer}}
+      \field{volume}{4}
+      \field{year}{2014}
+      \field{pages}{1046\bibrangedash 1061}
+      \verb{doi}
+      \verb 10.1158/2159-8290.CD-14-0337
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315625/
+      \endverb
+    \endentry
+    \entry{Ercan2015}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=808dd167f023b8edc89c9fa87362ad69}{Ercan}{E\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec3602d84fa696e9d0277bed04f6485}{Choi}{C\bibinitperiod}{Hwan\bibnamedelima Geun}{H\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ba104fde2bb4aba691518a73c8ae34}{Yun}{Y\bibinitperiod}{Cai-Hong}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c09d676ff94346afdb4de7d73029253c}{Capelletti}{C\bibinitperiod}{Marzia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=141eee66b6dff86df5d983d145e98b14}{Xie}{X\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=17a71501a921f463a4ec3f0da1ce20b0}{Eck}{E\bibinitperiod}{Michael\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ad239ed98ae02c67ea857442596c2084}{J{\"{a}}nne}{J\bibinitperiod}{Pasi\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=808dd167f023b8edc89c9fa87362ad69}{Ercan}{E\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1ec3602d84fa696e9d0277bed04f6485}{Choi}{C\bibinitperiod}{Hwan\bibnamedelima Geun}{H\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ba104fde2bb4aba691518a73c8ae34}{Yun}{Y\bibinitperiod}{Cai-Hong}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c09d676ff94346afdb4de7d73029253c}{Capelletti}{C\bibinitperiod}{Marzia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=141eee66b6dff86df5d983d145e98b14}{Xie}{X\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=17a71501a921f463a4ec3f0da1ce20b0}{Eck}{E\bibinitperiod}{Michael\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=fabe6c6461e55d2d47e6c8fb604e93f8}{Gray}{G\bibinitperiod}{Nathanael\bibnamedelima S}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ad239ed98ae02c67ea857442596c2084}{J{\"{a}}nne}{J\bibinitperiod}{Pasi\bibnamedelima A}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6d089ab0a02f4ec52a6769af8e9be120}
+      \strng{fullhash}{5ae70d9fb45ded5c9f2de36a991b8521}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{EGFR Mutations and Resistance to Irreversible Pyrimidine-Based EGFR Inhibitors}}
+      \field{abstract}{Purpose: Mutant selective irreversible pyrimidine-based EGFR kinase inhibitors, including WZ4002, CO-1686, and AZD9291, are effective in preclinical models and in lung cancer patients harboring the EGFR T790M gefitinib/erlotinib resistance mutation. However, little is known about how cancers develop acquired resistance to this class of EGFR inhibitors. We sought to identify and study EGFR mutations that confer resistance to this class of agents.Experimental Design: We performed an N-ethyl-N-nitrosourea (ENU) mutagenesis screen in EGFR-mutant (sensitizing alone or with concurrent EGFR T790M) Ba/F3 cells and selected drug-resistant clones. We evaluated the sensitivity of EGFR inhibitors in models harboring drug-resistant EGFR mutations.Results: We identified 3 major drug resistance mutations. EGFR L718Q, L844V, and C797S cause resistance to both WZ4002 and CO-1686 while, in contrast, only EGFR C797S leads to AZD9291 resistance. Cells containing an EGFR-sensitizing mutation, Del 19 or L858R, in conjunction with L718Q, L844V, or C797S retain sensitivity to quinazoline-based EGFR inhibitors, gefitinib and afatinib. The C797S mutation, in the presence of Del 19 or L858R and T790M, causes resistance to all current EGFR inhibitors, but L858R/T790M/C797S remains partially sensitive to cetuximab which leads to disruption of EGFR dimerization.Conclusions: Our findings provide insights into resistance mechanisms to irreversible pyrimidine-based EGFR inhibitors and identify specific genomic contexts in which sensitivity is retained to existing clinical EGFR inhibitors. These findings will guide the development of new strategies to inhibit EGFR. Clin Cancer Res; 21(17); 3913--23. {{$\copyright$}}2015 AACR.See related commentary by Ayeni et al., p. 3818}
+      \field{journaltitle}{American Association for Cancer Research}
+      \field{month}{08}
+      \field{number}{17}
+      \field{title}{{EGFR Mutations and Resistance to Irreversible Pyrimidine-Based EGFR Inhibitors}}
+      \field{volume}{21}
+      \field{year}{2015}
+      \field{pages}{3913\bibrangedash 3923}
+      \verb{url}
+      \verb http://clincancerres.aacrjournals.org/content/21/17/3913.abstract
+      \endverb
+    \endentry
+    \entry{Doebele2012}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=f892e20c7878cac4291dda2df8fbdef5}{Doebele}{D\bibinitperiod}{Robert\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=216659548df74f70e7a623d2446cb70d}{Pilling}{P\bibinitperiod}{Amanda\bibnamedelima B}{A\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=baf1d10fe98ea3a7760799186bf079de}{Aisner}{A\bibinitperiod}{Dara\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=dd1f8f0af2081da6eb220367e77eb810}{Kutateladze}{K\bibinitperiod}{Tatiana\bibnamedelima G}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf6cfac0921c31fa4fa843326ff1e53}{Le}{L\bibinitperiod}{Anh\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=e954de5d35aaa129ef458465cceb1e60}{Weickhardt}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=38b6ded2c677b77673850a6ab04a0a74}{Kondo}{K\bibinitperiod}{Kimi\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=83c192b18189cdb1cf5950da79bd6e5c}{Linderman}{L\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c8cc87dc86b444764638b45566c27fde}{Heasley}{H\bibinitperiod}{Lynn\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d11bb39ad713123dd66c6ed6e58e3631}{Franklin}{F\bibinitperiod}{Wilbur\bibnamedelima A}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3e77a7f396c134c410c592e1702ebe5f}{Varella-Garcia}{V\bibinithyphendelim G\bibinitperiod}{Marileila}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=84655618e0bd5c0cc9da2cfa927b74a2}{Camidge}{C\bibinitperiod}{D\bibnamedelima Ross}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=f892e20c7878cac4291dda2df8fbdef5}{Doebele}{D\bibinitperiod}{Robert\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=216659548df74f70e7a623d2446cb70d}{Pilling}{P\bibinitperiod}{Amanda\bibnamedelima B}{A\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=baf1d10fe98ea3a7760799186bf079de}{Aisner}{A\bibinitperiod}{Dara\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=dd1f8f0af2081da6eb220367e77eb810}{Kutateladze}{K\bibinitperiod}{Tatiana\bibnamedelima G}{T\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf6cfac0921c31fa4fa843326ff1e53}{Le}{L\bibinitperiod}{Anh\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=e954de5d35aaa129ef458465cceb1e60}{Weickhardt}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=38b6ded2c677b77673850a6ab04a0a74}{Kondo}{K\bibinitperiod}{Kimi\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=83c192b18189cdb1cf5950da79bd6e5c}{Linderman}{L\bibinitperiod}{Derek}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c8cc87dc86b444764638b45566c27fde}{Heasley}{H\bibinitperiod}{Lynn\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=d11bb39ad713123dd66c6ed6e58e3631}{Franklin}{F\bibinitperiod}{Wilbur\bibnamedelima A}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3e77a7f396c134c410c592e1702ebe5f}{Varella-Garcia}{V\bibinithyphendelim G\bibinitperiod}{Marileila}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=84655618e0bd5c0cc9da2cfa927b74a2}{Camidge}{C\bibinitperiod}{D\bibnamedelima Ross}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{120caf6315ae2e6d57408e32031cd129}
+      \strng{fullhash}{7eae89ff4006f12ee9898e9a15623174}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Resistance to Crizotinib in Patients with ALK Gene Rearranged Non-Small Cell Lung Cancer}}
+      \field{abstract}{PURPOSE: Patients with anaplastic lymphoma kinase (ALK) gene rearrangements often manifest dramatic responses to crizotinib, a small molecule ALK inhibitor. Unfortunately, not every patient responds and acquired drug resistance inevitably develops in those that do respond. This study aimed to define molecular mechanisms of resistance to crizotinib in ALK+ non-small cell lung cancer (NSCLC) patients. EXPERIMENTAL DESIGN: We analyzed tissue obtained from 14 ALK+ NSCLC patients demonstrating evidence of radiologic progression while on crizotinib in order to define mechanisms of intrinsic and acquired resistance to crizotinib. RESULTS: Eleven patients had material evaluable for molecular analysis. Four patients (36{\%}) developed secondary mutations in the tyrosine kinase domain of ALK. A novel mutation in the ALK kinase domain, encoding a G1269A amino acid substitution that confers resistance to crizotinib in vitro, was identified in two of these cases. Two patients, one with a resistance mutation, exhibited new onset ALK copy number gain (CNG). One patient demonstrated outgrowth of EGFR mutant NSCLC without evidence of a persistent ALK gene rearrangement. Two patients exhibited a KRAS mutation, one of which occurred without evidence of a persisting ALK gene rearrangement. One patient demonstrated the emergence of an ALK gene fusion negative tumor compared to the baseline sample, but with no identifiable alternate driver. Two patients retained ALK positivity with no identifiable resistance mechanism. CONCLUSIONS: Crizotinib resistance in ALK+ NSCLC occurs through somatic kinase domain mutations, ALK gene fusion CNG, and emergence of separate oncogenic drivers.}
+      \field{issn}{1078-0432}
+      \field{journaltitle}{Clinical cancer research : an official journal of the American Association for Cancer Research}
+      \field{month}{03}
+      \field{number}{5}
+      \field{title}{{Mechanisms of Resistance to Crizotinib in Patients with ALK Gene Rearranged Non-Small Cell Lung Cancer}}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{1472\bibrangedash 1482}
+      \verb{doi}
+      \verb 10.1158/1078-0432.CCR-11-2906
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311875/
+      \endverb
+    \endentry
+    \entry{Shaw2015}{article}{}
+      \name{labelname}{23}{}{%
+        {{hash=26810537245ab20bf81e7bc8e77adffb}{Shaw}{S\bibinitperiod}{Alice\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=915aefadf29c81dc868d8a8eca13d1e7}{Friboulet}{F\bibinitperiod}{Luc}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e163f9bc8578bee284cfa1f841c68524}{Leshchiner}{L\bibinitperiod}{Ignaty}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2255d1786ea59311825c0de0a6981b20}{Gainor}{G\bibinitperiod}{Justin\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=d2760dd5145b66f69ed28ac840afa8d7}{Bergqvist}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7138cc2aaba25ecf23ed78f144293fa0}{Brooun}{B\bibinitperiod}{Alexei}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=046a9f5a5e167367d798dda9e8fde3b6}{Burke}{B\bibinitperiod}{Benjamin\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7ac189797c74a23b96bfd1b112e2a193}{Deng}{D\bibinitperiod}{Ya-Li}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{Liu}{L\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=6afff24c6bc00877b2c2f81a2decd2bb}{Dardaei}{D\bibinitperiod}{Leila}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4d183c60447231d5bf4e0f5037677953}{Frias}{F\bibinitperiod}{Rosa\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d560c7653af3480f5acbd25c31689704}{Schultz}{S\bibinitperiod}{Kate\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=503503487c354e1aa8da3e34cfc8f81e}{Logan}{L\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0019f9fcf669c64ce2bc05be2375ac4}{James}{J\bibinitperiod}{Leonard\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=046ffda9473dee948b6a769a271f034e}{Smeal}{S\bibinitperiod}{Tod}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=0e424fe6d9f257edfdf865c3eda64ba3}{Timofeevski}{T\bibinitperiod}{Sergei}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=01a8ed53b680160f06cf011f5b4afbdc}{Katayama}{K\bibinitperiod}{Ryohei}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9ff97c722ae958e8b5ee11ffe17fe7}{Iafrate}{I\bibinitperiod}{A\bibnamedelima John}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbbab8bcab15c08539869f2516e3198}{Le}{L\bibinitperiod}{Long}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=12d296ee4a7efdab147aa264767917d2}{McTigue}{M\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d71ca7bb52a670820a0fc3e9b3964fc6}{Johnson}{J\bibinitperiod}{Ted\bibnamedelima W}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3074982fe5e4cd63eb33357cd7bfcd4}{Engelman}{E\bibinitperiod}{Jeffrey\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{23}{}{%
+        {{hash=26810537245ab20bf81e7bc8e77adffb}{Shaw}{S\bibinitperiod}{Alice\bibnamedelima T}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=915aefadf29c81dc868d8a8eca13d1e7}{Friboulet}{F\bibinitperiod}{Luc}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e163f9bc8578bee284cfa1f841c68524}{Leshchiner}{L\bibinitperiod}{Ignaty}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2255d1786ea59311825c0de0a6981b20}{Gainor}{G\bibinitperiod}{Justin\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=d2760dd5145b66f69ed28ac840afa8d7}{Bergqvist}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7138cc2aaba25ecf23ed78f144293fa0}{Brooun}{B\bibinitperiod}{Alexei}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=046a9f5a5e167367d798dda9e8fde3b6}{Burke}{B\bibinitperiod}{Benjamin\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7ac189797c74a23b96bfd1b112e2a193}{Deng}{D\bibinitperiod}{Ya-Li}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{Liu}{L\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=6afff24c6bc00877b2c2f81a2decd2bb}{Dardaei}{D\bibinitperiod}{Leila}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4d183c60447231d5bf4e0f5037677953}{Frias}{F\bibinitperiod}{Rosa\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d560c7653af3480f5acbd25c31689704}{Schultz}{S\bibinitperiod}{Kate\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=503503487c354e1aa8da3e34cfc8f81e}{Logan}{L\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0019f9fcf669c64ce2bc05be2375ac4}{James}{J\bibinitperiod}{Leonard\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=046ffda9473dee948b6a769a271f034e}{Smeal}{S\bibinitperiod}{Tod}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=0e424fe6d9f257edfdf865c3eda64ba3}{Timofeevski}{T\bibinitperiod}{Sergei}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=01a8ed53b680160f06cf011f5b4afbdc}{Katayama}{K\bibinitperiod}{Ryohei}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9ff97c722ae958e8b5ee11ffe17fe7}{Iafrate}{I\bibinitperiod}{A\bibnamedelima John}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cbbab8bcab15c08539869f2516e3198}{Le}{L\bibinitperiod}{Long}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=12d296ee4a7efdab147aa264767917d2}{McTigue}{M\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d71ca7bb52a670820a0fc3e9b3964fc6}{Johnson}{J\bibinitperiod}{Ted\bibnamedelima W}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3074982fe5e4cd63eb33357cd7bfcd4}{Engelman}{E\bibinitperiod}{Jeffrey\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{6a05b6280e2339afbb0c4f5367b76a80}
+      \strng{fullhash}{df9598c765f62fb003fd5ae6ada321c7}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Resensitization to Crizotinib by the Lorlatinib ALK Resistance Mutation L1198F}}
+      \field{annotation}{doi: 10.1056/NEJMoa1508887}
+      \field{issn}{0028-4793}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Resensitization to Crizotinib by the Lorlatinib ALK Resistance Mutation L1198F}}
+      \field{volume}{374}
+      \field{year}{2015}
+      \field{pages}{54\bibrangedash 61}
+      \verb{doi}
+      \verb 10.1056/NEJMoa1508887
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1056/NEJMoa1508887
+      \endverb
+    \endentry
+    \entry{Wu2016}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d2cb8568e7de25d94074687c187de256}
+      \strng{fullhash}{d2cb8568e7de25d94074687c187de256}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
+      \field{abstract}{Crizotinib as the first-generation ALK inhibitor has shown significant activity in ALK-mutated non-small cell lung cancer (NSCLC). Second- and third-generation ALK inhibitors are entering clinical applications for ALK+ NSCLC. In addition, a third-generation ALK inhibitor, lorlatinib (PF-06463922), was reported to resensitize NSCLC to crizotinib. This review provided a summary of clinical development of alectinib, ceritinib, brigatinib (AP26113), and lorlatinib.}
+      \field{issn}{1756-8722}
+      \field{journaltitle}{Journal of Hematology {\{}{\&}{\}} Oncology}
+      \field{number}{1}
+      \field{title}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 7}
+      \verb{doi}
+      \verb 10.1186/s13045-016-0251-8
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/s13045-016-0251-8
       \endverb
     \endentry
   \endsortlist
