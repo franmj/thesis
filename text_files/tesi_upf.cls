@@ -637,7 +637,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\contentsname
+    \section*{\contentsname
         \@mkboth{%
            \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
     \@starttoc{toc}%
@@ -684,7 +684,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\listfigurename}%
+    \section*{\listfigurename}%
       \@mkboth{\MakeUppercase\listfigurename}%
               {\MakeUppercase\listfigurename}%
     \@starttoc{lof}%
@@ -697,7 +697,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\listtablename}%
+    \section*{\listtablename}%
       \@mkboth{%
           \MakeUppercase\listtablename}%
          {\MakeUppercase\listtablename}%
@@ -708,7 +708,7 @@
 \newdimen\bibindent
 \setlength\bibindent{1.5em}
 \newenvironment{thebibliography}[1]
-     {\chapter*{\bibname}%
+     {\section*{\bibname}%
       \@mkboth{\MakeUppercase\bibname}{\MakeUppercase\bibname}%
       \list{\@biblabel{\@arabic\c@enumiv}}%
            {\settowidth\labelwidth{\@biblabel{#1}}%

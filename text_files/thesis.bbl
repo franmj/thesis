@@ -7501,6 +7501,37 @@
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
       \endverb
     \endentry
+    \entry{Gottesman2002}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a1354f1c1b5296ca8179b1c7ffaf1bd6}{Gottesman}{G\bibinitperiod}{Michael\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a1354f1c1b5296ca8179b1c7ffaf1bd6}{Gottesman}{G\bibinitperiod}{Michael\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{a1354f1c1b5296ca8179b1c7ffaf1bd6}
+      \strng{fullhash}{a1354f1c1b5296ca8179b1c7ffaf1bd6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Cancer Drug Resistance}}
+      \field{annotation}{doi: 10.1146/annurev.med.53.082901.103929}
+      \field{issn}{0066-4219}
+      \field{journaltitle}{Annual Review of Medicine}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{{Mechanisms of Cancer Drug Resistance}}
+      \field{volume}{53}
+      \field{year}{2002}
+      \field{pages}{615\bibrangedash 627}
+      \verb{doi}
+      \verb 10.1146/annurev.med.53.082901.103929
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.med.53.082901.103929
+      \endverb
+    \endentry
     \entry{Lowe2004}{article}{}
       \name{labelname}{3}{}{%
         {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
@@ -8238,6 +8269,432 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1186/s13045-016-0251-8
+      \endverb
+    \endentry
+    \entry{Burrell2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0f242162379eb537f3b68ff29dd5c3ee}{Burrell}{B\bibinitperiod}{Rebecca\bibnamedelima a.}{R\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=41ddb60dd242de6b2d07fa4624f293ee}{Swanton}{S\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0f242162379eb537f3b68ff29dd5c3ee}{Burrell}{B\bibinitperiod}{Rebecca\bibnamedelima a.}{R\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=41ddb60dd242de6b2d07fa4624f293ee}{Swanton}{S\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V}%
+      }
+      \strng{namehash}{3683470ab6043aa378f3628065fcaf57}
+      \strng{fullhash}{3683470ab6043aa378f3628065fcaf57}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Tumour heterogeneity and the evolution of polyclonal drug resistance}}
+      \field{abstract}{Cancer drug resistance is a major problem, with the majority of patients with metastatic disease ultimately developing multidrug resistance and succumbing to their disease. Our understanding of molecular events underpinning treatment failure has been enhanced by new genomic technologies and pre-clinical studies. Intratumour genetic heterogeneity (ITH) is a prominent contributor to therapeutic failure, and it is becoming increasingly apparent that individual tumours may achieve resistance via multiple routes simultaneously - termed polyclonal resistance. Efforts to target single resistance mechanisms to overcome therapeutic failure may therefore yield only limited success. Clinical studies with sequential analysis of tumour material are needed to enhance our understanding of inter-clonal functional relationships and tumour evolution during therapy, and to improve drug development strategies in cancer medicine. {{$\copyright$}} 2014 Federation of European Biochemical Societies.}
+      \field{isbn}{1878-0261 (Electronic) 1574-7891 (Linking)}
+      \field{issn}{15747891}
+      \field{journaltitle}{Molecular Oncology}
+      \field{number}{6}
+      \field{title}{{Tumour heterogeneity and the evolution of polyclonal drug resistance}}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{1095\bibrangedash 1111}
+      \verb{doi}
+      \verb 10.1016/j.molonc.2014.06.005
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S157478911400129X-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.molonc.2014.06.005
+      \endverb
+    \endentry
+    \entry{Cortes2016}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e6c0605ffc29f41e440d2bfa79a33019}{Cortes}{C\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=694e773657fa47f470964c25a884a0b0}{Roch{\'{e}}}{R\bibinitperiod}{Henri}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e6c0605ffc29f41e440d2bfa79a33019}{Cortes}{C\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=694e773657fa47f470964c25a884a0b0}{Roch{\'{e}}}{R\bibinitperiod}{Henri}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ff279e9ef02c0ba92429875e73b5402a}
+      \strng{fullhash}{ff279e9ef02c0ba92429875e73b5402a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Docetaxel combined with targeted therapies in metastatic breast cancer}}
+      \field{annotation}{doi: 10.1016/j.ctrv.2011.08.001}
+      \field{issn}{0305-7372}
+      \field{journaltitle}{Cancer Treatment Reviews}
+      \field{month}{07}
+      \field{number}{5}
+      \field{title}{{Docetaxel combined with targeted therapies in metastatic breast cancer}}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{387\bibrangedash 396}
+      \verb{doi}
+      \verb 10.1016/j.ctrv.2011.08.001
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.ctrv.2011.08.001
+      \endverb
+    \endentry
+    \entry{Vanneman2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=46f8ff0cb7dd578f72e1e8927d67d160}{Vanneman}{V\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=080baedac5a0a38b397977f2e21dd992}{Dranoff}{D\bibinitperiod}{Glenn}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=46f8ff0cb7dd578f72e1e8927d67d160}{Vanneman}{V\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=080baedac5a0a38b397977f2e21dd992}{Dranoff}{D\bibinitperiod}{Glenn}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{863ab2bf4acd5fca5370190f970254af}
+      \strng{fullhash}{863ab2bf4acd5fca5370190f970254af}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combining immunotherapy and targeted therapies in cancer treatment}}
+      \field{annotation}{10.1038/nrc3237}
+      \field{issn}{1474-175X}
+      \field{journaltitle}{Nat Rev Cancer}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{Combining immunotherapy and targeted therapies in cancer treatment}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{237\bibrangedash 251}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrc3237
+      \endverb
+    \endentry
+    \entry{Al-Lazikani2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6c2de189b3311c216fbbd5bfb9f79020}{Al-Lazikani}{A\bibinithyphendelim L\bibinitperiod}{Bissan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ec9ac9b8c704d8f7877d547d357f8519}{Banerji}{B\bibinitperiod}{Udai}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=82e2e3df21abbbdbbcb18fa631e52f4c}{Workman}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6c2de189b3311c216fbbd5bfb9f79020}{Al-Lazikani}{A\bibinithyphendelim L\bibinitperiod}{Bissan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ec9ac9b8c704d8f7877d547d357f8519}{Banerji}{B\bibinitperiod}{Udai}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=82e2e3df21abbbdbbcb18fa631e52f4c}{Workman}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1edc8eb6018e1b2d6c574787701a2abd}
+      \strng{fullhash}{1edc8eb6018e1b2d6c574787701a2abd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combinatorial drug therapy for cancer in the post-genomic era.}}
+      \field{abstract}{Over the past decade, whole genome sequencing and other 'omics' technologies have defined pathogenic driver mutations to which tumor cells are addicted. Such addictions, synthetic lethalities and other tumor vulnerabilities have yielded novel targets for a new generation of cancer drugs to treat discrete, genetically defined patient subgroups. This personalized cancer medicine strategy could eventually replace the conventional one-size-fits-all cytotoxic chemotherapy approach. However, the extraordinary intratumor genetic heterogeneity in cancers revealed by deep sequencing explains why de novo and acquired resistance arise with molecularly targeted drugs and cytotoxic chemotherapy, limiting their utility. One solution to the enduring challenge of polygenic cancer drug resistance is rational combinatorial targeted therapy.}
+      \field{issn}{1546-1696}
+      \field{journaltitle}{Nature biotechnology}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Combinatorial drug therapy for cancer in the post-genomic era.}}
+      \field{volume}{30}
+      \field{year}{2012}
+      \field{pages}{679\bibrangedash 92}
+      \verb{doi}
+      \verb 10.1038/nbt.2284
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Al-Lazikani, Banerji, Workman - 2012 - Combinatorial drug therapy for cancer in the post-genomic era.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22781697
+      \endverb
+    \endentry
+    \entry{Bozic2013}{article}{}
+      \name{labelname}{15}{}{%
+        {{hash=68e6e98a8496a5e2b7a31ec49920b885}{Bozic}{B\bibinitperiod}{Ivana}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=df507dfaaa3258432a4e78ff9589492b}{Reiter}{R\bibinitperiod}{Johannes\bibnamedelima G}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=1490d61b4eb7b6c927b241c8e711d29e}{Allen}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7329ef74890275905474a437d24df996}{Antal}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1a126fe7ca5387e01e1bebcd84f3c49b}{Chatterjee}{C\bibinitperiod}{Krishnendu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e818268f6b510c00a07613cf841ad}{Shah}{S\bibinitperiod}{Preya}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4d9e1b11e4acc2813fcf000e6b76513c}{Moon}{M\bibinitperiod}{Yo\bibnamedelima Sup}{Y\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ff91ee166610cd9392869f6fb00d40af}{Yaqubie}{Y\bibinitperiod}{Amin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d42507249ea0823ee5d1d3589b753606}{Kelly}{K\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2e3dc5069a4f903531f63c3883d753cf}{Le}{L\bibinitperiod}{Dung\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=ffd284352533a71c8e201fef2aca5ea6}{Lipson}{L\bibinitperiod}{Evan\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ee9fa088a1d65fc575397e291a8f5814}{Chapman}{C\bibinitperiod}{Paul\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fdae98f5ebe82221cebdb75592836d1d}{Diaz}{D\bibinitperiod}{Luis\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{Vogelstein}{V\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=13b6956393e41bce59dba670da9ce424}{Nowak}{N\bibinitperiod}{Martin\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{15}{}{%
+        {{hash=68e6e98a8496a5e2b7a31ec49920b885}{Bozic}{B\bibinitperiod}{Ivana}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=df507dfaaa3258432a4e78ff9589492b}{Reiter}{R\bibinitperiod}{Johannes\bibnamedelima G}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=1490d61b4eb7b6c927b241c8e711d29e}{Allen}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7329ef74890275905474a437d24df996}{Antal}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1a126fe7ca5387e01e1bebcd84f3c49b}{Chatterjee}{C\bibinitperiod}{Krishnendu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e818268f6b510c00a07613cf841ad}{Shah}{S\bibinitperiod}{Preya}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4d9e1b11e4acc2813fcf000e6b76513c}{Moon}{M\bibinitperiod}{Yo\bibnamedelima Sup}{Y\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ff91ee166610cd9392869f6fb00d40af}{Yaqubie}{Y\bibinitperiod}{Amin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d42507249ea0823ee5d1d3589b753606}{Kelly}{K\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2e3dc5069a4f903531f63c3883d753cf}{Le}{L\bibinitperiod}{Dung\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=ffd284352533a71c8e201fef2aca5ea6}{Lipson}{L\bibinitperiod}{Evan\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ee9fa088a1d65fc575397e291a8f5814}{Chapman}{C\bibinitperiod}{Paul\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fdae98f5ebe82221cebdb75592836d1d}{Diaz}{D\bibinitperiod}{Luis\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{Vogelstein}{V\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=13b6956393e41bce59dba670da9ce424}{Nowak}{N\bibinitperiod}{Martin\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{31b47cfc022ca05e5f642b4972129694}
+      \strng{fullhash}{f4c2db33bb2e7bd5c2335b22f5c959bf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolutionary dynamics of cancer in response to targeted combination therapy.}}
+      \field{abstract}{In solid tumors, targeted treatments can lead to dramatic regressions, but responses are often short-lived because resistant cancer cells arise. The major strategy proposed for overcoming resistance is combination therapy. We present a mathematical model describing the evolutionary dynamics of lesions in response to treatment. We first studied 20 melanoma patients receiving vemurafenib. We then applied our model to an independent set of pancreatic, colorectal, and melanoma cancer patients with metastatic disease. We find that dual therapy results in long-term disease control for most patients, if there are no single mutations that cause cross-resistance to both drugs; in patients with large disease burden, triple therapy is needed. We also find that simultaneous therapy with two drugs is much more effective than sequential therapy. Our results provide realistic expectations for the efficacy of new drug combinations and inform the design of trials for new cancer therapeutics. DOI:http://dx.doi.org/10.7554/eLife.00747.001.}
+      \field{issn}{2050-084X}
+      \field{journaltitle}{eLife}
+      \field{month}{01}
+      \field{title}{{Evolutionary dynamics of cancer in response to targeted combination therapy.}}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{e00747}
+      \verb{doi}
+      \verb 10.7554/eLife.00747
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Bozic et al. - 2013 - Evolutionary dynamics of cancer in response to targeted combination therapy.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3691570%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Komarova2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d3fe554da5d742f167abeb0a3802c9f8}{Komarova}{K\bibinitperiod}{Natalia\bibnamedelima L}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fbdd48dd1614a394a021c262168379a9}{Burger}{B\bibinitperiod}{Jan\bibnamedelima a}{J\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=ad7577549d55738f7b64bb2bea284096}{Wodarz}{W\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d3fe554da5d742f167abeb0a3802c9f8}{Komarova}{K\bibinitperiod}{Natalia\bibnamedelima L}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fbdd48dd1614a394a021c262168379a9}{Burger}{B\bibinitperiod}{Jan\bibnamedelima a}{J\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=ad7577549d55738f7b64bb2bea284096}{Wodarz}{W\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{73f793b478302f6a80b1f1958bf3c2fa}
+      \strng{fullhash}{73f793b478302f6a80b1f1958bf3c2fa}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolution of ibrutinib resistance in chronic lymphocytic leukemia (CLL).}}
+      \field{abstract}{The Bruton tyrosine kinase inhibitor (BTKi) ibrutinib is a new targeted therapy for patients with chronic lymphocytic leukemia (CLL). Ibrutinib is given orally on a continuous schedule and induces durable remissions in the majority of CLL patients. However, a small proportion of patients initially responds to the BTKi and then develops resistance. Estimating the frequency, timing, and individual risk of developing resistance to ibrutinib, therefore, would be valuable for long-term management of patients. Computational evolutionary models, based on measured kinetic parameters of patients, allow us to approach these questions and to develop a roadmap for personalized prognosis and treatment management. Our kinetic models predict that BTKi-resistant mutants exist before initiation of ibrutinib therapy, although they only comprise a minority of the overall tumor burden. Furthermore, we can estimate the time required for resistant cells to grow to detectable levels. We predict that this can be highly variable, depending mostly on growth and death rates of the individual CLL cell clone. For a specific patient, this time can be predicted with a high degree of certainty. Our model can thus be used to predict for how long ibrutinib can suppress the disease in individual patients. Furthermore, the model can suggest whether prior debulking of the tumor with chemo-immunotherapy can prolong progression-free survival under ibrutinib. Finally, by applying the models to data that document progression during ibrutinib therapy, we estimated that resistant mutants might have a small ({<}2{\%}) mean fitness advantage in the absence of treatment, compared with sensitive cells.}
+      \field{isbn}{1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{38}
+      \field{title}{{Evolution of ibrutinib resistance in chronic lymphocytic leukemia (CLL).}}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{13906\bibrangedash 11}
+      \verb{doi}
+      \verb 10.1073/pnas.1409362111
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-2014-Komarova-13906-11.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/111/38/13906.full
+      \endverb
+    \endentry
+    \entry{Williams2016}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=8139164a9c076731730b62026958123d}{Williams}{W\bibinitperiod}{Marc\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=88c3eeda7ffbd7d3b63a22e2527e8c0d}{Werner}{W\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8341669a3d0db82e877ef918042cb0d0}{Barnes}{B\bibinitperiod}{Chris\bibnamedelima P}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=d45c7a9db3287943efa6f23bc445ebe3}{Graham}{G\bibinitperiod}{Trevor\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=04d31891bb580b2c600eb251525541cc}{Sottoriva}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=8139164a9c076731730b62026958123d}{Williams}{W\bibinitperiod}{Marc\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=88c3eeda7ffbd7d3b63a22e2527e8c0d}{Werner}{W\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8341669a3d0db82e877ef918042cb0d0}{Barnes}{B\bibinitperiod}{Chris\bibnamedelima P}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=d45c7a9db3287943efa6f23bc445ebe3}{Graham}{G\bibinitperiod}{Trevor\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=04d31891bb580b2c600eb251525541cc}{Sottoriva}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a21d2b84a026855aabc92edef03d3c31}
+      \strng{fullhash}{fc9cef6209e6caf27201949e93091af8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification of neutral tumor evolution across cancer types}}
+      \field{issn}{1061-4036}
+      \field{journaltitle}{Nature Genetics}
+      \field{number}{August 2015}
+      \field{title}{{Identification of neutral tumor evolution across cancer types}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/ng.3489
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/ng.3489.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/ng.3489
+      \endverb
+    \endentry
+    \entry{Attolini2010}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=975800e80bf529794e733782f1f3cb3d}{Attolini}{A\bibinitperiod}{Camille\bibnamedelima Stephan-Otto}{C\bibinitperiod\bibinitdelim S\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=e6d5182250a998c6626c67d681de50cf}{Cheng}{C\bibinitperiod}{Yu-Kang}{Y\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=1e251929d54a7f11c024d2fa3b4d56fb}{Beroukhim}{B\bibinitperiod}{Rameen}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6789a07c9dab853530704b1c78787681}{Abdel-Wahab}{A\bibinithyphendelim W\bibinitperiod}{Omar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=d1b60a109e1b35c0e933fedf71910788}{Levine}{L\bibinitperiod}{Ross\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee89127e205377bb0b3e577b649211de}{Mellinghoff}{M\bibinitperiod}{Ingo\bibnamedelima K}{I\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{Michor}{M\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=975800e80bf529794e733782f1f3cb3d}{Attolini}{A\bibinitperiod}{Camille\bibnamedelima Stephan-Otto}{C\bibinitperiod\bibinitdelim S\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=e6d5182250a998c6626c67d681de50cf}{Cheng}{C\bibinitperiod}{Yu-Kang}{Y\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=1e251929d54a7f11c024d2fa3b4d56fb}{Beroukhim}{B\bibinitperiod}{Rameen}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6789a07c9dab853530704b1c78787681}{Abdel-Wahab}{A\bibinithyphendelim W\bibinitperiod}{Omar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=d1b60a109e1b35c0e933fedf71910788}{Levine}{L\bibinitperiod}{Ross\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee89127e205377bb0b3e577b649211de}{Mellinghoff}{M\bibinitperiod}{Ingo\bibnamedelima K}{I\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{Michor}{M\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13c6b9ef7a2638b9dc28c34f1286a85c}
+      \strng{fullhash}{e8e38c47c28a5ea076a10ef28e2c9fb1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A mathematical framework to determine the temporal sequence of somatic genetic events in cancer.}}
+      \field{abstract}{Human cancer is caused by the accumulation of genetic alterations in cells. Of special importance are changes that occur early during malignant transformation because they may result in oncogene addiction and represent promising targets for therapeutic intervention. Here we describe a computational approach, called Retracing the Evolutionary Steps in Cancer (RESIC), to deduce the temporal sequence of genetic events during tumorigenesis from cross-sectional genomic data of tumors at their fully transformed stage. When applied to a dataset of 70 advanced colorectal cancers, our algorithm accurately predicts the sequence of APC, KRAS, and TP53 mutations previously defined by analyzing tumors at different stages of colon cancer formation. We further validate the method with glioblastoma and leukemia sample data and then apply it to complex integrated genomics databases, finding that high-level EGFR amplification appears to be a late event in primary glioblastomas. RESIC represents the first evolutionary mathematical approach to identify the temporal sequence of mutations driving tumorigenesis and may be useful to guide the validation of candidate genes emerging from cancer genome surveys.}
+      \field{isbn}{1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{41}
+      \field{title}{{A mathematical framework to determine the temporal sequence of somatic genetic events in cancer.}}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{pages}{17604\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1073/pnas.1009117107
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-2010-Attolini-17604-9.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/107/41/17604.short
+      \endverb
+    \endentry
+    \entry{Chmielecki2011}{article}{}
+      \name{labelname}{21}{}{%
+        {{hash=9a086f1a7b8d9fb0825d4452a78f2b63}{Chmielecki}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6a63d1461212912feb7c2302828083}{Foo}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb33f9fc881c14fe6d7535f53f3883}{Oxnard}{O\bibinitperiod}{G\bibnamedelima R}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0b5c884b29882d20c71a528dd92ecf7e}{Hutchinson}{H\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d8e0d15ee4f29113f38d60cec221e7c7}{Ohashi}{O\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=a8affc3fc78b3f4e86493eb8d1906ba9}{Somwar}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a75ee293f2555f40976345739087998}{Wang}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3d0aeaec88009b0fbfc640d0526f719c}{Amato}{A\bibinitperiod}{K\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=38863ca09bf5073bad14cb06549d4475}{Arcila}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e8d9c38a8e6d44a078d2d5ed69ff571b}{Sos}{S\bibinitperiod}{M\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=81c253f629b2ee52336d2b48eea7988f}{Socci}{S\bibinitperiod}{N\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57e5addee1980e87e6fcf6858471ef34}{Viale}{V\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6c10f60ead9a51403f62087cb53526ed}{Stanchina}{S\bibinitperiod}{E}{E\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=99828276fde6a68a349bc9be059cfb99}{Ginsberg}{G\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0908cad7841cf466eba5ddb1b8d38f99}{Thomas}{T\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b790cf9fd0a0c3c87ae06a795e127291}{Kris}{K\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ebbcf27e16d8bfdb741fe3c6b64ad1}{Inoue}{I\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=729b8ed4020054f201287dd9d18840ba}{Ladanyi}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c3c4d58a922b273acb4efd15a2c2b87f}{Miller}{M\bibinitperiod}{V\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b0c14ffcabc8dcf4ecbc94cfca60b7a2}{Michor}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=4b039dea98b86daf174454351be8e3b5}{Pao}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{21}{}{%
+        {{hash=9a086f1a7b8d9fb0825d4452a78f2b63}{Chmielecki}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6a63d1461212912feb7c2302828083}{Foo}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb33f9fc881c14fe6d7535f53f3883}{Oxnard}{O\bibinitperiod}{G\bibnamedelima R}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0b5c884b29882d20c71a528dd92ecf7e}{Hutchinson}{H\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d8e0d15ee4f29113f38d60cec221e7c7}{Ohashi}{O\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=a8affc3fc78b3f4e86493eb8d1906ba9}{Somwar}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a75ee293f2555f40976345739087998}{Wang}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3d0aeaec88009b0fbfc640d0526f719c}{Amato}{A\bibinitperiod}{K\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=38863ca09bf5073bad14cb06549d4475}{Arcila}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e8d9c38a8e6d44a078d2d5ed69ff571b}{Sos}{S\bibinitperiod}{M\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=81c253f629b2ee52336d2b48eea7988f}{Socci}{S\bibinitperiod}{N\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57e5addee1980e87e6fcf6858471ef34}{Viale}{V\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6c10f60ead9a51403f62087cb53526ed}{Stanchina}{S\bibinitperiod}{E}{E\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=99828276fde6a68a349bc9be059cfb99}{Ginsberg}{G\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0908cad7841cf466eba5ddb1b8d38f99}{Thomas}{T\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b790cf9fd0a0c3c87ae06a795e127291}{Kris}{K\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ebbcf27e16d8bfdb741fe3c6b64ad1}{Inoue}{I\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=729b8ed4020054f201287dd9d18840ba}{Ladanyi}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c3c4d58a922b273acb4efd15a2c2b87f}{Miller}{M\bibinitperiod}{V\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b0c14ffcabc8dcf4ecbc94cfca60b7a2}{Michor}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=4b039dea98b86daf174454351be8e3b5}{Pao}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5659e3e73545fe2a5fd8b5b3de0d70e5}
+      \strng{fullhash}{55e6e3060a1f9269aea72d91084a23e5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling}}
+      \field{abstract}{Non-small cell lung cancers (NSCLCs) that harbor mutations within the epidermal growth factor receptor (EGFR) gene are sensitive to the tyrosine kinase inhibitors (TKIs) gefitinib and erlotinib. Unfortunately, all patients treated with these drugs will acquire resistance, most commonly as a result of a secondary mutation within EGFR (T790M). Because both drugs were developed to target wild-type EGFR, we hypothesized that current dosing schedules were not optimized for mutant EGFR or to prevent resistance. To investigate this further, we developed isogenic TKI-sensitive and TKI-resistant pairs of cell lines that mimic the behavior of human tumors. We determined that the drug-sensitive and drug-resistant EGFR-mutant cells exhibited differential growth kinetics, with the drug-resistant cells showing slower growth. We incorporated these data into evolutionary mathematical cancer models with constraints derived from clinical data sets. This modeling predicted alternative therapeutic strategies that could prolong the clinical benefit of TKIs against EGFR-mutant NSCLCs by delaying the development of resistance.}
+      \field{isbn}{1946-6242 (Electronic)$\backslash$r1946-6234 (Linking)}
+      \field{issn}{1946-6242}
+      \field{journaltitle}{Sci Transl Med}
+      \field{number}{90}
+      \field{title}{{Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling}}
+      \field{volume}{3}
+      \field{year}{2011}
+      \field{pages}{90ra59}
+      \verb{doi}
+      \verb 10.1126/scitranslmed.3002356
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/10.1126@scitranslmed.3002356.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21734175$%5Cbackslash$nhttp://stm.sciencemag.org/content/3/90/90ra59
+      \endverb
+    \endentry
+    \entry{Huang2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=af617c9a6fae2c31fbb58a2ba5f8ba92}{Huang}{H\bibinitperiod}{Paul\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f93291da17e39eab8f6eb3cfedaed924}{Mukasa}{M\bibinitperiod}{Akitake}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=47bd53e7f31eef9a1bdc631f03c59de3}{Bonavia}{B\bibinitperiod}{Rudy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=68b461a1ba1fb05aeb9fc32692b74a1c}{Flynn}{F\bibinitperiod}{Ryan\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=242d4df9c693b242ef52791700453be8}{Brewer}{B\bibinitperiod}{Zachary\bibnamedelima E}{Z\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0a8d39f7f39bff02e8a413dd3209b779}{Cavenee}{C\bibinitperiod}{Webster\bibnamedelima K}{W\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e60849b76da3aa3ddda17128e3ed1e9}{Furnari}{F\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=71977f6db130f1938b761df4fbd091f9}{White}{W\bibinitperiod}{Forest\bibnamedelima M}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=af617c9a6fae2c31fbb58a2ba5f8ba92}{Huang}{H\bibinitperiod}{Paul\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f93291da17e39eab8f6eb3cfedaed924}{Mukasa}{M\bibinitperiod}{Akitake}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=47bd53e7f31eef9a1bdc631f03c59de3}{Bonavia}{B\bibinitperiod}{Rudy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=68b461a1ba1fb05aeb9fc32692b74a1c}{Flynn}{F\bibinitperiod}{Ryan\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=242d4df9c693b242ef52791700453be8}{Brewer}{B\bibinitperiod}{Zachary\bibnamedelima E}{Z\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0a8d39f7f39bff02e8a413dd3209b779}{Cavenee}{C\bibinitperiod}{Webster\bibnamedelima K}{W\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e60849b76da3aa3ddda17128e3ed1e9}{Furnari}{F\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=71977f6db130f1938b761df4fbd091f9}{White}{W\bibinitperiod}{Forest\bibnamedelima M}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{81238470218aad60ccc8674ee84becf7}
+      \strng{fullhash}{852d2abc47e7b223df408f562178279f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Quantitative analysis of EGFRvIII cellular signaling networks reveals a combinatorial therapeutic strategy for glioblastoma}}
+      \field{abstract}{Glioblastoma multiforme (GBM) is the most aggressive brain tumor in adults and remains incurable despite multimodal intensive treatment regimens. EGFRvIII is a truncated extracellular mutant of the EGF receptor (EGFR) commonly found in GBMs that confers enhanced tumorigenic behavior. To gain a molecular understanding of the mechanisms by which EGFRvIII acts, we have performed a large-scale analysis of EGFRvIII-activated phosphotyrosine-mediated signaling pathways and thereby have identified and quantified 99 phosphorylation sites on 69 proteins. Distinct signaling responses were observed as a function of titrated EGFRvIII receptor levels with the phosphatidylinositol 3-kinase pathway being dominant over the MAPK and STAT3 pathways at a high level of EGFRvIII expression. Within this data set, the activating phosphorylation site on the c-Met receptor was found to be highly responsive to EGFRvIII levels, indicating cross-activation of the c-Met receptor tyrosine kinase by EGFRvIII. To determine the significance of this finding, we devised a combined treatment regimen that used a c-Met kinase inhibitor and either an EGFR kinase inhibitor or cisplatin. This regimen resulted in enhanced cytotoxicity of EGFRvIII-expressing cells compared with treatment with either compound alone. These results suggest that the clinical use of c-Met kinase inhibitors in combination with either EGFR inhibitors or standard chemotherapeutics might represent a previously undescribed therapeutic approach to overcome the observed chemoresistance in patients with GBMs expressing EGFRvIII.}
+      \field{annotation}{10.1073/pnas.0705158104}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{07}
+      \field{number}{31}
+      \field{title}{{Quantitative analysis of EGFRvIII cellular signaling networks reveals a combinatorial therapeutic strategy for glioblastoma}}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{12867\bibrangedash 12872}
+      \verb{doi}
+      \verb 10.1073/pnas.0705158104
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/104/31/12867.abstract
       \endverb
     \endentry
   \endsortlist
@@ -15724,6 +16181,37 @@
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
       \endverb
     \endentry
+    \entry{Gottesman2002}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a1354f1c1b5296ca8179b1c7ffaf1bd6}{Gottesman}{G\bibinitperiod}{Michael\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a1354f1c1b5296ca8179b1c7ffaf1bd6}{Gottesman}{G\bibinitperiod}{Michael\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{a1354f1c1b5296ca8179b1c7ffaf1bd6}
+      \strng{fullhash}{a1354f1c1b5296ca8179b1c7ffaf1bd6}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Mechanisms of Cancer Drug Resistance}}
+      \field{annotation}{doi: 10.1146/annurev.med.53.082901.103929}
+      \field{issn}{0066-4219}
+      \field{journaltitle}{Annual Review of Medicine}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{{Mechanisms of Cancer Drug Resistance}}
+      \field{volume}{53}
+      \field{year}{2002}
+      \field{pages}{615\bibrangedash 627}
+      \verb{doi}
+      \verb 10.1146/annurev.med.53.082901.103929
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.med.53.082901.103929
+      \endverb
+    \endentry
     \entry{Lowe2004}{article}{}
       \name{labelname}{3}{}{%
         {{hash=8e267aad7e0431290c9a80dbe14198e5}{Lowe}{L\bibinitperiod}{Scott\bibnamedelima W}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
@@ -16461,6 +16949,432 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1186/s13045-016-0251-8
+      \endverb
+    \endentry
+    \entry{Burrell2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0f242162379eb537f3b68ff29dd5c3ee}{Burrell}{B\bibinitperiod}{Rebecca\bibnamedelima a.}{R\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=41ddb60dd242de6b2d07fa4624f293ee}{Swanton}{S\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0f242162379eb537f3b68ff29dd5c3ee}{Burrell}{B\bibinitperiod}{Rebecca\bibnamedelima a.}{R\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=41ddb60dd242de6b2d07fa4624f293ee}{Swanton}{S\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V}%
+      }
+      \strng{namehash}{3683470ab6043aa378f3628065fcaf57}
+      \strng{fullhash}{3683470ab6043aa378f3628065fcaf57}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Tumour heterogeneity and the evolution of polyclonal drug resistance}}
+      \field{abstract}{Cancer drug resistance is a major problem, with the majority of patients with metastatic disease ultimately developing multidrug resistance and succumbing to their disease. Our understanding of molecular events underpinning treatment failure has been enhanced by new genomic technologies and pre-clinical studies. Intratumour genetic heterogeneity (ITH) is a prominent contributor to therapeutic failure, and it is becoming increasingly apparent that individual tumours may achieve resistance via multiple routes simultaneously - termed polyclonal resistance. Efforts to target single resistance mechanisms to overcome therapeutic failure may therefore yield only limited success. Clinical studies with sequential analysis of tumour material are needed to enhance our understanding of inter-clonal functional relationships and tumour evolution during therapy, and to improve drug development strategies in cancer medicine. {{$\copyright$}} 2014 Federation of European Biochemical Societies.}
+      \field{isbn}{1878-0261 (Electronic) 1574-7891 (Linking)}
+      \field{issn}{15747891}
+      \field{journaltitle}{Molecular Oncology}
+      \field{number}{6}
+      \field{title}{{Tumour heterogeneity and the evolution of polyclonal drug resistance}}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{1095\bibrangedash 1111}
+      \verb{doi}
+      \verb 10.1016/j.molonc.2014.06.005
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S157478911400129X-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.molonc.2014.06.005
+      \endverb
+    \endentry
+    \entry{Cortes2016}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e6c0605ffc29f41e440d2bfa79a33019}{Cortes}{C\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=694e773657fa47f470964c25a884a0b0}{Roch{\'{e}}}{R\bibinitperiod}{Henri}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e6c0605ffc29f41e440d2bfa79a33019}{Cortes}{C\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=694e773657fa47f470964c25a884a0b0}{Roch{\'{e}}}{R\bibinitperiod}{Henri}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ff279e9ef02c0ba92429875e73b5402a}
+      \strng{fullhash}{ff279e9ef02c0ba92429875e73b5402a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Docetaxel combined with targeted therapies in metastatic breast cancer}}
+      \field{annotation}{doi: 10.1016/j.ctrv.2011.08.001}
+      \field{issn}{0305-7372}
+      \field{journaltitle}{Cancer Treatment Reviews}
+      \field{month}{07}
+      \field{number}{5}
+      \field{title}{{Docetaxel combined with targeted therapies in metastatic breast cancer}}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{387\bibrangedash 396}
+      \verb{doi}
+      \verb 10.1016/j.ctrv.2011.08.001
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.ctrv.2011.08.001
+      \endverb
+    \endentry
+    \entry{Vanneman2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=46f8ff0cb7dd578f72e1e8927d67d160}{Vanneman}{V\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=080baedac5a0a38b397977f2e21dd992}{Dranoff}{D\bibinitperiod}{Glenn}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=46f8ff0cb7dd578f72e1e8927d67d160}{Vanneman}{V\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=080baedac5a0a38b397977f2e21dd992}{Dranoff}{D\bibinitperiod}{Glenn}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
+      }
+      \strng{namehash}{863ab2bf4acd5fca5370190f970254af}
+      \strng{fullhash}{863ab2bf4acd5fca5370190f970254af}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combining immunotherapy and targeted therapies in cancer treatment}}
+      \field{annotation}{10.1038/nrc3237}
+      \field{issn}{1474-175X}
+      \field{journaltitle}{Nat Rev Cancer}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{Combining immunotherapy and targeted therapies in cancer treatment}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{237\bibrangedash 251}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrc3237
+      \endverb
+    \endentry
+    \entry{Al-Lazikani2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6c2de189b3311c216fbbd5bfb9f79020}{Al-Lazikani}{A\bibinithyphendelim L\bibinitperiod}{Bissan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ec9ac9b8c704d8f7877d547d357f8519}{Banerji}{B\bibinitperiod}{Udai}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=82e2e3df21abbbdbbcb18fa631e52f4c}{Workman}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6c2de189b3311c216fbbd5bfb9f79020}{Al-Lazikani}{A\bibinithyphendelim L\bibinitperiod}{Bissan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ec9ac9b8c704d8f7877d547d357f8519}{Banerji}{B\bibinitperiod}{Udai}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=82e2e3df21abbbdbbcb18fa631e52f4c}{Workman}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1edc8eb6018e1b2d6c574787701a2abd}
+      \strng{fullhash}{1edc8eb6018e1b2d6c574787701a2abd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combinatorial drug therapy for cancer in the post-genomic era.}}
+      \field{abstract}{Over the past decade, whole genome sequencing and other 'omics' technologies have defined pathogenic driver mutations to which tumor cells are addicted. Such addictions, synthetic lethalities and other tumor vulnerabilities have yielded novel targets for a new generation of cancer drugs to treat discrete, genetically defined patient subgroups. This personalized cancer medicine strategy could eventually replace the conventional one-size-fits-all cytotoxic chemotherapy approach. However, the extraordinary intratumor genetic heterogeneity in cancers revealed by deep sequencing explains why de novo and acquired resistance arise with molecularly targeted drugs and cytotoxic chemotherapy, limiting their utility. One solution to the enduring challenge of polygenic cancer drug resistance is rational combinatorial targeted therapy.}
+      \field{issn}{1546-1696}
+      \field{journaltitle}{Nature biotechnology}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Combinatorial drug therapy for cancer in the post-genomic era.}}
+      \field{volume}{30}
+      \field{year}{2012}
+      \field{pages}{679\bibrangedash 92}
+      \verb{doi}
+      \verb 10.1038/nbt.2284
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Al-Lazikani, Banerji, Workman - 2012 - Combinatorial drug therapy for cancer in the post-genomic era.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22781697
+      \endverb
+    \endentry
+    \entry{Bozic2013}{article}{}
+      \name{labelname}{15}{}{%
+        {{hash=68e6e98a8496a5e2b7a31ec49920b885}{Bozic}{B\bibinitperiod}{Ivana}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=df507dfaaa3258432a4e78ff9589492b}{Reiter}{R\bibinitperiod}{Johannes\bibnamedelima G}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=1490d61b4eb7b6c927b241c8e711d29e}{Allen}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7329ef74890275905474a437d24df996}{Antal}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1a126fe7ca5387e01e1bebcd84f3c49b}{Chatterjee}{C\bibinitperiod}{Krishnendu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e818268f6b510c00a07613cf841ad}{Shah}{S\bibinitperiod}{Preya}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4d9e1b11e4acc2813fcf000e6b76513c}{Moon}{M\bibinitperiod}{Yo\bibnamedelima Sup}{Y\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ff91ee166610cd9392869f6fb00d40af}{Yaqubie}{Y\bibinitperiod}{Amin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d42507249ea0823ee5d1d3589b753606}{Kelly}{K\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2e3dc5069a4f903531f63c3883d753cf}{Le}{L\bibinitperiod}{Dung\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=ffd284352533a71c8e201fef2aca5ea6}{Lipson}{L\bibinitperiod}{Evan\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ee9fa088a1d65fc575397e291a8f5814}{Chapman}{C\bibinitperiod}{Paul\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fdae98f5ebe82221cebdb75592836d1d}{Diaz}{D\bibinitperiod}{Luis\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{Vogelstein}{V\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=13b6956393e41bce59dba670da9ce424}{Nowak}{N\bibinitperiod}{Martin\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{15}{}{%
+        {{hash=68e6e98a8496a5e2b7a31ec49920b885}{Bozic}{B\bibinitperiod}{Ivana}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=df507dfaaa3258432a4e78ff9589492b}{Reiter}{R\bibinitperiod}{Johannes\bibnamedelima G}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=1490d61b4eb7b6c927b241c8e711d29e}{Allen}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7329ef74890275905474a437d24df996}{Antal}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1a126fe7ca5387e01e1bebcd84f3c49b}{Chatterjee}{C\bibinitperiod}{Krishnendu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e818268f6b510c00a07613cf841ad}{Shah}{S\bibinitperiod}{Preya}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4d9e1b11e4acc2813fcf000e6b76513c}{Moon}{M\bibinitperiod}{Yo\bibnamedelima Sup}{Y\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ff91ee166610cd9392869f6fb00d40af}{Yaqubie}{Y\bibinitperiod}{Amin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d42507249ea0823ee5d1d3589b753606}{Kelly}{K\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2e3dc5069a4f903531f63c3883d753cf}{Le}{L\bibinitperiod}{Dung\bibnamedelima T}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=ffd284352533a71c8e201fef2aca5ea6}{Lipson}{L\bibinitperiod}{Evan\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ee9fa088a1d65fc575397e291a8f5814}{Chapman}{C\bibinitperiod}{Paul\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fdae98f5ebe82221cebdb75592836d1d}{Diaz}{D\bibinitperiod}{Luis\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=bbb27aa05dcd963d1c27727276613af6}{Vogelstein}{V\bibinitperiod}{Bert}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=13b6956393e41bce59dba670da9ce424}{Nowak}{N\bibinitperiod}{Martin\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{31b47cfc022ca05e5f642b4972129694}
+      \strng{fullhash}{f4c2db33bb2e7bd5c2335b22f5c959bf}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolutionary dynamics of cancer in response to targeted combination therapy.}}
+      \field{abstract}{In solid tumors, targeted treatments can lead to dramatic regressions, but responses are often short-lived because resistant cancer cells arise. The major strategy proposed for overcoming resistance is combination therapy. We present a mathematical model describing the evolutionary dynamics of lesions in response to treatment. We first studied 20 melanoma patients receiving vemurafenib. We then applied our model to an independent set of pancreatic, colorectal, and melanoma cancer patients with metastatic disease. We find that dual therapy results in long-term disease control for most patients, if there are no single mutations that cause cross-resistance to both drugs; in patients with large disease burden, triple therapy is needed. We also find that simultaneous therapy with two drugs is much more effective than sequential therapy. Our results provide realistic expectations for the efficacy of new drug combinations and inform the design of trials for new cancer therapeutics. DOI:http://dx.doi.org/10.7554/eLife.00747.001.}
+      \field{issn}{2050-084X}
+      \field{journaltitle}{eLife}
+      \field{month}{01}
+      \field{title}{{Evolutionary dynamics of cancer in response to targeted combination therapy.}}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{e00747}
+      \verb{doi}
+      \verb 10.7554/eLife.00747
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Bozic et al. - 2013 - Evolutionary dynamics of cancer in response to targeted combination therapy.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3691570%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Komarova2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d3fe554da5d742f167abeb0a3802c9f8}{Komarova}{K\bibinitperiod}{Natalia\bibnamedelima L}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fbdd48dd1614a394a021c262168379a9}{Burger}{B\bibinitperiod}{Jan\bibnamedelima a}{J\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=ad7577549d55738f7b64bb2bea284096}{Wodarz}{W\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d3fe554da5d742f167abeb0a3802c9f8}{Komarova}{K\bibinitperiod}{Natalia\bibnamedelima L}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=fbdd48dd1614a394a021c262168379a9}{Burger}{B\bibinitperiod}{Jan\bibnamedelima a}{J\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=ad7577549d55738f7b64bb2bea284096}{Wodarz}{W\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{73f793b478302f6a80b1f1958bf3c2fa}
+      \strng{fullhash}{73f793b478302f6a80b1f1958bf3c2fa}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Evolution of ibrutinib resistance in chronic lymphocytic leukemia (CLL).}}
+      \field{abstract}{The Bruton tyrosine kinase inhibitor (BTKi) ibrutinib is a new targeted therapy for patients with chronic lymphocytic leukemia (CLL). Ibrutinib is given orally on a continuous schedule and induces durable remissions in the majority of CLL patients. However, a small proportion of patients initially responds to the BTKi and then develops resistance. Estimating the frequency, timing, and individual risk of developing resistance to ibrutinib, therefore, would be valuable for long-term management of patients. Computational evolutionary models, based on measured kinetic parameters of patients, allow us to approach these questions and to develop a roadmap for personalized prognosis and treatment management. Our kinetic models predict that BTKi-resistant mutants exist before initiation of ibrutinib therapy, although they only comprise a minority of the overall tumor burden. Furthermore, we can estimate the time required for resistant cells to grow to detectable levels. We predict that this can be highly variable, depending mostly on growth and death rates of the individual CLL cell clone. For a specific patient, this time can be predicted with a high degree of certainty. Our model can thus be used to predict for how long ibrutinib can suppress the disease in individual patients. Furthermore, the model can suggest whether prior debulking of the tumor with chemo-immunotherapy can prolong progression-free survival under ibrutinib. Finally, by applying the models to data that document progression during ibrutinib therapy, we estimated that resistant mutants might have a small ({<}2{\%}) mean fitness advantage in the absence of treatment, compared with sensitive cells.}
+      \field{isbn}{1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{38}
+      \field{title}{{Evolution of ibrutinib resistance in chronic lymphocytic leukemia (CLL).}}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{13906\bibrangedash 11}
+      \verb{doi}
+      \verb 10.1073/pnas.1409362111
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-2014-Komarova-13906-11.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/111/38/13906.full
+      \endverb
+    \endentry
+    \entry{Williams2016}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=8139164a9c076731730b62026958123d}{Williams}{W\bibinitperiod}{Marc\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=88c3eeda7ffbd7d3b63a22e2527e8c0d}{Werner}{W\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8341669a3d0db82e877ef918042cb0d0}{Barnes}{B\bibinitperiod}{Chris\bibnamedelima P}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=d45c7a9db3287943efa6f23bc445ebe3}{Graham}{G\bibinitperiod}{Trevor\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=04d31891bb580b2c600eb251525541cc}{Sottoriva}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=8139164a9c076731730b62026958123d}{Williams}{W\bibinitperiod}{Marc\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=88c3eeda7ffbd7d3b63a22e2527e8c0d}{Werner}{W\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8341669a3d0db82e877ef918042cb0d0}{Barnes}{B\bibinitperiod}{Chris\bibnamedelima P}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=d45c7a9db3287943efa6f23bc445ebe3}{Graham}{G\bibinitperiod}{Trevor\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=04d31891bb580b2c600eb251525541cc}{Sottoriva}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a21d2b84a026855aabc92edef03d3c31}
+      \strng{fullhash}{fc9cef6209e6caf27201949e93091af8}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Identification of neutral tumor evolution across cancer types}}
+      \field{issn}{1061-4036}
+      \field{journaltitle}{Nature Genetics}
+      \field{number}{August 2015}
+      \field{title}{{Identification of neutral tumor evolution across cancer types}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/ng.3489
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/ng.3489.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/ng.3489
+      \endverb
+    \endentry
+    \entry{Attolini2010}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=975800e80bf529794e733782f1f3cb3d}{Attolini}{A\bibinitperiod}{Camille\bibnamedelima Stephan-Otto}{C\bibinitperiod\bibinitdelim S\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=e6d5182250a998c6626c67d681de50cf}{Cheng}{C\bibinitperiod}{Yu-Kang}{Y\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=1e251929d54a7f11c024d2fa3b4d56fb}{Beroukhim}{B\bibinitperiod}{Rameen}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6789a07c9dab853530704b1c78787681}{Abdel-Wahab}{A\bibinithyphendelim W\bibinitperiod}{Omar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=d1b60a109e1b35c0e933fedf71910788}{Levine}{L\bibinitperiod}{Ross\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee89127e205377bb0b3e577b649211de}{Mellinghoff}{M\bibinitperiod}{Ingo\bibnamedelima K}{I\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{Michor}{M\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=975800e80bf529794e733782f1f3cb3d}{Attolini}{A\bibinitperiod}{Camille\bibnamedelima Stephan-Otto}{C\bibinitperiod\bibinitdelim S\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=e6d5182250a998c6626c67d681de50cf}{Cheng}{C\bibinitperiod}{Yu-Kang}{Y\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=1e251929d54a7f11c024d2fa3b4d56fb}{Beroukhim}{B\bibinitperiod}{Rameen}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=6aa396b9c7916e3eec93b398e26b1bbf}{Getz}{G\bibinitperiod}{Gad}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6789a07c9dab853530704b1c78787681}{Abdel-Wahab}{A\bibinithyphendelim W\bibinitperiod}{Omar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=d1b60a109e1b35c0e933fedf71910788}{Levine}{L\bibinitperiod}{Ross\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee89127e205377bb0b3e577b649211de}{Mellinghoff}{M\bibinitperiod}{Ingo\bibnamedelima K}{I\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{Michor}{M\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13c6b9ef7a2638b9dc28c34f1286a85c}
+      \strng{fullhash}{e8e38c47c28a5ea076a10ef28e2c9fb1}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A mathematical framework to determine the temporal sequence of somatic genetic events in cancer.}}
+      \field{abstract}{Human cancer is caused by the accumulation of genetic alterations in cells. Of special importance are changes that occur early during malignant transformation because they may result in oncogene addiction and represent promising targets for therapeutic intervention. Here we describe a computational approach, called Retracing the Evolutionary Steps in Cancer (RESIC), to deduce the temporal sequence of genetic events during tumorigenesis from cross-sectional genomic data of tumors at their fully transformed stage. When applied to a dataset of 70 advanced colorectal cancers, our algorithm accurately predicts the sequence of APC, KRAS, and TP53 mutations previously defined by analyzing tumors at different stages of colon cancer formation. We further validate the method with glioblastoma and leukemia sample data and then apply it to complex integrated genomics databases, finding that high-level EGFR amplification appears to be a late event in primary glioblastomas. RESIC represents the first evolutionary mathematical approach to identify the temporal sequence of mutations driving tumorigenesis and may be useful to guide the validation of candidate genes emerging from cancer genome surveys.}
+      \field{isbn}{1091-6490 (Electronic)$\backslash$r0027-8424 (Linking)}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{41}
+      \field{title}{{A mathematical framework to determine the temporal sequence of somatic genetic events in cancer.}}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{pages}{17604\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1073/pnas.1009117107
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/PNAS-2010-Attolini-17604-9.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/107/41/17604.short
+      \endverb
+    \endentry
+    \entry{Chmielecki2011}{article}{}
+      \name{labelname}{21}{}{%
+        {{hash=9a086f1a7b8d9fb0825d4452a78f2b63}{Chmielecki}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6a63d1461212912feb7c2302828083}{Foo}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb33f9fc881c14fe6d7535f53f3883}{Oxnard}{O\bibinitperiod}{G\bibnamedelima R}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0b5c884b29882d20c71a528dd92ecf7e}{Hutchinson}{H\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d8e0d15ee4f29113f38d60cec221e7c7}{Ohashi}{O\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=a8affc3fc78b3f4e86493eb8d1906ba9}{Somwar}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a75ee293f2555f40976345739087998}{Wang}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3d0aeaec88009b0fbfc640d0526f719c}{Amato}{A\bibinitperiod}{K\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=38863ca09bf5073bad14cb06549d4475}{Arcila}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e8d9c38a8e6d44a078d2d5ed69ff571b}{Sos}{S\bibinitperiod}{M\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=81c253f629b2ee52336d2b48eea7988f}{Socci}{S\bibinitperiod}{N\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57e5addee1980e87e6fcf6858471ef34}{Viale}{V\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6c10f60ead9a51403f62087cb53526ed}{Stanchina}{S\bibinitperiod}{E}{E\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=99828276fde6a68a349bc9be059cfb99}{Ginsberg}{G\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0908cad7841cf466eba5ddb1b8d38f99}{Thomas}{T\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b790cf9fd0a0c3c87ae06a795e127291}{Kris}{K\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ebbcf27e16d8bfdb741fe3c6b64ad1}{Inoue}{I\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=729b8ed4020054f201287dd9d18840ba}{Ladanyi}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c3c4d58a922b273acb4efd15a2c2b87f}{Miller}{M\bibinitperiod}{V\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b0c14ffcabc8dcf4ecbc94cfca60b7a2}{Michor}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=4b039dea98b86daf174454351be8e3b5}{Pao}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{21}{}{%
+        {{hash=9a086f1a7b8d9fb0825d4452a78f2b63}{Chmielecki}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6a63d1461212912feb7c2302828083}{Foo}{F\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb33f9fc881c14fe6d7535f53f3883}{Oxnard}{O\bibinitperiod}{G\bibnamedelima R}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0b5c884b29882d20c71a528dd92ecf7e}{Hutchinson}{H\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d8e0d15ee4f29113f38d60cec221e7c7}{Ohashi}{O\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=a8affc3fc78b3f4e86493eb8d1906ba9}{Somwar}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9a75ee293f2555f40976345739087998}{Wang}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3d0aeaec88009b0fbfc640d0526f719c}{Amato}{A\bibinitperiod}{K\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=38863ca09bf5073bad14cb06549d4475}{Arcila}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e8d9c38a8e6d44a078d2d5ed69ff571b}{Sos}{S\bibinitperiod}{M\bibnamedelima L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=81c253f629b2ee52336d2b48eea7988f}{Socci}{S\bibinitperiod}{N\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57e5addee1980e87e6fcf6858471ef34}{Viale}{V\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6c10f60ead9a51403f62087cb53526ed}{Stanchina}{S\bibinitperiod}{E}{E\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=99828276fde6a68a349bc9be059cfb99}{Ginsberg}{G\bibinitperiod}{M\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0908cad7841cf466eba5ddb1b8d38f99}{Thomas}{T\bibinitperiod}{R\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=b790cf9fd0a0c3c87ae06a795e127291}{Kris}{K\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ebbcf27e16d8bfdb741fe3c6b64ad1}{Inoue}{I\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=729b8ed4020054f201287dd9d18840ba}{Ladanyi}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c3c4d58a922b273acb4efd15a2c2b87f}{Miller}{M\bibinitperiod}{V\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b0c14ffcabc8dcf4ecbc94cfca60b7a2}{Michor}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=4b039dea98b86daf174454351be8e3b5}{Pao}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5659e3e73545fe2a5fd8b5b3de0d70e5}
+      \strng{fullhash}{55e6e3060a1f9269aea72d91084a23e5}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling}}
+      \field{abstract}{Non-small cell lung cancers (NSCLCs) that harbor mutations within the epidermal growth factor receptor (EGFR) gene are sensitive to the tyrosine kinase inhibitors (TKIs) gefitinib and erlotinib. Unfortunately, all patients treated with these drugs will acquire resistance, most commonly as a result of a secondary mutation within EGFR (T790M). Because both drugs were developed to target wild-type EGFR, we hypothesized that current dosing schedules were not optimized for mutant EGFR or to prevent resistance. To investigate this further, we developed isogenic TKI-sensitive and TKI-resistant pairs of cell lines that mimic the behavior of human tumors. We determined that the drug-sensitive and drug-resistant EGFR-mutant cells exhibited differential growth kinetics, with the drug-resistant cells showing slower growth. We incorporated these data into evolutionary mathematical cancer models with constraints derived from clinical data sets. This modeling predicted alternative therapeutic strategies that could prolong the clinical benefit of TKIs against EGFR-mutant NSCLCs by delaying the development of resistance.}
+      \field{isbn}{1946-6242 (Electronic)$\backslash$r1946-6234 (Linking)}
+      \field{issn}{1946-6242}
+      \field{journaltitle}{Sci Transl Med}
+      \field{number}{90}
+      \field{title}{{Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling}}
+      \field{volume}{3}
+      \field{year}{2011}
+      \field{pages}{90ra59}
+      \verb{doi}
+      \verb 10.1126/scitranslmed.3002356
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/10.1126@scitranslmed.3002356.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21734175$%5Cbackslash$nhttp://stm.sciencemag.org/content/3/90/90ra59
+      \endverb
+    \endentry
+    \entry{Huang2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=af617c9a6fae2c31fbb58a2ba5f8ba92}{Huang}{H\bibinitperiod}{Paul\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f93291da17e39eab8f6eb3cfedaed924}{Mukasa}{M\bibinitperiod}{Akitake}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=47bd53e7f31eef9a1bdc631f03c59de3}{Bonavia}{B\bibinitperiod}{Rudy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=68b461a1ba1fb05aeb9fc32692b74a1c}{Flynn}{F\bibinitperiod}{Ryan\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=242d4df9c693b242ef52791700453be8}{Brewer}{B\bibinitperiod}{Zachary\bibnamedelima E}{Z\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0a8d39f7f39bff02e8a413dd3209b779}{Cavenee}{C\bibinitperiod}{Webster\bibnamedelima K}{W\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e60849b76da3aa3ddda17128e3ed1e9}{Furnari}{F\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=71977f6db130f1938b761df4fbd091f9}{White}{W\bibinitperiod}{Forest\bibnamedelima M}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=af617c9a6fae2c31fbb58a2ba5f8ba92}{Huang}{H\bibinitperiod}{Paul\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=f93291da17e39eab8f6eb3cfedaed924}{Mukasa}{M\bibinitperiod}{Akitake}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=47bd53e7f31eef9a1bdc631f03c59de3}{Bonavia}{B\bibinitperiod}{Rudy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=68b461a1ba1fb05aeb9fc32692b74a1c}{Flynn}{F\bibinitperiod}{Ryan\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=242d4df9c693b242ef52791700453be8}{Brewer}{B\bibinitperiod}{Zachary\bibnamedelima E}{Z\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0a8d39f7f39bff02e8a413dd3209b779}{Cavenee}{C\bibinitperiod}{Webster\bibnamedelima K}{W\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e60849b76da3aa3ddda17128e3ed1e9}{Furnari}{F\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=71977f6db130f1938b761df4fbd091f9}{White}{W\bibinitperiod}{Forest\bibnamedelima M}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{81238470218aad60ccc8674ee84becf7}
+      \strng{fullhash}{852d2abc47e7b223df408f562178279f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Quantitative analysis of EGFRvIII cellular signaling networks reveals a combinatorial therapeutic strategy for glioblastoma}}
+      \field{abstract}{Glioblastoma multiforme (GBM) is the most aggressive brain tumor in adults and remains incurable despite multimodal intensive treatment regimens. EGFRvIII is a truncated extracellular mutant of the EGF receptor (EGFR) commonly found in GBMs that confers enhanced tumorigenic behavior. To gain a molecular understanding of the mechanisms by which EGFRvIII acts, we have performed a large-scale analysis of EGFRvIII-activated phosphotyrosine-mediated signaling pathways and thereby have identified and quantified 99 phosphorylation sites on 69 proteins. Distinct signaling responses were observed as a function of titrated EGFRvIII receptor levels with the phosphatidylinositol 3-kinase pathway being dominant over the MAPK and STAT3 pathways at a high level of EGFRvIII expression. Within this data set, the activating phosphorylation site on the c-Met receptor was found to be highly responsive to EGFRvIII levels, indicating cross-activation of the c-Met receptor tyrosine kinase by EGFRvIII. To determine the significance of this finding, we devised a combined treatment regimen that used a c-Met kinase inhibitor and either an EGFR kinase inhibitor or cisplatin. This regimen resulted in enhanced cytotoxicity of EGFRvIII-expressing cells compared with treatment with either compound alone. These results suggest that the clinical use of c-Met kinase inhibitors in combination with either EGFR inhibitors or standard chemotherapeutics might represent a previously undescribed therapeutic approach to overcome the observed chemoresistance in patients with GBMs expressing EGFRvIII.}
+      \field{annotation}{10.1073/pnas.0705158104}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{07}
+      \field{number}{31}
+      \field{title}{{Quantitative analysis of EGFRvIII cellular signaling networks reveals a combinatorial therapeutic strategy for glioblastoma}}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{12867\bibrangedash 12872}
+      \verb{doi}
+      \verb 10.1073/pnas.0705158104
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/104/31/12867.abstract
       \endverb
     \endentry
   \endsortlist
