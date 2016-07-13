@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  12 JUL 2016 16:59
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  13 JUL 2016 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -935,7 +935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagei#1| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagei#1| 
  []
 
 [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
@@ -949,17 +949,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pageii#2| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pageii#2| 
  []
 
 [2]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pageiii#3| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pageiii#3| 
  []
 
 [3 <../figures/logo_upf.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pageiv#4| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pageiv#4| 
  []
 
 [4
@@ -967,7 +967,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagev#5| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagev#5| 
  []
 
 [5
@@ -975,7 +975,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagevi#6| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagevi#6| 
  []
 
 [6
@@ -1000,12 +1000,12 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 107.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagevii#7| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagevii#7| 
  []
 
 [7]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pageviii#8| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pageviii#8| 
  []
 
 [8
@@ -1016,12 +1016,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 114.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pageix#9| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pageix#9| 
  []
 
 [9]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagex#10| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagex#10| 
  []
 
 [10
@@ -1032,7 +1032,7 @@ LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagexi#11| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagexi#11| 
  []
 
 [11
@@ -1043,12 +1043,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  (./thesis.ind)
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagexii#12| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagexii#12| 
  []
 
 [12] (./thesis.lof
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
+
+Overfull \hbox (5.88431pt too wide) in paragraph at lines 22--22
+ [][] [][]\OT1/ptm/m/n/12 Schematic rep-re-sen-ta-tion of the three clas-sic pr
+otein-ligand 
+ []
+
 
 Overfull \hbox (3.46046pt too wide) in paragraph at lines 30--30
  [][] [][]\OT1/ptm/m/n/12 Schematic rep-re-sen-ta-tion of the dif-fer-ent struc
@@ -1067,7 +1073,7 @@ all molecule
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagexiii#13| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagexiii#13| 
  []
 
 [13
@@ -1081,7 +1087,7 @@ LaTeX Info: Redefining \% on input line 8.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59pagexiv#14| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31pagexiv#14| 
  []
 
 [14
@@ -1094,14 +1100,14 @@ Underfull \vbox (badness 4328) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page1#15| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page1#15| 
  []
 
 [1
 
 
 ]
-<../figures/protein_structure_levels_en.png, id=238, 250.9375pt x 437.635pt>
+<../figures/protein_structure_levels_en.png, id=237, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
@@ -1118,7 +1124,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page2#16| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page2#16| 
  []
 
 [2]
@@ -1129,11 +1135,11 @@ d three-dimensional
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page3#17| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page3#17| 
  []
 
 [3 <../figures/protein_structure_levels_en.png>]
-<../figures/structure_vs_sequence.png, id=259, 451.6875pt x 432.61626pt>
+<../figures/structure_vs_sequence.png, id=258, 451.6875pt x 432.61626pt>
 File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
@@ -1162,7 +1168,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page4#18| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page4#18| 
  []
 
 [4 <../figures/structure_vs_sequence.png>]
@@ -1170,64 +1176,64 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page5#19| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page5#19| 
  []
 
 [5]
-Overfull \hbox (5.72733pt too wide) in paragraph at lines 190--191
+Overfull \hbox (5.72733pt too wide) in paragraph at lines 192--193
 []\OT1/ptm/b/n/12 X-ray crys-tal-log-ra-phy\OT1/ptm/m/n/12 . Cur-rently, it is 
 the most widely used method
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 191.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 193.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page6#20| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page6#20| 
  []
 
 [6]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page7#21| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page7#21| 
  []
 
-[7] <../figures/pdbs_per_year.pdf, id=326, 578.16pt x 433.62pt>
+[7] <../figures/pdbs_per_year.pdf, id=322, 578.16pt x 433.62pt>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
-Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 209.
+Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 211.
 (pdftex.def)             Requested size: 262.9023pt x 197.17169pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
  []\OT1/ptm/m/n/10.95 (a)|| 
  []
 
-<../figures/pie_smethods.pdf, id=327, 1027.84pt x 770.88pt>
+<../figures/pie_smethods.pdf, id=323, 1027.84pt x 770.88pt>
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
-Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 214.
+Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 216.
 (pdftex.def)             Requested size: 192.79608pt x 144.58669pt.
 
-Underfull \hbox (badness 5607) in paragraph at lines 215--215
+Underfull \hbox (badness 5607) in paragraph at lines 217--217
  []\OT1/ptm/m/n/10.95 (b)|| 
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 208--218
+Underfull \hbox (badness 3769) in paragraph at lines 210--220
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []\OT1/ptm/m/n/12 Figure 1.3: |a) Growth of re-leased struc-tures per year. Dat
 a ex-tracted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \OT1/ptm/m/n/12 from PDB. b) Pie chart with the perc-etange of struc-tures de-t
 er-mined by
  []
@@ -1237,301 +1243,312 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page8#22| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page8#22| 
  []
 
 [8]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page9#23| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page9#23| 
  []
 
 [9 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
-Overfull \hbox (2.08098pt too wide) in paragraph at lines 230--232
-\OT1/ptm/m/n/12 most of the known pro-teins lack of struc-ture in the PDB. Ther
-e are 550,740
+Overfull \hbox (9.58038pt too wide) in paragraph at lines 232--233
+\OT1/ptm/m/n/12 are 550,740 an-no-tated and cu-rated pro-tein se-quences in Uni
+Pro-tKB ([]$\OT1/pcr/m/n/12 http :
  []
 
-<../figures/workflow.jpg, id=454, 322.20375pt x 320.99925pt>
+
+Overfull \hbox (4.75832pt too wide) in paragraph at lines 232--233
+\OT1/pcr/m/n/12 / / www . uniprot . org$[]\OT1/ptm/m/n/12 , April 2016). How-ev
+er, only 4$\OT1/cmr/m/n/12 %$ \OT1/ptm/m/n/12 of them (23,195
+ []
+
+<../figures/workflow.jpg, id=450, 322.20375pt x 320.99925pt>
 File: ../figures/workflow.jpg Graphic file (type jpg)
 
 <use ../figures/workflow.jpg>
-Package pdftex.def Info: ../figures/workflow.jpg used on input line 238.
+Package pdftex.def Info: ../figures/workflow.jpg used on input line 239.
 (pdftex.def)             Requested size: 241.6522pt x 240.74884pt.
 
-Underfull \hbox (badness 1242) in paragraph at lines 238--239
+Underfull \hbox (badness 1242) in paragraph at lines 239--240
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--240
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
 []\OT1/ptm/m/n/12 Figure 1.4: |Work-flow in com-par-a-tive pro-tein struc-ture 
 mod-el-ing. The
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page10#24| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page10#24| 
  []
 
 [10]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page11#25| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page11#25| 
  []
 
 [11 <../figures/workflow.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page12#26| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page12#26| 
  []
 
 [12]
-Overfull \hbox (26.5366pt too wide) in paragraph at lines 258--259
+Overfull \hbox (26.5366pt too wide) in paragraph at lines 259--260
 \OT1/ptm/m/n/12 Residue-based com-bined ac-ces-si-ble sur-face and distance-dep
 endent
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page13#27| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page13#27| 
  []
 
-[13]
-Overfull \hbox (12.86961pt too wide) in paragraph at lines 260--261
-\OT1/ptm/m/n/12 func-tions are AM-BER[[][]39[]], CHARMM[[][]40[]] or MM-PDBSA[[
-][]41[]].
- []
-
-<../figures/homology_plot.pdf, id=524, 895.345pt x 575.14874pt>
+[13] <../figures/homology_plot.pdf, id=520, 895.345pt x 575.14874pt>
 File: ../figures/homology_plot.pdf Graphic file (type pdf)
 
 <use ../figures/homology_plot.pdf>
-Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 266.
+Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 267.
 (pdftex.def)             Requested size: 313.37544pt x 201.30507pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []\OT1/ptm/m/n/12 Figure 1.5: |Ho-mol-ogy thresh-old curve as a func-tion of al
 ign-ment length.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page14#28| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page14#28| 
  []
 
 [14]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page15#29| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page15#29| 
  []
 
 [15 <../figures/homology_plot.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\OT1/ptm/m/n/12 Table 1.1: |Ex-am-ples of pub-lic pro-tein mod-el-ing tools a
+long-side their
+ []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page16#30| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page16#30| 
  []
 
 [16]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page17#31| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page17#31| 
  []
 
-[17] <../figures/lock_key_model.jpg, id=645, 447.6725pt x 76.285pt>
+[17] <../figures/lock_key_model.jpg, id=640, 447.6725pt x 76.285pt>
 File: ../figures/lock_key_model.jpg Graphic file (type jpg)
 
 <use ../figures/lock_key_model.jpg>
-Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 326.
+Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 328.
 (pdftex.def)             Requested size: 262.9023pt x 44.80055pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--327
-[]\OT1/ptm/m/n/10.95 (a) |Fis-cher's \OT1/ptm/m/it/10.95 lock and key model\OT1
-/ptm/m/n/10.95 . The pro-tein is rep-re-sented
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]\OT1/ptm/m/n/10.95 (a) |Fis-cher's \OT1/ptm/m/it/10.95 Lock and Key model\OT1
+/ptm/m/n/10.95 . The pro-tein is rep-re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--327
-\OT1/ptm/m/n/10.95 in green and the lig-and in red. The lig-and's bind-ing site
- of
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\OT1/ptm/m/n/10.95 sented in green and the lig-and in red. The lig-and's bind-i
+ng
  []
 
-<../figures/induce_fit_model.jpg, id=646, 447.6725pt x 68.255pt>
+<../figures/induce_fit_model.jpg, id=641, 447.6725pt x 68.255pt>
 File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
 
 <use ../figures/induce_fit_model.jpg>
-Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 332
+Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 334
 .
 (pdftex.def)             Requested size: 262.9023pt x 40.0847pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
 []\OT1/ptm/m/n/10.95 (b) |Koshland's \OT1/ptm/m/it/10.95 in-duced fit model\OT1
 /ptm/m/n/10.95 . The pro-tein is rep-re-sented
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
 \OT1/ptm/m/n/10.95 in green and the lig-and in red. The over-all shape of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
 \OT1/ptm/m/n/10.95 lig-and matches the bind-ing site. The lig-and bind-ings cau
 ses
  []
 
-<../figures/mwc_model.jpg, id=647, 493.845pt x 131.49126pt>
+<../figures/mwc_model.jpg, id=642, 493.845pt x 131.49126pt>
 File: ../figures/mwc_model.jpg Graphic file (type jpg)
 
 <use ../figures/mwc_model.jpg>
-Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 338.
+Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 340.
 (pdftex.def)             Requested size: 262.9023pt x 69.99901pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 []\OT1/ptm/m/n/10.95 (c) |\OT1/ptm/m/it/10.95 MWC model's \OT1/ptm/m/n/10.95 re
 p-re-sen-ta-tion. The pro-tein changes its
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 \OT1/ptm/m/n/10.95 con-for-ma-tion con-stantly (one color per con-for-ma-tion),
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 \OT1/ptm/m/n/10.95 with at least one these con-for-ma-tion match-ing the lig-an
 d.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 \OT1/ptm/m/n/10.95 Its bind-ing trig-gers some con-for-ma-tional changes that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
-[]\OT1/ptm/m/n/12 Figure 1.6: |Schematic rep-re-sen-ta-tion of three pop-u-lar 
-protein-ligand
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]\OT1/ptm/m/n/12 Figure 1.6: |Schematic rep-re-sen-ta-tion of the three clas-s
+ic protein-ligand
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page18#32| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page18#32| 
  []
 
 [18]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page19#33| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page19#33| 
  []
 
 [19 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
 es/mwc_model.jpg>]
+Overfull \hbox (6.86655pt too wide) in paragraph at lines 368--369
+\OT1/ptm/m/n/12 the dis-place-ment of sol-vent molecules (i.e., usu-ally wa-ter
+ molecules).
+ []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page20#34| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page20#34| 
  []
 
 [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page21#35| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page21#35| 
  []
 
 [21]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page22#36| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page22#36| 
  []
 
 [22]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page23#37| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page23#37| 
  []
 
 [23]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page24#38| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page24#38| 
  []
 
 [24]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page25#39| 
+ []
+
+[25]
 
 pdfTeX warning: pdflatex (file ../figures/drug_discovery_pipeline.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/drug_discovery_pipeline.pdf, id=775, 1247.66125pt x 473.77pt>
+<../figures/drug_discovery_pipeline.pdf, id=782, 1290.8225pt x 465.74pt>
 File: ../figures/drug_discovery_pipeline.pdf Graphic file (type pdf)
 
 <use ../figures/drug_discovery_pipeline.pdf>
 Package pdftex.def Info: ../figures/drug_discovery_pipeline.pdf used on input l
-ine 391.
-(pdftex.def)             Requested size: 350.5364pt x 133.10289pt.
+ine 393.
+(pdftex.def)             Requested size: 350.5364pt x 126.47635pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--392
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 []\OT1/ptm/m/n/12 Figure 1.7: |Drug dis-cov-ery and de-vel-op-ment pipeline. Fo
 r each stage the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--392
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 \OT1/ptm/m/n/12 av-er-age cost and time are in-cluded. Post-approval times not 
 in-cluded in
  []
 
-<../figures/drug_discovery_evolution.jpg, id=784, 1355.0625pt x 976.64874pt>
+<../figures/drug_discovery_evolution.jpg, id=791, 1355.0625pt x 976.64874pt>
 File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
 
 <use ../figures/drug_discovery_evolution.jpg>
 Package pdftex.def Info: ../figures/drug_discovery_evolution.jpg used on input 
-line 402.
+line 404.
 (pdftex.def)             Requested size: 315.48062pt x 227.38144pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 []\OT1/ptm/m/n/12 Figure 1.8: |Cost of de-vel-op-ing a new drug. Blue bars in-d
 i-cate ex-penses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 \OT1/ptm/m/n/12 in clin-i-cal phases while red rep-re-sents ex-penses in pre-cl
 inical stages.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 \OT1/ptm/m/n/12 Costs are shown in $\OT1/cmr/m/n/12 $$ \OT1/ptm/m/n/12 mil-lion
 s. Data ex-tracted form: Tufts Cen-ter for the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 \OT1/ptm/m/n/12 Study of Drug De-vel-op-ment ([]$\OT1/pcr/m/n/12 http : / / csd
 d . tufts . edu / news /
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page25#39| 
- []
-
-[25]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page26#40| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page26#40| 
  []
 
 [26 <../figures/drug_discovery_pipeline.pdf>]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page27#41| 
- []
-
-[27 <../figures/drug_discovery_evolution.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page28#42| 
- []
-
-[28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page29#43| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page27#41| 
+ []
+
+[27 <../figures/drug_discovery_evolution.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page28#42| 
+ []
+
+[28]
+Underfull \vbox (badness 1354) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page29#43| 
  []
 
 [29]
@@ -1539,334 +1556,334 @@ Underfull \vbox (badness 1354) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page30#44| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page30#44| 
  []
 
 [30]
-Overfull \hbox (6.15912pt too wide) in paragraph at lines 426--427
-\OT1/ptm/m/n/12 prox-i-mately 95$\OT1/cmr/m/n/12 %$ \OT1/ptm/m/n/12 of in-fecte
+Overfull \hbox (6.15912pt too wide) in paragraph at lines 429--430
+\OT1/ptm/m/n/12 prox-i-mately 90$\OT1/cmr/m/n/12 %$ \OT1/ptm/m/n/12 of in-fecte
 d in-di-vid-u-als have la-tent MTB in-fec-tions, which
  []
 
 
-Overfull \hbox (3.35188pt too wide) in paragraph at lines 426--427
-\OT1/ptm/m/n/12 sponse events. Ap-prox-i-mately 10$\OT1/cmr/m/n/12 %$ \OT1/ptm/
-m/n/12 of la-tent in-fec-tions even-tu-ally progress
- []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page31#45| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page31#45| 
  []
 
 [31]
-Overfull \hbox (4.28732pt too wide) in paragraph at lines 433--434
+Overfull \hbox (4.28732pt too wide) in paragraph at lines 436--437
 []\OT1/ptm/b/n/12 Fostering re-search and de-vel-op-ment by phil-an-thropic do-
 na-tions.
  []
 
 
-Overfull \hbox (12.4959pt too wide) in paragraph at lines 433--434
+Overfull \hbox (12.4959pt too wide) in paragraph at lines 436--437
 \OT1/ptm/m/n/12 foun-da-tions, do-nate money to drug re-search and de-vel-op-me
 nt projects.
  []
 
 
-Overfull \hbox (0.23125pt too wide) in paragraph at lines 433--434
+Overfull \hbox (0.23125pt too wide) in paragraph at lines 436--437
 \OT1/ptm/m/n/12 pen-sive and more ef-fec-tive di-ag-nos-tic tools. These tools 
 could reach
  []
 
 
-Overfull \hbox (11.21104pt too wide) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page32#46| 
+ []
+
+[32]
+Overfull \hbox (11.21104pt too wide) in paragraph at lines 438--439
 \OT1/ptm/m/n/12 phar-ma-ceu-ti-cal com-pa-nies pro-vide medicines and funds for
  medicines
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page32#46| 
- []
-
-[32]
-Overfull \hbox (26.30705pt too wide) in paragraph at lines 437--438
+Overfull \hbox (26.30705pt too wide) in paragraph at lines 440--441
 []\OT1/ptm/b/n/12 Public-private Part-ner-ships (PPP). \OT1/ptm/m/n/12 The PPP 
 Knowl-edge Lab ([]$\OT1/pcr/m/n/12 https :
  []
 
 
-Overfull \hbox (0.50809pt too wide) in paragraph at lines 437--438
+Overfull \hbox (0.50809pt too wide) in paragraph at lines 440--441
 \OT1/pcr/m/n/12 / / pppknowledgelab . org/$[]\OT1/ptm/m/n/12 ) de-fines a PPP a
 s a \OT1/ptm/m/it/12 long-term con-
  []
 
 
-Underfull \vbox (badness 1354) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page33#47| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page33#47| 
  []
 
 [33]
 
 pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/map_incidence_tb.pdf, id=931, 891.33pt x 555.07375pt>
+<../figures/map_incidence_tb.pdf, id=927, 891.33pt x 555.07375pt>
 File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
 
 <use ../figures/map_incidence_tb.pdf>
-Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 443
+Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 446
 .
 (pdftex.def)             Requested size: 315.48062pt x 196.4639pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--444
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
 []\OT1/ptm/m/n/12 Figure 1.9: |Es-ti-mated world-wide TB in-ci-dence rates in 2
 014. Fig-ure
  []
 
 
+Underfull \vbox (badness 2088) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page34#48| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page34#48| 
  []
 
 [34 <../figures/map_incidence_tb.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page35#49| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page35#49| 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page36#50| 
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 [][]\OT1/ptm/b/n/12 Type of
  []
 
 
-Overfull \hbox (3.10144pt too wide) in paragraph at lines 506--506
+Overfull \hbox (3.10144pt too wide) in paragraph at lines 509--509
 [][]\OT1/ptm/b/n/12 Reference(s)[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 ti-fi-ca-tion
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 506--506
+Underfull \hbox (badness 2478) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Database and method
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 of bioin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Database of anti-
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 506--506
+Underfull \hbox (badness 5460) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 tubercular com-pounds
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 re-ported from HTS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 along-side com-pu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 ta-tional mod-els to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 506--506
+Underfull \hbox (badness 2443) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 of bioin-for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 mat-ics and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 chemoin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Identification of the
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 506--506
+Underfull \hbox (badness 3525) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 MTB tar-gets of bio-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 active anti-tubercular
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 or-thog-o-nal \OT1/ptm/m/it/12 in-silico
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 of bioin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Homology mod-elling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 fo-mat-ics
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 506--506
+Underfull \hbox (badness 2065) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Mobile app that pro-
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 506--506
+Underfull \hbox (badness 3803) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 ter-act with data col-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 506--506
+Underfull \hbox (badness 2443) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 of bioin-for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 mat-ics and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 chemoin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Application
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 of bioin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 for-mat-ics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 Interactome com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 pu-ta-tional anal-y-sis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 to iden-tify po-ten-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--506
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 \OT1/ptm/m/n/12 tial mech-a-nisms of
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 506--506
+Underfull \hbox (badness 2512) in paragraph at lines 509--509
 []\OT1/ptm/m/n/12 MTB pro-tein drug-ga-
  []
 
 
-Underfull \vbox (badness 10000) detected at line 506
+Underfull \vbox (badness 10000) detected at line 509
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page36#50| 
- []
-
-[36]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page37#51| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page37#51| 
  []
 
 [37]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page38#52| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page38#52| 
  []
 
 [38]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page39#53| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page39#53| 
  []
 
 [39]
@@ -1874,173 +1891,178 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page40#54| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page40#54| 
  []
 
 [40]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page41#55| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page41#55| 
  []
 
-[41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page42#56| 
- []
-
-[42] <../figures/kinase_structure.png, id=1101, 3198.95125pt x 2073.7475pt>
+[41] <../figures/kinase_structure.png, id=1086, 3198.95125pt x 2073.7475pt>
 File: ../figures/kinase_structure.png Graphic file (type png)
 
 <use ../figures/kinase_structure.png>
-Package pdftex.def Info: ../figures/kinase_structure.png used on input line 533
+Package pdftex.def Info: ../figures/kinase_structure.png used on input line 536
 .
 (pdftex.def)             Requested size: 350.5364pt x 227.22693pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 []\OT1/ptm/m/n/12 Figure 1.10: |3D struc-ture of ABL1 ki-nase in com-plex with 
 ima-tinib
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 \OT1/ptm/m/n/12 dis-play-ing the dif-fer-ent struc-tural re-gions of pro-tein k
 i-nases. The struc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 \OT1/ptm/m/n/12 ture rep-re-sents the typ-i-cal ki-nase in-ac-tive DGF-out con-
 for-ma-tion. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 \OT1/ptm/m/n/12 pro-tein is rep-re-sented as rib-bons and the lig-and as sticks
 . The ac-ti-va-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 \OT1/ptm/m/n/12 loop is coloured in cyan, the DGF mo-tif in blue, the P-loop is
  coloured
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
 \OT1/ptm/m/n/12 in red, the hinge re-gion in pur-ple and the $\OML/cmm/m/it/12 
 $\OT1/ptm/m/n/12 C he-lix in green. PDB ac-ces-
  []
 
 
-Overfull \hbox (7.87746pt too wide) in paragraph at lines 538--539
+Overfull \hbox (7.87746pt too wide) in paragraph at lines 541--542
 []\OT1/ptm/m/n/12 Most of the cur-rent small molecule ki-nase in-hibitors are A
 TP-competitive
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page43#57| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page42#56| 
+ []
+
+[42]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page43#57| 
  []
 
 [43 <../figures/kinase_structure.png>]
-Underfull \vbox (badness 1354) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page44#58| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page44#58| 
  []
 
 [44]
-Overfull \hbox (2.9076pt too wide) in paragraph at lines 550--551
+Overfull \hbox (2.9076pt too wide) in paragraph at lines 553--554
 \OT1/ptm/m/n/12 been de-vel-oped by structure-guided in-cor-po-ra-tion of an el
 ec-trophilic
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page45#59| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page45#59| 
  []
 
 [45]
 
 pdfTeX warning: pdflatex (file ../figures/type_kinases_inhibitors.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/type_kinases_inhibitors.pdf, id=1143, 931.48pt x 463.7325pt>
+<../figures/type_kinases_inhibitors.pdf, id=1135, 931.48pt x 463.7325pt>
 File: ../figures/type_kinases_inhibitors.pdf Graphic file (type pdf)
 
 <use ../figures/type_kinases_inhibitors.pdf>
 Package pdftex.def Info: ../figures/type_kinases_inhibitors.pdf used on input l
-ine 560.
+ine 563.
 (pdftex.def)             Requested size: 350.5364pt x 174.50778pt.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 631.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 634.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 631.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 634.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 641.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 644.
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 []\OT1/ptm/m/n/10 In a re-cent pub-li-ca-tion, lenva-tinib was pro-posed as a s
 pe-cial class of ki-nase in-hibitors (the so-called type V in-hibitors).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 \OT1/ptm/m/n/10 Com-pounds of this class are those bind-ing both the ATP-bindin
 g site and the neigh-bor-ing al-losteric re-gion in ki-nases with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--646
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
 []\OT1/ptm/m/n/12 Table 1.3: |FDA ap-proved ki-nase in-hibitors alon-s-gide the
 ir phar-ma-co-log-i-cal tar-get, bind-ing mode and year
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page46#60| 
- []
-
-[46 <../figures/type_kinases_inhibitors.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page47#61| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page46#60| 
  []
 
-[47]
+[46]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page48#62| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page47#61| 
+ []
+
+[47 <../figures/type_kinases_inhibitors.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page48#62| 
  []
 
 [48]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page49#63| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page49#63| 
  []
 
 [49]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page50#64| 
+ []
+
+[50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page50#64| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page51#65| 
  []
 
-[50]
-Overfull \hbox (0.12482pt too wide) in paragraph at lines 671--672
+[51]
+Overfull \hbox (0.12482pt too wide) in paragraph at lines 674--675
 \OT1/ptm/m/n/12 geted can-cer ther-a-pies. How-ever, in-di-vid-ual stud-ies hav
 e shown that many
  []
 
 
-Overfull \hbox (3.94032pt too wide) in paragraph at lines 671--672
+Overfull \hbox (3.94032pt too wide) in paragraph at lines 674--675
 \OT1/ptm/m/n/12 vari-a-tion in drug re-sponse pre-dom-i-nantly at the cel-lu-la
 r level [[][]224[]]. Hence,
  []
@@ -2050,138 +2072,144 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page51#65| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page52#66| 
  []
 
-[51]
+[52]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page52#66| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page53#67| 
  []
 
-[52] (./thesis.ind)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 691.
+[53]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page54#68| 
+ []
 
-Overfull \hbox (4.12062pt too wide) in paragraph at lines 692--692
+[54
+
+
+] (./thesis.ind)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 694.
+
+Overfull \hbox (4.12062pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 A Kessel and N Ben-Tal. \OT1/ptm/m/it/12 In-tro-duc-tion to P
 ro-teins: Struc-ture, Func-
  []
 
 
-Overfull \hbox (10.7955pt too wide) in paragraph at lines 692--692
+Overfull \hbox (10.7955pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 B. Al-berts. \OT1/ptm/m/it/12 Molec-u-lar Bi-ol-ogy of the Ce
 ll: Ref-er-ence edi-tion\OT1/ptm/m/n/12 . Molec-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page53#67| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page55#69| 
  []
 
-[53
-
-
+[55
 
 
 ]
-Overfull \hbox (18.68633pt too wide) in paragraph at lines 692--692
+Overfull \hbox (18.68633pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 J C KENDREW et al. \  Struc-ture of Myo-globin: A Three-Dimen
 sional
  []
 
 
-Overfull \hbox (3.79852pt too wide) in paragraph at lines 692--692
+Overfull \hbox (3.79852pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 proach to medically-relevant hu-man pro-teins". In: (2007), pp.
  107{
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page54#68| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page56#70| 
  []
 
-[54]
-Overfull \hbox (3.31473pt too wide) in paragraph at lines 692--692
+[56]
+Overfull \hbox (3.31473pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 molecules in So-lu-tion Us-ing NMR spec-troscopy". In: 1294 (20
 00),
  []
 
 
-Overfull \hbox (11.62633pt too wide) in paragraph at lines 692--692
+Overfull \hbox (11.62633pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Xiao-chen Bai et al. \  An atomic struc-ture of hu-man [ggr]-
 secretase".
  []
 
 
-Overfull \hbox (5.25447pt too wide) in paragraph at lines 692--692
+Overfull \hbox (5.25447pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 ture". In: \OT1/ptm/m/it/12 Sci-ence \OT1/ptm/m/n/12 253.5016 (
 July 1991), pp. 164{170 (cit. on p. []10[]). 
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page55#69| 
- []
-
-[55]
-Overfull \hbox (1.0699pt too wide) in paragraph at lines 692--692
+Overfull \hbox (1.0699pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Daniel Rus-sel et al. \  Putting the Pieces To-gether: In-te-
 gra-tive Mod-
  []
 
 
-Overfull \hbox (18.96655pt too wide) in paragraph at lines 692--692
+Overfull \hbox (18.96655pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 molec-u-lar As-sem-blies". In: \OT1/ptm/m/it/12 PLoS Bi-ol-ogy 
 \OT1/ptm/m/n/12 10.1 (Jan. 2012), e1001244.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page56#70| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page57#71| 
  []
 
-[56]
-Overfull \hbox (2.85692pt too wide) in paragraph at lines 692--692
+[57]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page58#72| 
+ []
+
+[58]
+Overfull \hbox (2.85692pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Jour-nal of Com-pu-ta-tional Chem-istry \OT1/ptm/m/n/12 14.11 
 (Nov. 1993), pp. 1385{
  []
 
 
-Overfull \hbox (2.34402pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.34402pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Bernard R. Brooks et al. \  CHARMM: A pro-gram for macro-mole
 c-
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page57#71| 
- []
-
-[57]
-Overfull \hbox (5.94296pt too wide) in paragraph at lines 692--692
+Overfull \hbox (5.94296pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Federico Fo-go-lari, Alessan-dro Brigo, and Hen-ri-ette Moli-
 nari. \  Pro-
  []
 
 
-Overfull \hbox (2.15382pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.15382pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 to-col for MM/PBSA molec-u-lar dy-nam-ics sim-u-la-tions of pro
 -teins."
  []
 
 
-Overfull \hbox (2.88615pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page59#73| 
+ []
+
+[59]
+Overfull \hbox (2.88615pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 ref-er-ence state im-proves structure-derived po-ten-tials of m
 ean force
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page58#72| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page60#74| 
  []
 
-[58]
-Overfull \hbox (11.11354pt too wide) in paragraph at lines 692--692
+[60]
+Overfull \hbox (11.11354pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 is-sue (July 2005), W244{W248. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/
 n/12 : 0305-1048. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 .
  1093 /
@@ -2189,216 +2217,216 @@ n/12 : 0305-1048. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 .
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page59#73| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page61#75| 
  []
 
-[59]
-Overfull \hbox (22.92001pt too wide) in paragraph at lines 692--692
+[61]
+Overfull \hbox (22.92001pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Daisuke Ki-hara. New York, NY: Springer New York, 2014. Chap. R
 ap-
  []
 
 
-Overfull \hbox (2.50156pt too wide) in paragraph at lines 692--692
-[]\OT1/ptm/m/n/12 Extracellular Pro-teins That and Mod-u-late Cell-matrix In-te
-r-ac-tions.
+Overfull \hbox (30.68866pt too wide) in paragraph at lines 695--695
+\OT1/ptm/m/it/12 TEIN STRUC-TURE\OT1/ptm/m/n/12 . Vol. 34. 1981, pp. 167{339. \
+OT1/ptm/m/sc/12 isbn\OT1/ptm/m/n/12 : 9780120342341.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page60#74| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page62#76| 
  []
 
-[60]
-Overfull \hbox (1.38237pt too wide) in paragraph at lines 692--692
+[62]
+Overfull \hbox (1.38237pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 tido-main pro-teins". In: \OT1/ptm/m/it/12 Cur-rent Opin-ion in
  Struc-tural Bi-ol-ogy \OT1/ptm/m/n/12 14.2
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page61#75| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page63#77| 
  []
 
-[61]
-Overfull \hbox (12.07103pt too wide) in paragraph at lines 692--692
+[63]
+Overfull \hbox (12.07103pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 database". In: \OT1/ptm/m/it/12 Nu-cleic Acids Re-search \OT1/p
 tm/m/n/12 37.SUPPL. 1 (2009), pp. 211{
  []
 
 
-Overfull \hbox (29.77373pt too wide) in paragraph at lines 692--692
+Overfull \hbox (29.77373pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 pp. 1{23. \OT1/ptm/m/sc/12 isbn\OT1/ptm/m/n/12 : 9780470511411.
  \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1002 / 978047051
 1411 .
  []
 
 
-Overfull \hbox (20.70164pt too wide) in paragraph at lines 692--692
+Overfull \hbox (20.70164pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 pp. 245{258. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 1553-0809. 
 \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1002 / jcp . 1030
 540420$[]
  []
 
 
-Overfull \hbox (8.38016pt too wide) in paragraph at lines 692--692
+Overfull \hbox (8.38016pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Pro-teins: Struc-ture, Func-tion, and Bioin-for-mat-ics \OT1/p
 tm/m/n/12 33.4 (Dec. 1998),
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page62#76| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page64#78| 
  []
 
-[62]
-Overfull \hbox (13.61621pt too wide) in paragraph at lines 692--692
+[64]
+Overfull \hbox (13.61621pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 tion". In: \OT1/ptm/m/it/12 eLS\OT1/ptm/m/n/12 . John Wi-ley & 
 Sons, Ltd, 2001. \OT1/ptm/m/sc/12 isbn\OT1/ptm/m/n/12 : 9780470015902.
  []
 
 
-Overfull \hbox (2.15103pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.15103pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Julien Michel, Ju-lian Tirado-Rives, and William L Jor-gensen
 . \  En-
  []
 
 
-Overfull \hbox (6.23366pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.23366pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 er-get-ics of Dis-plac-ing Wa-ter Molecules from Pro-tein Bind-
 ing Sites:
  []
 
 
-Overfull \hbox (5.59694pt too wide) in paragraph at lines 692--692
+Overfull \hbox (5.59694pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 i-can Chem-i-cal So-ci-ety \OT1/ptm/m/n/12 131.42 (Oct. 2009),
  pp. 15403{15411. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 :
  []
 
 
-Overfull \hbox (18.0544pt too wide) in paragraph at lines 692--692
+Overfull \hbox (18.0544pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 er-al-ized Born mod-el-ing of lig-and bind-ing en-er-gies for v
 ir-tual database
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page63#77| 
- []
-
-[63]
-Overfull \hbox (6.49828pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.49828pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 High-Resolution Crys-tal Struc-tures of Protein-Ligand Com-plex
 es".
  []
 
 
-Overfull \hbox (17.97981pt too wide) in paragraph at lines 692--692
+Overfull \hbox (17.97981pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 2007), pp. 668{675. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 1549
 -9596. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1021 / ci6
 003527$[]
  []
 
 
-Overfull \hbox (0.80457pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page65#79| 
+ []
+
+[65]
+Overfull \hbox (0.80457pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Jour-nal of Phys-i-cal Chem-istry \OT1/ptm/m/n/12 94.19 (Sept.
  1990), pp. 7684{7692.
  []
 
 
-Overfull \hbox (2.65045pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.65045pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0022-3654. \OT1/ptm/m/sc/12 doi\OT1/ptm/
 m/n/12 : []$\OT1/pcr/m/n/12 10 . 1021 / j100382a068$[] \OT1/ptm/m/n/12 (cit. on
  p. []21[]). 
  []
 
 
-Overfull \hbox (1.54358pt too wide) in paragraph at lines 692--692
+Overfull \hbox (1.54358pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 MOD-ELS OF MACRO-MOLEC-U-LAR SOL-VA-TION EF-FECTS".
  []
 
 
-Overfull \hbox (7.62404pt too wide) in paragraph at lines 692--692
+Overfull \hbox (7.62404pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 In: \OT1/ptm/m/it/12 An-nual Re-view of Phys-i-cal Chem-istry \
 OT1/ptm/m/n/12 51.1 (Oct. 2000), pp. 129{
  []
 
 
-Overfull \hbox (3.68411pt too wide) in paragraph at lines 692--692
+Overfull \hbox (3.68411pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 152. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0066-426X. \OT1/ptm
 /m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1146 / annurev . physchem
  .
  []
 
 
-Overfull \hbox (1.16248pt too wide) in paragraph at lines 692--692
+Overfull \hbox (1.16248pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Claudia Stef-fen et al. \  TmoleX a graph-i-cal user in-ter-f
 ace for TUR-
  []
 
 
-Overfull \hbox (2.15544pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.15544pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 view". In: \OT1/ptm/m/it/12 Phar-ma-col-ogy and Ther-a-peu-tics
  \OT1/ptm/m/n/12 138.3 (2013), pp. 333{
  []
 
 
-Overfull \hbox (4.2242pt too wide) in paragraph at lines 692--692
+Overfull \hbox (4.2242pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 408. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 01637258. \OT1/ptm/
 m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1016 / j . pharmthera . 20
 13 .
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page64#78| 
- []
-
-[64]
-Overfull \hbox (7.76561pt too wide) in paragraph at lines 692--692
+Overfull \hbox (7.76561pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 pp. D1083{90. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0305-1048.
  \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1093 / nar / gkt
 1031$[]
  []
 
 
-Overfull \hbox (0.15656pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page66#80| 
+ []
+
+[66]
+Overfull \hbox (0.15656pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Acids Re-search \OT1/ptm/m/n/12 40.Database is-sue (Jan. 2012)
 , pp. D1128{D1136.
  []
 
 
-Overfull \hbox (23.96304pt too wide) in paragraph at lines 692--692
+Overfull \hbox (23.96304pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Sunghwan Kim et al. \  Pub-Chem Sub-stance and Com-pound data
 bases".
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page65#79| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page67#81| 
  []
 
-[65]
-Overfull \hbox (4.43484pt too wide) in paragraph at lines 692--692
+[67]
+Overfull \hbox (4.43484pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 ing". In: \OT1/ptm/m/it/12 Jour-nal of Com-pu-ta-tional Chem-is
 try \OT1/ptm/m/n/12 18 (1997), pp. 1175{
  []
 
 
-Overfull \hbox (65.12013pt too wide) in paragraph at lines 692--692
+Overfull \hbox (65.12013pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 1189. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0192-8651. \OT1/pt
 m/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1002 / (SICI ) 1096 -[] 
 987X(19970715 )
  []
 
 
-Overfull \hbox (0.7713pt too wide) in paragraph at lines 692--692
+Overfull \hbox (0.7713pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 for flex-i-ble dock-ing." In: \OT1/ptm/m/it/12 Jour-nal of mole
 c-u-lar bi-ol-ogy \OT1/ptm/m/n/12 267.3 (Apr.
  []
 
 
-Overfull \hbox (17.97981pt too wide) in paragraph at lines 692--692
+Overfull \hbox (17.97981pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 2004), pp. 1879{81. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0022
 -2623. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1021 / jm0
 341913$[]
@@ -2406,36 +2434,36 @@ Overfull \hbox (17.97981pt too wide) in paragraph at lines 692--692
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page66#80| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page68#82| 
  []
 
-[66]
-Overfull \hbox (4.45583pt too wide) in paragraph at lines 692--692
+[68]
+Overfull \hbox (4.45583pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 287.5460 (2000), pp. 1960{64. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n
 /12 : 0036-8075. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 
 1126 /
  []
 
 
-Overfull \hbox (4.82811pt too wide) in paragraph at lines 692--692
+Overfull \hbox (4.82811pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Wi-ley & Sons, Ltd, 2001. \OT1/ptm/m/sc/12 isbn\OT1/ptm/m/n/12 
 : 9780470015902. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 
 1002 /
  []
 
 
-Overfull \hbox (45.03426pt too wide) in paragraph at lines 692--692
+Overfull \hbox (45.03426pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Lisa Hutchin-son and Re-becca Kirk. \  High drug at-tri-tion 
 rates[mdash]where
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page67#81| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page69#83| 
  []
 
-[67]
-Overfull \hbox (44.1355pt too wide) in paragraph at lines 692--692
+[69]
+Overfull \hbox (44.1355pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 drugs". In: \OT1/ptm/m/it/12 Bioin-for-ma-tion \OT1/ptm/m/n/12 
 9 (2013). \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 6026 / 
 97320630009089$[]
@@ -2443,98 +2471,87 @@ Overfull \hbox (44.1355pt too wide) in paragraph at lines 692--692
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page68#82| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page70#84| 
  []
 
-[68]
-Overfull \hbox (0.46484pt too wide) in paragraph at lines 692--692
+[70]
+Overfull \hbox (0.46484pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 cer drug tar-gets us-ing ma-chine learn-ing, in-hibitor de-sign
  and high-
  []
 
 
-Overfull \hbox (18.50304pt too wide) in paragraph at lines 692--692
+Overfull \hbox (18.50304pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 vi-ron-men-tal tox-i-col-ogy and chem-istry / SE-TAC \OT1/ptm/
 m/n/12 22.8 (2003), pp. 1666{
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page69#83| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page71#85| 
  []
 
-[69]
-Overfull \hbox (4.54668pt too wide) in paragraph at lines 692--692
+[71]
+Overfull \hbox (4.54668pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Sean Ekins et al. \  Three-and Four-Dimensional Quan-ti-ta-ti
 ve Struc-
  []
 
 
-Overfull \hbox (8.7764pt too wide) in paragraph at lines 692--692
+Overfull \hbox (8.7764pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 In-hibitors". In: \OT1/ptm/m/it/12 Drug Metabolism and Dis-po-s
 i-tion \OT1/ptm/m/n/12 28.8 (Aug. 2000),
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page70#84| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page72#86| 
  []
 
-[70]
-Overfull \hbox (1.94728pt too wide) in paragraph at lines 692--692
+[72]
+Overfull \hbox (1.94728pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 sign". In: \OT1/ptm/m/it/12 Molecules \OT1/ptm/m/n/12 15.5 (201
 0), pp. 3281{3294. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 14203049.
  []
 
 
-Overfull \hbox (3.1189pt too wide) in paragraph at lines 692--692
+Overfull \hbox (3.1189pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Pro-tein Mod-el-ing and 6D-QSAR. Sim-u-lat-ing the Bind-ing of 
 Struc-
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page71#85| 
- []
-
-[71]
-Overfull \hbox (40.59795pt too wide) in paragraph at lines 692--692
+Overfull \hbox (40.59795pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Clare M. Lewandowski, New Co-investigator, and Clare M. Lewan
 dowski.
  []
 
 
-Overfull \hbox (0.9352pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page73#87| 
+ []
+
+[73]
+Overfull \hbox (0.9352pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 M Berry and O M Kon. \  Multidrug- and ex-ten-sively drug-res
 istant
  []
 
 
-Overfull \hbox (0.85863pt too wide) in paragraph at lines 692--692
-[]\OT1/ptm/m/n/12 Kim Lewis. \  Plat-forms for an-tibi-otic dis-cov-ery". In: \
-OT1/ptm/m/it/12 Nat Rev Drug
- []
-
-
-Overfull \hbox (2.65045pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.65045pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 1476-4687. \OT1/ptm/m/sc/12 doi\OT1/ptm/
 m/n/12 : []$\OT1/pcr/m/n/12 10 . 1038 / nature14098$[] \OT1/ptm/m/n/12 (cit. on
  p. []32[]). 
  []
 
 
-Overfull \hbox (140.6205pt too wide) in paragraph at lines 692--692
+Overfull \hbox (140.6205pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 sis with com-bined \OT1/ptm/m/sl/12 $\OT1/ptm/m/it/12 20 mil-l
 ion gift to Broad In-sti-tute - https://www.broadinstitute.org/news/6981
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page72#86| 
- []
-
-[72]
-Overfull \hbox (7.07101pt too wide) in paragraph at lines 692--692
+Overfull \hbox (7.07101pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Dis-eases \OT1/ptm/m/n/12 34 (May 2015), pp. 20{32. \OT1/ptm/m
 /sc/12 issn\OT1/ptm/m/n/12 : 1201-9712. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : [
 ]$\OT1/pcr/m/n/12 http :
@@ -2542,77 +2559,77 @@ Overfull \hbox (7.07101pt too wide) in paragraph at lines 692--692
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page73#87| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page74#88| 
  []
 
-[73]
-Overfull \hbox (5.00613pt too wide) in paragraph at lines 692--692
+[74]
+Overfull \hbox (5.00613pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Llu[]^^Ps Bal-lell et al. \  Fu-el-ing open-source drug dis-c
 ov-ery: 177 small-
  []
 
 
-Overfull \hbox (4.05827pt too wide) in paragraph at lines 692--692
+Overfull \hbox (4.05827pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 molecule leads against tu-ber-cu-lo-sis." In: \OT1/ptm/m/it/12 
 ChemMed-Chem \OT1/ptm/m/n/12 8.2 (Mar.
  []
 
 
-Overfull \hbox (6.84592pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.84592pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Molecule In-hibitors Spe-cific for My-cobac-terium tu-ber-cu-lo
 -sis Phos-
  []
 
 
-Overfull \hbox (0.39806pt too wide) in paragraph at lines 692--692
+Overfull \hbox (0.39806pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 pho-ser-ine Phos-phatase". In: \OT1/ptm/m/it/12 Jour-nal of Bi-
 o-log-i-cal Chem-istry \OT1/ptm/m/n/12 (July
  []
 
 
-Overfull \hbox (6.69043pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page75#89| 
+ []
+
+[75]
+Overfull \hbox (6.69043pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 gets in Neglected-Disease Pathogens Us-ing an In Sil-ico Ap-pro
 ach".
  []
 
 
-Overfull \hbox (1.39545pt too wide) in paragraph at lines 692--692
+Overfull \hbox (1.39545pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 tems \OT1/ptm/m/n/12 6.5 (2010), pp. 840{851. \OT1/ptm/m/sc/12
  issn\OT1/ptm/m/n/12 : 1742-206X. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1
 /pcr/m/n/12 10 . 1039 /
  []
 
 
-Overfull \hbox (9.79431pt too wide) in paragraph at lines 692--692
+Overfull \hbox (9.79431pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Multi-Drug and Ex-ten-sively Drug Re-sis-tant Tu-ber-cu-lo-sis"
 . In: \OT1/ptm/m/it/12 PLoS
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page74#88| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page76#90| 
  []
 
-[74]
-Overfull \hbox (6.4502pt too wide) in paragraph at lines 692--692
+[76]
+Overfull \hbox (6.4502pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 pre-dic-tion and vi-su-al-iza-tion tools in-cor-po-rat-ing open
  source molec-
  []
 
 
-Overfull \hbox (1.5481pt too wide) in paragraph at lines 692--692
+Overfull \hbox (1.5481pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 e0142293. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 1932-6203. \OT
 1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1371 / journal . pon
 e .
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page75#89| 
- []
-
-[75]
-Overfull \hbox (51.5798pt too wide) in paragraph at lines 692--692
+Overfull \hbox (51.5798pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 2007), pp. 2040{2048. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 00
 28-4793. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1056 / N
 EJMoa071834$[]
@@ -2620,194 +2637,193 @@ EJMoa071834$[]
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page76#90| 
- []
-
-[76]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page77#91| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page77#91| 
  []
 
 [77]
-Overfull \hbox (3.39664pt too wide) in paragraph at lines 692--692
-\OT1/ptm/m/n/12 paradigm." In: \OT1/ptm/m/it/12 Na-ture re-views. Can-cer \OT1/
-ptm/m/n/12 13.10 (Oct. 2013), pp. 714{
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page78#92| 
  []
 
-
-Overfull \hbox (25.67894pt too wide) in paragraph at lines 692--692
+[78]
+Overfull \hbox (25.67894pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 G Man-ning. \  The Pro-tein Ki-nase Com-ple-ment of the Hu-ma
 n Genome".
  []
 
 
-Overfull \hbox (164.36565pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page79#93| 
+ []
+
+[79]
+Overfull \hbox (164.36565pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 hibitor de-vel-op-ment". In: \OT1/ptm/m/it/12 NA-TURE CHEM-I-CA
 L BI-OL-OGY www.nature.com/naturechemicalbiology
  []
 
 
-Overfull \hbox (12.28763pt too wide) in paragraph at lines 692--692
+Overfull \hbox (12.28763pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Priv-i-leged Ap-proach for". In: (2016). \OT1/ptm/m/sc/12 doi\O
 T1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1021 / cb500129t$[]
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page78#92| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page80#94| 
  []
 
-[78]
-Overfull \hbox (3.5921pt too wide) in paragraph at lines 692--692
+[80]
+Overfull \hbox (3.5921pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 tein ki-nase cys-teinome". In: \OT1/ptm/m/it/12 Chem-istry & bi
 -ol-ogy \OT1/ptm/m/n/12 20.2 (Feb. 2013),
  []
 
 
-Overfull \hbox (31.89159pt too wide) in paragraph at lines 692--692
+Overfull \hbox (31.89159pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 i-nal chem-istry \OT1/ptm/m/n/12 55 (2012), pp. 6243{6262. \OT
 1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 . 1021 / jm3003203$[]
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page79#93| 
- []
-
-[79]
-Overfull \hbox (5.05186pt too wide) in paragraph at lines 692--692
+Overfull \hbox (5.05186pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Can-cer \OT1/ptm/m/n/12 9.1 (Jan. 2009), pp. 28{39. \OT1/ptm/m
-/sc/12 issn\OT1/ptm/m/n/12 : 1474-175X (cit. on p. []48[]). 
+/sc/12 issn\OT1/ptm/m/n/12 : 1474-175X (cit. on p. []49[]). 
  []
 
 
-Overfull \hbox (2.43414pt too wide) in paragraph at lines 692--692
+Overfull \hbox (3.39664pt too wide) in paragraph at lines 695--695
+\OT1/ptm/m/n/12 paradigm." In: \OT1/ptm/m/it/12 Na-ture re-views. Can-cer \OT1/
+ptm/m/n/12 13.10 (Oct. 2013), pp. 714{
+ []
+
+
+Overfull \hbox (2.43414pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Michael M Gottes-man. \  Mech-a-nisms of Can-cer Drug Re-sis-
 tance".
  []
 
 
-Overfull \hbox (13.73581pt too wide) in paragraph at lines 692--692
+Overfull \hbox (13.73581pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 0066-4219. \OT1/ptm/m/sc/12 doi\OT1/ptm/
 m/n/12 : []$\OT1/pcr/m/n/12 10 . 1146 / annurev . med . 53 . 082901 .
  []
 
 
-Overfull \hbox (2.89928pt too wide) in paragraph at lines 692--692
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page81#95| 
+ []
+
+[81]
+Overfull \hbox (2.89928pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 can-cer ther-apy". In: \OT1/ptm/m/it/12 Genes and De-vel-op-men
 t \OT1/ptm/m/n/12 26.7 (2012), pp. 641{
  []
 
 
-Overfull \hbox (6.00284pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.00284pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 ther-apy." In: \OT1/ptm/m/it/12 Na-ture re-views. Clin-i-cal on
 -col-ogy \OT1/ptm/m/n/12 (2015). \OT1/ptm/m/sc/12 issn\OT1/ptm/m/n/12 : 1759-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page80#94| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page82#96| 
  []
 
-[80]
-Overfull \hbox (4.6219pt too wide) in paragraph at lines 692--692
+[82]
+Overfull \hbox (4.6219pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Resistance in Ki-nases". In: \OT1/ptm/m/it/12 Ex-pert opin-ion 
 on in-ves-ti-ga-tional drugs
  []
 
 
-Overfull \hbox (3.25726pt too wide) in paragraph at lines 692--692
+Overfull \hbox (3.25726pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 20.2 (Feb. 2011), pp. 153{208. \OT1/ptm/m/sc/12 issn\OT1/ptm/m/
 n/12 : 1354-3784. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/n/12 10 .
  1517 /
  []
 
 
-Overfull \hbox (6.74263pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.74263pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Simona Soverini et al. \  Im-pli-ca-tions of BCR-ABL1 ki-nase
  domain-
  []
 
 
-Overfull \hbox (9.82181pt too wide) in paragraph at lines 692--692
+Overfull \hbox (9.82181pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 Mu-ta-tion Con-fer-ring Pri-mary Re-sis-tance to Gefi-tinib in 
 Non--Small-
  []
 
 
-Overfull \hbox (12.17627pt too wide) in paragraph at lines 692--692
+Overfull \hbox (12.17627pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 tance in NSCLC". In: \OT1/ptm/m/it/12 Can-cer Dis-cov-ery \OT1/
 ptm/m/n/12 3.12 (Dec. 2013), pp. 1404{
  []
 
 
-Overfull \hbox (2.77844pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.77844pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 over-comes T790M-mediated re-sis-tance to EGFR in-hibitors in l
 ung
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page81#95| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page83#97| 
  []
 
-[81]
-Overfull \hbox (27.07234pt too wide) in paragraph at lines 692--692
+[83]
+Overfull \hbox (27.07234pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 Amer-i-can As-so-ci-a-tion for Can-cer Re-search \OT1/ptm/m/n/
 12 18.5 (Mar. 2012), pp. 1472{
  []
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 691.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 694.
 
-Overfull \hbox (2.99919pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.99919pt too wide) in paragraph at lines 695--695
 []\OT1/ptm/m/n/12 Matthew Van-ne-man and Glenn Dra-noff. \  Com-bin-ing im-muno
 ther-
  []
 
 
-Overfull \hbox (5.05215pt too wide) in paragraph at lines 692--692
+Overfull \hbox (5.05215pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/it/12 cer \OT1/ptm/m/n/12 12.4 (Apr. 2012), pp. 237{251. \OT1/ptm/m/
-sc/12 issn\OT1/ptm/m/n/12 : 1474-175X (cit. on p. []51[]). 
+sc/12 issn\OT1/ptm/m/n/12 : 1474-175X (cit. on p. []52[]). 
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page82#96| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page84#98| 
  []
 
-[82]
-Overfull \hbox (10.77014pt too wide) in paragraph at lines 692--692
+[84]
+Overfull \hbox (10.77014pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 tion of ibru-ti-nib re-sis-tance in chronic lym-pho-cytic leuke
 mia (CLL)."
  []
 
 
-Overfull \hbox (2.65935pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.65935pt too wide) in paragraph at lines 695--695
 \OT1/ptm/m/n/12 1091-6490. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : []$\OT1/pcr/m/
-n/12 10 . 1073 / pnas . 1009117107$[] \OT1/ptm/m/n/12 (cit. on p. []52[]). 
+n/12 10 . 1073 / pnas . 1009117107$[] \OT1/ptm/m/n/12 (cit. on p. []53[]). 
  []
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 701.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page83#97| 
+ []\OT1/ptm/m/n/12 ``thesis''2016/7/1317:31page85#99| 
  []
 
-[83]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 698.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/12 ``thesis''2016/7/1216:59page84#98| 
- []
-
-[84]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 698.
+[85]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 701.
  (./thesis.aux
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 698.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 698.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 701.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 701.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 1D13AF46F009FAF9B43F71CDD3B2148B;1857.
 
@@ -2822,16 +2838,16 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 698.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 701.
  ) 
 Here is how much of TeX's memory you used:
- 17650 strings out of 495034
- 283428 string characters out of 6181677
- 1562323 words of memory out of 5000000
+ 17651 strings out of 495034
+ 283453 string characters out of 6181677
+ 1566931 words of memory out of 5000000
  20144 multiletter control sequences out of 15000+600000
  39707 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,13n,88p,4222b,2773s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,13n,88p,4146b,2773s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -2848,10 +2864,10 @@ dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (98 pages, 3366141 bytes).
+Output written on thesis.pdf (99 pages, 3368832 bytes).
 PDF statistics:
- 2070 PDF objects out of 2073 (max. 8388607)
- 1818 compressed objects within 19 object streams
- 413 named destinations out of 1000 (max. 500000)
+ 2067 PDF objects out of 2073 (max. 8388607)
+ 1814 compressed objects within 19 object streams
+ 414 named destinations out of 1000 (max. 500000)
  268 words of extra memory for PDF output out of 10000 (max. 10000000)
 

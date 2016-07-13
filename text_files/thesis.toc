@@ -41,13 +41,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Drug discovery}{24}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{27}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{28}{subsubsection.1.1.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3}Drug discovery in Tuberculosis}{31}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{34}{subsubsection.1.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{35}{subsubsection.1.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{35}{subsubsection.1.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{36}{subsubsection.1.1.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.4}Targeted cancer therapies}{38}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
@@ -55,4 +55,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{41}{subsubsection.1.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{49}{subsubsection.1.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{50}{subsubsection.1.1.4.3}

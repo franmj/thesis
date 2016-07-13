@@ -140,9 +140,10 @@
       \strng{fullhash}{dc0fd253e013d7e6a32a8dc8c6b770ee}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{proteins}
+      \field{labeltitle}{{The relation between the divergence of sequence and structure in proteins}}
+      \field{journaltitle}{The EMBO Journal}
       \field{number}{4}
-      \field{title}{proteins}
+      \field{title}{{The relation between the divergence of sequence and structure in proteins}}
       \field{volume}{5}
       \field{year}{1986}
       \field{pages}{823\bibrangedash 826}
@@ -425,11 +426,11 @@
       \strng{fullhash}{5cc7eef09f59e4a5d25c41ae1013ae0b}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{labeltitle}{{Overcoming barriers to membrane protein structure determination}}
       \field{issn}{1087-0156}
       \field{journaltitle}{Nature Biotechnology}
       \field{number}{4}
-      \field{title}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{title}{{Overcoming barriers to membrane protein structure determination}}
       \field{volume}{29}
       \field{year}{2011}
       \field{pages}{335\bibrangedash 340}
@@ -517,47 +518,6 @@
       \field{pages}{1278\bibrangedash 1294}
       \verb{file}
       \verb :home/fran/Downloads/Guide-1997-Wider.pdf:pdf
-      \endverb
-    \endentry
-    \entry{Gadian1993}{inbook}{}
-      \name{labelname}{4}{}{%
-        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b883c437ea4b18bb330c9f183700926d}{Baethmann}{B\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=42cf7795e55b1bbb8433ec56e271ea90}{Kempski}{K\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=6d5b254ce5ca2b62a527c52392e63f66}{Sch{\"{u}}rer}{S\bibinitperiod}{Ludwig}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Vienna}%
-      }
-      \list{publisher}{1}{%
-        {Springer Vienna}%
-      }
-      \strng{namehash}{cf3674bd64b3eb0f6d286a9085ce672b}
-      \strng{fullhash}{6161b0c0af55feabf8f34f4305d690c5}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Mechanisms of Secondary Brain Damage: Current State}}
-      \field{chapter}{NMR Spectr}
-      \field{isbn}{978-3-7091-9266-5}
-      \field{title}{{Mechanisms of Secondary Brain Damage: Current State}}
-      \field{year}{1993}
-      \field{pages}{1\bibrangedash 8}
-      \verb{doi}
-      \verb 10.1007/978-3-7091-9266-5_1
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/978-3-7091-9266-5%7B%5C_%7D1
       \endverb
     \endentry
     \entry{CryoEM}{article}{}
@@ -2001,12 +1961,12 @@
       \strng{fullhash}{1942b77d65e62ed294185de18324007a}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Advances in Protein Chemistry Volume 34}}
+      \field{labeltitle}{{THE ANATOMY AND TAXONOMY OF PROTEIN STRUCTURE}}
       \field{abstract}{This chapter investigates the anatomy and taxonomy of protein structures. A protein is a polypeptide chain made up of amino acid residues linked together in a definite sequence. Amino acids are {$\textquotedblleft$}handed,{$\textquotedblright$} and naturally occurring proteins contain only L-amino acids. A simple mnemonic for that purpose is the {$\textquotedblleft$}corncrib.{$\textquotedblright$} The sequence of side chains determines all that is unique about a particular protein, including its biological function and its specific three-dimensional structure. The major possible routes to knowledge of three-dimensional protein structure are prediction from the amino acid sequence and analysis of spectroscopic measurements such as circular dichroism, laser Raman spectroscopy, and nuclear magnetic resonance. The analysis and discussion of protein structure is based on the results of three-dimensional X-ray crystallography of globular proteins. The basic elements of protein structures are discussed. The most useful level at which protein structures are to be categorized is the domain, as there are many cases of multiple-domain proteins in which each separate domain resembles other entire smaller proteins. The simplest type of stable protein structure consists of polypeptide backbone wrapped more or less uniformly around the outside of a single hydrophobic core. The outline of the taxonomy is also provided in the chapter.}
       \field{booktitle}{Advances in Protein Chemistry}
       \field{isbn}{9780120342341}
       \field{issn}{00653233}
-      \field{title}{{Advances in Protein Chemistry Volume 34}}
+      \field{title}{{THE ANATOMY AND TAXONOMY OF PROTEIN STRUCTURE}}
       \field{volume}{34}
       \field{year}{1981}
       \field{pages}{167\bibrangedash 339}
@@ -2020,28 +1980,31 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0065323308605203
       \endverb
     \endentry
-    \entry{That1991}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+    \entry{Bork1991}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      \name{author}{1}{}{%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5c4382f6ad563e2fbf1264a7315b9096}
-      \strng{fullhash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \strng{namehash}{e661978528e2df38a8c66036d9e7c3a2}
+      \strng{fullhash}{e661978528e2df38a8c66036d9e7c3a2}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Extracellular Proteins That}}
-      \field{isbn}{0014579391}
-      \field{number}{23}
-      \field{title}{{Extracellular Proteins That}}
-      \field{volume}{266}
+      \field{labeltitle}{{Shuffled domains in extracellular proteins}}
+      \field{issn}{1873-3468}
+      \field{journaltitle}{FEBS Letters}
+      \field{month}{07}
+      \field{number}{1-2}
+      \field{title}{{Shuffled domains in extracellular proteins}}
+      \field{volume}{286}
       \field{year}{1991}
-      \field{pages}{15\bibrangedash 18}
-      \verb{file}
-      \verb :home/fran/Downloads/feb2001457939180937x.pdf:pdf
+      \field{pages}{47\bibrangedash 54}
+      \verb{doi}
+      \verb 10.1016/0014-5793(91)80937-X
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/0014-5793(91)80937-X
       \endverb
     \endentry
     \entry{DomainDef}{article}{}
@@ -3842,6 +3805,48 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24284710
       \endverb
     \endentry
+    \entry{Marti-Renom2007}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=f2a7b70833a7b779f12dc6590e0faa6a}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=0003cc026f9355b440a2376232f65392}{Rossi}{R\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb4883062ee88ae200ed86dc684fa6}{Al-Shahrour}{A\bibinithyphendelim S\bibinitperiod}{F{\'{a}}tima}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f81e11dae4333059c8c416f5389eb7fd}{Davis}{D\bibinitperiod}{Fred\bibnamedelima P}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=0d86d08ab78789d2b13d1853ce9e73bc}{Dopazo}{D\bibinitperiod}{Joaqu{\'{\i}}n}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=f2a7b70833a7b779f12dc6590e0faa6a}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=0003cc026f9355b440a2376232f65392}{Rossi}{R\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb4883062ee88ae200ed86dc684fa6}{Al-Shahrour}{A\bibinithyphendelim S\bibinitperiod}{F{\'{a}}tima}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f81e11dae4333059c8c416f5389eb7fd}{Davis}{D\bibinitperiod}{Fred\bibnamedelima P}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=0d86d08ab78789d2b13d1853ce9e73bc}{Dopazo}{D\bibinitperiod}{Joaqu{\'{\i}}n}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32b9dcbb2afcccb4c6a3ff8a4f96d8d4}
+      \strng{fullhash}{018ff3b4719193f82f59bdfaa6cf128a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.}}
+      \field{abstract}{Advances in structural biology, including structural genomics, have resulted in a rapid increase in the number of experimentally determined protein structures. However, about half of the structures deposited by the structural genomics consortia have little or no information about their biological function. Therefore, there is a need for tools for automatically and comprehensively annotating the function of protein structures. We aim to provide such tools by applying comparative protein structure annotation that relies on detectable relationships between protein structures to transfer functional annotations. Here we introduce two programs, AnnoLite and AnnoLyze, which use the structural alignments deposited in the DBAli database.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC bioinformatics}
+      \field{month}{01}
+      \field{title}{{The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.}}
+      \field{volume}{8 Suppl 4}
+      \field{year}{2007}
+      \field{pages}{S4}
+      \verb{doi}
+      \verb 10.1186/1471-2105-8-S4-S4
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Marti-Renom et al. - 2007 - The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1892083%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
     \entry{Drews2000}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
@@ -5044,13 +5049,13 @@
       \strng{fullhash}{cce07b5cd75af09fae07660bc0659e1a}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{WHO Glocal tuberculosis report 2015}}
+      \field{labeltitle}{{WHO Global tuberculosis report 2015}}
       \field{abstract}{Predicting the binding mode of flexible polypeptides to proteins is an important task that falls outside the domain of applicability of most small molecule and protein{$\textminus$}protein docking tools. Here, we test the small molecule flexible ligand docking program Glide on a set of 19 non-$\alpha$-helical peptides and systematically improve pose prediction accuracy by enhancing Glide sampling for flexible polypeptides. In addition, scoring of the poses was improved by post-processing with physics-based implicit solvent MM- GBSA calculations. Using the best RMSD among the top 10 scoring poses as a metric, the success rate (RMSD \x{2264} 2.0 {\r{A}} for the interface backbone atoms) increased from 21{\%} with default Glide SP settings to 58{\%} with the enhanced peptide sampling and scoring protocol in the case of redocking to the native protein structure. This approaches the accuracy of the recently developed Rosetta FlexPepDock method (63{\%} success for these 19 peptides) while being over 100 times faster. Cross-docking was performed for a subset of cases where an unbound receptor structure was available, and in that case, 40{\%} of peptides were docked successfully. We analyze the results and find that the optimized polypeptide protocol is most accurate for extended peptides of limited size and number of formal charges, defining a domain of applicability for this approach.}
       \field{eprinttype}{arXiv}
       \field{isbn}{9788578110796}
       \field{issn}{1098-6596}
-      \field{journaltitle}{The effects of brief mindfulness intervention on acute pain experience: An examination of individual difference}
-      \field{title}{{WHO Glocal tuberculosis report 2015}}
+      \field{journaltitle}{WHO Global tuberculosis report 2015}
+      \field{title}{{WHO Global tuberculosis report 2015}}
       \field{volume}{1}
       \field{year}{2015}
       \field{pages}{1689\bibrangedash 1699}
@@ -5159,33 +5164,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1016/S0140-6736(02)09096-7%20http://linkinghub.elsevier.com/retrieve/pii/S0140673602090967
-      \endverb
-    \endentry
-    \entry{Lewis2013}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
-      }
-      \strng{namehash}{088dcc553932f421594707259a1309e8}
-      \strng{fullhash}{088dcc553932f421594707259a1309e8}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Platforms for antibiotic discovery}}
-      \field{issn}{1474-1776}
-      \field{journaltitle}{Nat Rev Drug Discov}
-      \field{month}{05}
-      \field{number}{5}
-      \field{title}{{Platforms for antibiotic discovery}}
-      \field{volume}{12}
-      \field{year}{2013}
-      \field{pages}{371\bibrangedash 387}
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/nrd3975%20http://10.1038/nrd3975
       \endverb
     \endentry
     \entry{Conly2005}{article}{}
@@ -5689,35 +5667,35 @@
       \verb http://www.jbc.org/content/early/2014/07/18/jbc.M114.597682.abstract
       \endverb
     \endentry
-    \entry{Ekins2013}{article}{}
+    \entry{Raman2008a}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0e6b851bbcb2ef1d16d49ea16a0d3cc}{Raman}{R\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f2dcae73b28ebd90fe046f4ca24cb140}{Yeturu}{Y\bibinitperiod}{Kalidas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66c048622dcf4f7a9dfc4c5e40aaea81}{Chandra}{C\bibinitperiod}{Nagasuma}{N\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0e6b851bbcb2ef1d16d49ea16a0d3cc}{Raman}{R\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f2dcae73b28ebd90fe046f4ca24cb140}{Yeturu}{Y\bibinitperiod}{Kalidas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66c048622dcf4f7a9dfc4c5e40aaea81}{Chandra}{C\bibinitperiod}{Nagasuma}{N\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
-      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{namehash}{4a56e04f896866ec5a1c8918d7c9f5be}
+      \strng{fullhash}{4a56e04f896866ec5a1c8918d7c9f5be}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
-      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
-      \field{issn}{1758-2946}
-      \field{journaltitle}{Journal of Cheminformatics}
+      \field{labeltitle}{{targetTB: A target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis}}
+      \field{abstract}{Tuberculosis still remains one of the largest killer infectious diseases, warranting the identification of newer targets and drugs. Identification and validation of appropriate targets for designing drugs are critical steps in drug discovery, which are at present major bottle-necks. A majority of drugs in current clinical use for many diseases have been designed without the knowledge of the targets, perhaps because standard methodologies to identify such targets in a high-throughput fashion do not really exist. With different kinds of 'omics' data that are now available, computational approaches can be powerful means of obtaining short-lists of possible targets for further experimental validation.}
+      \field{issn}{1752-0509}
+      \field{journaltitle}{BMC Systems Biology}
       \field{number}{1}
-      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
-      \field{volume}{5}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 14}
+      \field{title}{{targetTB: A target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis}}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 21}
       \verb{doi}
-      \verb 10.1186/1758-2946-5-13
+      \verb 10.1186/1752-0509-2-109
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1186/1758-2946-5-13
+      \verb http://dx.doi.org/10.1186/1752-0509-2-109
       \endverb
     \endentry
     \entry{Crowther2010}{article}{}
@@ -5983,6 +5961,37 @@
       \endverb
       \verb{url}
       \verb http://database.oxfordjournals.org/content/2014/bau035.abstract
+      \endverb
+    \endentry
+    \entry{Ekins2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
+      \field{issn}{1758-2946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1186/1758-2946-5-13
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1758-2946-5-13
       \endverb
     \endentry
     \entry{Clark2014}{article}{}
@@ -6854,46 +6863,6 @@
       \verb http://www.nature.com/doifinder/10.1038/nrclinonc.2009.130$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/19736552
       \endverb
     \endentry
-    \entry{Holohan2013}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{18a6fca3287344fac5ec4d7f788e4c11}
-      \strng{fullhash}{0e76ca14fc6d946a0764d9d679ed3edb}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Cancer drug resistance: an evolving paradigm.}}
-      \field{abstract}{Resistance to chemotherapy and molecularly targeted therapies is a major problem facing current cancer research. The mechanisms of resistance to 'classical' cytotoxic chemotherapeutics and to therapies that are designed to be selective for specific molecular targets share many features, such as alterations in the drug target, activation of prosurvival pathways and ineffective induction of cell death. With the increasing arsenal of anticancer agents, improving preclinical models and the advent of powerful high-throughput screening techniques, there are now unprecedented opportunities to understand and overcome drug resistance through the clinical assessment of rational therapeutic drug combinations and the use of predictive biomarkers to enable patient stratification.}
-      \field{issn}{1474-1768}
-      \field{journaltitle}{Nature reviews. Cancer}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{{Cancer drug resistance: an evolving paradigm.}}
-      \field{volume}{13}
-      \field{year}{2013}
-      \field{pages}{714\bibrangedash 26}
-      \verb{doi}
-      \verb 10.1038/nrc3599
-      \endverb
-      \verb{file}
-      \verb :home/fran/Downloads/nrc3599.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/24060863
-      \endverb
-    \endentry
     \entry{Manning2002}{article}{}
       \name{labelname}{1}{}{%
         {{hash=879316ae059a5d96fd637d6016cd9646}{Manning}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
@@ -7499,6 +7468,46 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Holohan2013}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{18a6fca3287344fac5ec4d7f788e4c11}
+      \strng{fullhash}{0e76ca14fc6d946a0764d9d679ed3edb}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Cancer drug resistance: an evolving paradigm.}}
+      \field{abstract}{Resistance to chemotherapy and molecularly targeted therapies is a major problem facing current cancer research. The mechanisms of resistance to 'classical' cytotoxic chemotherapeutics and to therapies that are designed to be selective for specific molecular targets share many features, such as alterations in the drug target, activation of prosurvival pathways and ineffective induction of cell death. With the increasing arsenal of anticancer agents, improving preclinical models and the advent of powerful high-throughput screening techniques, there are now unprecedented opportunities to understand and overcome drug resistance through the clinical assessment of rational therapeutic drug combinations and the use of predictive biomarkers to enable patient stratification.}
+      \field{issn}{1474-1768}
+      \field{journaltitle}{Nature reviews. Cancer}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Cancer drug resistance: an evolving paradigm.}}
+      \field{volume}{13}
+      \field{year}{2013}
+      \field{pages}{714\bibrangedash 26}
+      \verb{doi}
+      \verb 10.1038/nrc3599
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrc3599.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24060863
       \endverb
     \endentry
     \entry{Gottesman2002}{article}{}
@@ -8820,9 +8829,10 @@
       \strng{fullhash}{dc0fd253e013d7e6a32a8dc8c6b770ee}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{proteins}
+      \field{labeltitle}{{The relation between the divergence of sequence and structure in proteins}}
+      \field{journaltitle}{The EMBO Journal}
       \field{number}{4}
-      \field{title}{proteins}
+      \field{title}{{The relation between the divergence of sequence and structure in proteins}}
       \field{volume}{5}
       \field{year}{1986}
       \field{pages}{823\bibrangedash 826}
@@ -9105,11 +9115,11 @@
       \strng{fullhash}{5cc7eef09f59e4a5d25c41ae1013ae0b}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{labeltitle}{{Overcoming barriers to membrane protein structure determination}}
       \field{issn}{1087-0156}
       \field{journaltitle}{Nature Biotechnology}
       \field{number}{4}
-      \field{title}{{perspective Overcoming barriers to membrane protein structure determination}}
+      \field{title}{{Overcoming barriers to membrane protein structure determination}}
       \field{volume}{29}
       \field{year}{2011}
       \field{pages}{335\bibrangedash 340}
@@ -9197,47 +9207,6 @@
       \field{pages}{1278\bibrangedash 1294}
       \verb{file}
       \verb :home/fran/Downloads/Guide-1997-Wider.pdf:pdf
-      \endverb
-    \endentry
-    \entry{Gadian1993}{inbook}{}
-      \name{labelname}{4}{}{%
-        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=ea789d788f1dbb6421322e0b21f5892c}{Gadian}{G\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=55ef8ad51e26dc13ed256093d4dbb331}{Williams}{W\bibinitperiod}{S\bibnamedelima R}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=c46b279e69384c924ebbee8dc9bec2b4}{Bates}{B\bibinitperiod}{T\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=cc834580c06e9234687d5bac41c708ba}{Kauppinen}{K\bibinitperiod}{R\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b883c437ea4b18bb330c9f183700926d}{Baethmann}{B\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=42cf7795e55b1bbb8433ec56e271ea90}{Kempski}{K\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=6d5b254ce5ca2b62a527c52392e63f66}{Sch{\"{u}}rer}{S\bibinitperiod}{Ludwig}{L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Vienna}%
-      }
-      \list{publisher}{1}{%
-        {Springer Vienna}%
-      }
-      \strng{namehash}{cf3674bd64b3eb0f6d286a9085ce672b}
-      \strng{fullhash}{6161b0c0af55feabf8f34f4305d690c5}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Mechanisms of Secondary Brain Damage: Current State}}
-      \field{chapter}{NMR Spectr}
-      \field{isbn}{978-3-7091-9266-5}
-      \field{title}{{Mechanisms of Secondary Brain Damage: Current State}}
-      \field{year}{1993}
-      \field{pages}{1\bibrangedash 8}
-      \verb{doi}
-      \verb 10.1007/978-3-7091-9266-5_1
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/978-3-7091-9266-5%7B%5C_%7D1
       \endverb
     \endentry
     \entry{CryoEM}{article}{}
@@ -10681,12 +10650,12 @@
       \strng{fullhash}{1942b77d65e62ed294185de18324007a}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Advances in Protein Chemistry Volume 34}}
+      \field{labeltitle}{{THE ANATOMY AND TAXONOMY OF PROTEIN STRUCTURE}}
       \field{abstract}{This chapter investigates the anatomy and taxonomy of protein structures. A protein is a polypeptide chain made up of amino acid residues linked together in a definite sequence. Amino acids are {$\textquotedblleft$}handed,{$\textquotedblright$} and naturally occurring proteins contain only L-amino acids. A simple mnemonic for that purpose is the {$\textquotedblleft$}corncrib.{$\textquotedblright$} The sequence of side chains determines all that is unique about a particular protein, including its biological function and its specific three-dimensional structure. The major possible routes to knowledge of three-dimensional protein structure are prediction from the amino acid sequence and analysis of spectroscopic measurements such as circular dichroism, laser Raman spectroscopy, and nuclear magnetic resonance. The analysis and discussion of protein structure is based on the results of three-dimensional X-ray crystallography of globular proteins. The basic elements of protein structures are discussed. The most useful level at which protein structures are to be categorized is the domain, as there are many cases of multiple-domain proteins in which each separate domain resembles other entire smaller proteins. The simplest type of stable protein structure consists of polypeptide backbone wrapped more or less uniformly around the outside of a single hydrophobic core. The outline of the taxonomy is also provided in the chapter.}
       \field{booktitle}{Advances in Protein Chemistry}
       \field{isbn}{9780120342341}
       \field{issn}{00653233}
-      \field{title}{{Advances in Protein Chemistry Volume 34}}
+      \field{title}{{THE ANATOMY AND TAXONOMY OF PROTEIN STRUCTURE}}
       \field{volume}{34}
       \field{year}{1981}
       \field{pages}{167\bibrangedash 339}
@@ -10700,28 +10669,31 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0065323308605203
       \endverb
     \endentry
-    \entry{That1991}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+    \entry{Bork1991}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{hash=7be716f68dbba1528c49b2b89583be8a}{That}{T\bibinitperiod}{Extracellular\bibnamedelima Proteins}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=064b675fcb4b96f4755f7e10884b94db}{Interactions}{I\bibinitperiod}{Modulate\bibnamedelima Cell-matrix}{M\bibinitperiod\bibinitdelim C\bibinithyphendelim m\bibinitperiod}{}{}{}{}}%
+      \name{author}{1}{}{%
+        {{hash=e661978528e2df38a8c66036d9e7c3a2}{Bork}{B\bibinitperiod}{Peer}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5c4382f6ad563e2fbf1264a7315b9096}
-      \strng{fullhash}{5c4382f6ad563e2fbf1264a7315b9096}
+      \strng{namehash}{e661978528e2df38a8c66036d9e7c3a2}
+      \strng{fullhash}{e661978528e2df38a8c66036d9e7c3a2}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Extracellular Proteins That}}
-      \field{isbn}{0014579391}
-      \field{number}{23}
-      \field{title}{{Extracellular Proteins That}}
-      \field{volume}{266}
+      \field{labeltitle}{{Shuffled domains in extracellular proteins}}
+      \field{issn}{1873-3468}
+      \field{journaltitle}{FEBS Letters}
+      \field{month}{07}
+      \field{number}{1-2}
+      \field{title}{{Shuffled domains in extracellular proteins}}
+      \field{volume}{286}
       \field{year}{1991}
-      \field{pages}{15\bibrangedash 18}
-      \verb{file}
-      \verb :home/fran/Downloads/feb2001457939180937x.pdf:pdf
+      \field{pages}{47\bibrangedash 54}
+      \verb{doi}
+      \verb 10.1016/0014-5793(91)80937-X
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/0014-5793(91)80937-X
       \endverb
     \endentry
     \entry{DomainDef}{article}{}
@@ -12522,6 +12494,48 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24284710
       \endverb
     \endentry
+    \entry{Marti-Renom2007}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=f2a7b70833a7b779f12dc6590e0faa6a}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=0003cc026f9355b440a2376232f65392}{Rossi}{R\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb4883062ee88ae200ed86dc684fa6}{Al-Shahrour}{A\bibinithyphendelim S\bibinitperiod}{F{\'{a}}tima}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f81e11dae4333059c8c416f5389eb7fd}{Davis}{D\bibinitperiod}{Fred\bibnamedelima P}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=0d86d08ab78789d2b13d1853ce9e73bc}{Dopazo}{D\bibinitperiod}{Joaqu{\'{\i}}n}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=f2a7b70833a7b779f12dc6590e0faa6a}{Marti-Renom}{M\bibinithyphendelim R\bibinitperiod}{Marc\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=0003cc026f9355b440a2376232f65392}{Rossi}{R\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbb4883062ee88ae200ed86dc684fa6}{Al-Shahrour}{A\bibinithyphendelim S\bibinitperiod}{F{\'{a}}tima}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f81e11dae4333059c8c416f5389eb7fd}{Davis}{D\bibinitperiod}{Fred\bibnamedelima P}{F\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ed697f1b151831b61b4a519f41fdb295}{Pieper}{P\bibinitperiod}{Ursula}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=0d86d08ab78789d2b13d1853ce9e73bc}{Dopazo}{D\bibinitperiod}{Joaqu{\'{\i}}n}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bdee19cfffe5535eb11a4f1ee54225}{Sali}{S\bibinitperiod}{Andrej}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32b9dcbb2afcccb4c6a3ff8a4f96d8d4}
+      \strng{fullhash}{018ff3b4719193f82f59bdfaa6cf128a}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.}}
+      \field{abstract}{Advances in structural biology, including structural genomics, have resulted in a rapid increase in the number of experimentally determined protein structures. However, about half of the structures deposited by the structural genomics consortia have little or no information about their biological function. Therefore, there is a need for tools for automatically and comprehensively annotating the function of protein structures. We aim to provide such tools by applying comparative protein structure annotation that relies on detectable relationships between protein structures to transfer functional annotations. Here we introduce two programs, AnnoLite and AnnoLyze, which use the structural alignments deposited in the DBAli database.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC bioinformatics}
+      \field{month}{01}
+      \field{title}{{The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.}}
+      \field{volume}{8 Suppl 4}
+      \field{year}{2007}
+      \field{pages}{S4}
+      \verb{doi}
+      \verb 10.1186/1471-2105-8-S4-S4
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Marti-Renom et al. - 2007 - The AnnoLite and AnnoLyze programs for comparative annotation of protein structures.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1892083%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
     \entry{Drews2000}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
@@ -13724,13 +13738,13 @@
       \strng{fullhash}{cce07b5cd75af09fae07660bc0659e1a}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{WHO Glocal tuberculosis report 2015}}
+      \field{labeltitle}{{WHO Global tuberculosis report 2015}}
       \field{abstract}{Predicting the binding mode of flexible polypeptides to proteins is an important task that falls outside the domain of applicability of most small molecule and protein{$\textminus$}protein docking tools. Here, we test the small molecule flexible ligand docking program Glide on a set of 19 non-$\alpha$-helical peptides and systematically improve pose prediction accuracy by enhancing Glide sampling for flexible polypeptides. In addition, scoring of the poses was improved by post-processing with physics-based implicit solvent MM- GBSA calculations. Using the best RMSD among the top 10 scoring poses as a metric, the success rate (RMSD \x{2264} 2.0 {\r{A}} for the interface backbone atoms) increased from 21{\%} with default Glide SP settings to 58{\%} with the enhanced peptide sampling and scoring protocol in the case of redocking to the native protein structure. This approaches the accuracy of the recently developed Rosetta FlexPepDock method (63{\%} success for these 19 peptides) while being over 100 times faster. Cross-docking was performed for a subset of cases where an unbound receptor structure was available, and in that case, 40{\%} of peptides were docked successfully. We analyze the results and find that the optimized polypeptide protocol is most accurate for extended peptides of limited size and number of formal charges, defining a domain of applicability for this approach.}
       \field{eprinttype}{arXiv}
       \field{isbn}{9788578110796}
       \field{issn}{1098-6596}
-      \field{journaltitle}{The effects of brief mindfulness intervention on acute pain experience: An examination of individual difference}
-      \field{title}{{WHO Glocal tuberculosis report 2015}}
+      \field{journaltitle}{WHO Global tuberculosis report 2015}
+      \field{title}{{WHO Global tuberculosis report 2015}}
       \field{volume}{1}
       \field{year}{2015}
       \field{pages}{1689\bibrangedash 1699}
@@ -13839,33 +13853,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1016/S0140-6736(02)09096-7%20http://linkinghub.elsevier.com/retrieve/pii/S0140673602090967
-      \endverb
-    \endentry
-    \entry{Lewis2013}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=088dcc553932f421594707259a1309e8}{Lewis}{L\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.}%
-      }
-      \strng{namehash}{088dcc553932f421594707259a1309e8}
-      \strng{fullhash}{088dcc553932f421594707259a1309e8}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Platforms for antibiotic discovery}}
-      \field{issn}{1474-1776}
-      \field{journaltitle}{Nat Rev Drug Discov}
-      \field{month}{05}
-      \field{number}{5}
-      \field{title}{{Platforms for antibiotic discovery}}
-      \field{volume}{12}
-      \field{year}{2013}
-      \field{pages}{371\bibrangedash 387}
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/nrd3975%20http://10.1038/nrd3975
       \endverb
     \endentry
     \entry{Conly2005}{article}{}
@@ -14369,35 +14356,35 @@
       \verb http://www.jbc.org/content/early/2014/07/18/jbc.M114.597682.abstract
       \endverb
     \endentry
-    \entry{Ekins2013}{article}{}
+    \entry{Raman2008a}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0e6b851bbcb2ef1d16d49ea16a0d3cc}{Raman}{R\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f2dcae73b28ebd90fe046f4ca24cb140}{Yeturu}{Y\bibinitperiod}{Kalidas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66c048622dcf4f7a9dfc4c5e40aaea81}{Chandra}{C\bibinitperiod}{Nagasuma}{N\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0e6b851bbcb2ef1d16d49ea16a0d3cc}{Raman}{R\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f2dcae73b28ebd90fe046f4ca24cb140}{Yeturu}{Y\bibinitperiod}{Kalidas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66c048622dcf4f7a9dfc4c5e40aaea81}{Chandra}{C\bibinitperiod}{Nagasuma}{N\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
-      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{namehash}{4a56e04f896866ec5a1c8918d7c9f5be}
+      \strng{fullhash}{4a56e04f896866ec5a1c8918d7c9f5be}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
-      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
-      \field{issn}{1758-2946}
-      \field{journaltitle}{Journal of Cheminformatics}
+      \field{labeltitle}{{targetTB: A target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis}}
+      \field{abstract}{Tuberculosis still remains one of the largest killer infectious diseases, warranting the identification of newer targets and drugs. Identification and validation of appropriate targets for designing drugs are critical steps in drug discovery, which are at present major bottle-necks. A majority of drugs in current clinical use for many diseases have been designed without the knowledge of the targets, perhaps because standard methodologies to identify such targets in a high-throughput fashion do not really exist. With different kinds of 'omics' data that are now available, computational approaches can be powerful means of obtaining short-lists of possible targets for further experimental validation.}
+      \field{issn}{1752-0509}
+      \field{journaltitle}{BMC Systems Biology}
       \field{number}{1}
-      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
-      \field{volume}{5}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 14}
+      \field{title}{{targetTB: A target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis}}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 21}
       \verb{doi}
-      \verb 10.1186/1758-2946-5-13
+      \verb 10.1186/1752-0509-2-109
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1186/1758-2946-5-13
+      \verb http://dx.doi.org/10.1186/1752-0509-2-109
       \endverb
     \endentry
     \entry{Crowther2010}{article}{}
@@ -14663,6 +14650,37 @@
       \endverb
       \verb{url}
       \verb http://database.oxfordjournals.org/content/2014/bau035.abstract
+      \endverb
+    \endentry
+    \entry{Ekins2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5752f3a4325e2b3630c5d6a2fbf20203}{Ekins}{E\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b29e3d2397d9dfe5f7aa31eb83854009}{Clark}{C\bibinitperiod}{Alex\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2ee17840ffa0764e1766671301082834}{Sarker}{S\bibinitperiod}{Malabika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \strng{fullhash}{0c1d5cb8a64cafcba65a66466b4105e9}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{abstract}{An increasing number of researchers are focused on strategies for developing inhibitors of Mycobacterium tuberculosis (Mtb) as tuberculosis (TB) drugs.}
+      \field{issn}{1758-2946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{1}
+      \field{title}{{TB Mobile: a mobile app for anti-tuberculosis molecules with known targets}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1186/1758-2946-5-13
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/1758-2946-5-13
       \endverb
     \endentry
     \entry{Clark2014}{article}{}
@@ -15534,46 +15552,6 @@
       \verb http://www.nature.com/doifinder/10.1038/nrclinonc.2009.130$%5Cbackslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/19736552
       \endverb
     \endentry
-    \entry{Holohan2013}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{18a6fca3287344fac5ec4d7f788e4c11}
-      \strng{fullhash}{0e76ca14fc6d946a0764d9d679ed3edb}
-      \field{sortinit}{0}
-      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Cancer drug resistance: an evolving paradigm.}}
-      \field{abstract}{Resistance to chemotherapy and molecularly targeted therapies is a major problem facing current cancer research. The mechanisms of resistance to 'classical' cytotoxic chemotherapeutics and to therapies that are designed to be selective for specific molecular targets share many features, such as alterations in the drug target, activation of prosurvival pathways and ineffective induction of cell death. With the increasing arsenal of anticancer agents, improving preclinical models and the advent of powerful high-throughput screening techniques, there are now unprecedented opportunities to understand and overcome drug resistance through the clinical assessment of rational therapeutic drug combinations and the use of predictive biomarkers to enable patient stratification.}
-      \field{issn}{1474-1768}
-      \field{journaltitle}{Nature reviews. Cancer}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{{Cancer drug resistance: an evolving paradigm.}}
-      \field{volume}{13}
-      \field{year}{2013}
-      \field{pages}{714\bibrangedash 26}
-      \verb{doi}
-      \verb 10.1038/nrc3599
-      \endverb
-      \verb{file}
-      \verb :home/fran/Downloads/nrc3599.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/24060863
-      \endverb
-    \endentry
     \entry{Manning2002}{article}{}
       \name{labelname}{1}{}{%
         {{hash=879316ae059a5d96fd637d6016cd9646}{Manning}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
@@ -16179,6 +16157,46 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc2559%20http://www.nature.com/nrc/journal/v9/n1/suppinfo/nrc2559%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Holohan2013}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6c32e713d24904dc6b3391437c574eb0}{Holohan}{H\bibinitperiod}{Caitriona}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d4eae07cc0a417267219fda8277cd464}{{Van\bibnamedelimb Schaeybroeck}}{V\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c4ce53d2e84389c0aa7202ee39161a56}{Longley}{L\bibinitperiod}{Daniel\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=fe74a923e323074806e55c1056c6e0fc}{Johnston}{J\bibinitperiod}{Patrick\bibnamedelima G}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{18a6fca3287344fac5ec4d7f788e4c11}
+      \strng{fullhash}{0e76ca14fc6d946a0764d9d679ed3edb}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Cancer drug resistance: an evolving paradigm.}}
+      \field{abstract}{Resistance to chemotherapy and molecularly targeted therapies is a major problem facing current cancer research. The mechanisms of resistance to 'classical' cytotoxic chemotherapeutics and to therapies that are designed to be selective for specific molecular targets share many features, such as alterations in the drug target, activation of prosurvival pathways and ineffective induction of cell death. With the increasing arsenal of anticancer agents, improving preclinical models and the advent of powerful high-throughput screening techniques, there are now unprecedented opportunities to understand and overcome drug resistance through the clinical assessment of rational therapeutic drug combinations and the use of predictive biomarkers to enable patient stratification.}
+      \field{issn}{1474-1768}
+      \field{journaltitle}{Nature reviews. Cancer}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Cancer drug resistance: an evolving paradigm.}}
+      \field{volume}{13}
+      \field{year}{2013}
+      \field{pages}{714\bibrangedash 26}
+      \verb{doi}
+      \verb 10.1038/nrc3599
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/nrc3599.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24060863
       \endverb
     \endentry
     \entry{Gottesman2002}{article}{}
