@@ -3847,6 +3847,243 @@
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1892083%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
+    \entry{Laskowski2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1cdf00ddcf0ecfad7804855bc81f6ca2}{Watson}{W\bibinitperiod}{James\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1cdf00ddcf0ecfad7804855bc81f6ca2}{Watson}{W\bibinitperiod}{James\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{541cf72daf74bc51f57f638a77390566}
+      \strng{fullhash}{541cf72daf74bc51f57f638a77390566}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{ProFunc: a server for predicting protein function from 3D structure}}
+      \field{abstract}{ProFunc (http://www.ebi.ac.uk/thornton-srv/databases/ProFunc) is a web server for predicting the likely function of proteins whose 3D structure is known but whose function is not. Users submit the coordinates of their structure to the server in PDB format. ProFunc makes use of both existing and novel methods to analyse the protein's sequence and structure identifying functional motifs or close relationships to functionally characterized proteins. A summary of the analyses provides an at-a-glance view of what each of the different methods has found. More detailed results are available on separate pages. Often where one method has failed to find anything useful another may be more forthcoming. The server is likely to be of most use in structural genomics where a large proportion of the proteins whose structures are solved are of hypothetical proteins of unknown function. However, it may also find use in a comparative analysis of members of large protein families. It provides a convenient compendium of sequence and structural information that often hold vital functional clues to be followed up experimentally.}
+      \field{annotation}{10.1093/nar/gki414}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{suppl 2}
+      \field{title}{{ProFunc: a server for predicting protein function from 3D structure}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \field{pages}{W89\bibrangedash W93}
+      \verb{doi}
+      \verb 10.1093/nar/gki414
+      \endverb
+      \verb{url}
+      \verb http://nar.oxfordjournals.org/content/33/suppl%7B%5C_%7D2/W89.abstract
+      \endverb
+    \endentry
+    \entry{Lee2007}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d9efe8068249baa064a118ff31b028f5}{Lee}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=eaaeebcd389cdda25111d845acb09766}{Redfern}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d9efe8068249baa064a118ff31b028f5}{Lee}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=eaaeebcd389cdda25111d845acb09766}{Redfern}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d4e3185ff5d35b422ccf93c37e95038e}
+      \strng{fullhash}{d4e3185ff5d35b422ccf93c37e95038e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Predicting protein function from sequence and structure}}
+      \field{annotation}{10.1038/nrm2281}
+      \field{issn}{1471-0072}
+      \field{journaltitle}{Nat Rev Mol Cell Biol}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Predicting protein function from sequence and structure}}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{995\bibrangedash 1005}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrm2281%20http://www.nature.com/nrm/journal/v8/n12/suppinfo/nrm2281%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Holm2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c4ff448743a5b72aa383541bf121760d}{Holm}{H\bibinitperiod}{Liisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0d576732522ad2343c9dc4530cede89}{Rosenstr{\"{o}}m}{R\bibinitperiod}{P{\"{a}}ivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c4ff448743a5b72aa383541bf121760d}{Holm}{H\bibinitperiod}{Liisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0d576732522ad2343c9dc4530cede89}{Rosenstr{\"{o}}m}{R\bibinitperiod}{P{\"{a}}ivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b02d4382cacdf566982d8fcfaa9ad94}
+      \strng{fullhash}{9b02d4382cacdf566982d8fcfaa9ad94}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dali server: conservation mapping in 3D}}
+      \field{abstract}{Our web site (http://ekhidna.biocenter.helsinki.fi/dali{\_}server) runs the Dali program for protein structure comparison. The web site consists of three parts: (i) the Dali server compares newly solved structures against structures in the Protein Data Bank (PDB), (ii) the Dali database allows browsing precomputed structural neighbourhoods and (iii) the pairwise comparison generates suboptimal alignments for a pair of structures. Each part has its own query form and a common format for the results page. The inputs are either PDB identifiers or novel structures uploaded by the user. The results pages are hyperlinked to aid interactive analysis. The web interface is simple and easy to use. The key purpose of interactive analysis is to check whether conserved residues line up in multiple structural alignments and how conserved residues and ligands cluster together in multiple structure superimpositions. In favourable cases, protein structure comparison can lead to evolutionary discoveries not detected by sequence analysis.}
+      \field{annotation}{10.1093/nar/gkq366}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{suppl 2}
+      \field{title}{{Dali server: conservation mapping in 3D}}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{pages}{W545\bibrangedash W549}
+      \verb{doi}
+      \verb 10.1093/nar/gkq366
+      \endverb
+      \verb{url}
+      \verb http://nar.oxfordjournals.org/content/38/suppl%7B%5C_%7D2/W545.abstract
+      \endverb
+    \endentry
+    \entry{Hoffmann2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=9f2821273b6317b8ef65af3933314f64}{Hoffmann}{H\bibinitperiod}{Brice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7a1bb6efc5ac123392dfa926060df5d7}{Zaslavskiy}{Z\bibinitperiod}{Mikhail}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0df2e0c86d89bfaf4f3726c0bc382d4f}{Vert}{V\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e79224d35a7beb111b6c5a1e8f281eec}{Stoven}{S\bibinitperiod}{V{\'{e}}ronique}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=9f2821273b6317b8ef65af3933314f64}{Hoffmann}{H\bibinitperiod}{Brice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7a1bb6efc5ac123392dfa926060df5d7}{Zaslavskiy}{Z\bibinitperiod}{Mikhail}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0df2e0c86d89bfaf4f3726c0bc382d4f}{Vert}{V\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e79224d35a7beb111b6c5a1e8f281eec}{Stoven}{S\bibinitperiod}{V{\'{e}}ronique}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a99b576d1572645e2e579108a568a01c}
+      \strng{fullhash}{42ad8a5a0e6ac7d9736410dbd68d1217}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D: application to ligand prediction.}}
+      \field{abstract}{Predicting which molecules can bind to a given binding site of a protein with known 3D structure is important to decipher the protein function, and useful in drug design. A classical assumption in structural biology is that proteins with similar 3D structures have related molecular functions, and therefore may bind similar ligands. However, proteins that do not display any overall sequence or structure similarity may also bind similar ligands if they contain similar binding sites. Quantitatively assessing the similarity between binding sites may therefore be useful to propose new ligands for a given pocket, based on those known for similar pockets.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC bioinformatics}
+      \field{month}{01}
+      \field{title}{{A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D: application to ligand prediction.}}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{99}
+      \verb{doi}
+      \verb 10.1186/1471-2105-11-99
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Hoffmann et al. - 2010 - A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D application to lig.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2838872%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Wass2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8497e962aeb5ea933fd0b5df6ae7ed26}{Wass}{W\bibinitperiod}{Mark\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a5f2011b079339aceec38be8f5728f60}{Kelley}{K\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8d675a1c152a731b7bc4838826028f}{Sternberg}{S\bibinitperiod}{Michael\bibnamedelimb J\bibnamedelima E}{M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8497e962aeb5ea933fd0b5df6ae7ed26}{Wass}{W\bibinitperiod}{Mark\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a5f2011b079339aceec38be8f5728f60}{Kelley}{K\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8d675a1c152a731b7bc4838826028f}{Sternberg}{S\bibinitperiod}{Michael\bibnamedelimb J\bibnamedelima E}{M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{22fa506de5966462c7073868673d8159}
+      \strng{fullhash}{22fa506de5966462c7073868673d8159}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{3DLigandSite: predicting ligand-binding sites using similar structures}}
+      \field{abstract}{3DLigandSite is a web server for the prediction of ligand-binding sites. It is based upon successful manual methods used in the eighth round of the Critical Assessment of techniques for protein Structure Prediction (CASP8). 3DLigandSite utilizes protein-structure prediction to provide structural models for proteins that have not been solved. Ligands bound to structures similar to the query are superimposed onto the model and used to predict the binding site. In benchmarking against the CASP8 targets 3DLigandSite obtains a Matthew's correlation co-efficient (MCC) of 0.64, and coverage and accuracy of 71 and 60{\%}, respectively, similar results to our manual performance in CASP8. In further benchmarking using a large set of protein structures, 3DLigandSite obtains an MCC of 0.68. The web server enables users to submit either a query sequence or structure. Predictions are visually displayed via an interactive Jmol applet. 3DLigandSite is available for use at http://www.sbg.bio.ic.ac.uk/3dligandsite.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{3DLigandSite: predicting ligand-binding sites using similar structures}}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{pages}{W469\bibrangedash W473}
+      \verb{doi}
+      \verb 10.1093/nar/gkq406
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896164/
+      \endverb
+    \endentry
+    \entry{Capra2009}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=398b65457e93d50552599f701ba1c592}{Capra}{C\bibinitperiod}{John\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5a8757974edcdf3ffbaf153ddcbcdf97}{Singh}{S\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89d33de7d78272ee208ec41ed10d3739}{Funkhouser}{F\bibinitperiod}{Thomas\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=398b65457e93d50552599f701ba1c592}{Capra}{C\bibinitperiod}{John\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5a8757974edcdf3ffbaf153ddcbcdf97}{Singh}{S\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89d33de7d78272ee208ec41ed10d3739}{Funkhouser}{F\bibinitperiod}{Thomas\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{e8ce7b1d01130d26c0d1dbf4df776025}
+      \strng{fullhash}{60a5ac29963a4c11920f86194bff946f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Predicting Protein Ligand Binding Sites by Combining Evolutionary Sequence Conservation and 3D Structure}}
+      \field{abstract}{{<}title{>}Author Summary{<}/title{>} {<}p{>}Protein molecules are ubiquitous in the cell; they perform thousands of functions crucial for life. Proteins accomplish nearly all of these functions by interacting with other molecules. These interactions are mediated by specific amino acid positions in the proteins. Knowledge of these {$\textquotedblleft$}functional sites{$\textquotedblright$} is crucial for understanding the molecular mechanisms by which proteins carry out their functions; however, functional sites have not been identified in the vast majority of proteins. Here, we present {<}italic{>}ConCavity{<}/italic{>}, a computational method that predicts small molecule binding sites in proteins by combining analysis of evolutionary sequence conservation and protein 3D structure. {<}italic{>}ConCavity{<}/italic{>} provides significant improvement over previous approaches, especially on large, multi-chain proteins. In contrast to earlier methods which only predict entire binding sites, {<}italic{>}ConCavity{<}/italic{>} makes specific predictions of positions in space that are likely to overlap ligand atoms and of residues that are likely to contact bound ligands. These predictions can be used to aid computational function prediction, to guide experimental protein analysis, and to focus computationally intensive techniques used in drug discovery.{<}/p{>}}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Predicting Protein Ligand Binding Sites by Combining Evolutionary Sequence Conservation and 3D Structure}}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{e1000585}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000585
+      \endverb
+    \endentry
+    \entry{Kalinina2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=40e97b7ac7a4e9fb98028be12d503559}{Kalinina}{K\bibinitperiod}{Olga\bibnamedelima V}{O\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=6cc732dc091dbba553d38c2f691c6d9b}{Wichmann}{W\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=c3769ef6b92035960fec5803891300f9}{Apic}{A\bibinitperiod}{Gordana}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3495c582971c102300ac4ba5e7af1}{Russell}{R\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=40e97b7ac7a4e9fb98028be12d503559}{Kalinina}{K\bibinitperiod}{Olga\bibnamedelima V}{O\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=6cc732dc091dbba553d38c2f691c6d9b}{Wichmann}{W\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=c3769ef6b92035960fec5803891300f9}{Apic}{A\bibinitperiod}{Gordana}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3495c582971c102300ac4ba5e7af1}{Russell}{R\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2bad2dd7270e57172745b279ce337812}
+      \strng{fullhash}{10785affd572245eedf9a36007a6b5cd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combinations of protein-chemical complex structures reveal new targets for established drugs.}}
+      \field{abstract}{Biological networks are powerful tools for predicting undocumented relationships between molecules. The underlying principle is that existing interactions between molecules can be used to predict new interactions. Here we use this principle to suggest new protein-chemical interactions via the network derived from three-dimensional structures. For pairs of proteins sharing a common ligand, we use protein and chemical superimpositions combined with fast structural compatibility screens to predict whether additional compounds bound by one protein would bind the other. The method reproduces 84{\%} of complexes in a benchmark, and we make many predictions that would not be possible using conventional modeling techniques. Within 19,578 novel predicted interactions are 7,793 involving 718 drugs, including filaminast, coumarin, alitretonin and erlotinib. The growth rate of confident predictions is twice that of experimental complexes, meaning that a complete structural drug-protein repertoire will be available at least ten years earlier than by X-ray and NMR techniques alone.}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{PLoS computational biology}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Combinations of protein-chemical complex structures reveal new targets for established drugs.}}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{e1002043}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1002043
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Kalinina et al. - 2011 - Combinations of protein-chemical complex structures reveal new targets for established drugs.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3088657%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
     \entry{Drews2000}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7f737abe1c40888301694155f653bf67}{Drews}{D\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
@@ -12534,6 +12771,243 @@
       \endverb
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1892083%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Laskowski2005}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1cdf00ddcf0ecfad7804855bc81f6ca2}{Watson}{W\bibinitperiod}{James\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1cdf00ddcf0ecfad7804855bc81f6ca2}{Watson}{W\bibinitperiod}{James\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{541cf72daf74bc51f57f638a77390566}
+      \strng{fullhash}{541cf72daf74bc51f57f638a77390566}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{ProFunc: a server for predicting protein function from 3D structure}}
+      \field{abstract}{ProFunc (http://www.ebi.ac.uk/thornton-srv/databases/ProFunc) is a web server for predicting the likely function of proteins whose 3D structure is known but whose function is not. Users submit the coordinates of their structure to the server in PDB format. ProFunc makes use of both existing and novel methods to analyse the protein's sequence and structure identifying functional motifs or close relationships to functionally characterized proteins. A summary of the analyses provides an at-a-glance view of what each of the different methods has found. More detailed results are available on separate pages. Often where one method has failed to find anything useful another may be more forthcoming. The server is likely to be of most use in structural genomics where a large proportion of the proteins whose structures are solved are of hypothetical proteins of unknown function. However, it may also find use in a comparative analysis of members of large protein families. It provides a convenient compendium of sequence and structural information that often hold vital functional clues to be followed up experimentally.}
+      \field{annotation}{10.1093/nar/gki414}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{suppl 2}
+      \field{title}{{ProFunc: a server for predicting protein function from 3D structure}}
+      \field{volume}{33}
+      \field{year}{2005}
+      \field{pages}{W89\bibrangedash W93}
+      \verb{doi}
+      \verb 10.1093/nar/gki414
+      \endverb
+      \verb{url}
+      \verb http://nar.oxfordjournals.org/content/33/suppl%7B%5C_%7D2/W89.abstract
+      \endverb
+    \endentry
+    \entry{Lee2007}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d9efe8068249baa064a118ff31b028f5}{Lee}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=eaaeebcd389cdda25111d845acb09766}{Redfern}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d9efe8068249baa064a118ff31b028f5}{Lee}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=eaaeebcd389cdda25111d845acb09766}{Redfern}{R\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=bddfe32932b7ca216def972d9c89c31c}{Orengo}{O\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d4e3185ff5d35b422ccf93c37e95038e}
+      \strng{fullhash}{d4e3185ff5d35b422ccf93c37e95038e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Predicting protein function from sequence and structure}}
+      \field{annotation}{10.1038/nrm2281}
+      \field{issn}{1471-0072}
+      \field{journaltitle}{Nat Rev Mol Cell Biol}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Predicting protein function from sequence and structure}}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{995\bibrangedash 1005}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrm2281%20http://www.nature.com/nrm/journal/v8/n12/suppinfo/nrm2281%7B%5C_%7DS1.html
+      \endverb
+    \endentry
+    \entry{Holm2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c4ff448743a5b72aa383541bf121760d}{Holm}{H\bibinitperiod}{Liisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0d576732522ad2343c9dc4530cede89}{Rosenstr{\"{o}}m}{R\bibinitperiod}{P{\"{a}}ivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c4ff448743a5b72aa383541bf121760d}{Holm}{H\bibinitperiod}{Liisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f0d576732522ad2343c9dc4530cede89}{Rosenstr{\"{o}}m}{R\bibinitperiod}{P{\"{a}}ivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b02d4382cacdf566982d8fcfaa9ad94}
+      \strng{fullhash}{9b02d4382cacdf566982d8fcfaa9ad94}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Dali server: conservation mapping in 3D}}
+      \field{abstract}{Our web site (http://ekhidna.biocenter.helsinki.fi/dali{\_}server) runs the Dali program for protein structure comparison. The web site consists of three parts: (i) the Dali server compares newly solved structures against structures in the Protein Data Bank (PDB), (ii) the Dali database allows browsing precomputed structural neighbourhoods and (iii) the pairwise comparison generates suboptimal alignments for a pair of structures. Each part has its own query form and a common format for the results page. The inputs are either PDB identifiers or novel structures uploaded by the user. The results pages are hyperlinked to aid interactive analysis. The web interface is simple and easy to use. The key purpose of interactive analysis is to check whether conserved residues line up in multiple structural alignments and how conserved residues and ligands cluster together in multiple structure superimpositions. In favourable cases, protein structure comparison can lead to evolutionary discoveries not detected by sequence analysis.}
+      \field{annotation}{10.1093/nar/gkq366}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{suppl 2}
+      \field{title}{{Dali server: conservation mapping in 3D}}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{pages}{W545\bibrangedash W549}
+      \verb{doi}
+      \verb 10.1093/nar/gkq366
+      \endverb
+      \verb{url}
+      \verb http://nar.oxfordjournals.org/content/38/suppl%7B%5C_%7D2/W545.abstract
+      \endverb
+    \endentry
+    \entry{Hoffmann2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=9f2821273b6317b8ef65af3933314f64}{Hoffmann}{H\bibinitperiod}{Brice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7a1bb6efc5ac123392dfa926060df5d7}{Zaslavskiy}{Z\bibinitperiod}{Mikhail}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0df2e0c86d89bfaf4f3726c0bc382d4f}{Vert}{V\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e79224d35a7beb111b6c5a1e8f281eec}{Stoven}{S\bibinitperiod}{V{\'{e}}ronique}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=9f2821273b6317b8ef65af3933314f64}{Hoffmann}{H\bibinitperiod}{Brice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7a1bb6efc5ac123392dfa926060df5d7}{Zaslavskiy}{Z\bibinitperiod}{Mikhail}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0df2e0c86d89bfaf4f3726c0bc382d4f}{Vert}{V\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=e79224d35a7beb111b6c5a1e8f281eec}{Stoven}{S\bibinitperiod}{V{\'{e}}ronique}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a99b576d1572645e2e579108a568a01c}
+      \strng{fullhash}{42ad8a5a0e6ac7d9736410dbd68d1217}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D: application to ligand prediction.}}
+      \field{abstract}{Predicting which molecules can bind to a given binding site of a protein with known 3D structure is important to decipher the protein function, and useful in drug design. A classical assumption in structural biology is that proteins with similar 3D structures have related molecular functions, and therefore may bind similar ligands. However, proteins that do not display any overall sequence or structure similarity may also bind similar ligands if they contain similar binding sites. Quantitatively assessing the similarity between binding sites may therefore be useful to propose new ligands for a given pocket, based on those known for similar pockets.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC bioinformatics}
+      \field{month}{01}
+      \field{title}{{A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D: application to ligand prediction.}}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{99}
+      \verb{doi}
+      \verb 10.1186/1471-2105-11-99
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Hoffmann et al. - 2010 - A new protein binding pocket similarity measure based on comparison of clouds of atoms in 3D application to lig.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2838872%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Wass2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8497e962aeb5ea933fd0b5df6ae7ed26}{Wass}{W\bibinitperiod}{Mark\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a5f2011b079339aceec38be8f5728f60}{Kelley}{K\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8d675a1c152a731b7bc4838826028f}{Sternberg}{S\bibinitperiod}{Michael\bibnamedelimb J\bibnamedelima E}{M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8497e962aeb5ea933fd0b5df6ae7ed26}{Wass}{W\bibinitperiod}{Mark\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a5f2011b079339aceec38be8f5728f60}{Kelley}{K\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8d675a1c152a731b7bc4838826028f}{Sternberg}{S\bibinitperiod}{Michael\bibnamedelimb J\bibnamedelima E}{M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{22fa506de5966462c7073868673d8159}
+      \strng{fullhash}{22fa506de5966462c7073868673d8159}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{3DLigandSite: predicting ligand-binding sites using similar structures}}
+      \field{abstract}{3DLigandSite is a web server for the prediction of ligand-binding sites. It is based upon successful manual methods used in the eighth round of the Critical Assessment of techniques for protein Structure Prediction (CASP8). 3DLigandSite utilizes protein-structure prediction to provide structural models for proteins that have not been solved. Ligands bound to structures similar to the query are superimposed onto the model and used to predict the binding site. In benchmarking against the CASP8 targets 3DLigandSite obtains a Matthew's correlation co-efficient (MCC) of 0.64, and coverage and accuracy of 71 and 60{\%}, respectively, similar results to our manual performance in CASP8. In further benchmarking using a large set of protein structures, 3DLigandSite obtains an MCC of 0.68. The web server enables users to submit either a query sequence or structure. Predictions are visually displayed via an interactive Jmol applet. 3DLigandSite is available for use at http://www.sbg.bio.ic.ac.uk/3dligandsite.}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{07}
+      \field{number}{Web Server issue}
+      \field{title}{{3DLigandSite: predicting ligand-binding sites using similar structures}}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{pages}{W469\bibrangedash W473}
+      \verb{doi}
+      \verb 10.1093/nar/gkq406
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896164/
+      \endverb
+    \endentry
+    \entry{Capra2009}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=398b65457e93d50552599f701ba1c592}{Capra}{C\bibinitperiod}{John\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5a8757974edcdf3ffbaf153ddcbcdf97}{Singh}{S\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89d33de7d78272ee208ec41ed10d3739}{Funkhouser}{F\bibinitperiod}{Thomas\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=398b65457e93d50552599f701ba1c592}{Capra}{C\bibinitperiod}{John\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=290e191e1b41df34a3209f17f8f29a65}{Laskowski}{L\bibinitperiod}{Roman\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=57d4b2a8608ed46ecd78623269176506}{Thornton}{T\bibinitperiod}{Janet\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5a8757974edcdf3ffbaf153ddcbcdf97}{Singh}{S\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89d33de7d78272ee208ec41ed10d3739}{Funkhouser}{F\bibinitperiod}{Thomas\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{e8ce7b1d01130d26c0d1dbf4df776025}
+      \strng{fullhash}{60a5ac29963a4c11920f86194bff946f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Predicting Protein Ligand Binding Sites by Combining Evolutionary Sequence Conservation and 3D Structure}}
+      \field{abstract}{{<}title{>}Author Summary{<}/title{>} {<}p{>}Protein molecules are ubiquitous in the cell; they perform thousands of functions crucial for life. Proteins accomplish nearly all of these functions by interacting with other molecules. These interactions are mediated by specific amino acid positions in the proteins. Knowledge of these {$\textquotedblleft$}functional sites{$\textquotedblright$} is crucial for understanding the molecular mechanisms by which proteins carry out their functions; however, functional sites have not been identified in the vast majority of proteins. Here, we present {<}italic{>}ConCavity{<}/italic{>}, a computational method that predicts small molecule binding sites in proteins by combining analysis of evolutionary sequence conservation and protein 3D structure. {<}italic{>}ConCavity{<}/italic{>} provides significant improvement over previous approaches, especially on large, multi-chain proteins. In contrast to earlier methods which only predict entire binding sites, {<}italic{>}ConCavity{<}/italic{>} makes specific predictions of positions in space that are likely to overlap ligand atoms and of residues that are likely to contact bound ligands. These predictions can be used to aid computational function prediction, to guide experimental protein analysis, and to focus computationally intensive techniques used in drug discovery.{<}/p{>}}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Predicting Protein Ligand Binding Sites by Combining Evolutionary Sequence Conservation and 3D Structure}}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{e1000585}
+      \verb{url}
+      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000585
+      \endverb
+    \endentry
+    \entry{Kalinina2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=40e97b7ac7a4e9fb98028be12d503559}{Kalinina}{K\bibinitperiod}{Olga\bibnamedelima V}{O\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=6cc732dc091dbba553d38c2f691c6d9b}{Wichmann}{W\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=c3769ef6b92035960fec5803891300f9}{Apic}{A\bibinitperiod}{Gordana}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3495c582971c102300ac4ba5e7af1}{Russell}{R\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=40e97b7ac7a4e9fb98028be12d503559}{Kalinina}{K\bibinitperiod}{Olga\bibnamedelima V}{O\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=6cc732dc091dbba553d38c2f691c6d9b}{Wichmann}{W\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=c3769ef6b92035960fec5803891300f9}{Apic}{A\bibinitperiod}{Gordana}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3495c582971c102300ac4ba5e7af1}{Russell}{R\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2bad2dd7270e57172745b279ce337812}
+      \strng{fullhash}{10785affd572245eedf9a36007a6b5cd}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combinations of protein-chemical complex structures reveal new targets for established drugs.}}
+      \field{abstract}{Biological networks are powerful tools for predicting undocumented relationships between molecules. The underlying principle is that existing interactions between molecules can be used to predict new interactions. Here we use this principle to suggest new protein-chemical interactions via the network derived from three-dimensional structures. For pairs of proteins sharing a common ligand, we use protein and chemical superimpositions combined with fast structural compatibility screens to predict whether additional compounds bound by one protein would bind the other. The method reproduces 84{\%} of complexes in a benchmark, and we make many predictions that would not be possible using conventional modeling techniques. Within 19,578 novel predicted interactions are 7,793 involving 718 drugs, including filaminast, coumarin, alitretonin and erlotinib. The growth rate of confident predictions is twice that of experimental complexes, meaning that a complete structural drug-protein repertoire will be available at least ten years earlier than by X-ray and NMR techniques alone.}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{PLoS computational biology}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Combinations of protein-chemical complex structures reveal new targets for established drugs.}}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{e1002043}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1002043
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Kalinina et al. - 2011 - Combinations of protein-chemical complex structures reveal new targets for established drugs.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3088657%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
     \entry{Drews2000}{article}{}
