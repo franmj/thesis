@@ -8943,6 +8943,61 @@
       \verb http://www.pnas.org/content/104/31/12867.abstract
       \endverb
     \endentry
+    \entry{Zhu2012}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=c527382ce6a2bdfc4548a1f28e479d85}{Zhu}{Z\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d7cede02af5ba10feb48d4309c5f06dd}{Shi}{S\bibinitperiod}{Zhe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9f53dda42b5b759ecf58ae8ca52191}{Qin}{Q\bibinitperiod}{Chu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c879b58bfbb585f308159c96a3e6c234}{Tao}{T\bibinitperiod}{Lin}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{Liu}{L\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=7b489e462941f869f448a19abc85df4b}{Xu}{X\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=32a08717e0d6dcde59bc98b96800ed6c}{Zhang}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7dacbb5a6e92ab16944d46ba03705563}{Song}{S\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fb4c22e0b090d2ed34486344670fbcf6}{Liu}{L\bibinitperiod}{Xianghui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74060cf382134f36b5ad81a18b247ff7}{Zhang}{Z\bibinitperiod}{Jingxian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9887eb306f0532aca8eee77da4783f20}{Han}{H\bibinitperiod}{Bucong}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f189b293bd3263254702f8c5fe1d714b}{Zhang}{Z\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=5b8d30ffe6c857e26131901598abfc5a}{Chen}{C\bibinitperiod}{Yuzong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=c527382ce6a2bdfc4548a1f28e479d85}{Zhu}{Z\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d7cede02af5ba10feb48d4309c5f06dd}{Shi}{S\bibinitperiod}{Zhe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9f53dda42b5b759ecf58ae8ca52191}{Qin}{Q\bibinitperiod}{Chu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c879b58bfbb585f308159c96a3e6c234}{Tao}{T\bibinitperiod}{Lin}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{Liu}{L\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=7b489e462941f869f448a19abc85df4b}{Xu}{X\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=32a08717e0d6dcde59bc98b96800ed6c}{Zhang}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7dacbb5a6e92ab16944d46ba03705563}{Song}{S\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fb4c22e0b090d2ed34486344670fbcf6}{Liu}{L\bibinitperiod}{Xianghui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74060cf382134f36b5ad81a18b247ff7}{Zhang}{Z\bibinitperiod}{Jingxian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9887eb306f0532aca8eee77da4783f20}{Han}{H\bibinitperiod}{Bucong}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f189b293bd3263254702f8c5fe1d714b}{Zhang}{Z\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=5b8d30ffe6c857e26131901598abfc5a}{Chen}{C\bibinitperiod}{Yuzong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a01d75b0f79d0fd687dc7c4961e4ff4e}
+      \strng{fullhash}{0810e2df3544a4fdfe343f0a738a922c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Therapeutic target database update 2012: a resource for facilitating target-oriented drug discovery.}}
+      \field{abstract}{Knowledge and investigation of therapeutic targets (responsible for drug efficacy) and the targeted drugs facilitate target and drug discovery and validation. Therapeutic Target Database (TTD, http://bidd.nus.edu.sg/group/ttd/ttd.asp) has been developed to provide comprehensive information about efficacy targets and the corresponding approved, clinical trial and investigative drugs. Since its last update, major improvements and updates have been made to TTD. In addition to the significant increase of data content (from 1894 targets and 5028 drugs to 2025 targets and 17,816 drugs), we added target validation information (drug potency against target, effect against disease models and effect of target knockout, knockdown or genetic variations) for 932 targets, and 841 quantitative structure activity relationship models for active compounds of 228 chemical types against 121 targets. Moreover, we added the data from our previous drug studies including 3681 multi-target agents against 108 target pairs, 116 drug combinations with their synergistic, additive, antagonistic, potentiative or reductive mechanisms, 1427 natural product-derived approved, clinical trial and pre-clinical drugs and cross-links to the clinical trial information page in the ClinicalTrials.gov database for 770 clinical trial drugs. These updates are useful for facilitating target discovery and validation, drug lead discovery and optimization, and the development of multi-target drugs and drug combinations.}
+      \field{issn}{1362-4962}
+      \field{journaltitle}{Nucleic acids research}
+      \field{month}{01}
+      \field{number}{Database issue}
+      \field{title}{{Therapeutic target database update 2012: a resource for facilitating target-oriented drug discovery.}}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{D1128\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1093/nar/gkr797
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhu et al. - 2012 - Therapeutic target database update 2012 a resource for facilitating target-oriented drug discovery.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3245130%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -17867,6 +17922,61 @@
       \endverb
       \verb{url}
       \verb http://www.pnas.org/content/104/31/12867.abstract
+      \endverb
+    \endentry
+    \entry{Zhu2012}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=c527382ce6a2bdfc4548a1f28e479d85}{Zhu}{Z\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d7cede02af5ba10feb48d4309c5f06dd}{Shi}{S\bibinitperiod}{Zhe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9f53dda42b5b759ecf58ae8ca52191}{Qin}{Q\bibinitperiod}{Chu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c879b58bfbb585f308159c96a3e6c234}{Tao}{T\bibinitperiod}{Lin}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{Liu}{L\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=7b489e462941f869f448a19abc85df4b}{Xu}{X\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=32a08717e0d6dcde59bc98b96800ed6c}{Zhang}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7dacbb5a6e92ab16944d46ba03705563}{Song}{S\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fb4c22e0b090d2ed34486344670fbcf6}{Liu}{L\bibinitperiod}{Xianghui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74060cf382134f36b5ad81a18b247ff7}{Zhang}{Z\bibinitperiod}{Jingxian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9887eb306f0532aca8eee77da4783f20}{Han}{H\bibinitperiod}{Bucong}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f189b293bd3263254702f8c5fe1d714b}{Zhang}{Z\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=5b8d30ffe6c857e26131901598abfc5a}{Chen}{C\bibinitperiod}{Yuzong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=c527382ce6a2bdfc4548a1f28e479d85}{Zhu}{Z\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d7cede02af5ba10feb48d4309c5f06dd}{Shi}{S\bibinitperiod}{Zhe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9f53dda42b5b759ecf58ae8ca52191}{Qin}{Q\bibinitperiod}{Chu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c879b58bfbb585f308159c96a3e6c234}{Tao}{T\bibinitperiod}{Lin}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{Liu}{L\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=7b489e462941f869f448a19abc85df4b}{Xu}{X\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=32a08717e0d6dcde59bc98b96800ed6c}{Zhang}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=7dacbb5a6e92ab16944d46ba03705563}{Song}{S\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fb4c22e0b090d2ed34486344670fbcf6}{Liu}{L\bibinitperiod}{Xianghui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74060cf382134f36b5ad81a18b247ff7}{Zhang}{Z\bibinitperiod}{Jingxian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9887eb306f0532aca8eee77da4783f20}{Han}{H\bibinitperiod}{Bucong}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f189b293bd3263254702f8c5fe1d714b}{Zhang}{Z\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=5b8d30ffe6c857e26131901598abfc5a}{Chen}{C\bibinitperiod}{Yuzong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a01d75b0f79d0fd687dc7c4961e4ff4e}
+      \strng{fullhash}{0810e2df3544a4fdfe343f0a738a922c}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Therapeutic target database update 2012: a resource for facilitating target-oriented drug discovery.}}
+      \field{abstract}{Knowledge and investigation of therapeutic targets (responsible for drug efficacy) and the targeted drugs facilitate target and drug discovery and validation. Therapeutic Target Database (TTD, http://bidd.nus.edu.sg/group/ttd/ttd.asp) has been developed to provide comprehensive information about efficacy targets and the corresponding approved, clinical trial and investigative drugs. Since its last update, major improvements and updates have been made to TTD. In addition to the significant increase of data content (from 1894 targets and 5028 drugs to 2025 targets and 17,816 drugs), we added target validation information (drug potency against target, effect against disease models and effect of target knockout, knockdown or genetic variations) for 932 targets, and 841 quantitative structure activity relationship models for active compounds of 228 chemical types against 121 targets. Moreover, we added the data from our previous drug studies including 3681 multi-target agents against 108 target pairs, 116 drug combinations with their synergistic, additive, antagonistic, potentiative or reductive mechanisms, 1427 natural product-derived approved, clinical trial and pre-clinical drugs and cross-links to the clinical trial information page in the ClinicalTrials.gov database for 770 clinical trial drugs. These updates are useful for facilitating target discovery and validation, drug lead discovery and optimization, and the development of multi-target drugs and drug combinations.}
+      \field{issn}{1362-4962}
+      \field{journaltitle}{Nucleic acids research}
+      \field{month}{01}
+      \field{number}{Database issue}
+      \field{title}{{Therapeutic target database update 2012: a resource for facilitating target-oriented drug discovery.}}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{D1128\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1093/nar/gkr797
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhu et al. - 2012 - Therapeutic target database update 2012 a resource for facilitating target-oriented drug discovery.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3245130%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
   \endsortlist
