@@ -389,7 +389,7 @@ Kbind = \frac{[C]}{[P]*[L]}
 	\caption[Type of computational methods for ligand-target interaction prediction]{Classification of the methods for ligand-target interaction prediction alongside their advantages and disadvantages. The red arrow represent the increase in the computational time of the calculus needed for each prediction. The green arrow represents the level of detail of the given output.}
 	\label{fig:type_ligandtarget_methods}
 \end{figure}
-\subsubsection{Comparative docking approach}
+\subsubsection{Comparative docking approach}\label{comparative-docking}
 
 \par To overcome the the computational limitations of virtual docking methods, some structure-based methods use the so-called \textit{comparative docking} approach, which solely relies on structural comparisons, both of compounds and protein targets, to infer new interactions. Comparative docking methods are based on the biological premise that structurally conserved proteins tend to  conserve the biological function \cite{Marti-Renom2007, Laskowski2005, Lee2007, Holm2010}. In other words, structurally similar protein binding sites tend to bind similar ligands. Unlike virtual docking methods, comparative docking approaches do not require the computationally expensive calculations needed to obtain the structural orientation (i.e., the binding pose) of the compound  at the protein binding site. Rather, they provide a more simplistic view where the output is usually limited to the binding location on the protein surface, omitting information about the exact binding orientation. Consequently, comparative docking approaches are generally faster and more suitable for large scale virtual screenings than virtual docking methods \ref{fig:type_ligandtarget_methods}. Several ligand-target interaction prediction methods leverage comparative docking approaches to perform their predictions \cite{Hoffmann2010, Wass2010, Capra2009, Kalinina2011}. Annolyze \cite{Marti-Renom2007} was the first ligand-target prediction method based on comparative docking. Chapter \ref{nannolyze} presents nAnnolyze, network-based version of Annolyze, which is focused on predicting ligand-target interactions at proteome scale. The nAnnolyze chapter further discusses the applications, advantages, disadvantages and limitations of comparative docking approaches in general, and nAnnolyze, in particular.
 
@@ -693,7 +693,7 @@ against TB. The purpose of these resources is very diverse. One popular resource
 
 \par We also discussed about how targeted cancer therapy has transformed cancer treatments \ref{targeted therapies}. Concretely, since the approval of imatinib in 2001, more than 25 small molecule kinase inhibitors have been approved by the FDA \ref{table:table_inhibitors}, while many others are currently in clinical trials for the treatment of this devastating disease \ref{kinases}. However, small molecule targeted cancer therapies suffer from a major limitation, the clinical benefit of patients receiving this therapies is often short-timed \ref{resistance}. Multiple tumor-intrinsic mechanisms confer resistance to drug targeted cancer therapies \cite{Holohan2013}. Among these mechanisms, mutations in drug targets is one of most frequently observed in the clinics. Numerous studies have been conducted to understand and overcome resistance due to mutations in drug targets. However, these studies are often limited to a small and clinically reported number of mutations. Therefore, there is a need for 1) a comprehensive characterization of the tumour mutational landscape with the potential to confer resistance and 2) providing alternative treatments in those cases where the drug-resistant mutants are already present in the tumour burden. These two objectives are accomplished in the study presented in chapter \ref{blending}. 
 
-\section{Objetives}
+\section{Objectives}
 
 
 This thesis aims to fulfil the following specific objectives: 
@@ -739,7 +739,48 @@ This thesis aims to fulfil the following specific objectives:
 \subsection{Rational design of non-resistant targeted cancer therapies}\label{blending}
 
 
-\section{Discussion}
+\section{Discussion}\label{discussion}
+
+\par This thesis presented a computational study of the structural interaction between small molecules and their protein targets with a main focus on extracting their therapeutic potential. Concretely, chapter \ref{nannolyze} presented a comparative docking \ref{comparative-docking} method that predicts structurally detailed protein-ligand interactions at proteome scale. It exemplified its applicability by predicting the human targets of all small molecule FDA-approved drugs. A second application of nAnnolyze on MTB is presented in section \ref{mtb_results}. This chapter showed the computational identification of the MTB targets for a set of compounds with known antitubercular activity. It used the combination of three methods exploring different methodological spaces (i.e., the structural space, the chemical space and the historical space) to give more robustness to the predictions. The open access profile of both nAnnolyze and the application on MTB, led to the development of a website that enables the interplay with the method and the results. Finally, chapter \ref{targeted therapies} introduced a computational model that predicts cancer associated mutations with the highest chances to confer resistance to a targeted therapy. Furthermore, it provided alternative treatments for those mutations identified as highly resistance-like. Each of the specific points presented in the studies are thoroughly analyzed in the pertinent discussion of the manuscripts. Hence, this discussion is focused on analyzing the impact of this research, analyzing the main limitations and future perspectives of the presented studies.
+
+ \subsection{nAnnolyze: predicting large scale, structurally detailed ligand-target interaction using a network-based representation}
+ 
+ \subsubsection{Main findings}
+ \par nAnnolyze is a network-based version of the Annolyze method \cite{Marti-Renom2007}. It relies on a comparative docking approach that 1) predicts the protein targets of small molecules and 2) identifies the binding location on the 3D structure of the protein. The evaluation of the performance showed that nAnnolyze enables large-scale annotation and analysis of compound-protein pairs. The application of the method to predict the human targets of all small molecule FDA-approved showed the ability of the method to identify therapeutically relevant compound-target pairs. Moreover, the method proposed new human targets for multiple FDA-approved drugs. Similarly, nAnnolyze predicted new unseen interactions between FDA-approved drugs and human proteins. Finally, the method alongside all the predictions are publicly available at \url{http://nannolyze.cnag.cat/}.
+ \subsubsection{Impact of the presented research} 
+ \par To our knowledge, nAnnolyze is one the few methods that enables structurally detailed large-scale screening of compounds against an entire proteome. Unlike free-structure methods, which do not provide structural information about the binding, and virtual docking methods, which require considerable amount of resources for large-scale screenings, nAnnolyze fulfills two of the most important needs in the modern drug discovery paradigm 1) applicability to large-scale screenings and 2) the inclusion of structural information in the predictions. 
+ \par The application in the human proteome provided an immense collection of compounds-target pairs amenable to me mined in future studies. Concretely, such information can be used to to identify compounds off-targets responsible of clinically reported side effects. The manuscript illustrated this application with the example of new predicted targets for the multikinase inhibitor sorafenib. Moreover, mining the collection of compound-target pairs may give rise to the identification of new therapeutically relevant interactions that could be further explored by drug repurposing approaches.  
+ \par Finally, since the methods is fully available online, the scientific community can benefit from the usage by anonymously screening their own compounds against the human and MTB structural proteomes.
+    
+\subsubsection{Limitations}
+ \par One of the major limitations of the method is implicit in its own definition. nAnnolyze is a structure based approach and consequently its application is restricted to those proteins with either a experimentally determined 3D structure or a sequence amenable to be accurately modeled by comparative modeling approaches. Currently, around 40$\%$ of the human proteome fulfills these requirements.
+ \par The application of a comparative docking approach can also lead to the inclusion of bias towards structurally conserved protein pockets. Therefore, non-conserved allosteric pockets, which are often remarkably valuable to develop selective inhibitors \ref{kinases}, may be neglected by the method. Similarly, novel non-frequent compound scaffolds are also penalized in the search due to their limited availability in the explored structural space. 
+ \par As mentioned above, comparative docking methods are usually faster than virtual docking approaches. However, they are generally slower than free-structure methods, which makes them a viable option only once the number of candidate compounds have narrowed down. Ideally, drug discovery early stages would choose the ligand-target prediction method that better fits to the characteristics of the screening (i.e., compound collection size, number of targets, stage of development, etc). 
+ \par nAnnlyze does not include information about the type of interaction between the compound and the predicted targets (i.e., antagonist, agonist, inhibitor, etc.). Moreover, the graph does not include either information about the affinity of the compounds with their co-crystallized protein targets. Such information may play an important role in the decision of whether a predicted compound-target pair is suitable for further exploration. 
+  
+ \par Finally, one limitation of the website is related to the fact that it does not include the possibility to perform an screening against your own protein target. This application is frequently observed in academia, when the inhibition of the candidate target can validate the testing hypothesis. 
+
+  
+  
+\subsubsection{Future perspectives}
+
+ \par Future versions of nAnnolyze will benefit from the raise of publicly available structural data. Thanks to the initiatives such as the PSI \cite{Norvell2007} or the Structural Genomics Consortium \cite{GIleadi2007} the number of experimentally determined 3D structures will significantly increase over the next years. The number of modellable proteins will raise simultaneously, which eventually will lead to a significant increase of the number of proteins to which structure-based methods can be applied. Additionally, the raise in the number of deposited structures in the PDB will likely increase the chemical spectrum of the co-crystallized compounds, decreasing thus the aforementioned compound's scaffold bias.
+  
+ \par The flexibility of a network-based approach facilitates the integration of multiple sources of information. As discussed above, information as the type of interaction or binding affinity will improve both the level of detail and the quality of the predictions. Moreover, integration of protein-protein interaction (PPI) information, target-disease and target-side effect associations will enable more realistic selection of the molecular target to intervene. 
+ 
+ \par Another feature amenable to be improved is the graph search algorithm. nAnnolyze uses the Dijkstra's algorithm \cite{Dijkstra1959} to find the shortest pathways between compounds and protein targets. Other popular network search algorithms include random walk \cite{Chen2012} or network propagation \cite{Huang2013a}.
+ \par One of the near future plan consist on applying nAnnolyze to alternative set of candidate molecules and protein targets. While chapter \ref{mtb_results} presents the application in two different set of antitubercular compounds, future applications in other organisms and collection of compounds will significantly increase the value of the method. Moreover, the method can benefit from the feedback received after its application. 
+ \par Finally, one of the most important goals and challenges of computational drug discovery is the translation into the experimental field. Experimental validation of the predictions will not only add more confidence to the method, but will also be useful to identify those cases where the approach is more suitable for.          
+ 
+ 
+ \subsection{Summary}
+ 
+ \par discuss computational + ligand target + what can we 
+ 
+ 
+ 
+ 
+ 
 
 
 %\bibliography{/Users/fran/Documents/Work/tesis/bibliography/bibliography_tesis}

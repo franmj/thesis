@@ -8998,6 +8998,105 @@
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3245130%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
+    \entry{Dijkstra1959}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2899cd0fd85b31bfe8a4940033c11554}{Dijkstra}{D\bibinitperiod}{E\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2899cd0fd85b31bfe8a4940033c11554}{Dijkstra}{D\bibinitperiod}{E\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2899cd0fd85b31bfe8a4940033c11554}
+      \strng{fullhash}{2899cd0fd85b31bfe8a4940033c11554}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A note on two problems in connexion with graphs}}
+      \field{issn}{0945-3245}
+      \field{journaltitle}{Numerische Mathematik}
+      \field{number}{1}
+      \field{title}{{A note on two problems in connexion with graphs}}
+      \field{volume}{1}
+      \field{year}{1959}
+      \field{pages}{269\bibrangedash 271}
+      \verb{doi}
+      \verb 10.1007/BF01386390
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/BF01386390
+      \endverb
+    \endentry
+    \entry{Chen2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
+      \field{issn}{1742-2051}
+      \field{journaltitle}{Molecular bioSystems}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{1970\bibrangedash 8}
+      \verb{doi}
+      \verb 10.1039/c2mb00002d
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
+      \endverb
+    \endentry
+    \entry{Huang2013a}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=18fc3fca7d03d718b8829f8e5db1215c}{Huang}{H\bibinitperiod}{Yu-Fen}{Y\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=21f8d8a0280065b19b12a56a92ec323b}{Yeh}{Y\bibinitperiod}{Hsiang-Yuan}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f0ed7aca4562e589d950409b739db1fd}{Soo}{S\bibinitperiod}{Von-Wun}{V\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=18fc3fca7d03d718b8829f8e5db1215c}{Huang}{H\bibinitperiod}{Yu-Fen}{Y\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=21f8d8a0280065b19b12a56a92ec323b}{Yeh}{Y\bibinitperiod}{Hsiang-Yuan}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f0ed7aca4562e589d950409b739db1fd}{Soo}{S\bibinitperiod}{Von-Wun}{V\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central Ltd}%
+      }
+      \strng{namehash}{dbb0fe60302937347f7f71b698b08969}
+      \strng{fullhash}{dbb0fe60302937347f7f71b698b08969}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network propagation.}}
+      \field{abstract}{BACKGROUND: During the last few years, the knowledge of drug, disease phenotype and protein has been rapidly accumulated and more and more scientists have been drawn the attention to inferring drug-disease associations by computational method. Development of an integrated approach for systematic discovering drug-disease associations by those informational data is an important issue. METHODS: We combine three different networks of drug, genomic and disease phenotype and assign the weights to the edges from available experimental data and knowledge. Given a specific disease, we use our network propagation approach to infer the drug-disease associations. RESULTS: We apply prostate cancer and colorectal cancer as our test data. We use the manually curated drug-disease associations from comparative toxicogenomics database to be our benchmark. The ranked results show that our proposed method obtains higher specificity and sensitivity and clearly outperforms previous methods. Our result also show that our method with off-targets information gets higher performance than that with only primary drug targets in both test data. CONCLUSIONS: We clearly demonstrate the feasibility and benefits of using network-based analyses of chemical, genomic and phenotype data to reveal drug-disease associations. The potential associations inferred by our method provide new perspectives for toxicogenomics and drug reposition evaluation.}
+      \field{issn}{1755-8794}
+      \field{journaltitle}{BMC medical genomics}
+      \field{month}{01}
+      \field{number}{Suppl 3}
+      \field{title}{{Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network propagation.}}
+      \field{volume}{6 Suppl 3}
+      \field{year}{2013}
+      \field{pages}{S4}
+      \verb{doi}
+      \verb 10.1186/1755-8794-6-S3-S4
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Huang, Yeh, Soo - 2013 - Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network prop.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24565337
+      \endverb
+    \endentry
   \endsortlist
   \sortlist{none}{none}
     \entry{kessel2010}{book}{}
@@ -17977,6 +18076,105 @@
       \endverb
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3245130%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \endverb
+    \endentry
+    \entry{Dijkstra1959}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2899cd0fd85b31bfe8a4940033c11554}{Dijkstra}{D\bibinitperiod}{E\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2899cd0fd85b31bfe8a4940033c11554}{Dijkstra}{D\bibinitperiod}{E\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2899cd0fd85b31bfe8a4940033c11554}
+      \strng{fullhash}{2899cd0fd85b31bfe8a4940033c11554}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{A note on two problems in connexion with graphs}}
+      \field{issn}{0945-3245}
+      \field{journaltitle}{Numerische Mathematik}
+      \field{number}{1}
+      \field{title}{{A note on two problems in connexion with graphs}}
+      \field{volume}{1}
+      \field{year}{1959}
+      \field{pages}{269\bibrangedash 271}
+      \verb{doi}
+      \verb 10.1007/BF01386390
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/BF01386390
+      \endverb
+    \endentry
+    \entry{Chen2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
+      \field{issn}{1742-2051}
+      \field{journaltitle}{Molecular bioSystems}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{1970\bibrangedash 8}
+      \verb{doi}
+      \verb 10.1039/c2mb00002d
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
+      \endverb
+    \endentry
+    \entry{Huang2013a}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=18fc3fca7d03d718b8829f8e5db1215c}{Huang}{H\bibinitperiod}{Yu-Fen}{Y\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=21f8d8a0280065b19b12a56a92ec323b}{Yeh}{Y\bibinitperiod}{Hsiang-Yuan}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f0ed7aca4562e589d950409b739db1fd}{Soo}{S\bibinitperiod}{Von-Wun}{V\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=18fc3fca7d03d718b8829f8e5db1215c}{Huang}{H\bibinitperiod}{Yu-Fen}{Y\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=21f8d8a0280065b19b12a56a92ec323b}{Yeh}{Y\bibinitperiod}{Hsiang-Yuan}{H\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f0ed7aca4562e589d950409b739db1fd}{Soo}{S\bibinitperiod}{Von-Wun}{V\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central Ltd}%
+      }
+      \strng{namehash}{dbb0fe60302937347f7f71b698b08969}
+      \strng{fullhash}{dbb0fe60302937347f7f71b698b08969}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network propagation.}}
+      \field{abstract}{BACKGROUND: During the last few years, the knowledge of drug, disease phenotype and protein has been rapidly accumulated and more and more scientists have been drawn the attention to inferring drug-disease associations by computational method. Development of an integrated approach for systematic discovering drug-disease associations by those informational data is an important issue. METHODS: We combine three different networks of drug, genomic and disease phenotype and assign the weights to the edges from available experimental data and knowledge. Given a specific disease, we use our network propagation approach to infer the drug-disease associations. RESULTS: We apply prostate cancer and colorectal cancer as our test data. We use the manually curated drug-disease associations from comparative toxicogenomics database to be our benchmark. The ranked results show that our proposed method obtains higher specificity and sensitivity and clearly outperforms previous methods. Our result also show that our method with off-targets information gets higher performance than that with only primary drug targets in both test data. CONCLUSIONS: We clearly demonstrate the feasibility and benefits of using network-based analyses of chemical, genomic and phenotype data to reveal drug-disease associations. The potential associations inferred by our method provide new perspectives for toxicogenomics and drug reposition evaluation.}
+      \field{issn}{1755-8794}
+      \field{journaltitle}{BMC medical genomics}
+      \field{month}{01}
+      \field{number}{Suppl 3}
+      \field{title}{{Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network propagation.}}
+      \field{volume}{6 Suppl 3}
+      \field{year}{2013}
+      \field{pages}{S4}
+      \verb{doi}
+      \verb 10.1186/1755-8794-6-S3-S4
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Huang, Yeh, Soo - 2013 - Inferring drug-disease associations from integration of chemical, genomic and phenotype data using network prop.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24565337
       \endverb
     \endentry
   \endsortlist
