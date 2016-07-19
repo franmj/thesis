@@ -9026,37 +9026,37 @@
     \endentry
     \entry{Chen2012}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
-      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{namehash}{4feb7ae55bf5bd9f4e1765d402755aa1}
+      \strng{fullhash}{4feb7ae55bf5bd9f4e1765d402755aa1}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
-      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
-      \field{issn}{1742-2051}
-      \field{journaltitle}{Molecular bioSystems}
+      \field{labeltitle}{{Assessing drug target association using semantic linked data.}}
+      \field{abstract}{The rapidly increasing amount of public data in chemistry and biology provides new opportunities for large-scale data mining for drug discovery. Systematic integration of these heterogeneous sets and provision of algorithms to data mine the integrated sets would permit investigation of complex mechanisms of action of drugs. In this work we integrated and annotated data from public datasets relating to drugs, chemical compounds, protein targets, diseases, side effects and pathways, building a semantic linked network consisting of over 290,000 nodes and 720,000 edges. We developed a statistical model to assess the association of drug target pairs based on their relation with other linked objects. Validation experiments demonstrate the model can correctly identify known direct drug target pairs with high precision. Indirect drug target pairs (for example drugs which change gene expression level) are also identified but not as strongly as direct pairs. We further calculated the association scores for 157 drugs from 10 disease areas against 1683 human targets, and measured their similarity using a [Formula: see text] score matrix. The similarity network indicates that drugs from the same disease area tend to cluster together in ways that are not captured by structural similarity, with several potential new drug pairings being identified. This work thus provides a novel, validated alternative to existing drug target prediction algorithms. The web service is freely available at: http://chem2bio2rdf.org/slap.}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{PLoS computational biology}
       \field{month}{07}
       \field{number}{7}
-      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{title}{{Assessing drug target association using semantic linked data.}}
       \field{volume}{8}
       \field{year}{2012}
-      \field{pages}{1970\bibrangedash 8}
+      \field{pages}{e1002574}
       \verb{doi}
-      \verb 10.1039/c2mb00002d
+      \verb 10.1371/journal.pcbi.1002574
       \endverb
       \verb{file}
-      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Ding, Wild - 2012 - Assessing drug target association using semantic linked data.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3390390%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
     \entry{Huang2013a}{article}{}
@@ -9095,6 +9095,38 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24565337
+      \endverb
+    \endentry
+    \entry{Westphal1994}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=27215699638defb51323a2ff428303ed}{Westphal}{W\bibinitperiod}{J\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=b8a48d184d69d83f4abb194247231e32}{Vetter}{V\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bf6cc112fc43b2bca1bc7ce81302a7}{Brogard}{B\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=27215699638defb51323a2ff428303ed}{Westphal}{W\bibinitperiod}{J\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=b8a48d184d69d83f4abb194247231e32}{Vetter}{V\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bf6cc112fc43b2bca1bc7ce81302a7}{Brogard}{B\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7b3d5c1dabaf3b168a8d22a98a8c564f}
+      \strng{fullhash}{7b3d5c1dabaf3b168a8d22a98a8c564f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Hepatic side-effects of antibiotics}}
+      \field{abstract}{Although the liver is particularly exposed to drugs and their metabolites, hepatic side-effects of antibiotics are far less frequent than other adverse effects such as gastrointestinal disorders or cutaneous reactions. However, the potential severity of hepatic side-effects for some drugs is stressed. Antibiotic related liver injuries cover most of the clinical and pathological expressions of hepatic dysfunction, including cytotoxic hepatitis (isoniazid), intrahepatic cholestasis (macrolides, penicillins, clavulanic acid), mixed hepatitis (sulphonamides), chronic active hepatitis (nitrofurantoin), or microvesicular steatosis (tetracycline). In most cases, toxicity is idiosyncratic, reactions occurring only in some susceptible individuals. The mechanisms underlying toxicity may be primarily metabolite-dependent (isoniazid), hypersensitivity-mediated ($\beta$lactams), or result from both processes (sulphonamides, erythromycin derivatives). In some cases, the liver is not the primary target organ for toxicity but appears to mediate the clinical expression of some adverse effects induced by antibiotics. The most significant example of this is hypoprothrombinaemia due to the inhibition of hepatic $\gamma$-carboxylation of vitamin K-dependent clotting factors by sulphydryl group-containing cephalosporins. Inhibition of bilirubin conjugation or transport by rifampicin or fusidic acid may also be viewed as hepatic side-effects of antibiotics. Ascertaining the casual relationship of a given drug to an hepatic adverse effect may prove particularly difficult, because of the potential contribution of host status and concurrent medications. Diagnosis is based mainly on circumstantial evidence, i.e. the temporal relationship between drug administration (or withdrawal) and the time-course of liver dysfunction. Improving morbidity related to drug hepatotoxicity relies on a free flow of information between manufacturers and practitioners in order to optimize detection of potentially serious liver damage, and advances in pharmacogenetics toward a better identification of those at particular risk for developing drug-related liver toxicity.}
+      \field{annotation}{10.1093/jac/33.3.387}
+      \field{journaltitle}{Journal of Antimicrobial Chemotherapy}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Hepatic side-effects of antibiotics}}
+      \field{volume}{33}
+      \field{year}{1994}
+      \field{pages}{387\bibrangedash 401}
+      \verb{doi}
+      \verb 10.1093/jac/33.3.387
+      \endverb
+      \verb{url}
+      \verb http://jac.oxfordjournals.org/content/33/3/387.abstract
       \endverb
     \endentry
   \endsortlist
@@ -18106,37 +18138,37 @@
     \endentry
     \entry{Chen2012}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
-      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{namehash}{4feb7ae55bf5bd9f4e1765d402755aa1}
+      \strng{fullhash}{4feb7ae55bf5bd9f4e1765d402755aa1}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
-      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
-      \field{issn}{1742-2051}
-      \field{journaltitle}{Molecular bioSystems}
+      \field{labeltitle}{{Assessing drug target association using semantic linked data.}}
+      \field{abstract}{The rapidly increasing amount of public data in chemistry and biology provides new opportunities for large-scale data mining for drug discovery. Systematic integration of these heterogeneous sets and provision of algorithms to data mine the integrated sets would permit investigation of complex mechanisms of action of drugs. In this work we integrated and annotated data from public datasets relating to drugs, chemical compounds, protein targets, diseases, side effects and pathways, building a semantic linked network consisting of over 290,000 nodes and 720,000 edges. We developed a statistical model to assess the association of drug target pairs based on their relation with other linked objects. Validation experiments demonstrate the model can correctly identify known direct drug target pairs with high precision. Indirect drug target pairs (for example drugs which change gene expression level) are also identified but not as strongly as direct pairs. We further calculated the association scores for 157 drugs from 10 disease areas against 1683 human targets, and measured their similarity using a [Formula: see text] score matrix. The similarity network indicates that drugs from the same disease area tend to cluster together in ways that are not captured by structural similarity, with several potential new drug pairings being identified. This work thus provides a novel, validated alternative to existing drug target prediction algorithms. The web service is freely available at: http://chem2bio2rdf.org/slap.}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{PLoS computational biology}
       \field{month}{07}
       \field{number}{7}
-      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{title}{{Assessing drug target association using semantic linked data.}}
       \field{volume}{8}
       \field{year}{2012}
-      \field{pages}{1970\bibrangedash 8}
+      \field{pages}{e1002574}
       \verb{doi}
-      \verb 10.1039/c2mb00002d
+      \verb 10.1371/journal.pcbi.1002574
       \endverb
       \verb{file}
-      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Ding, Wild - 2012 - Assessing drug target association using semantic linked data.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3390390%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
     \entry{Huang2013a}{article}{}
@@ -18175,6 +18207,38 @@
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24565337
+      \endverb
+    \endentry
+    \entry{Westphal1994}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=27215699638defb51323a2ff428303ed}{Westphal}{W\bibinitperiod}{J\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=b8a48d184d69d83f4abb194247231e32}{Vetter}{V\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bf6cc112fc43b2bca1bc7ce81302a7}{Brogard}{B\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=27215699638defb51323a2ff428303ed}{Westphal}{W\bibinitperiod}{J\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=b8a48d184d69d83f4abb194247231e32}{Vetter}{V\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f3bf6cc112fc43b2bca1bc7ce81302a7}{Brogard}{B\bibinitperiod}{J\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7b3d5c1dabaf3b168a8d22a98a8c564f}
+      \strng{fullhash}{7b3d5c1dabaf3b168a8d22a98a8c564f}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Hepatic side-effects of antibiotics}}
+      \field{abstract}{Although the liver is particularly exposed to drugs and their metabolites, hepatic side-effects of antibiotics are far less frequent than other adverse effects such as gastrointestinal disorders or cutaneous reactions. However, the potential severity of hepatic side-effects for some drugs is stressed. Antibiotic related liver injuries cover most of the clinical and pathological expressions of hepatic dysfunction, including cytotoxic hepatitis (isoniazid), intrahepatic cholestasis (macrolides, penicillins, clavulanic acid), mixed hepatitis (sulphonamides), chronic active hepatitis (nitrofurantoin), or microvesicular steatosis (tetracycline). In most cases, toxicity is idiosyncratic, reactions occurring only in some susceptible individuals. The mechanisms underlying toxicity may be primarily metabolite-dependent (isoniazid), hypersensitivity-mediated ($\beta$lactams), or result from both processes (sulphonamides, erythromycin derivatives). In some cases, the liver is not the primary target organ for toxicity but appears to mediate the clinical expression of some adverse effects induced by antibiotics. The most significant example of this is hypoprothrombinaemia due to the inhibition of hepatic $\gamma$-carboxylation of vitamin K-dependent clotting factors by sulphydryl group-containing cephalosporins. Inhibition of bilirubin conjugation or transport by rifampicin or fusidic acid may also be viewed as hepatic side-effects of antibiotics. Ascertaining the casual relationship of a given drug to an hepatic adverse effect may prove particularly difficult, because of the potential contribution of host status and concurrent medications. Diagnosis is based mainly on circumstantial evidence, i.e. the temporal relationship between drug administration (or withdrawal) and the time-course of liver dysfunction. Improving morbidity related to drug hepatotoxicity relies on a free flow of information between manufacturers and practitioners in order to optimize detection of potentially serious liver damage, and advances in pharmacogenetics toward a better identification of those at particular risk for developing drug-related liver toxicity.}
+      \field{annotation}{10.1093/jac/33.3.387}
+      \field{journaltitle}{Journal of Antimicrobial Chemotherapy}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Hepatic side-effects of antibiotics}}
+      \field{volume}{33}
+      \field{year}{1994}
+      \field{pages}{387\bibrangedash 401}
+      \verb{doi}
+      \verb 10.1093/jac/33.3.387
+      \endverb
+      \verb{url}
+      \verb http://jac.oxfordjournals.org/content/33/3/387.abstract
       \endverb
     \endentry
   \endsortlist
