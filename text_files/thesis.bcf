@@ -4,7 +4,7 @@
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
       <bcf:key>output_encoding</bcf:key>
-      <bcf:value>latin1</bcf:value>
+      <bcf:value>utf8</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>input_encoding</bcf:key>
@@ -2238,6 +2238,7 @@
     <bcf:citekey order="268">Chen2012</bcf:citekey>
     <bcf:citekey order="269">Huang2013a</bcf:citekey>
     <bcf:citekey order="270">Westphal1994</bcf:citekey>
+    <bcf:citekey order="271">Ling2015a</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="none">
   <bcf:sorting>

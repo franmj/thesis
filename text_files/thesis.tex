@@ -6,10 +6,11 @@
 \documentclass[12pt, b5paper,twoside]{tesi_upf}
 
 %CODIFICACIÓ
-\usepackage[latin1]{inputenc}
-
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{inputenc}
 %IDIOMES
-\usepackage[spanish,english]{babel}
+%\usepackage[spanish,english]{babel}
 
 %NOMÉS PER A OBTENIR INDICACIÓ DEL MARC EN MIDA B5
 \usepackage[b5paper]{geometry}
@@ -61,7 +62,7 @@
 \setcounter{secnumdepth}{3}
 \floatplacement{figure}{H}
 
-\selectlanguage{english}
+
 %%%%
 \renewcommand*\thesection{\arabic{section}}
 %%%%
@@ -81,39 +82,48 @@
 
 
 \begin{document}
+
 \captionsetup[table]{skip=20pt}
 \captionsetup[longtable]{skip=20pt}
 \frontmatter
+\selectlanguage{english}
 
 \maketitle
-
+\thispagestyle{empty}
 \cleardoublepage
+\thispagestyle{empty}
 
-\cleardoublepage
+\noindent {Por la undecima} 
 
 
-\noindent {Agradecimientos} Agradezco.
+\clearpage
+\section*{Acknowledgments}
+\setcounter{page}{1}
+\addcontentsline{toc}{section}{Acknowledgments}
 
-\cleardoublepage
-
-\selectlanguage{english}
+\clearpage
 \section*{Abstract}
 \addcontentsline{toc}{section}{Abstract}
 This is the abstract of the thesis in English.  Please, use less
 than 150 words.
 
-\selectlanguage{spanish}
+%\selectlanguage{spanish}
 \vspace*{\fill}
 \section*{Resumen}
 
 \addcontentsline{toc}{section}{Resumen}
 \vspace*{\fill}
-\selectlanguage{english}
+%\selectlanguage{english}
+
+\clearpage
+\section*{Preface}
+
+\addcontentsline{toc}{section}{Preface}
+
+
 \cleardoublepage
 
 
-%PREFACI OPCIONAL. SI NO ES VOL, COMENTEU FINS EL FINAL DE PREFACI
-{\bf Prefaci}
 
 \cleardoublepage
 %FINAL DE PREFACI
@@ -122,7 +132,6 @@ than 150 words.
 \tableofcontents
 
 \printindex
-
 
 
 \clearpage
@@ -136,11 +145,60 @@ than 150 words.
 \addcontentsline{toc}{section}{List of tables}
 
 
+
+\clearpage
+\section*{List of publications}
+\addcontentsline{toc}{section}{List of publications}
+
+\par The list of publications is presented in reverse chronological order. Publications 1), 3), 4) and 5) composed the main body of the thesis. 
+
+
+\begin{enumerate}
+
+\item  \textbf{Martínez-Jiménez, F.}, Overington J. P., Al-Lazikani B., $\&$ Marti-Renom, M. a. (2016). \textbf{Rational design of non-resistant targeted cancer therapies}. Genome Medicine.  (\textit{in revision}). 
+
+\item \textbf{Martínez-Jiménez, F.}, $\&$ Marti-Renom, M. a. (2016). \textbf{Should network biology be used for drug discovery?}. Expert Opinion on Drug Discovery (\textit{in revision}). 
+
+\item Rebollo-Lopez, M. J., Lelièvre, J., Alvarez-Gomez, D., Castro-Pichel, J., \textbf{Martínez-Jiménez, F.}, Papadatos, G., … Barros-Aguire, D. (2015). \textbf{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery}. PloS One, 10(12), e0142293. doi:10.1371/ journal.pone.0142293
+
+\item \textbf{Martínez-Jiménez, F.}, $\&$ Marti-Renom, M. a. (2015). \textbf{Ligand-Target Prediction by Structural Network Biology Using nAnnoLyze}. PloS Computational Biology, 11(3), e1004157. doi:10.1371/ journal.pcbi.1004157
+
+\item \textbf{Martínez-Jiménez, F.}, Papadatos, G., Yang, L., Wallace, I. M., Kumar, V., Pieper, U., … Marti-Renom, M. a. (2013). \textbf{Target Prediction for an Open Access Set of Compounds Active against Mycobacterium tuberculosis}. PLoS Computational Biology, 9(10), e1003253. doi:10.1371/journal.pcbi.1003253
+
+\item López-Pelegrín, M., Cerdà-Costa, N., \textbf{Martínez-Jiménez, F.}, Cintas-Pedrola, A., Canals, A., Peinado, J. R., … Gomis-Rüth, F. X. (2013). \textbf{A novel family of soluble minimal scaffolds provides structural insight into the catalytic domains of integral membrane metallopeptidases}. The Journal of Biological Chemistry, 288(29), 21279–94. doi:10.1074/jbc.M113.476580
+
+\end{enumerate}
+
+
+
+%\clearpage
+%\section*{Summary}
+%\addcontentsline{toc}{section}{Summary}
+
+%\begin{itemize}
+
+%\item \textbf{Introduction}. The thesis starts with an overview of the importance of proteins in biology, focusing on the central dogma of protein biology: the relationship between of protein sequence, structure and function. More specifically, it discusses the importance of protein three dimensional (3D) structure and the role of small molecules to modulate protein's function. Moreover, the introduction briefly reviews the role of computational methods for each of these biological notions. Next, it presents the drug discovery and development pipeline, focusing on drug discovery against \textit{Mycobacterium tuberculosis} and reviewing how pre-clinical stages benefit from the application of computational biology methods. Finally, it describes the concept of targeted cancer therapy, analyzing their role in cancer treatment, mechanisms of action, current status, limitations and future challenges. The introduction closes with a brief description of what are the main motivations of the current thesis. 
+
+%\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \mainmatter
-
-\section*{Summary}
-\addcontentsline{toc}{section}{Summary}
-
 
 
 
@@ -741,20 +799,20 @@ This thesis aims to fulfil the following specific objectives:
 
 \section{Discussion}\label{discussion}
 
-\par This thesis presented a computational study of the structural interaction between small molecules and their protein targets with a main focus on extracting their therapeutic potential. Concretely, chapter \ref{nannolyze} presented a comparative docking \ref{comparative-docking} method that predicts structurally detailed protein-ligand interactions at proteome scale. It exemplified its applicability by predicting the human targets of all small molecule FDA-approved drugs. A second application of nAnnolyze on MTB is presented in section \ref{mtb_results}. This chapter showed the computational identification of the MTB targets for a set of compounds with known antitubercular activity. It used the combination of three methods exploring different methodological spaces (i.e., the structural space, the chemical space and the historical space) to give more robustness to the predictions. The open access profile of both nAnnolyze and the application on MTB, led to the development of a website that enables the interplay with the method and the results. Finally, chapter \ref{targeted therapies} introduced a computational model that predicts cancer associated mutations with the highest chances to confer resistance to a targeted therapy. Furthermore, it provided alternative treatments for those mutations identified as highly resistance-like. Each of the specific points presented in the studies are thoroughly analyzed in the pertinent discussion of the manuscripts. Hence, this discussion is focused on analyzing the impact to the scientific community, reviewing the main limitations and future perspectives of the presented studies.
+\par This thesis presented a computational study of the structural interaction between small molecules and their protein targets with the main focus on extracting their therapeutic potential. Concretely, chapter \ref{nannolyze} presented a comparative docking \ref{comparative-docking} method that predicts structurally detailed protein-ligand interactions at proteome scale. It exemplified its applicability by predicting the human targets of all small molecule FDA-approved drugs. A second application of nAnnolyze on MTB is presented in section \ref{mtb_results}. This chapter showed the computational identification of the MTB targets for a set of compounds with known antitubercular activity. It used the combination of three methods exploring different methodological spaces (i.e., the structural space, the chemical space and the historical space) to give more robustness to the predictions. The open access profile of both nAnnolyze and the application in MTB, led to the development of a website that enables the interplay with the method and the results. Finally, chapter \ref{targeted therapies} introduced a computational model that predicts cancer associated mutations with the highest chances to confer resistance to a targeted therapy. Furthermore, it provided alternative treatments for those mutations identified as highly resistance-like. Each of the specific points presented in the studies are thoroughly analyzed in the pertinent discussion of the manuscripts. Hence, this discussion is focused on analyzing the impact to the scientific community, reviewing the main limitations and discussing future perspectives of the presented studies.
 
  \subsection{nAnnolyze: predicting large scale, structurally detailed ligand-target interaction using a network-based representation}
  
  \subsubsection{Main findings}
- \par nAnnolyze is a network-based version of the Annolyze method \cite{Marti-Renom2007}. It relies on a comparative docking approach that 1) predicts the protein targets of small molecules and 2) identifies the binding location on the 3D structure of the protein. The evaluation of the performance showed that nAnnolyze enables large-scale annotation and analysis of compound-protein pairs. The application of the method to predict the human targets of all small molecule FDA-approved showed the ability of the method to identify therapeutically relevant compound-target pairs. Moreover, the method proposed new human targets for multiple FDA-approved drugs. Similarly, nAnnolyze predicted new unseen interactions between FDA-approved drugs and human proteins. Finally, the method alongside all the predictions are publicly available at \url{http://nannolyze.cnag.cat/}.
+ \par nAnnolyze is a network-based version of the Annolyze method \cite{Marti-Renom2007}. It relies on a comparative docking approach that 1) predicts the protein targets of small molecules and 2) identifies the binding location on the 3D structure of the protein. The evaluation of the performance showed that nAnnolyze enables large-scale annotation and analysis of compound-protein pairs. The application of the method to predict the human targets of all small molecule FDA-approved showed its ability to identify therapeutically relevant compound-target pairs. Moreover, nAnnolyze also predicted new unseen interactions between FDA-approved drugs and human proteins. Finally, the method alongside all the predictions are publicly available at \url{http://nannolyze.cnag.cat/}.
  \subsubsection{Impact of the presented research} 
  \par To our knowledge, nAnnolyze is one the few methods that enables structurally detailed large-scale screening of compounds against an entire proteome. Unlike free-structure methods, which do not provide structural information about the binding, and virtual docking methods, which require considerable amount of resources for large-scale screenings, nAnnolyze fulfills two of the most important needs in the modern drug discovery paradigm 1) applicability to large-scale screenings and 2) the inclusion of structural information in the predictions. 
- \par The application in the human proteome provided an immense collection of compounds-target pairs amenable to me mined in future studies. Concretely, such information can be used to to identify compounds off-targets responsible of clinically reported side effects. The manuscript illustrated this application with the example of new predicted targets for the multikinase inhibitor sorafenib. Moreover, mining the collection of compound-target pairs may give rise to the identification of new therapeutically relevant interactions that could be further explored by drug repurposing approaches.  
+ \par The application in the human proteome provided an immense collection of compounds-target pairs amenable to me analyzed in future studies. Concretely, such information can be used to identify compounds off-targets responsible of clinically reported side effects. The manuscript illustrated this application with the example of new predicted targets for the multikinase inhibitor sorafenib. Moreover, mining the collection of compound-target pairs may give rise to the identification of new therapeutically relevant interactions with the potential to be further explored by drug repurposing approaches.  
  \par Finally, since the methods is fully available online, the scientific community can benefit from the usage by anonymously screening their own compounds against the human and MTB structural proteomes.
     
 \subsubsection{Limitations}
- \par One of the major limitations of the method is implicit in its own definition. nAnnolyze is a structure based approach and consequently its application is restricted to those proteins with either a experimentally determined 3D structure or a sequence amenable to be accurately modeled by comparative modeling approaches. Currently, around 40$\%$ of the human proteome fulfills these requirements.
- \par The application of a comparative docking approach can also lead to the inclusion of bias towards structurally conserved protein pockets. Therefore, non-conserved allosteric pockets, which are often remarkably valuable to develop selective inhibitors \ref{kinases}, may be neglected by the method. Similarly, novel non-frequent compound scaffolds are also penalized in the search due to their limited availability in the explored structural space. 
+ \par One of the major limitations of the method is implicit in its own definition. nAnnolyze is a structure based approach and consequently its application is restricted to those proteins with either a experimentally determined 3D structure or a sequence amenable to be accurately modeled by comparative modeling approaches. Currently, approximately 40$\%$ of the human proteome fulfills these requirements.
+ \par The application of a comparative docking approach may also lead to the inclusion of bias towards structurally conserved protein pockets. Therefore, non-conserved allosteric pockets, which are often remarkably valuable to develop selective inhibitors \ref{kinases}, may be neglected by the method. Similarly, novel non-frequent compound scaffolds are also penalized in the search because of their limited availability in the explored structural space. 
  \par As mentioned above, comparative docking methods are usually faster than virtual docking approaches. However, they are generally slower than free-structure methods, which makes them a viable option only once the number of candidate compounds have narrowed down. Ideally, drug discovery early stages would choose the ligand-target prediction method that better fits to the characteristics of the screening (i.e., compound collection size, number of targets, stage of development, etc). Alternatively, the combination of different computational methods can increase both the predictive power and the confidence the resulting predictions \ref{mtb_results}. 
  \par nAnnlyze does not include information about the type of interaction between the compound and the predicted targets (i.e., antagonist, agonist, inhibitor, etc.). Moreover, the graph does not include either information about the affinity of the compounds with their co-crystallized protein targets. Such information may play an important role in the decision of whether a predicted compound-target pair is suitable for further exploration. 
   
@@ -762,36 +820,38 @@ This thesis aims to fulfil the following specific objectives:
 
   
   
-\subsubsection{Future perspectives}
+\subsubsection{Future perspectives}\label{future_nannolyze}
 
- \par Future versions of nAnnolyze will benefit from the raise of publicly available structural data. Thanks to the initiatives such as the PSI \cite{Norvell2007} or the Structural Genomics Consortium \cite{GIleadi2007} the number of experimentally determined 3D structures will significantly increase over the next years. The number of modellable proteins will raise simultaneously, which eventually will lead to a significant increase of the number of proteins to which structure-based methods can be applied. Additionally, the raise in the number of deposited structures in the PDB will likely increase the chemical spectrum of the co-crystallized compounds, decreasing thus the aforementioned compound's scaffold bias.
+ \par Future versions of nAnnolyze will benefit from the raise of publicly available structural data. Thanks to the initiatives such as the PSI \cite{Norvell2007} or the Structural Genomics Consortium \cite{GIleadi2007} the number of experimentally determined 3D structures will significantly increase over the next years. Therefore, the number of modellable proteins will raise simultaneously, which eventually will lead to a significant increase of the number of proteins to which structure-based methods can be applied. Additionally, the raise in the number of deposited structures in the PDB will likely increase the chemical spectrum of the co-crystallized compounds, decreasing thus the aforementioned compound's scaffold bias.
   
- \par The flexibility of a network-based approach facilitates the integration of multiple sources of information. As discussed above, information as the type of interaction or binding affinity will improve both the level of detail and the quality of the predictions. Moreover, integration of protein-protein interaction (PPI) information, target-disease and target-side effect associations will enable more realistic selection of the molecular target to intervene. 
+ \par The flexibility of a network-based approach facilitates the integration of multiple sources of information. As discussed above, information as the type of interaction or compound binding affinity would improve both the level of detail and the quality of the predictions. Moreover, integration of protein-protein interaction (PPI) information, target-disease and target-side effect associations would enable more realistic selection of the molecular target to intervene. 
  
  \par Another feature amenable to be improved is the graph search algorithm. nAnnolyze uses the Dijkstra's algorithm \cite{Dijkstra1959} to find the shortest pathways between compounds and protein targets. Other popular network search algorithms include random walk \cite{Chen2012} or network propagation \cite{Huang2013a}.
- \par One of the near future plan consist on applying nAnnolyze to alternative set of candidate molecules and protein targets. While chapter \ref{mtb_results} presents the application in two different set of antitubercular compounds, future applications in other organisms and collection of compounds will significantly increase the value of the method. Moreover, the method can benefit from the feedback received after its application. 
- \par Finally, one of the most important goals and challenges of computational drug discovery is the translation into the experimental field. Experimental validation of the predictions will not only add more confidence to the method, but will also be useful to identify those cases where the approach is more suitable for.          
+ \par One of the near future plan consist on applying nAnnolyze to alternative set of candidate molecules and protein targets. While chapter \ref{mtb_results} presents the application in two different set of antitubercular compounds, future applications in other organisms and collection of compounds will significantly increase the value of the method. Moreover, the method would benefit from the feedback received after its application. 
+ \par Finally, one of the most important goals and challenges of computational drug discovery is the translation into the experimental field. Experimental validation of the predictions would not only add more confidence to the method, but would also be useful to identify those cases where the approach is more suitable for.          
   \subsection{Target prediction for two set of compounds active against MTB}
   
 
 \subsubsection{Main findings} 
-\par This chapter presented the application of three ligand-target prediction methods to identify the MTB targets of two sets of compounds with known antitubercular activity. The methods explored three different methodological spaces, including the structural space by nAnnolyze, the chemical space and the historical space. The final compound-target set was the result of combining the individual predictions by the three approaches. The first application on a set of 776 compounds resulted in the identification of 139 MTB targets involved in 71 unique pathways. The second application to a set of 50 antitubercular compounds identified 21 MTB targets involved in 13 different metabolic pathways. Subsequent analysis of the target essentially revealed a significant number of targets previously identified as essential for the survival of MTB. Moreover, study of the metabolic pathways associated with the predicted MTB targets revealed an significant enrichment in amino acid metabolism pathways, which are known to be essential for the survival of the bacterial. Finally, all the compounds alongside the predicted MTB were publicly delivered in both studies. 
+\par This chapter presented the application of three ligand-target prediction methods to identify the MTB targets of two sets of compounds with known antitubercular activity. The methods explored three different methodological spaces, including the structural space by nAnnolyze, the chemical space and the historical space. The final compound-target set was the result of combining the individual predictions by the three approaches. The first application on a set of 776 compounds resulted in the identification of 139 MTB targets involved in 71 unique pathways. The second application in a set of 50 antitubercular compounds identified 21 MTB targets involved in 13 different metabolic pathways. Subsequent analysis of the target essentially revealed a significant number of predicted targets previously annotated as essential for the survival of MTB. Moreover, study of the metabolic pathways associated with the predicted MTB targets revealed an significant enrichment in amino acid metabolism pathways, which are known to be essential for the survival of the bacterial. Finally, all the compounds alongside the predicted MTB were publicly delivered in both studies. 
  
  \subsubsection{Impact of the presented research} 
  
  
-\par To our knowledge this is the first virtual screening performed by three orthogonal approaches to systematically identify protein targets for small molecules. The resulting \textit{metapredictor} is more robust than the individual methods, adding not only target and compound coverage, but also increase confidence to the predictions. From the logistic perspective, this application also exemplified how computational methods can play a significant role in the drug discovery process. Moreover, it illustrated how drug discovery benefits from collaborations between big pharmaceutical companies and academia. From the clinical perspective, the delivery of the compounds and predictions fosters open access drug discovery against TB. Finally, future experimental validation and putative clinical development will significantly increase the value of the presented studies.  
+\par To our knowledge this is the first virtual screening performed by three orthogonal approaches to systematically identify protein targets for small molecules. The resulting \textit{metapredictor} is more robust than the individual methods, adding not only target and compound coverage, but also increasing confidence to the predictions. From the logistic perspective, this application also exemplified how computational methods can play a significant role in the drug discovery process. Moreover, it illustrated how drug discovery benefits from collaborations between big pharmaceutical companies and academia. From the clinical perspective, the delivery of the compounds and predictions fosters open access drug discovery against TB. Finally, future experimental validation and putative clinical development would significantly increase the value of the presented studies.  
 
  
 \subsubsection{Limitations} 
 
-\par Most of the methodological limitations are inherent to the applied ligand-target prediction methods. Concretely, nAnnolyze's limitations, which are discussed above, are also applicable in this study.  
+\par Most of the methodological limitations are inherent to the applied ligand-target prediction methods. Concretely, nAnnolyze's limitations, which are discussed above, are also applicable to this study.  
 
-\par Some limitations and problems may emerge due to the combination of different methodologies. Although combination of multiple methods reduce individual biases limiting the amount of noise on the final predictions, it can also give rise to the loss of unique, and perhaps real, compound-target pairs singularly predicted by a single method.   
+\par Some limitations and problems may emerge due to the combination of different methodologies. Although combination of multiple methods reduce individual biases limiting the amount of noise on the final predictions, it can also give rise to the loss of unique, and perhaps real, compound-target pairs predicted by a single method.   
 
 \par Interestingly, compounds with activity against human targets could be compromised by toxicity. However, the study did not specifically check for human off-targets because of two main reasons. First, the antitubercular compounds have been filtered by a human \textit{in-vitro} toxicity assay. Second, empirical evidence suggests that antibiotics side effects are mostly due to high doses treatments associated with damage to the liver \cite{Westphal1994}.
 
 \par The study assumed that all the compounds perform their anti-infective activity through the modulation of a protein target. However, there are antibiotics that perform their activity through different mechanisms of action \cite{Ling2015a}. In such cases, the method will not identify the actual mechanism of action. 
+
+\par The study did not include any information about drug resistance. One of the major problems of bacterial infections is the emergence of resistant strains that not responding to standard treatments. Such information was not considered in the model and may have a dramatic impact in the development of new non-resistant antibiotics. 
 
 \par Finally, none of the predictions have been experimentally validated in this study. Therefore, all the provided predictions need to be carefully considered. 
   
@@ -799,15 +859,26 @@ This thesis aims to fulfil the following specific objectives:
 
  \subsubsection{Future perspectives}
 
-\par One of the near future goals consist on applying the same methodology to new set of compounds in the fight against TB. Moreover, we are planning to apply similar combination of methods to other diseases and organisms.   
-\par Future applications will certainly benefit from the improvement of each of the methods used in the study. Furthermore, the inclusion of new sources of information would add more value to the predictions. For example, the inclusion of off-target huam activity (as discused above) or predictions about side effects. Portein-protein will also a new . Other mechanisms of action. 
+\par One of the near future goals consist on applying the same methodology to new sets of antitubercular compounds. Moreover, we are planning to apply similar combination of methods to other diseases and organisms.   
+\par Future applications would benefit from the improvement of each of the methods used in the study. Furthermore, including new features would increase the level of detail of the predictions. For instance, including a comprehensive prediction of the compound's side effects would help to prioritize those compounds with better ADMET profiles, while discarding those with lower probabilities to become an approved drug.  
 
-\par experimental 
+\par Similarly to targeted cancer therapy, antibiotics suffer from a major limitation. The effect of the treatment is often temporary due to the emergence of drug-resistant strains. TB is not an exception, the emergence of MDR-TB and XDR-TB jeopardizes the prognosis of many TB patients. Combinatorial regimes are a promising alternative to overcome resistance to cancer \ref{targeted therapies} and bacterial infections \ref{mtb_research} treatments. Therefore, computational identification of antibiotics combination can lead to the development of less resistant therapies. In our specific case, after the initial annotation of compound's targets, we would include a second layer identifying compounds combinations with positive resistance profiles.   
 
+\par Finally, as discussed above \ref{future_nannolyze}, experimental validation of the compound-target pairs would significantly increase the value of the presented work, taking a step forward in the fight against MTB infection. 
 
- \subsection{Summary}
+ \subsection{Rational design of non-resistant targeted cancer therapies}
  
- \par discuss computational + ligand target + what can we 
+ 
+\subsubsection{Main findings} 
+ 
+  \subsubsection{Impact of the presented research}
+ 
+ \subsubsection{Limitations} 
+ 
+ \subsubsection{Future perspectives}
+ 
+ 
+ \section{Conclusions}
  
  
  

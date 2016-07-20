@@ -1,25 +1,26 @@
-\select@language {english}
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\defcounter {refsection}{0}\relax 
-\select@language {english}
-\defcounter {refsection}{0}\relax 
-\select@language {english}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Abstract}{vii}{section*.1}
 \defcounter {refsection}{0}\relax 
 \select@language {spanish}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resumen}{vii}{section*.2}
-\defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Index of figures}{xiv}{section*.4}
+\contentsline {section}{Acknowledgments}{\es@scroman {i}}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of tables}{xv}{section*.5}
+\contentsline {section}{Abstract}{\es@scroman {ii}}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Summary}{1}{section*.6}
+\contentsline {section}{Resumen}{\es@scroman {ii}}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Introduction}{1}{section*.7}
+\contentsline {section}{Preface}{\es@scroman {iii}}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Index of figures}{\es@scroman {viii}}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of tables}{\es@scroman {ix}}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of publications}{\es@scroman {x}}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Summary}{\es@scroman {xii}}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Introduction}{1}{section*.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1}Protein are essential molecules}{1}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
@@ -93,4 +94,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{65}{subsubsection.1.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Summary}{65}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{66}{subsection.1.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{66}{subsubsection.1.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{66}{subsubsection.1.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{66}{subsubsection.1.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{66}{subsubsection.1.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusions}{66}{section.1.5}
