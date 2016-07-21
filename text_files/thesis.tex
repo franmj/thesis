@@ -30,7 +30,7 @@
 \restylefloat{table}
 \usepackage{tablefootnote}
 \pagestyle{plain}
-
+\usepackage{tcolorbox}
 \usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
 \usepackage{biblatex}
 \usepackage{makeidx}
@@ -73,8 +73,8 @@
 \addbibresource{../bibliography/library.bib}
 
 
-\title{El titulo de la tesi: In-silico methods to drug discovery}
-\subtitle{El subtitulo de la tesi: Cancer}
+\title{Structural study of the therapeutical potential of protein-ligand interactions}
+
 \author{Autor: Francisco Mart\'inez Jim\'enez}
 \thyear{L'any de la tesi: 2016}
 \department{Departament: Biomedicine}
@@ -104,13 +104,12 @@
 \clearpage
 \section*{Abstract}
 \addcontentsline{toc}{section}{Abstract}
-This is the abstract of the thesis in English.  Please, use less
-than 150 words.
+To do 
 
 %\selectlanguage{spanish}
 \vspace*{\fill}
 \section*{Resumen}
-
+Por hacer
 \addcontentsline{toc}{section}{Resumen}
 \vspace*{\fill}
 %\selectlanguage{english}
@@ -155,7 +154,7 @@ than 150 words.
 
 \begin{enumerate}
 
-\item  \textbf{Martínez-Jiménez, F.}, Overington J. P., Al-Lazikani B., $\&$ Marti-Renom, M. a. (2016). \textbf{Rational design of non-resistant targeted cancer therapies}. Genome Medicine.  (\textit{in revision}). 
+\item  \textbf{Martínez-Jiménez, F.}, Overington J. P., Al-Lazikani B., $\&$ Marti-Renom, M. a. (2016). \textbf{Rational design of non-resistant targeted cancer therapies}. Genome Medicine.  (\textit{in preparison}). 
 
 \item \textbf{Martínez-Jiménez, F.}, $\&$ Marti-Renom, M. a. (2016). \textbf{Should network biology be used for drug discovery?}. Expert Opinion on Drug Discovery (\textit{in revision}). 
 
@@ -225,7 +224,7 @@ than 150 words.
   \centering
   	\includegraphics[scale=0.5]{../figures/protein_structure_levels_en.png} % Figure was taking from...
 
-	\caption{Hierarchical distribution of layers in protein structure.}
+	\caption{Hierarchical distribution of layers in protein structure. Photo Credit: Mariana Ruiz Villarreal}
 	\label{fig:hierarchy_figure}
 \end{figure}
 \par This traditional paradigm of protein structure has been challenged by some exceptions of proteins that lacks of a fixed or ordered three-dimensional structure. The intrinsically disordered proteins (IDPs) cover a wide spectrum of states from fully unstructured to partially structured including conformations such as \textit{random coils} or \textit{molten globules}. Moreover, some  factors may lead to the permanent loss of structure of a protein, and when that occurs, they endanger the entire organism. How problematic protein misfolding can be for the organism is illustrated by examples such as cystic fibrosis, Alzheimer's, Parkinson's and Huntington's diseases.
@@ -271,7 +270,7 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 	\caption{}
 	\label{fig:structures_pdb}
 	\end{subfigure}
-	\begin{subfigure}[b]{0.55\textwidth}
+	\begin{subfigure}[b]{0.75\textwidth}
 	\includegraphics[width=1\linewidth]{../figures/pie_smethods.pdf}
 	\caption{}
 	\label{fig:smethods_pie}
@@ -295,7 +294,7 @@ emerging scattered electrons pass through a lens to create a magnified image on 
 \begin{figure}[htbp]
 
   \centering
-  	\includegraphics[scale=0.75]{../figures/workflow.jpg} % Figure was taking from...
+  	\includegraphics[scale=1]{../figures/workflow.jpg} % Figure was taking from...
 
 	\caption [Workflow in comparative protein structure modeling]{Workflow in comparative protein structure modeling.  The figure has been extracted from \cite{Eswar2007}}
 	\label{fig:workflow_modeling}
@@ -530,7 +529,7 @@ such as experimental structure availability or druggability assessment; system-b
 \subsubsection{In-silico approaches in TB}
 
 \par Similarly to many other diseases, CADD methods play a substantial role in the Tuberculosis R$\&$D field. Uncountable \textit{in-silico} methods have been published over the last decade, each of them applying different strategies to solve a specific bio-medical question. However, all of them pursue the very same goal: fueling drug discovery against TB. Table \ref{table:table_mtb_methods} contains some remarkable \textit{in-silico} resources for the fight
-against TB. The purpose of these resources is very diverse. One popular resource is targetTB, which consist on an open-source pipeline to identify targets in MTB \cite{Raman2008a}. Similarly, chapter [REF OUT CHAPTER] presents how the combination of three orthogonal approaches can help to identify the molecular targets of novel anti-tubercular compounds. Other resources, such as TDRtargets \cite{Crowther2010} (\url{http://tdrtargets.org/}) and CCD-TB \cite{Ekins2010},  blend a target detection tool with a publicly accesible database of known existing targets and anti-microbial compounds. Some methods, on the other hand,  are focused on provide specific insights into a specific problem in TB treatment. Such is the case of the computational detection of Comtan as a potential agent in the treatment of MDR-TB and XDR-TB \cite{Kinnings2009}, or the examples from \cite{DeJonge2007} and \cite{Kumar2009}. Most of these resources take advantage of Tuberculist \cite{Lew2011}, a database of experimentally measured gene essentiality in MTB; and TuberQ \cite{Radusky2014} , which contains information about MTB proteins druggability. Is such the importance of computational resources in TB research that recently a Mobile app, called TB-Mobile \cite{Ekins2013, Clark2014}, was published. TB-Mobile provides an agile way to interact with TB data and includes some chemoinformatics tools for clustering and finding new molecular targets to known anti-tubercular compounds. This app is therefore pushing the boundaries of real science on mobile devices in several important ways, and could set up a milestone in bringing mobile apps into the computational biology research field.
+against TB. The purpose of these resources is very diverse. One popular resource is targetTB, which consist on an open-source pipeline to identify targets in MTB \cite{Raman2008a}. Similarly, chapter \ref{mtb_results} presents how the combination of three orthogonal approaches can help to identify the molecular targets of novel anti-tubercular compounds. Other resources, such as TDRtargets \cite{Crowther2010} (\url{http://tdrtargets.org/}) and CCD-TB \cite{Ekins2010},  blend a target detection tool with a publicly accesible database of known existing targets and anti-microbial compounds. Some methods, on the other hand,  are focused on provide specific insights into a specific problem in TB treatment. Such is the case of the computational detection of Comtan as a potential agent in the treatment of MDR-TB and XDR-TB \cite{Kinnings2009}, or the examples from \cite{DeJonge2007} and \cite{Kumar2009}. Most of these resources take advantage of Tuberculist \cite{Lew2011}, a database of experimentally measured gene essentiality in MTB; and TuberQ \cite{Radusky2014} , which contains information about MTB proteins druggability. Is such the importance of computational resources in TB research that recently a Mobile app, called TB-Mobile \cite{Ekins2013, Clark2014}, was published. TB-Mobile provides an agile way to interact with TB data and includes some chemoinformatics tools for clustering and finding new molecular targets to known anti-tubercular compounds. This app is therefore pushing the boundaries of real science on mobile devices in several important ways, and could set up a milestone in bringing mobile apps into the computational biology research field.
 
 \par Overall, \textit{in-silico} methods have played a major role in the research against tropical infectious diseases. Particularly,  Tuberculosis have benefited enormously from the contribution of such methods and therefore they are partly responsible of the improvement in the outcome of the disease. 
 
@@ -741,7 +740,7 @@ against TB. The purpose of these resources is very diverse. One popular resource
 
 \par Most of the small molecule targeted cancer therapies target oncogenic kinases that are responsible of the tumour proliferation and/or development \ref{kinases}. Mutations of these oncogenic kinases can alter the binding of the small molecule kinase inhibitor giving rise to a reestablishment of the tumour proliferation activity. Moreover, evidence continues to emerge that cancers are characterized by extensive intratumour genetic heterogeneity (ITH), and that patients being considered for treatment with a targeted agent might, therefore, already possess resistance to the drug in a small population of cells \cite{Schmitt2015}. This mechanism of resistance has been extensively reported over the last years \cite{Chen2011, Barouch-Bentov2011a}. The first mutation identified in patients with CML who relapsed on treatment with imatinib was in the gatekeeper residue of BCR-ABL1, T315. This missense  mutation hinders imatinib binding while preserving the catalytic activity that is needed for the oncogenic function of BCR-ABL1 \cite{Gorre2001}. Since then, more than 100 BCR-ABL1 different mutations have been reported \cite{Soverini2016}. Second-generation BCR-ABL1 inhibitors (e.g., nilotinib, dasatinib and bosutinib) were developed for the treatment of patients with acquired resistance to imatinib. However, the BCR-ABL1 T315I gatekeeper mutation confers resistance to all currently approved ABL1 TKIs other than the newest of these molecules, ponatinib \cite{Soverini2016}. Similarly to the BCR-ABL1 case, acquired resistance to EGFR inhibitors such as gefitinib or erlotinib is common \ref{kinases}. Studies showed that more than 50$\%$ of the EGFR-gefitinib resistant cases harbored a secondary EGFR-T790M mutation \cite{Shih2005}. Such is the impact of this mutation for the treatment of NSCLCs, that a third new generation of EGFR-T790M selective inhibitors have been designed to overcome resistance to EGFR-T790M positive patients \cite{Walter2013, Cross2014}. However, recent studies showed that third generation irreversible EGFR inhibitors also experience the emergence of resistance mutations \cite{Ercan2015}. Crizotinib is a small molecule kinase inhibitor approved for the treatment of some types of NSCLC. It performs its pharmacological activity by targeting the ALK and ROS-1 kinases \ref{kinases}. Some studies in small cohorts of patients have already shown that mutations in the ALK kinase domain such as G1269A, L1198F, L1196M can drive acquired resistance to crizotinib \cite{Doebele2012, Shaw2015}. The mutations described to date span the entire ALK kinase domain and may also confer variable degrees of resistance to second-generation ALK inhibitors \cite{Wu2016}. 
 
-\par The ABL1-imatinib, EGFR-gefitinib and ALK-crizotinib cases are the probably the best studied examples of resistance to small molecule targeted cancer therapies. However, individual studies have shown that many other kinase mutations are drivers of drug resistance. Moreover, future improvement in the sensitivity of genomic high throughput technologies will, most likely, increase the number of these mutants \cite{Schmitt2015}. To make things worse, treatments should be able to deal with ITH, which affects variation in drug response predominantly at the cellular level \cite{Burrell2014}. Hence, there is a need to rationally design cancer treatments able to overcome resistance due to mutations in drug targets. Fostering early detection of pre-existing or emerging drug resistance could enable more personalized use of targeted cancer therapy, as patients could be stratified to receive the treatments that are most likely to be effective. Another solution to the challenge of polygenic cancer drug resistance is rational combinatorial treatments, such as combinatorial targeted therapy \cite{Flaherty2012}, combination of chemotherapy with targeted therapy \cite{Cortes2016} or the promising combination of immunotherapy with targeted therapies \cite{Vanneman2012}. Achieving the full potential of targeted cancer therapy is dependent on the identification of the best possible drug combinations. The resulting combinatorial explosion will require use of new technologies, including large-scale genomics and network biology with associated computational approaches \cite{Al-Lazikani2012}. In fact, computational methods are being applied to explain and predict therapeutic resistance \cite{Bozic2013, Komarova2014}, tumour clonal evolution \cite{Williams2016, Attolini2010} and potential drug combinations \cite{Chmielecki2011, Huang2007}. Chapter [REF AQUI] presents a computational approach that predicts mutations with potential to confer resistance to small molecule targeted cancer therapy. The computational framework exemplifies how computational methods can help to rationally design non resistant cancer targeted therapies. 
+\par The ABL1-imatinib, EGFR-gefitinib and ALK-crizotinib cases are the probably the best studied examples of resistance to small molecule targeted cancer therapies. However, individual studies have shown that many other kinase mutations are drivers of drug resistance. Moreover, future improvement in the sensitivity of genomic high throughput technologies will, most likely, increase the number of these mutants \cite{Schmitt2015}. To make things worse, treatments should be able to deal with ITH, which affects variation in drug response predominantly at the cellular level \cite{Burrell2014}. Hence, there is a need to rationally design cancer treatments able to overcome resistance due to mutations in drug targets. Fostering early detection of pre-existing or emerging drug resistance could enable more personalized use of targeted cancer therapy, as patients could be stratified to receive the treatments that are most likely to be effective. Another solution to the challenge of polygenic cancer drug resistance is rational combinatorial treatments, such as combinatorial targeted therapy \cite{Flaherty2012}, combination of chemotherapy with targeted therapy \cite{Cortes2016} or the promising combination of immunotherapy with targeted therapies \cite{Vanneman2012}. Achieving the full potential of targeted cancer therapy is dependent on the identification of the best possible drug combinations. The resulting combinatorial explosion will require use of new technologies, including large-scale genomics and network biology with associated computational approaches \cite{Al-Lazikani2012}. In fact, computational methods are being applied to explain and predict therapeutic resistance \cite{Bozic2013, Komarova2014}, tumour clonal evolution \cite{Williams2016, Attolini2010} and potential drug combinations \cite{Chmielecki2011, Huang2007}. Chapter \ref{blending} presents a computational approach that predicts mutations with potential to confer resistance to small molecule targeted cancer therapy. The computational framework exemplifies how computational methods can help to rationally design non resistant cancer targeted therapies. 
 
  
 \subsection{Motivation}
@@ -787,16 +786,44 @@ This thesis aims to fulfil the following specific objectives:
 
 \subsection{Ligand-Target Prediction by Structural Network Biology using nAnnolyze}\label{nannolyze}
 
-\par 
-
-\subsection{Target Prediction for an Open Acess Set of Compounds Active against \textit{Mycobacterium tuberculosis}}\label{mtb_results}
-
-\par 
+\par This section presents nAnnolyze, a method for predicting large-scale and structurally detailed compound-protein interactions. nAnnolyze was applied to identify the human targets of all FDA-approved drugs. The method alongside all the predictions are available online in \url{http://nannolyze.cnag.cat/}.
 
 
+
+\par Manuscripts presented in this section: 
+\begin{tcolorbox}
+
+\href{http://journals.plos.org/ploscompbiol/article?id=10.1371\%2Fjournal.pcbi.1004157}{Martínez-Jiménez, F., Papadatos, G., Yang, L., Wallace, I. M., Kumar, V., Pieper, U., … Marti-Renom, M. a. (2013). \textbf{Target Prediction for an Open Access Set of Compounds Active against Mycobacterium tuberculosis}. PLoS Computational Biology, 9(10), e1003253. doi:10.1371/journal.pcbi.1003253}
+
+\end{tcolorbox}
+
+
+\clearpage
+
+\subsection{Target Prediction for two Open Acess Sets of Compounds Active against \textit{Mycobacterium tuberculosis}}\label{mtb_results}
+
+\par This section presents the application of nAnnolyze to predict the MTB targets of a set of compounds with antitubercular activity. The target predictions from nAnnolyze are combined with those resulting from the application of two other methods exploring different methodological spaces (i.e., the structural space, the chemical space and the historical space). The compounds and the predictions are publicly available at [MIRAR URL]. \hfill
+
+Manuscripts presented in this section:
+\vspace*{10mm}
+ \begin{tcolorbox}
+
+\href{http://journals.plos.org/ploscompbiol/article?id=10.1371\%2Fjournal.pcbi.1003253}{Martínez-Jiménez, F., Papadatos, G., Yang, L., Wallace, I. M., Kumar, V., Pieper, U., … Marti-Renom, M. a. (2013). \textbf{Target Prediction for an Open Access Set of Compounds Active against Mycobacterium tuberculosis}. PLoS Computational Biology, 9(10), e1003253. doi:10.1371/journal.pcbi.1003253}
+\hfill
+\vspace*{7mm}
+
+\href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142293}{Rebollo-Lopez, M. J., Lelièvre, J., Alvarez-Gomez, D., Castro-Pichel, J., Martínez-Jiménez, F., Papadatos, G., … Barros-Aguire, D. (2015). \textbf{Release of 50 new, drug-like compounds and their computational target predictions for open source anti-tubercular drug discovery}. PloS One, 10(12), e0142293. doi:10.1371/ journal.pone.0142293}
+
+\end{tcolorbox}
+
+\clearpage
 \subsection{Rational design of non-resistant targeted cancer therapies}\label{blending}
 
+\par Paper new. Paste here when submitted. 
 
+
+
+\clearpage
 \section{Discussion}\label{discussion}
 
 \par This thesis presented a computational study of the structural interaction between small molecules and their protein targets with the main focus on extracting their therapeutic potential. Concretely, chapter \ref{nannolyze} presented a comparative docking \ref{comparative-docking} method that predicts structurally detailed protein-ligand interactions at proteome scale. It exemplified its applicability by predicting the human targets of all small molecule FDA-approved drugs. A second application of nAnnolyze on MTB is presented in section \ref{mtb_results}. This chapter showed the computational identification of the MTB targets for a set of compounds with known antitubercular activity. It used the combination of three methods exploring different methodological spaces (i.e., the structural space, the chemical space and the historical space) to give more robustness to the predictions. The open access profile of both nAnnolyze and the application in MTB, led to the development of a website that enables the interplay with the method and the results. Finally, chapter \ref{targeted therapies} introduced a computational model that predicts cancer associated mutations with the highest chances to confer resistance to a targeted therapy. Furthermore, it provided alternative treatments for those mutations identified as highly resistance-like. Each of the specific points presented in the studies are thoroughly analyzed in the pertinent discussion of the manuscripts. Hence, this discussion is focused on analyzing the impact to the scientific community, reviewing the main limitations and discussing future perspectives of the presented studies.
@@ -869,17 +896,24 @@ This thesis aims to fulfil the following specific objectives:
  \subsection{Rational design of non-resistant targeted cancer therapies}
  
  
+ 
 \subsubsection{Main findings} 
  
-  \subsubsection{Impact of the presented research}
+\subsubsection{Impact of the presented research}
  
- \subsubsection{Limitations} 
+\subsubsection{Limitations} 
  
- \subsubsection{Future perspectives}
+\subsubsection{Future perspectives}
+ 
+ \clearpage
+\section{Conclusions}
  
  
- \section{Conclusions}
+ \begin{itemize}
  
+ \item Conclusions.. (To extract from objetives --> Conclusions)
+ 
+ \end{itemize}
  
  
  

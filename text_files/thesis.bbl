@@ -7944,6 +7944,9 @@
       \field{volume}{57}
       \field{year}{1997}
       \field{pages}{314\bibrangedash 319}
+      \verb{file}
+      \verb :home/fran/Downloads/314.full.pdf:pdf
+      \endverb
       \verb{url}
       \verb http://cancerres.aacrjournals.org/content/57/2/314.abstract
       \endverb
@@ -8488,33 +8491,39 @@
     \endentry
     \entry{Wu2016}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee2464c666949638e7727e1d1d00985}{Wu}{W\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf419e59357b4df76eb2d848069726e}{Nielsen}{N\bibinitperiod}{Thomas\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=23225321c05d4031fe116309793d3c4b}{Clausen}{C\bibinitperiod}{Mads\bibnamedelima H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee2464c666949638e7727e1d1d00985}{Wu}{W\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf419e59357b4df76eb2d848069726e}{Nielsen}{N\bibinitperiod}{Thomas\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=23225321c05d4031fe116309793d3c4b}{Clausen}{C\bibinitperiod}{Mads\bibnamedelima H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{d2cb8568e7de25d94074687c187de256}
-      \strng{fullhash}{d2cb8568e7de25d94074687c187de256}
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{219270f15299462c836502fe2676d48e}
+      \strng{fullhash}{219270f15299462c836502fe2676d48e}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
-      \field{abstract}{Crizotinib as the first-generation ALK inhibitor has shown significant activity in ALK-mutated non-small cell lung cancer (NSCLC). Second- and third-generation ALK inhibitors are entering clinical applications for ALK+ NSCLC. In addition, a third-generation ALK inhibitor, lorlatinib (PF-06463922), was reported to resensitize NSCLC to crizotinib. This review provided a summary of clinical development of alectinib, ceritinib, brigatinib (AP26113), and lorlatinib.}
-      \field{issn}{1756-8722}
-      \field{journaltitle}{Journal of Hematology {\{}{\&}{\}} Oncology}
+      \field{labeltitle}{{Small-molecule kinase inhibitors: An analysis of FDA-approved drugs}}
+      \field{abstract}{Small-molecule kinase inhibitors (SMKIs), 28 of which are approved by the US Food and Drug Administration (FDA), have been actively pursued as promising targeted therapeutics. Here, we assess the key structural and physicochemical properties, target selectivity and mechanism of function, and therapeutic indications of these approved inhibitors. Our analysis showed that {>}30{\%} of approved SMKIs have a molecule weight (MW) exceeding 500 and all have a total ring count of between three and five. The assumption that type II inhibitors tend to be more selective than type I inhibitors has been proved to be unreliable. Although previous SMKI research was concentrated on tyrosine kinase inhibitors for cancer treatment, recent progress indicates diversification of SMKI research in terms of new targets, mechanistic types, and therapeutic indications.}
+      \field{issn}{18785832}
+      \field{journaltitle}{Drug Discovery Today}
       \field{number}{1}
-      \field{title}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
-      \field{volume}{9}
+      \field{title}{{Small-molecule kinase inhibitors: An analysis of FDA-approved drugs}}
+      \field{volume}{21}
       \field{year}{2016}
-      \field{pages}{1\bibrangedash 7}
+      \field{pages}{5\bibrangedash 10}
       \verb{doi}
-      \verb 10.1186/s13045-016-0251-8
+      \verb 10.1016/j.drudis.2015.07.008
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, Nielsen, Clausen - 2016 - Small-molecule kinase inhibitors An analysis of FDA-approved drugs.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1186/s13045-016-0251-8
+      \verb http://dx.doi.org/10.1016/j.drudis.2015.07.008
       \endverb
     \endentry
     \entry{Burrell2014}{article}{}
@@ -8612,6 +8621,9 @@
       \field{volume}{12}
       \field{year}{2012}
       \field{pages}{237\bibrangedash 251}
+      \verb{doi}
+      \verb 10.1038/nrc3237
+      \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc3237
       \endverb
@@ -9026,37 +9038,37 @@
     \endentry
     \entry{Chen2012}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{4feb7ae55bf5bd9f4e1765d402755aa1}
-      \strng{fullhash}{4feb7ae55bf5bd9f4e1765d402755aa1}
+      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Assessing drug target association using semantic linked data.}}
-      \field{abstract}{The rapidly increasing amount of public data in chemistry and biology provides new opportunities for large-scale data mining for drug discovery. Systematic integration of these heterogeneous sets and provision of algorithms to data mine the integrated sets would permit investigation of complex mechanisms of action of drugs. In this work we integrated and annotated data from public datasets relating to drugs, chemical compounds, protein targets, diseases, side effects and pathways, building a semantic linked network consisting of over 290,000 nodes and 720,000 edges. We developed a statistical model to assess the association of drug target pairs based on their relation with other linked objects. Validation experiments demonstrate the model can correctly identify known direct drug target pairs with high precision. Indirect drug target pairs (for example drugs which change gene expression level) are also identified but not as strongly as direct pairs. We further calculated the association scores for 157 drugs from 10 disease areas against 1683 human targets, and measured their similarity using a [Formula: see text] score matrix. The similarity network indicates that drugs from the same disease area tend to cluster together in ways that are not captured by structural similarity, with several potential new drug pairings being identified. This work thus provides a novel, validated alternative to existing drug target prediction algorithms. The web service is freely available at: http://chem2bio2rdf.org/slap.}
-      \field{issn}{1553-7358}
-      \field{journaltitle}{PLoS computational biology}
+      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
+      \field{issn}{1742-2051}
+      \field{journaltitle}{Molecular bioSystems}
       \field{month}{07}
       \field{number}{7}
-      \field{title}{{Assessing drug target association using semantic linked data.}}
+      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
       \field{volume}{8}
       \field{year}{2012}
-      \field{pages}{e1002574}
+      \field{pages}{1970\bibrangedash 8}
       \verb{doi}
-      \verb 10.1371/journal.pcbi.1002574
+      \verb 10.1039/c2mb00002d
       \endverb
       \verb{file}
-      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Ding, Wild - 2012 - Assessing drug target association using semantic linked data.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3390390%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
       \endverb
     \endentry
     \entry{Huang2013a}{article}{}
@@ -17056,6 +17068,9 @@
       \field{volume}{57}
       \field{year}{1997}
       \field{pages}{314\bibrangedash 319}
+      \verb{file}
+      \verb :home/fran/Downloads/314.full.pdf:pdf
+      \endverb
       \verb{url}
       \verb http://cancerres.aacrjournals.org/content/57/2/314.abstract
       \endverb
@@ -17600,33 +17615,39 @@
     \endentry
     \entry{Wu2016}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee2464c666949638e7727e1d1d00985}{Wu}{W\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf419e59357b4df76eb2d848069726e}{Nielsen}{N\bibinitperiod}{Thomas\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=23225321c05d4031fe116309793d3c4b}{Clausen}{C\bibinitperiod}{Mads\bibnamedelima H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=f16c2583d9abd02d089eb43170a7c6c3}{Wu}{W\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=bcc5f6dee5c229c5ef57f91d6303ad98}{Savooji}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=60c6c6c68cab254f94d65859f51062e6}{Liu}{L\bibinitperiod}{Delong}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee2464c666949638e7727e1d1d00985}{Wu}{W\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf419e59357b4df76eb2d848069726e}{Nielsen}{N\bibinitperiod}{Thomas\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=23225321c05d4031fe116309793d3c4b}{Clausen}{C\bibinitperiod}{Mads\bibnamedelima H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{d2cb8568e7de25d94074687c187de256}
-      \strng{fullhash}{d2cb8568e7de25d94074687c187de256}
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{219270f15299462c836502fe2676d48e}
+      \strng{fullhash}{219270f15299462c836502fe2676d48e}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
-      \field{abstract}{Crizotinib as the first-generation ALK inhibitor has shown significant activity in ALK-mutated non-small cell lung cancer (NSCLC). Second- and third-generation ALK inhibitors are entering clinical applications for ALK+ NSCLC. In addition, a third-generation ALK inhibitor, lorlatinib (PF-06463922), was reported to resensitize NSCLC to crizotinib. This review provided a summary of clinical development of alectinib, ceritinib, brigatinib (AP26113), and lorlatinib.}
-      \field{issn}{1756-8722}
-      \field{journaltitle}{Journal of Hematology {\{}{\&}{\}} Oncology}
+      \field{labeltitle}{{Small-molecule kinase inhibitors: An analysis of FDA-approved drugs}}
+      \field{abstract}{Small-molecule kinase inhibitors (SMKIs), 28 of which are approved by the US Food and Drug Administration (FDA), have been actively pursued as promising targeted therapeutics. Here, we assess the key structural and physicochemical properties, target selectivity and mechanism of function, and therapeutic indications of these approved inhibitors. Our analysis showed that {>}30{\%} of approved SMKIs have a molecule weight (MW) exceeding 500 and all have a total ring count of between three and five. The assumption that type II inhibitors tend to be more selective than type I inhibitors has been proved to be unreliable. Although previous SMKI research was concentrated on tyrosine kinase inhibitors for cancer treatment, recent progress indicates diversification of SMKI research in terms of new targets, mechanistic types, and therapeutic indications.}
+      \field{issn}{18785832}
+      \field{journaltitle}{Drug Discovery Today}
       \field{number}{1}
-      \field{title}{{Second- and third-generation ALK inhibitors for non-small cell lung cancer}}
-      \field{volume}{9}
+      \field{title}{{Small-molecule kinase inhibitors: An analysis of FDA-approved drugs}}
+      \field{volume}{21}
       \field{year}{2016}
-      \field{pages}{1\bibrangedash 7}
+      \field{pages}{5\bibrangedash 10}
       \verb{doi}
-      \verb 10.1186/s13045-016-0251-8
+      \verb 10.1016/j.drudis.2015.07.008
+      \endverb
+      \verb{file}
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, Nielsen, Clausen - 2016 - Small-molecule kinase inhibitors An analysis of FDA-approved drugs.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1186/s13045-016-0251-8
+      \verb http://dx.doi.org/10.1016/j.drudis.2015.07.008
       \endverb
     \endentry
     \entry{Burrell2014}{article}{}
@@ -17724,6 +17745,9 @@
       \field{volume}{12}
       \field{year}{2012}
       \field{pages}{237\bibrangedash 251}
+      \verb{doi}
+      \verb 10.1038/nrc3237
+      \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc3237
       \endverb
@@ -18138,37 +18162,37 @@
     \endentry
     \entry{Chen2012}{article}{}
       \name{labelname}{3}{}{%
-        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{hash=e68812ef39031c269522ef59a77d9a06}{Chen}{C\bibinitperiod}{Bin}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f0fc7ccc30c05c346877b314d03cb921}{Ding}{D\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=314960cd3d7d9e1d8e9a92e861eae2a8}{Wild}{W\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2c4bfa74438375d33a1219e0dfc48f45}{Chen}{C\bibinitperiod}{Xing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0a7c9171bd98db8621d2079c14e058ae}{Liu}{L\bibinitperiod}{Ming-Xi}{M\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=61bf10d3ca688f3db0324f3b160529e2}{Yan}{Y\bibinitperiod}{Gui-Ying}{G\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{4feb7ae55bf5bd9f4e1765d402755aa1}
-      \strng{fullhash}{4feb7ae55bf5bd9f4e1765d402755aa1}
+      \strng{namehash}{070f2a7cf49e935249d284e3c21b8e9e}
+      \strng{fullhash}{070f2a7cf49e935249d284e3c21b8e9e}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{Assessing drug target association using semantic linked data.}}
-      \field{abstract}{The rapidly increasing amount of public data in chemistry and biology provides new opportunities for large-scale data mining for drug discovery. Systematic integration of these heterogeneous sets and provision of algorithms to data mine the integrated sets would permit investigation of complex mechanisms of action of drugs. In this work we integrated and annotated data from public datasets relating to drugs, chemical compounds, protein targets, diseases, side effects and pathways, building a semantic linked network consisting of over 290,000 nodes and 720,000 edges. We developed a statistical model to assess the association of drug target pairs based on their relation with other linked objects. Validation experiments demonstrate the model can correctly identify known direct drug target pairs with high precision. Indirect drug target pairs (for example drugs which change gene expression level) are also identified but not as strongly as direct pairs. We further calculated the association scores for 157 drugs from 10 disease areas against 1683 human targets, and measured their similarity using a [Formula: see text] score matrix. The similarity network indicates that drugs from the same disease area tend to cluster together in ways that are not captured by structural similarity, with several potential new drug pairings being identified. This work thus provides a novel, validated alternative to existing drug target prediction algorithms. The web service is freely available at: http://chem2bio2rdf.org/slap.}
-      \field{issn}{1553-7358}
-      \field{journaltitle}{PLoS computational biology}
+      \field{labeltitle}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
+      \field{abstract}{Predicting potential drug-target interactions from heterogeneous biological data is critical not only for better understanding of the various interactions and biological processes, but also for the development of novel drugs and the improvement of human medicines. In this paper, the method of Network-based Random Walk with Restart on the Heterogeneous network (NRWRH) is developed to predict potential drug-target interactions on a large scale under the hypothesis that similar drugs often target similar target proteins and the framework of Random Walk. Compared with traditional supervised or semi-supervised methods, NRWRH makes full use of the tool of the network for data integration to predict drug-target associations. It integrates three different networks (protein-protein similarity network, drug-drug similarity network, and known drug-target interaction networks) into a heterogeneous network by known drug-target interactions and implements the random walk on this heterogeneous network. When applied to four classes of important drug-target interactions including enzymes, ion channels, GPCRs and nuclear receptors, NRWRH significantly improves previous methods in terms of cross-validation and potential drug-target interaction prediction. Excellent performance enables us to suggest a number of new potential drug-target interactions for drug development.}
+      \field{issn}{1742-2051}
+      \field{journaltitle}{Molecular bioSystems}
       \field{month}{07}
       \field{number}{7}
-      \field{title}{{Assessing drug target association using semantic linked data.}}
+      \field{title}{{Drug-target interaction prediction by random walk on the heterogeneous network.}}
       \field{volume}{8}
       \field{year}{2012}
-      \field{pages}{e1002574}
+      \field{pages}{1970\bibrangedash 8}
       \verb{doi}
-      \verb 10.1371/journal.pcbi.1002574
+      \verb 10.1039/c2mb00002d
       \endverb
       \verb{file}
-      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Ding, Wild - 2012 - Assessing drug target association using semantic linked data.pdf:pdf
+      \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Chen, Liu, Yan - 2012 - Drug-target interaction prediction by random walk on the heterogeneous network.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3390390%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/22538619
       \endverb
     \endentry
     \entry{Huang2013a}{article}{}

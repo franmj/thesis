@@ -5,47 +5,46 @@
 \BOOKMARK [1][-]{section*.6}{Index of figures}{}% 5
 \BOOKMARK [1][-]{section*.7}{List of tables}{}% 6
 \BOOKMARK [1][-]{section*.8}{List of publications}{}% 7
-\BOOKMARK [1][-]{section*.9}{Summary}{}% 8
-\BOOKMARK [1][-]{section*.10}{Introduction}{}% 9
-\BOOKMARK [2][-]{subsection.1.1.1}{Protein are essential molecules}{section*.10}% 10
-\BOOKMARK [3][-]{subsubsection.1.1.1.1}{Protein structure}{subsection.1.1.1}% 11
-\BOOKMARK [3][-]{subsubsection.1.1.1.2}{Protein Structure Determination}{subsection.1.1.1}% 12
-\BOOKMARK [3][-]{subsubsection.1.1.1.3}{Protein Structure Prediction}{subsection.1.1.1}% 13
-\BOOKMARK [3][-]{subsubsection.1.1.1.4}{Homology modeling}{subsection.1.1.1}% 14
-\BOOKMARK [3][-]{subsubsection.1.1.1.5}{Protein function}{subsection.1.1.1}% 15
-\BOOKMARK [3][-]{subsubsection.1.1.1.6}{Protein-Ligand Interactions}{subsection.1.1.1}% 16
-\BOOKMARK [3][-]{subsubsection.1.1.1.7}{Protein-ligand binding energetics}{subsection.1.1.1}% 17
-\BOOKMARK [3][-]{subsubsection.1.1.1.8}{Protein-ligand prediction}{subsection.1.1.1}% 18
-\BOOKMARK [3][-]{subsubsection.1.1.1.9}{Comparative docking approach}{subsection.1.1.1}% 19
-\BOOKMARK [2][-]{subsection.1.1.2}{Drug discovery}{section*.10}% 20
-\BOOKMARK [3][-]{subsubsection.1.1.2.1}{Computational drug discovery}{subsection.1.1.2}% 21
-\BOOKMARK [2][-]{subsection.1.1.3}{Drug discovery in Tuberculosis}{section*.10}% 22
-\BOOKMARK [3][-]{subsubsection.1.1.3.1}{Research strategies against MTB.}{subsection.1.1.3}% 23
-\BOOKMARK [3][-]{subsubsection.1.1.3.2}{In-silico approaches in TB}{subsection.1.1.3}% 24
-\BOOKMARK [2][-]{subsection.1.1.4}{Targeted cancer therapies}{section*.10}% 25
-\BOOKMARK [3][-]{subsubsection.1.1.4.1}{Monoclonal antibodies}{subsection.1.1.4}% 26
-\BOOKMARK [3][-]{subsubsection.1.1.4.2}{Small molecule kinase inhibitors}{subsection.1.1.4}% 27
-\BOOKMARK [3][-]{subsubsection.1.1.4.3}{Resistance to targeted cancer therapies}{subsection.1.1.4}% 28
-\BOOKMARK [2][-]{subsection.1.1.5}{Motivation}{section*.10}% 29
-\BOOKMARK [1][-]{section.1.2}{Objectives}{}% 30
-\BOOKMARK [1][-]{section.1.3}{Results}{}% 31
-\BOOKMARK [2][-]{subsection.1.3.1}{Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{section.1.3}% 32
-\BOOKMARK [2][-]{subsection.1.3.2}{Target Prediction for an Open Acess Set of Compounds Active against Mycobacterium tuberculosis}{section.1.3}% 33
-\BOOKMARK [2][-]{subsection.1.3.3}{Rational design of non-resistant targeted cancer therapies}{section.1.3}% 34
-\BOOKMARK [1][-]{section.1.4}{Discussion}{}% 35
-\BOOKMARK [2][-]{subsection.1.4.1}{nAnnolyze: predicting large scale, structurally detailed ligand-target interaction using a network-based representation}{section.1.4}% 36
-\BOOKMARK [3][-]{subsubsection.1.4.1.1}{Main findings}{subsection.1.4.1}% 37
-\BOOKMARK [3][-]{subsubsection.1.4.1.2}{Impact of the presented research}{subsection.1.4.1}% 38
-\BOOKMARK [3][-]{subsubsection.1.4.1.3}{Limitations}{subsection.1.4.1}% 39
-\BOOKMARK [3][-]{subsubsection.1.4.1.4}{Future perspectives}{subsection.1.4.1}% 40
-\BOOKMARK [2][-]{subsection.1.4.2}{Target prediction for two set of compounds active against MTB}{section.1.4}% 41
-\BOOKMARK [3][-]{subsubsection.1.4.2.1}{Main findings}{subsection.1.4.2}% 42
-\BOOKMARK [3][-]{subsubsection.1.4.2.2}{Impact of the presented research}{subsection.1.4.2}% 43
-\BOOKMARK [3][-]{subsubsection.1.4.2.3}{Limitations}{subsection.1.4.2}% 44
-\BOOKMARK [3][-]{subsubsection.1.4.2.4}{Future perspectives}{subsection.1.4.2}% 45
-\BOOKMARK [2][-]{subsection.1.4.3}{Rational design of non-resistant targeted cancer therapies}{section.1.4}% 46
-\BOOKMARK [3][-]{subsubsection.1.4.3.1}{Main findings}{subsection.1.4.3}% 47
-\BOOKMARK [3][-]{subsubsection.1.4.3.2}{Impact of the presented research}{subsection.1.4.3}% 48
-\BOOKMARK [3][-]{subsubsection.1.4.3.3}{Limitations}{subsection.1.4.3}% 49
-\BOOKMARK [3][-]{subsubsection.1.4.3.4}{Future perspectives}{subsection.1.4.3}% 50
-\BOOKMARK [1][-]{section.1.5}{Conclusions}{}% 51
+\BOOKMARK [1][-]{section*.9}{Introduction}{}% 8
+\BOOKMARK [2][-]{subsection.1.1.1}{Protein are essential molecules}{section*.9}% 9
+\BOOKMARK [3][-]{subsubsection.1.1.1.1}{Protein structure}{subsection.1.1.1}% 10
+\BOOKMARK [3][-]{subsubsection.1.1.1.2}{Protein Structure Determination}{subsection.1.1.1}% 11
+\BOOKMARK [3][-]{subsubsection.1.1.1.3}{Protein Structure Prediction}{subsection.1.1.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.1.1.4}{Homology modeling}{subsection.1.1.1}% 13
+\BOOKMARK [3][-]{subsubsection.1.1.1.5}{Protein function}{subsection.1.1.1}% 14
+\BOOKMARK [3][-]{subsubsection.1.1.1.6}{Protein-Ligand Interactions}{subsection.1.1.1}% 15
+\BOOKMARK [3][-]{subsubsection.1.1.1.7}{Protein-ligand binding energetics}{subsection.1.1.1}% 16
+\BOOKMARK [3][-]{subsubsection.1.1.1.8}{Protein-ligand prediction}{subsection.1.1.1}% 17
+\BOOKMARK [3][-]{subsubsection.1.1.1.9}{Comparative docking approach}{subsection.1.1.1}% 18
+\BOOKMARK [2][-]{subsection.1.1.2}{Drug discovery}{section*.9}% 19
+\BOOKMARK [3][-]{subsubsection.1.1.2.1}{Computational drug discovery}{subsection.1.1.2}% 20
+\BOOKMARK [2][-]{subsection.1.1.3}{Drug discovery in Tuberculosis}{section*.9}% 21
+\BOOKMARK [3][-]{subsubsection.1.1.3.1}{Research strategies against MTB.}{subsection.1.1.3}% 22
+\BOOKMARK [3][-]{subsubsection.1.1.3.2}{In-silico approaches in TB}{subsection.1.1.3}% 23
+\BOOKMARK [2][-]{subsection.1.1.4}{Targeted cancer therapies}{section*.9}% 24
+\BOOKMARK [3][-]{subsubsection.1.1.4.1}{Monoclonal antibodies}{subsection.1.1.4}% 25
+\BOOKMARK [3][-]{subsubsection.1.1.4.2}{Small molecule kinase inhibitors}{subsection.1.1.4}% 26
+\BOOKMARK [3][-]{subsubsection.1.1.4.3}{Resistance to targeted cancer therapies}{subsection.1.1.4}% 27
+\BOOKMARK [2][-]{subsection.1.1.5}{Motivation}{section*.9}% 28
+\BOOKMARK [1][-]{section.1.2}{Objectives}{}% 29
+\BOOKMARK [1][-]{section.1.3}{Results}{}% 30
+\BOOKMARK [2][-]{subsection.1.3.1}{Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{section.1.3}% 31
+\BOOKMARK [2][-]{subsection.1.3.2}{Target Prediction for two Open Acess Sets of Compounds Active against Mycobacterium tuberculosis}{section.1.3}% 32
+\BOOKMARK [2][-]{subsection.1.3.3}{Rational design of non-resistant targeted cancer therapies}{section.1.3}% 33
+\BOOKMARK [1][-]{section.1.4}{Discussion}{}% 34
+\BOOKMARK [2][-]{subsection.1.4.1}{nAnnolyze: predicting large scale, structurally detailed ligand-target interaction using a network-based representation}{section.1.4}% 35
+\BOOKMARK [3][-]{subsubsection.1.4.1.1}{Main findings}{subsection.1.4.1}% 36
+\BOOKMARK [3][-]{subsubsection.1.4.1.2}{Impact of the presented research}{subsection.1.4.1}% 37
+\BOOKMARK [3][-]{subsubsection.1.4.1.3}{Limitations}{subsection.1.4.1}% 38
+\BOOKMARK [3][-]{subsubsection.1.4.1.4}{Future perspectives}{subsection.1.4.1}% 39
+\BOOKMARK [2][-]{subsection.1.4.2}{Target prediction for two set of compounds active against MTB}{section.1.4}% 40
+\BOOKMARK [3][-]{subsubsection.1.4.2.1}{Main findings}{subsection.1.4.2}% 41
+\BOOKMARK [3][-]{subsubsection.1.4.2.2}{Impact of the presented research}{subsection.1.4.2}% 42
+\BOOKMARK [3][-]{subsubsection.1.4.2.3}{Limitations}{subsection.1.4.2}% 43
+\BOOKMARK [3][-]{subsubsection.1.4.2.4}{Future perspectives}{subsection.1.4.2}% 44
+\BOOKMARK [2][-]{subsection.1.4.3}{Rational design of non-resistant targeted cancer therapies}{section.1.4}% 45
+\BOOKMARK [3][-]{subsubsection.1.4.3.1}{Main findings}{subsection.1.4.3}% 46
+\BOOKMARK [3][-]{subsubsection.1.4.3.2}{Impact of the presented research}{subsection.1.4.3}% 47
+\BOOKMARK [3][-]{subsubsection.1.4.3.3}{Limitations}{subsection.1.4.3}% 48
+\BOOKMARK [3][-]{subsubsection.1.4.3.4}{Future perspectives}{subsection.1.4.3}% 49
+\BOOKMARK [1][-]{section.1.5}{Conclusions}{}% 50
