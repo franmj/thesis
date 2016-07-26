@@ -80,7 +80,6 @@
       <file>thesis.bcf</file>
     </requires>
     <requires type="editable">
-      <file>../bibliography/bibliography_tesis.bib</file>
       <file>../bibliography/library.bib</file>
     </requires>
   </external>

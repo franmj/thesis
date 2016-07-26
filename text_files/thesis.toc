@@ -50,56 +50,56 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{37}{subsubsection.1.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Targeted cancer therapies}{40}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.4}Targeted cancer therapy}{40}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.4.1}Monoclonal antibodies}{41}{subsubsection.1.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{43}{subsubsection.1.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{42}{subsubsection.1.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{52}{subsubsection.1.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{51}{subsubsection.1.1.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Motivation}{55}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.5}Motivation}{54}{subsection.1.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Objectives}{56}{section.1.2}
+\contentsline {section}{\numberline {2}Objectives}{55}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Results}{58}{section.1.3}
+\contentsline {section}{\numberline {3}Results}{57}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{58}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.1}Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{57}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Target Prediction for two Open Acess Sets of Compounds Active against \textit {Mycobacterium tuberculosis}}{59}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.2}Target Prediction for two Open Acess Sets of Compounds Active against \textit {Mycobacterium tuberculosis}}{58}{subsection.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Rational design of non-resistant targeted cancer therapies}{60}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {3.3}Rational design of non-resistant targeted cancer therapies}{59}{subsection.1.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Discussion}{61}{section.1.4}
+\contentsline {section}{\numberline {4}Discussion}{60}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}nAnnolyze: predicting large scale, structurally detailed ligand-target interaction using a network-based representation}{62}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.1}nAnnolyze: predicting large scale and structurally detailed ligand-target interaction using a network-based representation}{61}{subsection.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1}Main findings}{62}{subsubsection.1.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Main findings}{61}{subsubsection.1.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.2}Impact of the presented research}{62}{subsubsection.1.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2}Impact of the presented research}{61}{subsubsection.1.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3}Limitations}{63}{subsubsection.1.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3}Limitations}{62}{subsubsection.1.4.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.4}Future perspectives}{64}{subsubsection.1.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.4}Future perspectives}{63}{subsubsection.1.4.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Target prediction for two set of compounds active against MTB}{65}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {4.2}Target prediction for two set of compounds active against MTB}{64}{subsection.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.1}Main findings}{65}{subsubsection.1.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1}Main findings}{64}{subsubsection.1.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2}Impact of the presented research}{66}{subsubsection.1.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2}Impact of the presented research}{65}{subsubsection.1.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3}Limitations}{67}{subsubsection.1.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3}Limitations}{66}{subsubsection.1.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{68}{subsubsection.1.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{67}{subsubsection.1.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{69}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{68}{subsection.1.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{69}{subsubsection.1.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{68}{subsubsection.1.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{69}{subsubsection.1.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{68}{subsubsection.1.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{69}{subsubsection.1.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{68}{subsubsection.1.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{69}{subsubsection.1.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{68}{subsubsection.1.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusions}{70}{section.1.5}
+\contentsline {section}{\numberline {5}Conclusions}{69}{section.1.5}

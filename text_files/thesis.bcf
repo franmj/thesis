@@ -1938,7 +1938,6 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex">../bibliography/bibliography_tesis.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">../bibliography/library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
@@ -2069,6 +2068,7 @@
     <bcf:citekey order="99">Wass2010</bcf:citekey>
     <bcf:citekey order="99">Capra2009</bcf:citekey>
     <bcf:citekey order="99">Kalinina2011</bcf:citekey>
+    <bcf:citekey order="99">Marti-Renom2007</bcf:citekey>
     <bcf:citekey order="100">Marti-Renom2007</bcf:citekey>
     <bcf:citekey order="101">Drews2000</bcf:citekey>
     <bcf:citekey order="101">Patrick2001</bcf:citekey>
@@ -2084,7 +2084,7 @@
     <bcf:citekey order="110">Scannell2012</bcf:citekey>
     <bcf:citekey order="111">Sliwoski2014</bcf:citekey>
     <bcf:citekey order="112">Yang2009</bcf:citekey>
-    <bcf:citekey order="113">predict</bcf:citekey>
+    <bcf:citekey order="113">Gottlieb2011</bcf:citekey>
     <bcf:citekey order="113">Zhang2011</bcf:citekey>
     <bcf:citekey order="113">YutakaFukuoka2013</bcf:citekey>
     <bcf:citekey order="114">Raman2008</bcf:citekey>
