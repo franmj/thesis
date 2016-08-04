@@ -1,56 +1,105 @@
-\select@language {english}
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
 \select@language {spanish}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\select@language {spanish}
+\contentsline {section}{Acknowledgments}{\es@scroman {i}}{section*.1}
 \defcounter {refsection}{0}\relax 
-\select@language {english}
+\contentsline {section}{Abstract}{\es@scroman {ii}}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index of figures}{\es@scroman {xiv}}{chapter*.4}
+\contentsline {section}{Resumen}{\es@scroman {ii}}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of tables}{\es@scroman {xv}}{chapter*.5}
+\contentsline {section}{Preface}{\es@scroman {iii}}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {1.\hfil }\MakeUppercase {Introduction}}{3}{chapter.1}
+\contentsline {section}{Index of figures}{\es@scroman {viii}}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Protein are essential molecules}{3}{section.1.1}
+\contentsline {section}{List of tables}{\es@scroman {ix}}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Protein structure}{4}{subsection.1.1.1}
+\contentsline {section}{List of publications}{\es@scroman {x}}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein Structure Determination}{6}{section*.10}
+\contentsline {section}{Introduction}{1}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein Structure Prediction}{11}{section*.12}
+\contentsline {subsection}{\numberline {1.1}Protein are essential molecules}{1}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Homology modeling}{11}{section*.13}
+\contentsline {subsubsection}{\numberline {1.1.1}Protein structure}{2}{subsubsection.1.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Protein function}{15}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2}Protein Structure Determination}{5}{subsubsection.1.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Protein-Ligand Interactions}{16}{subsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.3}Protein Structure Prediction}{10}{subsubsection.1.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein-ligand binding energetics}{17}{section*.18}
+\contentsline {subsubsection}{\numberline {1.1.4}Homology modeling}{10}{subsubsection.1.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Protein-ligand prediction}{20}{section*.19}
+\contentsline {subsubsection}{\numberline {1.1.5}Protein function}{16}{subsubsection.1.1.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Drug discovery}{22}{section.1.2}
+\contentsline {subsubsection}{\numberline {1.1.6}Protein-Ligand Interactions}{17}{subsubsection.1.1.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Computational drug discovery}{25}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.7}Protein-ligand binding energetics}{18}{subsubsection.1.1.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Drug discovery in Tuberculosis}{27}{section.1.3}
+\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction}{22}{subsubsection.1.1.1.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Research strategies against MTB.}{30}{subsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{24}{subsubsection.1.1.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{In-silico approaches in TB}{31}{section*.23}
+\contentsline {subsection}{\numberline {1.2}Drug discovery}{25}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Targeted cancer therapies}{31}{section.1.4}
+\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{29}{subsubsection.1.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Resistance to targeted cancer therapies}{33}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.3}Drug discovery in Tuberculosis}{33}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {2.\hfil }\MakeUppercase {Objectives}}{35}{chapter.2}
+\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{36}{subsubsection.1.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {3.\hfil }\MakeUppercase {nAnnolyze}}{37}{chapter.3}
+\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{37}{subsubsection.1.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {4.\hfil }\MakeUppercase {Predicting targets in MTB}}{39}{chapter.4}
+\contentsline {subsection}{\numberline {1.4}Targeted cancer therapy}{40}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{CHAPTER \hbox to\@tempdima {5.\hfil }\MakeUppercase {Drug resistance in cancer}}{41}{chapter.5}
+\contentsline {subsubsection}{\numberline {1.4.1}Monoclonal antibodies}{41}{subsubsection.1.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{42}{subsubsection.1.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{51}{subsubsection.1.1.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5}Motivation}{54}{subsection.1.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Objectives}{55}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Results}{57}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{57}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Target Prediction for two Open Acess Sets of Compounds Active against \textit {Mycobacterium tuberculosis}}{58}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Rational design of non-resistant targeted cancer therapies}{59}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Discussion}{60}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}nAnnolyze: predicting large scale and structurally detailed ligand-target interaction using a network-based representation}{61}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1}Main findings}{61}{subsubsection.1.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.2}Impact of the presented research}{61}{subsubsection.1.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3}Limitations}{62}{subsubsection.1.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.4}Future perspectives}{63}{subsubsection.1.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Target prediction for two set of compounds active against MTB}{64}{subsection.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}Main findings}{64}{subsubsection.1.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Impact of the presented research}{65}{subsubsection.1.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3}Limitations}{66}{subsubsection.1.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{67}{subsubsection.1.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{68}{subsection.1.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{68}{subsubsection.1.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{68}{subsubsection.1.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{68}{subsubsection.1.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{68}{subsubsection.1.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusions}{69}{section.1.5}

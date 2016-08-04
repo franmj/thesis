@@ -1,3 +1,4 @@
+%%
 %% This is file `book.cls',
 %% generated with the docstrip utility.
 %%
@@ -132,7 +133,6 @@
 \setlength\normallineskip{1\p@}
 \renewcommand\baselinestretch{}
 \setlength\parskip{0\p@ \@plus \p@}
-
 \@lowpenalty   51
 \@medpenalty  151
 \@highpenalty 301
@@ -637,7 +637,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\contentsname
+    \section*{\contentsname
         \@mkboth{%
            \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
     \@starttoc{toc}%
@@ -684,7 +684,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\listfigurename}%
+    \section*{\listfigurename}%
       \@mkboth{\MakeUppercase\listfigurename}%
               {\MakeUppercase\listfigurename}%
     \@starttoc{lof}%
@@ -697,7 +697,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\listtablename}%
+    \section*{\listtablename}%
       \@mkboth{%
           \MakeUppercase\listtablename}%
          {\MakeUppercase\listtablename}%
@@ -708,7 +708,7 @@
 \newdimen\bibindent
 \setlength\bibindent{1.5em}
 \newenvironment{thebibliography}[1]
-     {\chapter*{\bibname}%
+     {\section*{\bibname}%
       \@mkboth{\MakeUppercase\bibname}{\MakeUppercase\bibname}%
       \list{\@biblabel{\@arabic\c@enumiv}}%
            {\settowidth\labelwidth{\@biblabel{#1}}%
@@ -766,59 +766,6 @@
 \newcommand\partname{Part}
 \newcommand\chaptername{Chapter}
 \newcommand\appendixname{Appendix}
-\renewcommand\chapter{\if@openright\cleardoublepage\else\clearpage\fi
-                    \thispagestyle{plain}%
-                    \global\@topnum\z@
-                    \@afterindentfalse
-                    \secdef\@chapter\@schapter}
-\def\@chapter[#1]#2{%
-  \ifnum \c@secnumdepth >\m@ne
-    \refstepcounter{chapter}%
-    \typeout{\@chapapp\space\thechapter.}%
-    \addcontentsline{toc}{chapter}{%
-      \texorpdfstring {CHAPTER }{}%
-      \numberline{\thechapter}%
-      \texorpdfstring\MakeUppercase{}{#1}}%
-  \else
-    \addcontentsline{toc}{chapter}{\MakeUppercase{#1}}%
-  \fi
-  \chaptermark{#1}%changes added by waqas (added {}{}
-  \addtocontents{lof}{\protect\addvspace{10\p@}{}{}}%
-  \addtocontents{lot}{\protect\addvspace{10\p@}{}{}}%
-  \if@twocolumn
-    \@topnewpage[\@makechapterhead{#2}]%
-  \else
-    \@makechapterhead{#2}%
-    \@afterheading
-  \fi
-}
-
-\def\@makechapterhead#1{%
-  \vspace*{50\p@}%
-  {\parindent \z@ \raggedright \normalfont
-    \ifnum \c@secnumdepth >\m@ne
-  \centering \Large \bfseries \MakeUppercase{\@chapapp}\space \thechapter
-        \par\nobreak
-        \vskip 20\p@
-    \fi
-    \interlinepenalty\@M
-    \Huge \bfseries \MakeUppercase{#1}\par\nobreak
-    \vskip 40\p@
-  }}
-\def\@schapter#1{\if@twocolumn
-                   \@topnewpage[\@makeschapterhead{#1}]%
-                 \else
-                   \@makeschapterhead{#1}%
-                   \@afterheading
-                 \fi}
-\def\@makeschapterhead#1{%
-  \vspace*{50\p@}%
-  {\parindent \z@ \raggedright
-    \normalfont
-    \interlinepenalty\@M
-    \Huge \bfseries  #1\par\nobreak
-    \vskip 40\p@
-  }}
 \def\today{\ifcase\month\or
   January\or February\or March\or April\or May\or June\or
   July\or August\or September\or October\or November\or December\fi
