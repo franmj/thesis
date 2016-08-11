@@ -44,6 +44,30 @@
       \verb https://books.google.es/books?id=cMMgypIrxocC
       \endverb
     \endentry
+    \entry{alberts2008molecular}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b003dd2590c790acce895932a9e3285}{Alberts}{A\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b003dd2590c790acce895932a9e3285}{Alberts}{A\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Garland Science}%
+      }
+      \strng{namehash}{7b003dd2590c790acce895932a9e3285}
+      \strng{fullhash}{7b003dd2590c790acce895932a9e3285}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Molecular Biology of the Cell}}
+      \field{isbn}{9780815341116}
+      \field{number}{v. 1}
+      \field{series}{Molecular Biology of the Cell: Reference Edition}
+      \field{title}{{Molecular Biology of the Cell}}
+      \field{year}{2008}
+      \verb{url}
+      \verb https://books.google.es/books?id=iepqmRfP3ZoC
+      \endverb
+    \endentry
     \entry{DSSP}{article}{}
       \name{labelname}{2}{}{%
         {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
@@ -748,6 +772,39 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892%20http://www.ncbi.nlm.nih.gov/pubmed/26280335%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4568306
+      \endverb
+    \endentry
+    \entry{Rost1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73de0d118c40c2c243d3753b96811aa3}{Rost}{R\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73de0d118c40c2c243d3753b96811aa3}{Rost}{R\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{d14ed708091c08e349442a0f6d7b3076}
+      \strng{fullhash}{d14ed708091c08e349442a0f6d7b3076}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Bridging the Protein Sequence-Structure Gap by Structure Predictions}}
+      \field{annotation}{doi: 10.1146/annurev.bb.25.060196.000553}
+      \field{issn}{1056-8700}
+      \field{journaltitle}{Annual Review of Biophysics and Biomolecular Structure}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Bridging the Protein Sequence-Structure Gap by Structure Predictions}}
+      \field{volume}{25}
+      \field{year}{1996}
+      \field{pages}{113\bibrangedash 136}
+      \verb{doi}
+      \verb 10.1146/annurev.bb.25.060196.000553
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.bb.25.060196.000553%20http://www.annualreviews.org/doi/abs/10.1146/annurev.bb.25.060196.000553
       \endverb
     \endentry
     \entry{Jones1992}{article}{}
@@ -4133,7 +4190,7 @@
       \verb 10.1371/journal.pcbi.1000585
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000585%20http://www.ncbi.nlm.nih.gov/pubmed/19997483%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2777313
+      \verb http://dx.doi.org/10.1371/journal.pcbi.1000585%20http://www.ncbi.nlm.nih.gov/pubmed/19997483%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2777313
       \endverb
     \endentry
     \entry{Kalinina2011}{article}{}
@@ -6150,7 +6207,7 @@
       \verb 10.1371/journal.pntd.0000804
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pntd.0000804%20http://www.ncbi.nlm.nih.gov/pubmed/20808766%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2927427
+      \verb http://dx.doi.org/10.1371/journal.pntd.0000804%20http://www.ncbi.nlm.nih.gov/pubmed/20808766%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2927427
       \endverb
     \endentry
     \entry{Ekins2010}{article}{}
@@ -6233,7 +6290,7 @@
       \verb 10.1371/journal.pcbi.1000423
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000423%20http://www.ncbi.nlm.nih.gov/pubmed/19578428%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2699117
+      \verb http://dx.doi.org/10.1371/journal.pcbi.1000423%20http://www.ncbi.nlm.nih.gov/pubmed/19578428%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2699117
       \endverb
     \endentry
     \entry{DeJonge2007}{article}{}
@@ -9393,6 +9450,30 @@
       \verb https://books.google.es/books?id=cMMgypIrxocC
       \endverb
     \endentry
+    \entry{alberts2008molecular}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b003dd2590c790acce895932a9e3285}{Alberts}{A\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b003dd2590c790acce895932a9e3285}{Alberts}{A\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Garland Science}%
+      }
+      \strng{namehash}{7b003dd2590c790acce895932a9e3285}
+      \strng{fullhash}{7b003dd2590c790acce895932a9e3285}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Molecular Biology of the Cell}}
+      \field{isbn}{9780815341116}
+      \field{number}{v. 1}
+      \field{series}{Molecular Biology of the Cell: Reference Edition}
+      \field{title}{{Molecular Biology of the Cell}}
+      \field{year}{2008}
+      \verb{url}
+      \verb https://books.google.es/books?id=iepqmRfP3ZoC
+      \endverb
+    \endentry
     \entry{DSSP}{article}{}
       \name{labelname}{2}{}{%
         {{hash=7f410e758870d5022f40f18e19d55197}{Kabsch}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
@@ -10097,6 +10178,39 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nature14892%2010.1038/nature14892%20http://www.ncbi.nlm.nih.gov/pubmed/26280335%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4568306
+      \endverb
+    \endentry
+    \entry{Rost1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73de0d118c40c2c243d3753b96811aa3}{Rost}{R\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73de0d118c40c2c243d3753b96811aa3}{Rost}{R\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=31a874f827fdd07d0136f7e2a1beb6a1}{Sander}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{d14ed708091c08e349442a0f6d7b3076}
+      \strng{fullhash}{d14ed708091c08e349442a0f6d7b3076}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Bridging the Protein Sequence-Structure Gap by Structure Predictions}}
+      \field{annotation}{doi: 10.1146/annurev.bb.25.060196.000553}
+      \field{issn}{1056-8700}
+      \field{journaltitle}{Annual Review of Biophysics and Biomolecular Structure}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{{Bridging the Protein Sequence-Structure Gap by Structure Predictions}}
+      \field{volume}{25}
+      \field{year}{1996}
+      \field{pages}{113\bibrangedash 136}
+      \verb{doi}
+      \verb 10.1146/annurev.bb.25.060196.000553
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.bb.25.060196.000553%20http://www.annualreviews.org/doi/abs/10.1146/annurev.bb.25.060196.000553
       \endverb
     \endentry
     \entry{Jones1992}{article}{}
@@ -13482,7 +13596,7 @@
       \verb 10.1371/journal.pcbi.1000585
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000585%20http://www.ncbi.nlm.nih.gov/pubmed/19997483%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2777313
+      \verb http://dx.doi.org/10.1371/journal.pcbi.1000585%20http://www.ncbi.nlm.nih.gov/pubmed/19997483%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2777313
       \endverb
     \endentry
     \entry{Kalinina2011}{article}{}
@@ -15499,7 +15613,7 @@
       \verb 10.1371/journal.pntd.0000804
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pntd.0000804%20http://www.ncbi.nlm.nih.gov/pubmed/20808766%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2927427
+      \verb http://dx.doi.org/10.1371/journal.pntd.0000804%20http://www.ncbi.nlm.nih.gov/pubmed/20808766%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2927427
       \endverb
     \endentry
     \entry{Ekins2010}{article}{}
@@ -15582,7 +15696,7 @@
       \verb 10.1371/journal.pcbi.1000423
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1371%7B%%7D2Fjournal.pcbi.1000423%20http://www.ncbi.nlm.nih.gov/pubmed/19578428%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2699117
+      \verb http://dx.doi.org/10.1371/journal.pcbi.1000423%20http://www.ncbi.nlm.nih.gov/pubmed/19578428%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2699117
       \endverb
     \endentry
     \entry{DeJonge2007}{article}{}
@@ -18716,7 +18830,6 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{thecell2008}
 \endrefsection
 \endinput
 

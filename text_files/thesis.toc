@@ -26,11 +26,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.2}Protein Structure Determination}{5}{subsubsection.1.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.3}Protein Structure Prediction}{10}{subsubsection.1.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.3}Protein Structure Prediction}{9}{subsubsection.1.1.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.4}Homology modeling}{10}{subsubsection.1.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.5}Protein function}{16}{subsubsection.1.1.1.5}
+\contentsline {subsubsection}{\numberline {1.1.5}Protein function}{15}{subsubsection.1.1.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.6}Protein-Ligand Interactions}{17}{subsubsection.1.1.1.6}
 \defcounter {refsection}{0}\relax 
@@ -38,17 +38,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction}{22}{subsubsection.1.1.1.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{24}{subsubsection.1.1.1.9}
+\contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{25}{subsubsection.1.1.1.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Drug discovery}{25}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{29}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{30}{subsubsection.1.1.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3}Drug discovery in Tuberculosis}{33}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{36}{subsubsection.1.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{37}{subsubsection.1.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{37}{subsubsection.1.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{38}{subsubsection.1.1.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.4}Targeted cancer therapy}{40}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
