@@ -12,11 +12,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Preface}{\es@scroman {iii}}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Index of figures}{\es@scroman {viii}}{section*.6}
+\contentsline {section}{Index of figures}{\es@scroman {ix}}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of tables}{\es@scroman {ix}}{section*.7}
+\contentsline {section}{List of tables}{\es@scroman {x}}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of publications}{\es@scroman {x}}{section*.8}
+\contentsline {section}{List of publications}{\es@scroman {xi}}{section*.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{1}{section*.9}
 \defcounter {refsection}{0}\relax 
@@ -36,7 +36,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.7}Protein-ligand binding energetics}{18}{subsubsection.1.1.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction}{22}{subsubsection.1.1.1.8}
+\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction\footnote {In \cref {nannolyze} we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the mentioned manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics, advantages and disadvantages of the different approaches.}}{22}{subsubsection.1.1.1.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{25}{subsubsection.1.1.1.9}
 \defcounter {refsection}{0}\relax 
