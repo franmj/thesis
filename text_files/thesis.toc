@@ -8,9 +8,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Abstract}{\es@scroman {ii}}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resumen}{\es@scroman {ii}}{section*.3}
+\contentsline {section}{Resumen}{\es@scroman {iii}}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Preface}{\es@scroman {iii}}{section*.4}
+\contentsline {section}{Preface}{\es@scroman {iv}}{section*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Index of figures}{\es@scroman {ix}}{section*.6}
 \defcounter {refsection}{0}\relax 
