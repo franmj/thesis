@@ -12,11 +12,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Preface}{\es@scroman {iv}}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Index of figures}{\es@scroman {ix}}{section*.6}
+\contentsline {section}{Index of figures}{\es@scroman {xi}}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of tables}{\es@scroman {x}}{section*.7}
+\contentsline {section}{List of tables}{\es@scroman {xii}}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of publications}{\es@scroman {xi}}{section*.8}
+\contentsline {section}{List of publications}{\es@scroman {xiii}}{section*.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{1}{section*.9}
 \defcounter {refsection}{0}\relax 
