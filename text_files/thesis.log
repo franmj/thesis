@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  7 SEP 2016 11:33
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  7 SEP 2016 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1439,7 +1439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#1| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#1| 
  []
 
 [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
@@ -1450,12 +1450,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#2| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#2| 
  []
 
 [2 <../figures/logo_upf.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#3| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#3| 
  []
 
 [3
@@ -1471,7 +1471,7 @@ been already used, duplicate ignored
 l.110 \clearpage
                 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#4| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#4| 
  []
 
 [1
@@ -1483,7 +1483,7 @@ s been already used, duplicate ignored
 l.123 
       
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#5| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#5| 
  []
 
 [2
@@ -1495,7 +1495,7 @@ as been already used, duplicate ignored
 l.131 \clearpage
                 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#6| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#6| 
  []
 
 [3]
@@ -1503,19 +1503,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#7| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#7| 
  []
 
 [4
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#8| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#8| 
  []
 
 [5]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#9| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#9| 
  []
 
 [6
@@ -1527,7 +1527,7 @@ LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#10| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#10| 
  []
 
 [7
@@ -1539,7 +1539,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#11| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#11| 
  []
 
 [8]
@@ -1556,7 +1556,7 @@ ive
 No file thesis.ind.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#12| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#12| 
  []
 
 [9] (./thesis.lof
@@ -1569,7 +1569,7 @@ LaTeX Info: Redefining \% on input line 3.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#13| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#13| 
  []
 
 [10
@@ -1584,7 +1584,7 @@ LaTeX Info: Redefining \% on input line 3.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#14| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#14| 
  []
 
 [11
@@ -1607,7 +1607,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 190--191
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page[]#15| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page[]#15| 
  []
 
 [12
@@ -1617,14 +1617,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 238.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page1#16| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page1#16| 
  []
 
 [1
 
 
 ]
-<../figures/protein_structure_levels_en.png, id=382, 250.9375pt x 437.635pt>
+<../figures/protein_structure_levels_en.png, id=381, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
@@ -1642,14 +1642,14 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 254.
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 254--254
-[]\OT1/ptm/m/n/8 Figure 1.1: |Hi-er-ar-chi-cal dis-tri-bu-tion of lay-ers in pr
-o-tein struc-ture. Photo Credit: Mar-i-ana Ruiz Vil-lar-real
+[]\OT1/ptm/m/n/10 Figure 1.1: |Hi-er-ar-chi-cal dis-tri-bu-tion of lay-ers in p
+ro-tein struc-ture. Photo Credit: Mar-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 254--254
-\OT1/ptm/m/n/8 ([]$\OT1/pcr/m/n/8 https : / / commons . wikimedia . org / wiki 
-/ File : Main _ protein _ structure _ levels _
+\OT1/ptm/m/n/10 i-ana Ruiz Vil-lar-real ([]$\OT1/pcr/m/n/10 https : / / commons
+ . wikimedia . org / wiki / File :
  []
 
 
@@ -1657,16 +1657,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page2#17| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page2#17| 
  []
 
 [2]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page3#18| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page3#18| 
  []
 
 [3 <../figures/protein_structure_levels_en.png>]
-<../figures/structure_vs_sequence.png, id=406, 451.6875pt x 432.61626pt>
+<../figures/structure_vs_sequence.png, id=405, 451.6875pt x 432.61626pt>
 File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
@@ -1680,17 +1680,26 @@ Underfull \hbox (badness 2302) in paragraph at lines 263--264
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 265--265
-[]\OT1/ptm/m/n/8 Figure 1.2: |The orig-i-nal plot of the re-la-tion of residue 
-iden-tity and the RMSD de-vi-a-tion of the back-bone
+[]\OT1/ptm/m/n/10 Figure 1.2: |The orig-i-nal plot of the re-la-tion of residue
+ iden-tity and the RMSD de-vi-a-
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+\OT1/ptm/m/n/10 tion of the back-bone atoms of the com-mon cores of 32 pairs of
+ ho-mol-o-gous pro-teins.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page4#19| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page4#19| 
  []
 
 [4 <../figures/structure_vs_sequence.png>]
-<../figures/pdbs_per_year.pdf, id=428, 578.16pt x 433.62pt>
+<../figures/pdbs_per_year.pdf, id=426, 578.16pt x 433.62pt>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
@@ -1701,7 +1710,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--278
  []\OT1/ptm/m/n/10 (a)|| 
  []
 
-<../figures/pie_smethods.pdf, id=429, 731.73375pt x 517.935pt>
+<../figures/pie_smethods.pdf, id=427, 731.73375pt x 517.935pt>
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
@@ -1714,31 +1723,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--283
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 286--286
-[]\OT1/ptm/m/n/8 Figure 1.3: |a) Growth of re-leased struc-tures per year. Data
- ex-tracted from PDB. b) Pie chart with the
+[]\OT1/ptm/m/n/10 Figure 1.3: |a) Growth of re-leased struc-tures per year. Dat
+a ex-tracted from PDB. b)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\OT1/ptm/m/n/10 Pie chart with the perc-etange of struc-tures de-ter-mined by t
+he dif-fer-ent meth-ods. Data
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page5#20| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page5#20| 
  []
 
 [5]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page6#21| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page6#21| 
  []
 
 [6 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page7#22| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page7#22| 
  []
 
 [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page8#23| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page8#23| 
  []
 
 [8] <../figures/workflow.jpg, id=536, 322.20375pt x 320.99925pt>
@@ -1748,47 +1760,68 @@ File: ../figures/workflow.jpg Graphic file (type jpg)
 Package pdftex.def Info: ../figures/workflow.jpg used on input line 322.
 (pdftex.def)             Requested size: 322.20296pt x 320.99846pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/10 Figure 1.4: |Work-flow in com-par-a-tive pro-tein struc-ture 
+mod-el-ing. The fig-ure has been
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page9#24| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page9#24| 
  []
 
 [9]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page10#25| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page10#25| 
  []
 
 [10 <../figures/workflow.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page11#26| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page11#26| 
  []
 
 [11]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page12#27| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page12#27| 
  []
 
-[12] <../figures/homology_plot.pdf, id=611, 895.345pt x 575.14874pt>
+[12] <../figures/homology_plot.pdf, id=606, 895.345pt x 575.14874pt>
 File: ../figures/homology_plot.pdf Graphic file (type pdf)
 
 <use ../figures/homology_plot.pdf>
 Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 348.
 (pdftex.def)             Requested size: 313.37544pt x 201.30507pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\OT1/ptm/m/n/10 Figure 1.5: |Ho-mol-ogy thresh-old curve as a func-tion of al
+ign-ment length. Data ex-
+ []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page13#28| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page13#28| 
  []
 
 [13 <../figures/homology_plot.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+[]\OT1/ptm/m/n/10 Table 1.1: |Ex-am-ples of pub-lic pro-tein mod-el-ing tools a
+long-side their web-site and
+ []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page14#29| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page14#29| 
  []
 
 [14]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page15#30| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page15#30| 
  []
 
-[15] <../figures/lock_key_model.jpg, id=723, 447.6725pt x 76.285pt>
+[15] <../figures/lock_key_model.jpg, id=719, 447.6725pt x 76.285pt>
 File: ../figures/lock_key_model.jpg Graphic file (type jpg)
 
 <use ../figures/lock_key_model.jpg>
@@ -1806,7 +1839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 409--409
  the
  []
 
-<../figures/induce_fit_model.jpg, id=724, 447.6725pt x 68.255pt>
+<../figures/induce_fit_model.jpg, id=720, 447.6725pt x 68.255pt>
 File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
 
 <use ../figures/induce_fit_model.jpg>
@@ -1830,7 +1863,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--415
 \OT1/ptm/m/n/10 matches the bind-ing site. The lig-and bind-ings causes some
  []
 
-<../figures/mwc_model.jpg, id=725, 493.845pt x 131.49126pt>
+<../figures/mwc_model.jpg, id=721, 493.845pt x 131.49126pt>
 File: ../figures/mwc_model.jpg Graphic file (type jpg)
 
 <use ../figures/mwc_model.jpg>
@@ -1861,22 +1894,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--421
  []
 
 
-Underfull \vbox (badness 2027) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]\OT1/ptm/m/n/10 Figure 1.6: |Schematic rep-re-sen-ta-tion of the three clas-s
+ic protein-ligand bind-ing the-o-
+ []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page16#31| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page16#31| 
  []
 
 [16]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page17#32| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page17#32| 
  []
 
 [17 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
 es/mwc_model.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page18#33| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page18#33| 
  []
 
 [18]
@@ -1889,11 +1925,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\new@ifnextchar' on input line 456.
 
 
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page19#34| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page19#34| 
  []
 
-[19] <../figures/type_of_methods.pdf, id=812, 731.73375pt x 517.935pt>
+[19] <../figures/type_of_methods.pdf, id=807, 731.73375pt x 517.935pt>
 File: ../figures/type_of_methods.pdf Graphic file (type pdf)
 
 <use ../figures/type_of_methods.pdf>
@@ -1902,46 +1941,43 @@ Package pdftex.def Info: ../figures/type_of_methods.pdf used on input line 464.
 (pdftex.def)             Requested size: 350.5364pt x 248.11598pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 466--466
-[]\OT1/ptm/m/n/8 Figure 1.7: |Clas-si-fi-ca-tion of the meth-ods for ligand-tar
-get in-ter-ac-tion pre-dic-tion along-side their ad-van-tages
+[]\OT1/ptm/m/n/10 Figure 1.7: |Clas-si-fi-ca-tion of the meth-ods for ligand-ta
+rget in-ter-ac-tion pre-dic-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 466--466
-\OT1/ptm/m/n/8 and dis-ad-van-tages. The red ar-row rep-re-sent the in-crease i
-n the com-pu-ta-tional time of the cal-cu-lus needed for
+\OT1/ptm/m/n/10 along-side their ad-van-tages and dis-ad-van-tages. The red ar-
+row rep-re-sent the in-crease in
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+\OT1/ptm/m/n/10 the com-pu-ta-tional time of the cal-cu-lus needed for each pre
+-dic-tion. The green ar-row
+ []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page20#35| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page20#35| 
  []
 
 [20]
-Underfull \vbox (badness 7468) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page21#36| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page21#36| 
  []
 
-[21 <../figures/type_of_methods.pdf>]
+[21]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page22#37| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page22#37| 
  []
 
-[22]
-Underfull \vbox (badness 1308) has occurred while \output is active []
-
-
+[22 <../figures/type_of_methods.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page23#38| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page23#38| 
  []
 
-[23] <../figures/drug_discovery_phases_3.pdf, id=901, 731.73375pt x 517.935pt>
+[23] <../figures/drug_discovery_phases_3.pdf, id=894, 731.73375pt x 517.935pt>
 File: ../figures/drug_discovery_phases_3.pdf Graphic file (type pdf)
 
 <use ../figures/drug_discovery_phases_3.pdf>
@@ -1950,12 +1986,11 @@ ine 482.
 (pdftex.def)             Requested size: 497.92966pt x 352.44402pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 483--483
-[]\OT1/ptm/m/n/8 Figure 1.8: |Drug dis-cov-ery and de-vel-op-ment pipeline. For
- each stage the av-er-age cost and time are pro-vided. Post-approval times not 
-in-cluded in the
+[]\OT1/ptm/m/n/10 Figure 1.8: |Drug dis-cov-ery and de-vel-op-ment pipeline. Fo
+r each stage the av-er-age cost and time are pro-vided. Post-approval
  []
 
-<../figures/drug_discovery_evolution.jpg, id=910, 1355.0625pt x 976.64874pt>
+<../figures/drug_discovery_evolution.jpg, id=903, 1355.0625pt x 976.64874pt>
 File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
 
 <use ../figures/drug_discovery_evolution.jpg>
@@ -1964,57 +1999,67 @@ line 493.
 (pdftex.def)             Requested size: 315.48062pt x 227.38144pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 494--494
-[]\OT1/ptm/m/n/8 Figure 1.9: |Cost of de-vel-op-ing a new drug. Blue bars in-di
--cate ex-penses in clin-i-cal phases while red rep-re-
+[]\OT1/ptm/m/n/10 Figure 1.9: |Cost of de-vel-op-ing a new drug. Blue bars in-d
+i-cate ex-penses in clin-i-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 494--494
-\OT1/ptm/m/n/8 sents ex-penses in pre-clinical stages. Costs are shown in $\OT1
-/cmr/m/n/8 $$ \OT1/ptm/m/n/8 mil-lions. Data ex-tracted form: Tufts Cen-ter for
- the
+\OT1/ptm/m/n/10 cal phases while red rep-re-sents ex-penses in pre-clinical sta
+ges. Costs are shown in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 494--494
-\OT1/ptm/m/n/8 Study of Drug De-vel-op-ment ([]$\OT1/pcr/m/n/8 http : / / csdd 
-. tufts . edu / news / complete _ story / pr _ tufts _
+\OT1/cmr/m/n/10 $$ \OT1/ptm/m/n/10 mil-lions. Data ex-tracted form: Tufts Cen-t
+er for the Study of Drug De-vel-op-ment
  []
 
 
-Underfull \vbox (badness 7308) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+\OT1/ptm/m/n/10 ([]$\OT1/pcr/m/n/10 http : / / csdd . tufts . edu / news / comp
+lete _ story / pr _ tufts _ csdd _
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page24#39| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page24#39| 
  []
 
 [24]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page25#40| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page25#40| 
  []
 
 [25 <../figures/drug_discovery_phases_3.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page26#41| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page26#41| 
  []
 
-[26 <../figures/drug_discovery_evolution.jpg>]
+[26]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page27#42| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page27#42| 
  []
 
-[27]
+[27 <../figures/drug_discovery_evolution.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page28#43| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page28#43| 
  []
 
 [28]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page29#44| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page29#44| 
  []
 
 [29]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page30#45| 
+ []
+
+[30]
 Underfull \hbox (badness 1147) in paragraph at lines 525--526
 []\OT1/ptm/b/n/10.95 Fostering re-search and de-vel-op-ment by phil-an-thropic 
 do-na-tions.
@@ -2022,19 +2067,14 @@ do-na-tions.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page30#45| 
- []
-
-[30]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page31#46| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page31#46| 
  []
 
 [31]
 
 pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/map_incidence_tb.pdf, id=1056, 891.33pt x 555.07375pt>
+<../figures/map_incidence_tb.pdf, id=1049, 891.33pt x 555.07375pt>
 File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
 
 <use ../figures/map_incidence_tb.pdf>
@@ -2042,16 +2082,30 @@ Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 535
 .
 (pdftex.def)             Requested size: 315.48062pt x 196.4639pt.
 
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page32#47| 
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+[]\OT1/ptm/m/n/10 Figure 1.10: |Es-ti-mated world-wide TB in-ci-dence rates in 
+2014. Fig-ure ex-tracted from
  []
 
-[32 <../figures/map_incidence_tb.pdf>]
+
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page33#48| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page32#47| 
  []
 
-[33]
+[32]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page33#48| 
+ []
+
+[33 <../figures/map_incidence_tb.pdf>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page34#49| 
+ []
+
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 598--598
 [][]\OT1/ptm/b/n/10.95 Type of
  []
@@ -2252,36 +2306,36 @@ Underfull \vbox (badness 10000) detected at line 598
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page34#49| 
- []
-
-[34]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page35#50| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page35#50| 
  []
 
 [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page36#51| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page36#51| 
  []
 
 [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page37#52| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page37#52| 
  []
 
 [37]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page38#53| 
+ []
+
+[38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page38#53| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page39#54| 
  []
 
-[38] <../figures/kinase_structure.png, id=1213, 3198.95125pt x 2073.7475pt>
+[39] <../figures/kinase_structure.png, id=1216, 3198.95125pt x 2073.7475pt>
 File: ../figures/kinase_structure.png Graphic file (type png)
 
 <use ../figures/kinase_structure.png>
@@ -2290,48 +2344,54 @@ Package pdftex.def Info: ../figures/kinase_structure.png used on input line 625
 (pdftex.def)             Requested size: 350.5364pt x 227.22693pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 626--626
-[]\OT1/ptm/m/n/8 Figure 1.11: |3D struc-ture of ABL1 ki-nase in com-plex with i
-ma-tinib dis-play-ing the dif-fer-ent struc-tural
+[]\OT1/ptm/m/n/10 Figure 1.11: |3D struc-ture of ABL1 ki-nase in com-plex with 
+ima-tinib dis-play-ing the dif-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 626--626
-\OT1/ptm/m/n/8 re-gions of pro-tein ki-nases. The struc-ture rep-re-sents the t
-yp-i-cal ki-nase in-ac-tive DGF-out con-for-ma-tion. The
+\OT1/ptm/m/n/10 fer-ent struc-tural re-gions of pro-tein ki-nases. The struc-tu
+re rep-re-sents the typ-i-cal ki-nase
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 626--626
-\OT1/ptm/m/n/8 pro-tein is rep-re-sented as rib-bons and the lig-and as sticks.
- The ac-ti-va-tion loop is coloured in cyan, the DGF
+\OT1/ptm/m/n/10 in-ac-tive DGF-out con-for-ma-tion. The pro-tein is rep-re-sent
+ed as rib-bons and the lig-and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 626--626
-\OT1/ptm/m/n/8 mo-tif in blue, the P-loop is coloured in red, the hinge re-gion
- in pur-ple and the $\OML/cmm/m/it/8 $\OT1/ptm/m/n/8 C he-lix in green. PDB
+\OT1/ptm/m/n/10 as sticks. The ac-ti-va-tion loop is coloured in cyan, the DGF 
+mo-tif in blue, the P-loop is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/ptm/m/n/10 coloured in red, the hinge re-gion in pur-ple and the $\OML/cmm
+/m/it/10 $\OT1/ptm/m/n/10 C he-lix in green. PDB ac-ces-sion
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page39#54| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page40#55| 
  []
 
-[39]
+[40]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page40#55| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page41#56| 
  []
 
-[40 <../figures/kinase_structure.png>]
+[41 <../figures/kinase_structure.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page41#56| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page42#57| 
  []
 
-[41]
+[42]
 
 pdfTeX warning: pdflatex (file ../figures/type_kinases_inhibitors.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/type_kinases_inhibitors.pdf, id=1255, 931.48pt x 463.7325pt>
+<../figures/type_kinases_inhibitors.pdf, id=1257, 931.48pt x 463.7325pt>
 File: ../figures/type_kinases_inhibitors.pdf Graphic file (type pdf)
 
 <use ../figures/type_kinases_inhibitors.pdf>
@@ -2346,18 +2406,24 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 723.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 733.
 
 Underfull \hbox (badness 10000) in paragraph at lines 733--734
-[]\OT1/ptm/m/n/9 In a re-cent pub-li-ca-tion, lenva-tinib was pro-posed as a sp
-e-cial class of ki-nase in-hibitors (the so-called type V in-hibitors). Com-
+[]\OT1/ptm/m/n/10 In a re-cent pub-li-ca-tion, lenva-tinib was pro-posed as a s
+pe-cial class of ki-nase in-hibitors (the so-called type V in-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 733--734
-\OT1/ptm/m/n/9 pounds of this class are those bind-ing both the ATP-binding sit
-e and the neigh-bor-ing al-losteric re-gion in ki-nases with DFG-in
+\OT1/ptm/m/n/10 hibitors). Com-pounds of this class are those bind-ing both the
+ ATP-binding site and the neigh-bor-ing al-losteric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+[]\OT1/ptm/m/n/10 Table 1.3: |FDA ap-proved ki-nase in-hibitors alon-s-gide the
+ir phar-ma-co-log-i-cal tar-get, bind-ing mode and year of FDA
  []
 
 
@@ -2365,18 +2431,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page42#57| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page43#58| 
  []
 
-[42]
-Overfull \vbox (151.84373pt too high) has occurred while \output is active []
+[43]
+Overfull \vbox (184.75526pt too high) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page43#58| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page44#59| 
  []
 
-[43 <../figures/type_kinases_inhibitors.pdf>]
+[44 <../figures/type_kinases_inhibitors.pdf>]
 Underfull \hbox (badness 1014) in paragraph at lines 749--750
 []\OT1/ptm/m/n/10.95 Other im-por-tant lim-i-ta-tion is the lack of speci-ficit
 y of many small
@@ -2384,41 +2450,41 @@ y of many small
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page44#59| 
- []
-
-[44]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page45#60| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page45#60| 
  []
 
 [45]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page46#61| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page46#61| 
  []
 
 [46]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page47#62| 
- []
-
-[47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page48#63| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page47#62| 
+ []
+
+[47]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page48#63| 
  []
 
 [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page49#64| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page49#64| 
  []
 
 [49]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page50#65| 
+ []
+
+[50]
 Underfull \hbox (badness 1377) in paragraph at lines 816--817
 [][]\OT1/ptm/m/n/10.95 Mart[]^^Pnez-Jim[]enez, F., $\OT1/cmr/m/n/10.95 &$ \OT1/
 ptm/m/n/10.95 Marti-Renom, M. a. (2015). \OT1/ptm/b/n/10.95 Ligand-
@@ -2426,65 +2492,57 @@ ptm/m/n/10.95 Marti-Renom, M. a. (2015). \OT1/ptm/b/n/10.95 Ligand-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page50#65| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page51#66| 
  []
 
-[50]
+[51]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 823.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page51#66| 
- []
-
-[51
-
-]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page52#67| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page52#67| 
  []
 
 [52
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page53#68| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page53#68| 
  []
 
 [53
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page54#69| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page54#69| 
  []
 
-[54]
+[54
+
+]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page55#70| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page55#70| 
  []
 
 [55]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page56#71| 
+ []
+
+[56]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page56#71| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page57#72| 
  []
 
-[56]
+[57]
 Underfull \vbox (badness 3492) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page57#72| 
- []
-
-[57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page58#73| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page58#73| 
  []
 
 [58]
@@ -2492,28 +2550,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page59#74| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page59#74| 
  []
 
 [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page60#75| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page60#75| 
  []
 
 [60]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page61#76| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page61#76| 
  []
 
-[61
-
-]
+[61]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page62#77| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page62#77| 
  []
 
 [62
-
 
 ]
 No file thesis.ind.
@@ -2524,10 +2582,12 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 950.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page63#78| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page63#78| 
  []
 
 [63
+
+
 
 
 ]
@@ -2538,37 +2598,37 @@ im-pact of the Struc-tural Ge-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page64#79| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page64#79| 
  []
 
 [64]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page65#80| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page65#80| 
  []
 
 [65]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page66#81| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page66#81| 
  []
 
 [66]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page67#82| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page67#82| 
  []
 
 [67]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page68#83| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page68#83| 
  []
 
 [68]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page69#84| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page69#84| 
  []
 
 [69]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page70#85| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page70#85| 
  []
 
 [70]
@@ -2579,27 +2639,27 @@ Underfull \hbox (badness 3138) in paragraph at lines 951--951
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page71#86| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page71#86| 
  []
 
 [71]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page72#87| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page72#87| 
  []
 
 [72]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page73#88| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page73#88| 
  []
 
 [73]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page74#89| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page74#89| 
  []
 
 [74]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page75#90| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page75#90| 
  []
 
 [75]
@@ -2610,17 +2670,17 @@ ve.[] In: \OT1/ptm/m/it/10.95 Sci-ence
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page76#91| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page76#91| 
  []
 
 [76]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page77#92| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page77#92| 
  []
 
 [77]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page78#93| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page78#93| 
  []
 
 [78]
@@ -2631,12 +2691,12 @@ Underfull \hbox (badness 1348) in paragraph at lines 951--951
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page79#94| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page79#94| 
  []
 
 [79]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page80#95| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page80#95| 
  []
 
 [80]
@@ -2658,7 +2718,7 @@ Underfull \hbox (badness 1762) in paragraph at lines 951--951
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page81#96| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page81#96| 
  []
 
 [81]
@@ -2670,37 +2730,37 @@ Underfull \hbox (badness 1062) in paragraph at lines 951--951
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page82#97| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page82#97| 
  []
 
 [82]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page83#98| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page83#98| 
  []
 
 [83]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page84#99| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page84#99| 
  []
 
 [84]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page85#100| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page85#100| 
  []
 
 [85]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page86#101| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page86#101| 
  []
 
 [86]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page87#102| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page87#102| 
  []
 
 [87]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page88#103| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page88#103| 
  []
 
 [88]
@@ -2730,7 +2790,7 @@ Underfull \hbox (badness 1796) in paragraph at lines 951--951
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page89#104| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page89#104| 
  []
 
 [89]
@@ -2741,19 +2801,19 @@ munother-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page90#105| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page90#105| 
  []
 
 [90]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page91#106| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page91#106| 
  []
 
 [91]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 957.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/9/711:33page92#107| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/712:05page92#107| 
  []
 
 [92]
@@ -2782,36 +2842,33 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 957.
  ) 
 Here is how much of TeX's memory you used:
- 26865 strings out of 495034
- 465275 string characters out of 6181677
- 1854578 words of memory out of 5000000
- 29108 multiletter control sequences out of 15000+600000
- 41716 words of font info for 79 fonts, out of 8000000 for 9000
+ 26854 strings out of 495034
+ 465176 string characters out of 6181677
+ 1853588 words of memory out of 5000000
+ 29103 multiletter control sequences out of 15000+600000
+ 37537 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,13n,91p,4136b,2073s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (107 pages, 3566177 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (107 pages, 3543983 bytes).
 PDF statistics:
- 2406 PDF objects out of 2487 (max. 8388607)
- 2154 compressed objects within 22 object streams
+ 2402 PDF objects out of 2487 (max. 8388607)
+ 2153 compressed objects within 22 object streams
  461 named destinations out of 1000 (max. 500000)
  493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
