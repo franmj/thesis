@@ -36,7 +36,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.7}Protein-ligand binding energetics}{16}{subsubsection.1.1.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction\footnote {In \cref {nannolyze} we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the mentioned manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics, advantages and disadvantages of the different approaches.}}{20}{subsubsection.1.1.1.8}
+\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction}{20}{subsubsection.1.1.1.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{21}{subsubsection.1.1.1.9}
 \defcounter {refsection}{0}\relax 
