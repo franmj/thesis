@@ -3,7 +3,11 @@
 
 %\usepackage[latin1]{inputenc}
 %\usepackage[T1]{fontenc}
-\documentclass[12pt, b5paper,twoside]{tesi_upf}
+\documentclass[11pt, b5paper,twoside]{tesi_upf}
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\fontsize{14}{14}\bfseries}{\thesection}{1em}{}
+
+\usepackage[font=scriptsize]{caption}
 
 %CODIFICACIÓ
 %\usepackage[latin1]{inputenc}
@@ -84,7 +88,7 @@
 
 
 \begin{document}
-
+\sloppy
 \captionsetup[table]{skip=20pt}
 \captionsetup[longtable]{skip=20pt}
 \frontmatter

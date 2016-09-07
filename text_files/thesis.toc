@@ -4,102 +4,102 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Acknowledgments}{\es@scroman {i}}{section*.1}
+\contentsline {section}{Acknowledgments}{\es@scroman {i}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Abstract}{\es@scroman {ii}}{section*.2}
+\contentsline {section}{Abstract}{\es@scroman {ii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resumen}{\es@scroman {iii}}{section*.3}
+\contentsline {section}{Resumen}{\es@scroman {iii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Preface}{\es@scroman {iv}}{section*.4}
+\contentsline {section}{Preface}{\es@scroman {iv}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Index of figures}{\es@scroman {xi}}{section*.6}
+\contentsline {section}{Index of figures}{\es@scroman {x}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of tables}{\es@scroman {xii}}{section*.7}
+\contentsline {section}{List of tables}{\es@scroman {xi}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of publications}{\es@scroman {xiii}}{section*.8}
+\contentsline {section}{List of publications}{\es@scroman {xii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Introduction}{1}{section*.9}
+\contentsline {section}{Introduction}{1}{Item.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1}Protein are essential molecules}{1}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.1}Protein structure}{2}{subsubsection.1.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Protein structure}{1}{subsubsection.1.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.2}Protein Structure Determination}{5}{subsubsection.1.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2}Protein Structure Determination}{4}{subsubsection.1.1.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.3}Protein Structure Prediction}{9}{subsubsection.1.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.4}Homology modeling}{10}{subsubsection.1.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.4}Homology modeling}{9}{subsubsection.1.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.5}Protein function}{16}{subsubsection.1.1.1.5}
+\contentsline {subsubsection}{\numberline {1.1.5}Protein function}{14}{subsubsection.1.1.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.6}Protein-Ligand Interactions}{17}{subsubsection.1.1.1.6}
+\contentsline {subsubsection}{\numberline {1.1.6}Protein-Ligand Interactions}{15}{subsubsection.1.1.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.7}Protein-ligand binding energetics}{18}{subsubsection.1.1.1.7}
+\contentsline {subsubsection}{\numberline {1.1.7}Protein-ligand binding energetics}{16}{subsubsection.1.1.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction\footnote {In \cref {nannolyze} we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the mentioned manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics, advantages and disadvantages of the different approaches.}}{21}{subsubsection.1.1.1.8}
+\contentsline {subsubsection}{\numberline {1.1.8}Protein-ligand prediction\footnote {In \cref {nannolyze} we present nAnnolyze, a method for protein-ligand interaction prediction. In the introduction of the mentioned manuscript, there is a discussion of the current state-of-the-art methods in protein-ligand interaction prediction. Therefore, this section is focused in explaining the classification, underlying basics, advantages and disadvantages of the different approaches.}}{19}{subsubsection.1.1.1.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{23}{subsubsection.1.1.1.9}
+\contentsline {subsubsection}{\numberline {1.1.9}Comparative docking approach}{22}{subsubsection.1.1.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Drug discovery}{25}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}Drug discovery}{22}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{30}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1}Computational drug discovery}{24}{subsubsection.1.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Drug discovery in Tuberculosis}{33}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.3}Drug discovery in Tuberculosis}{29}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{37}{subsubsection.1.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1}Research strategies against MTB.}{32}{subsubsection.1.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{38}{subsubsection.1.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2}In-silico approaches in TB}{33}{subsubsection.1.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Targeted cancer therapy}{40}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.4}Targeted cancer therapy}{36}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.1}Monoclonal antibodies}{41}{subsubsection.1.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.1}Monoclonal antibodies}{36}{subsubsection.1.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{42}{subsubsection.1.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.2}Small molecule kinase inhibitors}{38}{subsubsection.1.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{51}{subsubsection.1.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3}Resistance to targeted cancer therapies}{45}{subsubsection.1.1.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Motivation}{54}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.5}Motivation}{47}{subsection.1.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Objectives}{55}{section.1.2}
+\contentsline {section}{\numberline {2}Objectives}{49}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Results}{57}{section.1.3}
+\contentsline {section}{\numberline {3}Results}{50}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{57}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.1}Ligand-Target Prediction by Structural Network Biology using nAnnolyze}{50}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Target Prediction for two Open Acess Sets of Compounds Active against \textit {Mycobacterium tuberculosis}}{58}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.2}Target Prediction for two Open Acess Sets of Compounds Active against \textit {Mycobacterium tuberculosis}}{51}{subsection.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Rational design of non-resistant targeted cancer therapies}{59}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {3.3}Rational design of non-resistant targeted cancer therapies}{52}{subsection.1.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Discussion}{60}{section.1.4}
+\contentsline {section}{\numberline {4}Discussion}{53}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}nAnnolyze: predicting large scale and structurally detailed ligand-target interaction using a network-based representation}{61}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.1}nAnnolyze: predicting large scale and structurally detailed ligand-target interaction using a network-based representation}{53}{subsection.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1}Main findings}{61}{subsubsection.1.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Main findings}{53}{subsubsection.1.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.2}Impact of the presented research}{61}{subsubsection.1.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2}Impact of the presented research}{54}{subsubsection.1.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3}Limitations}{62}{subsubsection.1.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3}Limitations}{54}{subsubsection.1.4.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.4}Future perspectives}{63}{subsubsection.1.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.4}Future perspectives}{55}{subsubsection.1.4.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Target prediction for two set of compounds active against MTB}{64}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {4.2}Target prediction for two set of compounds active against MTB}{57}{subsection.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.1}Main findings}{64}{subsubsection.1.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1}Main findings}{57}{subsubsection.1.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2}Impact of the presented research}{65}{subsubsection.1.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2}Impact of the presented research}{57}{subsubsection.1.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3}Limitations}{66}{subsubsection.1.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3}Limitations}{58}{subsubsection.1.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{67}{subsubsection.1.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.4}Future perspectives}{59}{subsubsection.1.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{68}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {4.3}Rational design of non-resistant targeted cancer therapies}{60}{subsection.1.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{68}{subsubsection.1.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1}Main findings}{60}{subsubsection.1.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{68}{subsubsection.1.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2}Impact of the presented research}{60}{subsubsection.1.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{68}{subsubsection.1.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3}Limitations}{60}{subsubsection.1.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{68}{subsubsection.1.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4}Future perspectives}{60}{subsubsection.1.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusions}{69}{section.1.5}
+\contentsline {section}{\numberline {5}Conclusions}{61}{section.1.5}
