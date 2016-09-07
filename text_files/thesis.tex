@@ -19,7 +19,10 @@
 %NOMÉS PER A OBTENIR INDICACIÓ DEL MARC EN MIDA B5
 \usepackage[b5paper]{geometry}
 \usepackage[cam,a4,center,frame]{crop}
-
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\large\bfseries}
 %IDIOMES
 \usepackage[english,spanish]{babel}
 \usepackage[cam,a4,center,frame]{crop}
@@ -36,6 +39,7 @@
 \pagestyle{plain}
 \usepackage{tcolorbox}
 \usepackage[backend=biber,backref,url=false,bibencoding=utf8,sorting=none]{biblatex}
+
 \usepackage{biblatex}
 \usepackage{makeidx}
 \usepackage{subcaption}
@@ -75,6 +79,7 @@
 \renewcommand{\footnotesize}{\small}
 \addto\captionscatalan
   {\renewcommand{\contentsname}{\Large \sffamily Sumari}}
+
 
 \addbibresource{../bibliography/library.bib}
 
