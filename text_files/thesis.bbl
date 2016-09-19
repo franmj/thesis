@@ -7407,17 +7407,16 @@
       \strng{fullhash}{a649b356f2c48bb5e2cb65d0ceed60aa}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{The ins and outs of selective kinase inhibitor development.}}
+      \field{labeltitle}{{The ins and outs of selective kinase inhibitor development}}
       \field{abstract}{Protein kinases have emerged as one of the most successful families of drug targets. To date, most selective kinase inhibitors have been discovered serendipitously either through broad selectivity screening or through the discovery of unique binding modes. Here we discuss design strategies that could lead to a broader coverage of the kinome with selective inhibitors and to a more rational approach for developing them. A berrant kinase function has been linked to the development of a large diversity of diseases and in particular to cancer, where recent large-scale sequencing efforts have highlighted protein kinases as one of the most frequently mutated proteins. However, the long time span from the discovery of kinases as oncogenes and as key players in tumorigenesis to the clinical approval of the first kinase small-molecule inhibitor imatinib (STI-571, Gleevec) in 2001 provides evidence of the difficult and controversial path to success in this area. The first crystal structure of a protein kinase domain (PKA) was published in 1991 and provided an initial model for inhibitor design 1}
       \field{isbn}{1552-4450}
-      \field{issn}{1552-4469}
-      \field{journaltitle}{Nature chemical biology}
-      \field{month}{11}
+      \field{issn}{1552-4450}
+      \field{journaltitle}{NATURE CHEMICAL BIOLOGY www.nature.com/naturechemicalbiology}
       \field{number}{11}
-      \field{title}{{The ins and outs of selective kinase inhibitor development.}}
+      \field{title}{{The ins and outs of selective kinase inhibitor development}}
       \field{volume}{11}
       \field{year}{2015}
-      \field{pages}{818\bibrangedash 21}
+      \field{pages}{818\bibrangedash 821}
       \verb{doi}
       \verb 10.1038/nchembio.1938
       \endverb
@@ -7425,7 +7424,7 @@
       \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/M{\"{u}}ller et al. - 2015 - The ins and outs of selective kinase inhibitor development.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1038/nchembio.1938%20http://www.ncbi.nlm.nih.gov/pubmed/26485069
+      \verb http://dx.doi.org/10.1038/nchembio.1938
       \endverb
     \endentry
     \entry{Lui1998}{article}{}
@@ -8908,6 +8907,42 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc3237
+      \endverb
+    \endentry
+    \entry{Ribas2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a38abcd070caaf3de4ecf67b7ab25769}{Ribas}{R\bibinitperiod}{Antoni}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d6823500855f19a0d3e728e77f919ac0}{Wolchok}{W\bibinitperiod}{Jedd\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a38abcd070caaf3de4ecf67b7ab25769}{Ribas}{R\bibinitperiod}{Antoni}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d6823500855f19a0d3e728e77f919ac0}{Wolchok}{W\bibinitperiod}{Jedd\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{db74010b3a0d8ab3b38353378e85f4d0}
+      \strng{fullhash}{db74010b3a0d8ab3b38353378e85f4d0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combining cancer immunotherapy and targeted therapy}}
+      \field{abstract}{The ability to pharmacologically modulate key signaling pathways that drive tumor growth and progression, but do not negatively impact the function of lymphocytes, provides avenues for rational combinatorial approaches to improve the antitumor activity of tumor immunotherapies. Novel targeted agents can very specifically block oncogenic events in cancer cells, leading to a pro-apoptotic milieu and a potential increase in sensitivity to recognition and attack by cytotoxic T lymphocytes (CTLs). Furthermore, targeted pathway modulation in lymphocytes may change their function and have activating effects in some instances. When tested together with recently developed powerful tumor immunotherapies, such combinations may exploit the highly specific targeting of oncogenes with small molecule inhibitors to lead to high frequency of tumor regressions, and merge this benefit with the durable responses achievable with effective tumor immunotherapies. ?? 2013 Elsevier Ltd.}
+      \field{isbn}{1879-0372 (Electronic)0952-7915 (Linking)}
+      \field{issn}{09527915}
+      \field{journaltitle}{Current Opinion in Immunology}
+      \field{number}{2}
+      \field{title}{{Combining cancer immunotherapy and targeted therapy}}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{291\bibrangedash 296}
+      \verb{doi}
+      \verb 10.1016/j.coi.2013.02.011
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S0952791513000356-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.coi.2013.02.011
       \endverb
     \endentry
     \entry{Al-Lazikani2012}{article}{}
@@ -16813,17 +16848,16 @@
       \strng{fullhash}{a649b356f2c48bb5e2cb65d0ceed60aa}
       \field{sortinit}{0}
       \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
-      \field{labeltitle}{{The ins and outs of selective kinase inhibitor development.}}
+      \field{labeltitle}{{The ins and outs of selective kinase inhibitor development}}
       \field{abstract}{Protein kinases have emerged as one of the most successful families of drug targets. To date, most selective kinase inhibitors have been discovered serendipitously either through broad selectivity screening or through the discovery of unique binding modes. Here we discuss design strategies that could lead to a broader coverage of the kinome with selective inhibitors and to a more rational approach for developing them. A berrant kinase function has been linked to the development of a large diversity of diseases and in particular to cancer, where recent large-scale sequencing efforts have highlighted protein kinases as one of the most frequently mutated proteins. However, the long time span from the discovery of kinases as oncogenes and as key players in tumorigenesis to the clinical approval of the first kinase small-molecule inhibitor imatinib (STI-571, Gleevec) in 2001 provides evidence of the difficult and controversial path to success in this area. The first crystal structure of a protein kinase domain (PKA) was published in 1991 and provided an initial model for inhibitor design 1}
       \field{isbn}{1552-4450}
-      \field{issn}{1552-4469}
-      \field{journaltitle}{Nature chemical biology}
-      \field{month}{11}
+      \field{issn}{1552-4450}
+      \field{journaltitle}{NATURE CHEMICAL BIOLOGY www.nature.com/naturechemicalbiology}
       \field{number}{11}
-      \field{title}{{The ins and outs of selective kinase inhibitor development.}}
+      \field{title}{{The ins and outs of selective kinase inhibitor development}}
       \field{volume}{11}
       \field{year}{2015}
-      \field{pages}{818\bibrangedash 21}
+      \field{pages}{818\bibrangedash 821}
       \verb{doi}
       \verb 10.1038/nchembio.1938
       \endverb
@@ -16831,7 +16865,7 @@
       \verb :home/fran/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/M{\"{u}}ller et al. - 2015 - The ins and outs of selective kinase inhibitor development.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1038/nchembio.1938%20http://www.ncbi.nlm.nih.gov/pubmed/26485069
+      \verb http://dx.doi.org/10.1038/nchembio.1938
       \endverb
     \endentry
     \entry{Lui1998}{article}{}
@@ -18314,6 +18348,42 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrc3237
+      \endverb
+    \endentry
+    \entry{Ribas2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a38abcd070caaf3de4ecf67b7ab25769}{Ribas}{R\bibinitperiod}{Antoni}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d6823500855f19a0d3e728e77f919ac0}{Wolchok}{W\bibinitperiod}{Jedd\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a38abcd070caaf3de4ecf67b7ab25769}{Ribas}{R\bibinitperiod}{Antoni}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d6823500855f19a0d3e728e77f919ac0}{Wolchok}{W\bibinitperiod}{Jedd\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{db74010b3a0d8ab3b38353378e85f4d0}
+      \strng{fullhash}{db74010b3a0d8ab3b38353378e85f4d0}
+      \field{sortinit}{0}
+      \field{sortinithash}{09a46d48ed195f537673d934cf21f011}
+      \field{labeltitle}{{Combining cancer immunotherapy and targeted therapy}}
+      \field{abstract}{The ability to pharmacologically modulate key signaling pathways that drive tumor growth and progression, but do not negatively impact the function of lymphocytes, provides avenues for rational combinatorial approaches to improve the antitumor activity of tumor immunotherapies. Novel targeted agents can very specifically block oncogenic events in cancer cells, leading to a pro-apoptotic milieu and a potential increase in sensitivity to recognition and attack by cytotoxic T lymphocytes (CTLs). Furthermore, targeted pathway modulation in lymphocytes may change their function and have activating effects in some instances. When tested together with recently developed powerful tumor immunotherapies, such combinations may exploit the highly specific targeting of oncogenes with small molecule inhibitors to lead to high frequency of tumor regressions, and merge this benefit with the durable responses achievable with effective tumor immunotherapies. ?? 2013 Elsevier Ltd.}
+      \field{isbn}{1879-0372 (Electronic)0952-7915 (Linking)}
+      \field{issn}{09527915}
+      \field{journaltitle}{Current Opinion in Immunology}
+      \field{number}{2}
+      \field{title}{{Combining cancer immunotherapy and targeted therapy}}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{291\bibrangedash 296}
+      \verb{doi}
+      \verb 10.1016/j.coi.2013.02.011
+      \endverb
+      \verb{file}
+      \verb :home/fran/Downloads/1-s2.0-S0952791513000356-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.coi.2013.02.011
       \endverb
     \endentry
     \entry{Al-Lazikani2012}{article}{}
