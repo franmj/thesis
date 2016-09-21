@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  21 SEP 2016 12:33
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  21 SEP 2016 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1260,24 +1260,32 @@ Package biblatex Info: ... file 'spanish.lbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
-(./thesis.aux)
+(./thesis.aux
+LaTeX Info: Redefining \sptext on input line 28.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 95.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 97.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -1360,14 +1368,14 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package crop Info: requested driver: `' on input line 95.
-Package crop Info: detected driver: `pdftex' on input line 95.
-Package crop Info: using `pdftex' graphics driver on input line 95.
-LaTeX Info: Redefining \sptext on input line 95.
-LaTeX Info: Redefining \. on input line 95.
-LaTeX Info: Redefining \% on input line 95.
+Package crop Info: requested driver: `' on input line 97.
+Package crop Info: detected driver: `pdftex' on input line 97.
+Package crop Info: using `pdftex' graphics driver on input line 97.
+LaTeX Info: Redefining \sptext on input line 97.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 95.
+Package hyperref Info: Link coloring OFF on input line 97.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1377,9 +1385,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count331
 )
-LaTeX Info: Redefining \ref on input line 95.
-LaTeX Info: Redefining \pageref on input line 95.
-LaTeX Info: Redefining \nameref on input line 95.
+LaTeX Info: Redefining \ref on input line 97.
+LaTeX Info: Redefining \pageref on input line 97.
+LaTeX Info: Redefining \nameref on input line 97.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write6
@@ -1398,909 +1406,1497 @@ Package biblatex Warning: File 'thesis.bbl' is wrong format version - expected
 2.3.
 
 Package biblatex Info: ... file 'thesis.bbl' found.
-(./thesis.bbl
-! Undefined control sequence.
-l.87       \range
-                 {pages}{61}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.114       \range
-                  {pages}{23}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.142       \range
-                  {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.175       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.206       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.263       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.294       \range
-                  {pages}{8}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.321       \range
-                  {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.360       \range
-                  {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.391       \range
-                  {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.428       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.457       \range
-                  {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.487       \range
-                  {pages}{20}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.515       \range
-                  {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.542       \range
-                  {pages}{3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.578       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.610       \range
-                  {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.643       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.681       \range
-                  {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.712       \range
-                  {pages}{24}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.742       \range
-                  {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.771       \range
-                  {pages}{11}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.802       \range
-                  {pages}{23}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.842       \range
-                  {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.882       \range
-                  {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.908       \range
-                  {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.936       \range
-                  {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.967       \range
-                  {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.996       \range
-                  {pages}{12}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1025       \range
-                   {pages}{21}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1055       \range
-                   {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1079       \range
-                   {pages}{11}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1110       \range
-                   {pages}{9}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1139       \range
-                   {pages}{19}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1170       \range
-                   {pages}{22}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1209       \range
-                   {pages}{21}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1239       \range
-                   {pages}{31}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1268       \range
-                   {pages}{8}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1299       \range
-                   {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333       \range
-                   {pages}{18}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1361       \range
-                   {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1391       \range
-                   {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1425       \range
-                   {pages}{21}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1451       \range
-                   {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1480       \range
-                   {pages}{24}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1515       \range
-                   {pages}{35}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1542       \range
-                   {pages}{10}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1570       \range
-                   {pages}{37}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1613       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1645       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1679       \range
-                   {pages}{2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1708       \range
-                   {pages}{14}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1737       \range
-                   {pages}{1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1772       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1808       \range
-                   {pages}{11}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1837       \range
-                   {pages}{8}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1861       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1887       \range
-                   {pages}{173}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1916       \range
-                   {pages}{8}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1942       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1974       \range
-                   {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2004       \range
-                   {pages}{12}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2032       \range
-                   {pages}{3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2065       \range
-                   {pages}{9}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2093       \range
-                   {pages}{15}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2121       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2151       \range
-                   {pages}{17}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2193       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2259       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2285       \range
-                   {pages}{23}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2315       \range
-                   {pages}{14}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2343       \range
-                   {pages}{31}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2374       \range
-                   {pages}{22}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2405       \range
-                   {pages}{41}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2433       \range
-                   {pages}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2459       \range
-                   {pages}{6}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2511       \range
-                   {pages}{9}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2541       \range
-                   {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2573       \range
-                   {pages}{13}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2601       \range
-                   {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2634       \range
-                   {pages}{8}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2665       \range
-                   {pages}{9}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2696       \range
-                   {pages}{24}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2736       \range
-                   {pages}{11}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2772       \range
-                   {pages}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2810       \range
-                   {pages}{76}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2843       \range
-                   {pages}{1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2882       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2924       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2955       \range
-                   {pages}{11}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.2992       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3032       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3070       \range
-                   {pages}{-1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3104       \range
-                   {pages}{12}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3133       \range
-                   {pages}{38}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3166       \range
-                   {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3194       \range
-                   {pages}{7}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3221       \range
-                   {pages}{15}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3251       \range
-                   {pages}{20}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.3282       \range
-                   {pages}{22}
-(That makes 100 errors; please try again.) 
+(./thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 97.
+Package biblatex Info: Reference segment=0 on input line 97.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 105.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Overfull \hbox (14.65587pt too wide) in paragraph at lines 105--105
+[][]  
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 105--105
+[]\OT1/ptm/m/n/12 Director: Marc A. Marti-Renom De-par-ta-ment De-par-ta-ment: 
+
+ []
+
+<../figures/logo_upf.png, id=202, 36.135pt x 13.2495pt>
+File: ../figures/logo_upf.png Graphic file (type png)
+
+<use ../figures/logo_upf.png>
+Package pdftex.def Info: ../figures/logo_upf.png used on input line 105.
+(pdftex.def)             Requested size: 14.45372pt x 5.2997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#1| 
+ []
+
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#2| 
+ []
+
+[2 <../figures/logo_upf.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#3| 
+ []
+
+[3
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
+pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117 \clearpage
+                
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#4| 
+ []
+
+[1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.II}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.130 
+      
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#5| 
+ []
+
+[2
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.III}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 \clearpage
+                
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#6| 
+ []
+
+[3]
+Underfull \vbox (badness 6412) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#7| 
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#8| 
+ []
+
+[5]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#9| 
+ []
+
+[6
+
+
+] (./thesis.toc
+LaTeX Info: Redefining \sptext on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#10| 
+ []
+
+[7
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#11| 
+ []
+
+[8]
+Underfull \hbox (badness 1490) in paragraph at lines 85--85
+ [][] [][]\OT1/ptm/m/n/10.95 Target pre-dic-tion for two set of com-pounds ac-t
+ive 
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
+
+
+No file thesis.ind.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#12| 
+ []
+
+[9] (./thesis.lof
+LaTeX Info: Redefining \sptext on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+)
+\tf@lof=\write8
+\openout8 = `thesis.lof'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#13| 
+ []
+
+[10
+
+] (./thesis.lot
+LaTeX Info: Redefining \sptext on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+)
+\tf@lot=\write9
+\openout9 = `thesis.lot'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#14| 
+ []
+
+[11
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 191.
+
+Underfull \hbox (badness 1173) in paragraph at lines 197--198
+[]\OT1/ptm/b/n/10.95 Mart[]^^Pnez-Jim[]enez, F.\OT1/ptm/m/n/10.95 , $\OT1/cmr/m
+/n/10.95 &$ \OT1/ptm/m/n/10.95 Marti-Renom, M. a. (2015). \OT1/ptm/b/n/10.95 Li
+gand-
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 197--198
+\OT1/ptm/m/n/10.95 PloS Com-pu-ta-tional Bi-ol-ogy, 11(3), e1004157. doi:10.137
+1/ jour-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page[]#15| 
+ []
+
+[12
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 245.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page1#16| 
+ []
+
+[1
+
+
+]
+<../figures/protein_structure_levels_en.png, id=378, 250.9375pt x 437.635pt>
+File: ../figures/protein_structure_levels_en.png Graphic file (type png)
+
+<use ../figures/protein_structure_levels_en.png>
+Package pdftex.def Info: ../figures/protein_structure_levels_en.png used on inp
+ut line 259.
+(pdftex.def)             Requested size: 125.46843pt x 218.81696pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 261.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\OT1/ptm/m/n/10 Figure 1.1: |Hi-er-ar-chi-cal dis-tri-bu-tion of lay-ers in p
+ro-tein struc-ture. Photo Credit: Mar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+\OT1/ptm/m/n/10 i-ana Ruiz Vil-lar-real ([]$\OT1/pcr/m/n/10 https : / / commons
+ . wikimedia . org / wiki / File :
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page2#17| 
+ []
+
+[2]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page3#18| 
+ []
+
+[3 <../figures/protein_structure_levels_en.png>]
+<../figures/structure_vs_sequence.png, id=402, 451.6875pt x 432.61626pt>
+File: ../figures/structure_vs_sequence.png Graphic file (type png)
+
+<use ../figures/structure_vs_sequence.png>
+Package pdftex.def Info: ../figures/structure_vs_sequence.png used on input lin
+e 270.
+(pdftex.def)             Requested size: 225.84319pt x 216.3076pt.
+
+Underfull \hbox (badness 2302) in paragraph at lines 270--271
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]\OT1/ptm/m/n/10 Figure 1.2: |The orig-i-nal plot of the re-la-tion of residue
+ iden-tity and the RMSD de-vi-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\OT1/ptm/m/n/10 tion of the back-bone atoms of the com-mon cores of 32 pairs of
+ ho-mol-o-gous pro-teins.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page4#19| 
+ []
+
+[4 <../figures/structure_vs_sequence.png>]
+<../figures/pdbs_per_year.pdf, id=423, 578.16pt x 433.62pt>
+File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
+
+<use ../figures/pdbs_per_year.pdf>
+Package pdftex.def Info: ../figures/pdbs_per_year.pdf used on input line 284.
+(pdftex.def)             Requested size: 262.9023pt x 197.17169pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+ []\OT1/ptm/m/n/10 (a)|| 
+ []
+
+<../figures/pie_smethods.pdf, id=424, 731.73375pt x 517.935pt>
+File: ../figures/pie_smethods.pdf Graphic file (type pdf)
+
+<use ../figures/pie_smethods.pdf>
+Package pdftex.def Info: ../figures/pie_smethods.pdf used on input line 289.
+(pdftex.def)             Requested size: 262.9023pt x 186.085pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+ []\OT1/ptm/m/n/10 (b)|| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\OT1/ptm/m/n/10 Figure 1.3: |a) Growth of re-leased struc-tures per year. Dat
+a ex-tracted from PDB. b)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\OT1/ptm/m/n/10 Pie chart with the perc-etange of struc-tures de-ter-mined by t
+he dif-fer-ent meth-ods. Data
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page5#20| 
+ []
+
+[5]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page6#21| 
+ []
+
+[6 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page7#22| 
+ []
+
+[7]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page8#23| 
+ []
+
+[8] <../figures/workflow.jpg, id=533, 322.20375pt x 320.99925pt>
+File: ../figures/workflow.jpg Graphic file (type jpg)
+
+<use ../figures/workflow.jpg>
+Package pdftex.def Info: ../figures/workflow.jpg used on input line 329.
+(pdftex.def)             Requested size: 322.20296pt x 320.99846pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]\OT1/ptm/m/n/10 Figure 1.4: |Work-flow in com-par-a-tive pro-tein struc-ture 
+mod-el-ing. The fig-ure has been
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page9#24| 
+ []
+
+[9]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page10#25| 
+ []
+
+[10 <../figures/workflow.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page11#26| 
+ []
+
+[11]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page12#27| 
+ []
+
+[12] <../figures/homology_plot.pdf, id=603, 895.345pt x 575.14874pt>
+File: ../figures/homology_plot.pdf Graphic file (type pdf)
+
+<use ../figures/homology_plot.pdf>
+Package pdftex.def Info: ../figures/homology_plot.pdf used on input line 355.
+(pdftex.def)             Requested size: 313.37544pt x 201.30507pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+[]\OT1/ptm/m/n/10 Figure 1.5: |Ho-mol-ogy thresh-old curve as a func-tion of al
+ign-ment length. Data ex-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page13#28| 
+ []
+
+[13 <../figures/homology_plot.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+[]\OT1/ptm/m/n/10 Table 1.1: |Ex-am-ples of pub-lic pro-tein mod-el-ing tools a
+long-side their web-site and
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page14#29| 
+ []
+
+[14]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page15#30| 
+ []
+
+[15] <../figures/lock_key_model.jpg, id=716, 447.6725pt x 76.285pt>
+File: ../figures/lock_key_model.jpg Graphic file (type jpg)
+
+<use ../figures/lock_key_model.jpg>
+Package pdftex.def Info: ../figures/lock_key_model.jpg used on input line 415.
+(pdftex.def)             Requested size: 262.9023pt x 44.80055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+[]\OT1/ptm/m/n/10 (a) |Fis-cher's \OT1/ptm/m/it/10 Lock and Key model\OT1/ptm/m
+/n/10 . The pro-tein is rep-re-sented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+\OT1/ptm/m/n/10 in green and the lig-and in red. The lig-and's bind-ing site of
+ the
+ []
+
+<../figures/induce_fit_model.jpg, id=717, 447.6725pt x 68.255pt>
+File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
+
+<use ../figures/induce_fit_model.jpg>
+Package pdftex.def Info: ../figures/induce_fit_model.jpg used on input line 421
+.
+(pdftex.def)             Requested size: 262.9023pt x 40.0847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\OT1/ptm/m/n/10 (b) |Koshland's \OT1/ptm/m/it/10 in-duced fit model\OT1/ptm/m
+/n/10 . The pro-tein is rep-re-sented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\OT1/ptm/m/n/10 in green and the lig-and in red. The over-all shape of the lig-
+and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\OT1/ptm/m/n/10 matches the bind-ing site. The lig-and bind-ings causes some
+ []
+
+<../figures/mwc_model.jpg, id=718, 493.845pt x 131.49126pt>
+File: ../figures/mwc_model.jpg Graphic file (type jpg)
+
+<use ../figures/mwc_model.jpg>
+Package pdftex.def Info: ../figures/mwc_model.jpg used on input line 427.
+(pdftex.def)             Requested size: 262.9023pt x 69.99901pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]\OT1/ptm/m/n/10 (c) |\OT1/ptm/m/it/10 MWC model's \OT1/ptm/m/n/10 rep-re-sen-
+ta-tion. The pro-tein changes its con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\OT1/ptm/m/n/10 for-ma-tion con-stantly (one color per con-for-ma-tion), with a
+t least
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\OT1/ptm/m/n/10 one these con-for-ma-tion match-ing the lig-and. Its bind-ing t
+rig-gers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\OT1/ptm/m/n/10 some con-for-ma-tional changes that im-proves the pro-tein's en
+-ergy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
+[]\OT1/ptm/m/n/10 Figure 1.6: |Schematic rep-re-sen-ta-tion of the three clas-s
+ic protein-ligand bind-ing the-o-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page16#31| 
+ []
+
+[16]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page17#32| 
+ []
+
+[17 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
+es/mwc_model.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page18#33| 
+ []
+
+[18]
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page19#34| 
+ []
+
+[19] <../figures/type_of_methods.pdf, id=804, 731.73375pt x 517.935pt>
+File: ../figures/type_of_methods.pdf Graphic file (type pdf)
+
+<use ../figures/type_of_methods.pdf>
+Package pdftex.def Info: ../figures/type_of_methods.pdf used on input line 471.
+
+(pdftex.def)             Requested size: 350.5364pt x 248.11598pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+[]\OT1/ptm/m/n/10 Figure 1.7: |Clas-si-fi-ca-tion of the meth-ods for ligand-ta
+rget in-ter-ac-tion pre-dic-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+\OT1/ptm/m/n/10 along-side their ad-van-tages and dis-ad-van-tages. The red ar-
+row rep-re-sent the in-crease in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+\OT1/ptm/m/n/10 the com-pu-ta-tional time of the cal-cu-lus needed for each pre
+-dic-tion. The green ar-row
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page20#35| 
+ []
+
+[20]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page21#36| 
+ []
+
+[21]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page22#37| 
+ []
+
+[22 <../figures/type_of_methods.pdf>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page23#38| 
+ []
+
+[23] <../figures/drug_discovery_phases_3.pdf, id=891, 731.73375pt x 517.935pt>
+File: ../figures/drug_discovery_phases_3.pdf Graphic file (type pdf)
+
+<use ../figures/drug_discovery_phases_3.pdf>
+Package pdftex.def Info: ../figures/drug_discovery_phases_3.pdf used on input l
+ine 489.
+(pdftex.def)             Requested size: 497.92966pt x 352.44402pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
+[]\OT1/ptm/m/n/10 Figure 1.8: |Drug dis-cov-ery and de-vel-op-ment pipeline. Fo
+r each stage the av-er-age cost and time are pro-vided. Post-approval
+ []
+
+<../figures/drug_discovery_evolution.jpg, id=900, 1355.0625pt x 976.64874pt>
+File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
+
+<use ../figures/drug_discovery_evolution.jpg>
+Package pdftex.def Info: ../figures/drug_discovery_evolution.jpg used on input 
+line 500.
+(pdftex.def)             Requested size: 315.48062pt x 227.38144pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]\OT1/ptm/m/n/10 Figure 1.9: |Cost of de-vel-op-ing a new drug. Blue bars in-d
+i-cate ex-penses in clin-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\OT1/ptm/m/n/10 cal phases while red rep-re-sents ex-penses in pre-clinical sta
+ges. Costs are shown in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\OT1/cmr/m/n/10 $$ \OT1/ptm/m/n/10 mil-lions. Data ex-tracted form: Tufts Cen-t
+er for the Study of Drug De-vel-op-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\OT1/ptm/m/n/10 ([]$\OT1/pcr/m/n/10 http : / / csdd . tufts . edu / news / comp
+lete _ story / pr _ tufts _ csdd _
+ []
+
+
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page24#39| 
+ []
+
+[24]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page25#40| 
+ []
+
+[25 <../figures/drug_discovery_phases_3.pdf>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page26#41| 
+ []
+
+[26]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page27#42| 
+ []
+
+[27 <../figures/drug_discovery_evolution.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page28#43| 
+ []
+
+[28]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page29#44| 
+ []
+
+[29]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page30#45| 
+ []
+
+[30]
+Underfull \hbox (badness 1147) in paragraph at lines 532--533
+[]\OT1/ptm/b/n/10.95 Fostering re-search and de-vel-op-ment by phil-an-thropic 
+do-na-tions.
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page31#46| 
+ []
+
+[31]
+
+pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
+<../figures/map_incidence_tb.pdf, id=1046, 891.33pt x 555.07375pt>
+File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
+
+<use ../figures/map_incidence_tb.pdf>
+Package pdftex.def Info: ../figures/map_incidence_tb.pdf used on input line 542
+.
+(pdftex.def)             Requested size: 315.48062pt x 196.4639pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+[]\OT1/ptm/m/n/10 Figure 1.10: |Es-ti-mated world-wide TB in-ci-dence rates in 
+2014. Fig-ure ex-tracted from
+ []
+
+
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page32#47| 
+ []
+
+[32]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page33#48| 
+ []
+
+[33 <../figures/map_incidence_tb.pdf>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page34#49| 
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[][]\OT1/ptm/b/n/10.95 Type of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Target iden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 ti-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of bioin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 for-mat-ics
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Drug repo-si-tion-ing ap-
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 plied to MDR-TB and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Database of anti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 tubercular com-pounds
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 re-ported from HTS
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 along-side com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 mod-els to an-a-lyze the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of bioin-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 mat-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 chemoin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of bioin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of chemoin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 fo-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of bioin-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 mat-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 chemoin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Identification of Enoyl
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 acyl car-rier pro-tein re-
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 duc-tase binders us-ing a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 of bioin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 for-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Interactome com-pu-ta-
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 drug re-sis-tance to TB
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 605--605
+[]\OT1/ptm/m/n/10.95 Database of ex-per-i-men-
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 605--605
+\OT1/ptm/m/n/10.95 tally mea-sured gene es-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 605
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page35#50| 
+ []
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page36#51| 
+ []
+
+[36]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page37#52| 
+ []
+
+[37]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page38#53| 
+ []
+
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page39#54| 
+ []
+
+[39] <../figures/kinase_structure.png, id=1213, 3198.95125pt x 2073.7475pt>
+File: ../figures/kinase_structure.png Graphic file (type png)
+
+<use ../figures/kinase_structure.png>
+Package pdftex.def Info: ../figures/kinase_structure.png used on input line 632
+.
+(pdftex.def)             Requested size: 350.5364pt x 227.22693pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+[]\OT1/ptm/m/n/10 Figure 1.11: |3D struc-ture of ABL1 ki-nase in com-plex with 
+ima-tinib dis-play-ing the dif-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+\OT1/ptm/m/n/10 fer-ent struc-tural re-gions of pro-tein ki-nases. The struc-tu
+re rep-re-sents the typ-i-cal ki-nase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+\OT1/ptm/m/n/10 in-ac-tive DGF-out con-for-ma-tion. The pro-tein is rep-re-sent
+ed as rib-bons and the lig-and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+\OT1/ptm/m/n/10 as sticks. The ac-ti-va-tion loop is coloured in cyan, the DGF 
+mo-tif in blue, the P-loop is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+\OT1/ptm/m/n/10 coloured in red, the hinge re-gion in pur-ple and the $\OML/cmm
+/m/it/10 $\OT1/ptm/m/n/10 C he-lix in green. PDB ac-ces-sion
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page40#55| 
+ []
+
+[40]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page41#56| 
+ []
+
+[41 <../figures/kinase_structure.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page42#57| 
+ []
+
+[42]
+
+pdfTeX warning: pdflatex (file ../figures/type_kinases_inhibitors.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+<../figures/type_kinases_inhibitors.pdf, id=1254, 931.48pt x 463.7325pt>
+File: ../figures/type_kinases_inhibitors.pdf Graphic file (type pdf)
+
+<use ../figures/type_kinases_inhibitors.pdf>
+Package pdftex.def Info: ../figures/type_kinases_inhibitors.pdf used on input l
+ine 659.
+(pdftex.def)             Requested size: 350.5364pt x 174.50778pt.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 730.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 730.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 740.
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+[]\OT1/ptm/m/n/10 In a re-cent pub-li-ca-tion, lenva-tinib was pro-posed as a s
+pe-cial class of ki-nase in-hibitors (the so-called type V in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+\OT1/ptm/m/n/10 hibitors). Com-pounds of this class are those bind-ing both the
+ ATP-binding site and the neigh-bor-ing al-losteric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+[]\OT1/ptm/m/n/10 Table 1.3: |FDA ap-proved ki-nase in-hibitors alon-s-gide the
+ir phar-ma-co-log-i-cal tar-get, bind-ing mode and year of FDA
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page43#58| 
+ []
+
+[43]
+Overfull \vbox (184.75526pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page44#59| 
+ []
+
+[44 <../figures/type_kinases_inhibitors.pdf>]
+Underfull \hbox (badness 1014) in paragraph at lines 756--757
+[]\OT1/ptm/m/n/10.95 Other im-por-tant lim-i-ta-tion is the lack of speci-ficit
+y of many small
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page45#60| 
+ []
+
+[45]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page46#61| 
+ []
+
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page47#62| 
+ []
+
+[47]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page48#63| 
+ []
+
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page49#64| 
+ []
+
+[49]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page50#65| 
+ []
+
+[50]
+Underfull \hbox (badness 1377) in paragraph at lines 823--824
+[][]\OT1/ptm/m/n/10.95 Mart[]^^Pnez-Jim[]enez, F., $\OT1/cmr/m/n/10.95 &$ \OT1/
+ptm/m/n/10.95 Marti-Renom, M. a. (2015). \OT1/ptm/b/n/10.95 Ligand-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page51#66| 
+ []
+
+[51]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 830.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page52#67| 
+ []
+
+[52
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page53#68| 
+ []
+
+[53
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page54#69| 
+ []
+
+[54
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page55#70| 
+ []
+
+[55]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page56#71| 
+ []
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page57#72| 
+ []
+
+[57]
+Underfull \vbox (badness 3623) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page58#73| 
+ []
+
+[58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page59#74| 
+ []
+
+[59]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page60#75| 
+ []
+
+[60]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page61#76| 
+ []
+
+[61]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page62#77| 
+ []
+
+[62]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page63#78| 
+ []
+
+[63]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page64#79| 
+ []
+
+[64]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page65#80| 
+ []
+
+[65
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page66#81| 
+ []
+
+[66
+
+
+]
+No file thesis.ind.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 985.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 985.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page67#82| 
+ []
+
+[67
+
+
+]
+Underfull \hbox (badness 1742) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Opher Gileadi et al. \OT1/ptm/m/it/10.95 The sci-en-tific 
+im-pact of the Struc-tural Ge-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page68#83| 
+ []
+
+[68]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page69#84| 
+ []
+
+[69]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page70#85| 
+ []
+
+[70]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page71#86| 
+ []
+
+[71]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page72#87| 
+ []
+
+[72]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page73#88| 
+ []
+
+[73]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page74#89| 
+ []
+
+[74]
+Underfull \hbox (badness 3138) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Sarah Hunter et al. []  In-ter-Pro: The in-te-gra-tive pro
+-tein sig-na-ture
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page75#90| 
+ []
+
+[75]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page76#91| 
+ []
+
+[76]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page77#92| 
+ []
+
+[77]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page78#93| 
+ []
+
+[78]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page79#94| 
+ []
+
+[79]
+Underfull \hbox (badness 2221) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 J Drews. []  Drug dis-cov-ery: a his-tor-i-cal per-spec-ti
+ve.[] In: \OT1/ptm/m/it/10.95 Sci-ence
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page80#95| 
+ []
+
+[80]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page81#96| 
+ []
+
+[81]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page82#97| 
+ []
+
+[82]
+Underfull \hbox (badness 1348) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 QSAR in Drug De-sign[]. In: \OT1/ptm/m/it/10.95 Cur-rent Top
+-ics in Medic-i-nal Chem-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page83#98| 
+ []
+
+[83]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page84#99| 
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Clare M. Lewandowski, New Co-investigator, and Clare M.
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 Lewandowski. []  WHO Global tu-ber-cu-lo-sis re-port 2015[].
+ In: \OT1/ptm/m/it/10.95 WHO
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 986--986
+\OT1/ptm/m/it/10.95 Global tu-ber-cu-lo-sis re-port 2015 \OT1/ptm/m/n/10.95 1 (
+2015), pp. 1689{1699. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m/n/10.95 :
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page85#100| 
+ []
+
+[85]
+Underfull \hbox (badness 1062) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 2013), pp. 313{21. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m/n/10.9
+5 : 1860-7187. \OT1/ptm/m/sc/10.95 doi\OT1/ptm/m/n/10.95 : []$\OT1/pcr/m/n/10.9
+5 10 . 1002 / cmdc .
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page86#101| 
+ []
+
+[86]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page87#102| 
+ []
+
+[87]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page88#103| 
+ []
+
+[88]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page89#104| 
+ []
+
+[89]
+Underfull \hbox (badness 4752) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Susanne M[]uller et al. []  The ins and outs of se-lec-tiv
+e ki-nase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 in-hibitor de-vel-op-ment[]. In: \OT1/ptm/m/it/10.95 NA-TURE
+ CHEM-I-CAL BI-OL-OGY
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 986--986
+\OT1/ptm/m/it/10.95 www.nature.com/naturechemicalbiology \OT1/ptm/m/n/10.95 11.
+11 (2015), pp. 818{821.
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page90#105| 
+ []
+
+[90]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page91#106| 
+ []
+
+[91]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page92#107| 
+ []
+
+[92]
+Underfull \hbox (badness 1845) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Rina Barouch-Bentov and Karsten Sauer. []  Mech-a-nisms of
+ Drug-
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 ta-tion Con-fer-ring Pri-mary Re-sis-tance to Gefi-tinib in 
+Non--Small-
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 Cell Lung Can-cer[]. In: \OT1/ptm/m/it/10.95 New Eng-land Jo
+ur-nal of Medicine \OT1/ptm/m/n/10.95 353.2
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 986--986
+\OT1/ptm/m/n/10.95 (July 2005), pp. 207{208. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m
+/n/10.95 : 0028-4793. \OT1/ptm/m/sc/10.95 doi\OT1/ptm/m/n/10.95 : []$\OT1/pcr/m
+/n/10.95 10 . 1056 /
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page93#108| 
+ []
+
+[93]
+Underfull \hbox (badness 1331) in paragraph at lines 986--986
+[]\OT1/ptm/m/n/10.95 Matthew Van-ne-man and Glenn Dra-noff. []  Com-bin-ing im-
+munother-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page94#109| 
+ []
+
+[94]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page95#110| 
+ []
+
+[95]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 992.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/9/2117:25page96#111| 
+ []
+
+[96]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 992.
+ (./thesis.aux
+LaTeX Info: Redefining \sptext on input line 28.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 992.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 992.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 401C1F4E33F0D994EC971F4E7F477D44;4060.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 992.
+ ) 
 Here is how much of TeX's memory you used:
- 24738 strings out of 495034
- 422630 string characters out of 6181677
- 852514 words of memory out of 5000000
- 27532 multiletter control sequences out of 15000+600000
- 4447 words of font info for 16 fonts, out of 8000000 for 9000
+ 26858 strings out of 495034
+ 465220 string characters out of 6181677
+ 1856950 words of memory out of 5000000
+ 29103 multiletter control sequences out of 15000+600000
+ 37537 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,2n,57p,2603b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,13n,91p,4136b,2073s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (111 pages, 3550684 bytes).
+PDF statistics:
+ 2425 PDF objects out of 2487 (max. 8388607)
+ 2172 compressed objects within 22 object streams
+ 465 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
