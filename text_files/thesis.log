@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  11 OCT 2016 15:14
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2015.7.21)  13 OCT 2016 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1454,7 +1454,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#1| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#1| 
  []
 
 [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
@@ -1465,7 +1465,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#2| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#2| 
  []
 
 [2 <../figures/logo_upf.png>]
@@ -1478,62 +1478,76 @@ been already used, duplicate ignored
 l.125 
       
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#3| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#3| 
  []
 
 [1
 
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.II}) ha
-s been already used, duplicate ignored
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.II}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 \clearpage
-                
+l.125 
+      
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#4| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#4| 
  []
 
 [2]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#5| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#5| 
  []
 
-[3
+[3]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#6| 
+ []
+
+[4
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#6| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#7| 
  []
 
-[4]
+[5]
 Underfull \vbox (badness 6412) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#7| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#8| 
  []
 
-[5
+[6
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#8| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#9| 
  []
 
-[6] (./thesis.toc
+[7]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#10| 
+ []
+
+[8
+
+
+] (./thesis.toc
 LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#9| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#11| 
  []
 
-[7
-
-
+[9
 
 
 
@@ -1542,10 +1556,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#10| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#12| 
  []
 
-[8]
+[10]
 Underfull \hbox (badness 1490) in paragraph at lines 87--87
  [][] [][]\OT1/ptm/m/n/10.95 Target pre-dic-tion for two set of com-pounds ac-t
 ive 
@@ -1559,10 +1573,10 @@ ive
 No file thesis.ind.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#11| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#13| 
  []
 
-[9] (./thesis.lof
+[11] (./thesis.lof
 LaTeX Info: Redefining \sptext on input line 3.
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
@@ -1572,10 +1586,10 @@ LaTeX Info: Redefining \% on input line 3.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#12| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#14| 
  []
 
-[10
+[12
 
 ] (./thesis.lot
 LaTeX Info: Redefining \sptext on input line 3.
@@ -1587,10 +1601,10 @@ LaTeX Info: Redefining \% on input line 3.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#13| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#15| 
  []
 
-[11
+[13
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
@@ -1610,24 +1624,24 @@ Underfull \hbox (badness 1424) in paragraph at lines 209--210
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page[]#14| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page[]#16| 
  []
 
-[12
+[14
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 257.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page1#15| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page1#17| 
  []
 
 [1
 
 
 ]
-<../figures/protein_structure_levels_en.png, id=380, 250.9375pt x 437.635pt>
+<../figures/protein_structure_levels_en.png, id=388, 250.9375pt x 437.635pt>
 File: ../figures/protein_structure_levels_en.png Graphic file (type png)
 
 <use ../figures/protein_structure_levels_en.png>
@@ -1660,16 +1674,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page2#16| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page2#18| 
  []
 
 [2]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page3#17| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page3#19| 
  []
 
 [3 <../figures/protein_structure_levels_en.png>]
-<../figures/structure_vs_sequence.png, id=404, 451.6875pt x 432.61626pt>
+<../figures/structure_vs_sequence.png, id=413, 451.6875pt x 432.61626pt>
 File: ../figures/structure_vs_sequence.png Graphic file (type png)
 
 <use ../figures/structure_vs_sequence.png>
@@ -1698,11 +1712,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page4#18| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page4#20| 
  []
 
 [4 <../figures/structure_vs_sequence.png>]
-<../figures/pdbs_per_year.pdf, id=424, 578.16pt x 433.62pt>
+<../figures/pdbs_per_year.pdf, id=433, 578.16pt x 433.62pt>
 File: ../figures/pdbs_per_year.pdf Graphic file (type pdf)
 
 <use ../figures/pdbs_per_year.pdf>
@@ -1713,7 +1727,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--297
  []\OT1/ptm/m/n/10 (a)|| 
  []
 
-<../figures/pie_smethods.pdf, id=425, 731.73375pt x 517.935pt>
+<../figures/pie_smethods.pdf, id=434, 731.73375pt x 517.935pt>
 File: ../figures/pie_smethods.pdf Graphic file (type pdf)
 
 <use ../figures/pie_smethods.pdf>
@@ -1738,25 +1752,25 @@ he dif-fer-ent meth-ods. Data
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page5#19| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page5#21| 
  []
 
 [5]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page6#20| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page6#22| 
  []
 
 [6 <../figures/pdbs_per_year.pdf> <../figures/pie_smethods.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page7#21| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page7#23| 
  []
 
 [7]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page8#22| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page8#24| 
  []
 
-[8] <../figures/workflow.jpg, id=535, 322.20375pt x 320.99925pt>
+[8] <../figures/workflow.jpg, id=543, 322.20375pt x 320.99925pt>
 File: ../figures/workflow.jpg Graphic file (type jpg)
 
 <use ../figures/workflow.jpg>
@@ -1773,16 +1787,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page9#23| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page9#25| 
  []
 
 [9]
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page10#24| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page10#26| 
  []
 
 [10 <../figures/workflow.jpg>]
-<../figures/homology_plot.pdf, id=561, 895.345pt x 575.14874pt>
+<../figures/homology_plot.pdf, id=570, 895.345pt x 575.14874pt>
 File: ../figures/homology_plot.pdf Graphic file (type pdf)
 
 <use ../figures/homology_plot.pdf>
@@ -1796,17 +1813,17 @@ ign-ment length. Data ex-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page11#25| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page11#27| 
  []
 
 [11]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page12#26| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page12#28| 
  []
 
 [12 <../figures/homology_plot.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page13#27| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page13#29| 
  []
 
 [13]
@@ -1816,22 +1833,16 @@ long-side their web-site and
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page14#28| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page14#30| 
  []
 
 [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page15#29| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page15#31| 
  []
 
-[15] <../figures/lock_key_model.jpg, id=718, 447.6725pt x 76.285pt>
+[15] <../figures/lock_key_model.jpg, id=728, 447.6725pt x 76.285pt>
 File: ../figures/lock_key_model.jpg Graphic file (type jpg)
 
 <use ../figures/lock_key_model.jpg>
@@ -1849,7 +1860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--429
  the
  []
 
-<../figures/induce_fit_model.jpg, id=719, 447.6725pt x 68.255pt>
+<../figures/induce_fit_model.jpg, id=729, 447.6725pt x 68.255pt>
 File: ../figures/induce_fit_model.jpg Graphic file (type jpg)
 
 <use ../figures/induce_fit_model.jpg>
@@ -1873,7 +1884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 435--435
 \OT1/ptm/m/n/10 matches the bind-ing site. The lig-and bind-ings causes some
  []
 
-<../figures/mwc_model.jpg, id=720, 493.845pt x 131.49126pt>
+<../figures/mwc_model.jpg, id=730, 493.845pt x 131.49126pt>
 File: ../figures/mwc_model.jpg Graphic file (type jpg)
 
 <use ../figures/mwc_model.jpg>
@@ -1910,30 +1921,22 @@ ic protein-ligand bind-ing the-o-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page16#30| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page16#32| 
  []
 
 [16]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page17#31| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page17#33| 
  []
 
 [17 <../figures/lock_key_model.jpg> <../figures/induce_fit_model.jpg> <../figur
 es/mwc_model.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page18#32| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page18#34| 
  []
 
-[18]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page19#33| 
- []
-
-[19] <../figures/type_of_methods.pdf, id=789, 731.73375pt x 517.935pt>
+[18] <../figures/type_of_methods.pdf, id=789, 731.73375pt x 517.935pt>
 File: ../figures/type_of_methods.pdf Graphic file (type pdf)
 
 <use ../figures/type_of_methods.pdf>
@@ -1960,25 +1963,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 485--485
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page20#34| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page19#35| 
+ []
+
+[19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page20#36| 
  []
 
 [20]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page21#35| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page21#37| 
  []
 
 [21 <../figures/type_of_methods.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page22#36| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page22#38| 
  []
 
 [22]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page23#37| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page23#39| 
  []
 
-[23] <../figures/drug_discovery_phases_3.pdf, id=895, 731.73375pt x 517.935pt>
+[23] <../figures/drug_discovery_phases_3.pdf, id=903, 731.73375pt x 517.935pt>
 File: ../figures/drug_discovery_phases_3.pdf Graphic file (type pdf)
 
 <use ../figures/drug_discovery_phases_3.pdf>
@@ -1991,7 +2002,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 504--504
 r each stage the av-er-age cost and time are pro-vided. Post-approval
  []
 
-<../figures/drug_discovery_evolution.jpg, id=904, 756.8275pt x 564.1075pt>
+<../figures/drug_discovery_evolution.jpg, id=912, 756.8275pt x 564.1075pt>
 File: ../figures/drug_discovery_evolution.jpg Graphic file (type jpg)
 
 <use ../figures/drug_discovery_evolution.jpg>
@@ -2027,25 +2038,22 @@ Underfull \vbox (badness 1418) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page24#38| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page24#40| 
  []
 
 [24]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page25#39| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page25#41| 
  []
 
 [25 <../figures/drug_discovery_phases_3.pdf>]
-Underfull \vbox (badness 3312) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page26#40| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page26#42| 
  []
 
 [26 <../figures/drug_discovery_evolution.jpg>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page27#41| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page27#43| 
  []
 
 [27]
@@ -2053,12 +2061,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page28#42| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page28#44| 
  []
 
 [28]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page29#43| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page29#45| 
  []
 
 [29]
@@ -2069,19 +2077,19 @@ do-na-tions.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page30#44| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page30#46| 
  []
 
 [30]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page31#45| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page31#47| 
  []
 
 [31]
 
 pdfTeX warning: pdflatex (file ../figures/map_incidence_tb.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/map_incidence_tb.pdf, id=1050, 891.33pt x 555.07375pt>
+<../figures/map_incidence_tb.pdf, id=1058, 891.33pt x 555.07375pt>
 File: ../figures/map_incidence_tb.pdf Graphic file (type pdf)
 
 <use ../figures/map_incidence_tb.pdf>
@@ -2095,16 +2103,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 556--556
  []
 
 
-Underfull \vbox (badness 1270) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page32#46| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page32#48| 
  []
 
 [32 <../figures/map_incidence_tb.pdf>]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page33#47| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page33#49| 
  []
 
 [33]
@@ -2308,27 +2316,27 @@ Underfull \vbox (badness 10000) detected at line 618
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page34#48| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page34#50| 
  []
 
 [34]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page35#49| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page35#51| 
  []
 
 [35]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page36#50| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page36#52| 
  []
 
 [36]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page37#51| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page37#53| 
  []
 
 [37]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page38#52| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page38#54| 
  []
 
 [38]
@@ -2336,10 +2344,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page39#53| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page39#55| 
  []
 
-[39] <../figures/kinase_structure.png, id=1216, 3198.95125pt x 2073.7475pt>
+[39] <../figures/kinase_structure.png, id=1225, 3198.95125pt x 2073.7475pt>
 File: ../figures/kinase_structure.png Graphic file (type png)
 
 <use ../figures/kinase_structure.png>
@@ -2378,19 +2386,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 647--647
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page40#54| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page40#56| 
  []
 
 [40]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page41#55| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page41#57| 
  []
 
 [41 <../figures/kinase_structure.png>]
 
 pdfTeX warning: pdflatex (file ../figures/type_kinases_inhibitors.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<../figures/type_kinases_inhibitors.pdf, id=1241, 931.48pt x 463.7325pt>
+<../figures/type_kinases_inhibitors.pdf, id=1249, 931.48pt x 463.7325pt>
 File: ../figures/type_kinases_inhibitors.pdf Graphic file (type pdf)
 
 <use ../figures/type_kinases_inhibitors.pdf>
@@ -2399,12 +2407,12 @@ ine 661.
 (pdftex.def)             Requested size: 350.5364pt x 174.50778pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page42#56| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page42#58| 
  []
 
 [42]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page43#57| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page43#59| 
  []
 
 [43 <../figures/type_kinases_inhibitors.pdf>]
@@ -2441,7 +2449,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page44#58| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page44#60| 
  []
 
 [44]
@@ -2449,7 +2457,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page45#59| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page45#61| 
  []
 
 [45]
@@ -2460,7 +2468,7 @@ y of many small
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page46#60| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page46#62| 
  []
 
 [46]
@@ -2468,7 +2476,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page47#61| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page47#63| 
  []
 
 [47]
@@ -2476,12 +2484,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page48#62| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page48#64| 
  []
 
 [48]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page49#63| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page49#65| 
  []
 
 [49]
@@ -2489,12 +2497,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page50#64| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page50#66| 
  []
 
 [50]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page51#65| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page51#67| 
  []
 
 [51]
@@ -2505,2603 +2513,272 @@ ptm/m/n/10.95 Marti-Renom, M. a. (2015). \OT1/ptm/b/n/10.95 Ligand-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page52#66| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page52#68| 
  []
 
 [52]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1430, 614.295pt x 7
-94.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
- <use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
- used on input line 842.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
- used on input line 842.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1433, page=1, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 1>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page1 used on input line 842.
-(pdftex.def)             Requested size: 350.5364pt x 453.63495pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 1>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page1 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 1>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page1 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 1>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page1 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 1>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page1 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page53#67| 
- []
-
-[53
-
- <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1493, page=2, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 2>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page2 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 2>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page2 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 2>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page2 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page54#68| 
- []
-
-[54 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1501, page=3, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 3>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page3 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 3>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page3 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 3>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page3 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page55#69| 
- []
-
-[55 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1513, page=4, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 4>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page4 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 4>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page4 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 4>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page4 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page56#70| 
- []
-
-[56 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1523, page=5, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 5>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page5 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 5>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page5 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 5>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page5 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page57#71| 
- []
-
-[57 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1533, page=6, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 6>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page6 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 6>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page6 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 6>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page6 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page58#72| 
- []
-
-[58 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1543, page=7, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 7>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page7 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 7>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page7 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 7>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page7 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page59#73| 
- []
-
-[59 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1554, page=8, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 8>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page8 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 8>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page8 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 8>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page8 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page60#74| 
- []
-
-[60 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1559, page=9, 614.2
-95pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 9>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page9 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 9>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page9 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 9>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page9 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page61#75| 
- []
-
-[61 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1564, page=10, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 10>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page10 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 10>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page10 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 10>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page10 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page62#76| 
- []
-
-[62 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1574, page=11, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 11>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page11 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 11>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page11 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 11>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page11 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page63#77| 
- []
-
-[63 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1580, page=12, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 12>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page12 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 12>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page12 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 12>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page12 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page64#78| 
- []
-
-[64 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1585, page=13, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 13>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page13 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 13>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page13 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 13>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page13 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page65#79| 
- []
-
-[65 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1596, page=14, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 14>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page14 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 14>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page14 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 14>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page14 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page66#80| 
- []
-
-[66 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1606, page=15, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 15>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page15 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 15>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page15 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 15>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page15 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page67#81| 
- []
-
-[67 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1619, page=16, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 16>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page16 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 16>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page16 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 16>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page16 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page68#82| 
- []
-
-[68 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1636, page=17, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 17>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page17 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 17>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page17 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 17>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page17 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page69#83| 
- []
-
-[69 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1641, page=18, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 18>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page18 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 18>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page18 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 18>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page18 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page70#84| 
- []
-
-[70 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
-<../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, id=1646, page=19, 614.
-295pt x 794.97pt>
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 19>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page19 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 19>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page19 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf Graphic file (type
- pdf)
-
-<use ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf, page 19>
-Package pdftex.def Info: ../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf
-, page19 used on input line 842.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page71#85| 
- []
-
-[71 <../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 846.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page72#86| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page53#69| 
  []
 
-[72] <../figures/TB_1.pdf, id=1668, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf>
-Package pdftex.def Info: ../figures/TB_1.pdf used on input line 863.
-(pdftex.def)             Requested size: 614.57759pt x 793.82983pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf>
-Package pdftex.def Info: ../figures/TB_1.pdf used on input line 863.
-(pdftex.def)             Requested size: 614.57759pt x 793.82983pt.
-
-<../figures/TB_1.pdf, id=1671, page=1, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_1.pdf, page1 used on input line 863.
-(pdftex.def)             Requested size: 350.5364pt x 452.77953pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_1.pdf, page1 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_1.pdf, page1 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_1.pdf, page1 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_1.pdf, page1 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page73#87| 
- []
-
-[73
-
- <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1705, page=2, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_1.pdf, page2 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_1.pdf, page2 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_1.pdf, page2 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page74#88| 
- []
-
-[74 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1715, page=3, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_1.pdf, page3 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_1.pdf, page3 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_1.pdf, page3 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page75#89| 
- []
-
-[75 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1721, page=4, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_1.pdf, page4 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_1.pdf, page4 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_1.pdf, page4 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page76#90| 
- []
-
-[76 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1731, page=5, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_1.pdf, page5 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_1.pdf, page5 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_1.pdf, page5 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page77#91| 
- []
-
-[77 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1742, page=6, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_1.pdf, page6 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_1.pdf, page6 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_1.pdf, page6 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page78#92| 
- []
-
-[78 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1753, page=7, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_1.pdf, page7 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_1.pdf, page7 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_1.pdf, page7 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page79#93| 
- []
-
-[79 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1758, page=8, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_1.pdf, page8 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_1.pdf, page8 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_1.pdf, page8 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page80#94| 
- []
-
-[80 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1763, page=9, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_1.pdf, page9 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_1.pdf, page9 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_1.pdf, page9 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page81#95| 
- []
-
-[81 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1768, page=10, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_1.pdf, page10 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_1.pdf, page10 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_1.pdf, page10 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page82#96| 
- []
-
-[82 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1773, page=11, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_1.pdf, page11 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_1.pdf, page11 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_1.pdf, page11 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page83#97| 
- []
-
-[83 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1811, page=12, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_1.pdf, page12 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_1.pdf, page12 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_1.pdf, page12 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page84#98| 
- []
-
-[84 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1817, page=13, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_1.pdf, page13 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_1.pdf, page13 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_1.pdf, page13 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page85#99| 
- []
-
-[85 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1823, page=14, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_1.pdf, page14 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_1.pdf, page14 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_1.pdf, page14 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page86#100| 
- []
-
-[86 <../figures/TB_1.pdf>]
-<../figures/TB_1.pdf, id=1832, page=15, 614.57909pt x 793.83177pt>
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_1.pdf, page15 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
- <use ../figures/TB_1.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_1.pdf, page15 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-File: ../figures/TB_1.pdf Graphic file (type pdf)
-
-<use ../figures/TB_1.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_1.pdf, page15 used on input line 863.
-(pdftex.def)             Requested size: 879.31033pt x 1135.77649pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page87#101| 
- []
-
-[87 <../figures/TB_1.pdf>]
-<../figures/TB_2.pdf, id=1837, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf>
-Package pdftex.def Info: ../figures/TB_2.pdf used on input line 864.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf>
-Package pdftex.def Info: ../figures/TB_2.pdf used on input line 864.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-<../figures/TB_2.pdf, id=1840, page=1, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_2.pdf, page1 used on input line 864.
-(pdftex.def)             Requested size: 350.5364pt x 453.63495pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_2.pdf, page1 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_2.pdf, page1 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_2.pdf, page1 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 1>
-Package pdftex.def Info: ../figures/TB_2.pdf, page1 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page88#102| 
- []
-
-[88 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1900, page=2, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_2.pdf, page2 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_2.pdf, page2 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 2>
-Package pdftex.def Info: ../figures/TB_2.pdf, page2 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page89#103| 
- []
-
-[89 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1921, page=3, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_2.pdf, page3 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_2.pdf, page3 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 3>
-Package pdftex.def Info: ../figures/TB_2.pdf, page3 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page90#104| 
- []
-
-[90 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1935, page=4, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_2.pdf, page4 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_2.pdf, page4 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 4>
-Package pdftex.def Info: ../figures/TB_2.pdf, page4 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page91#105| 
- []
-
-[91 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1943, page=5, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_2.pdf, page5 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_2.pdf, page5 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 5>
-Package pdftex.def Info: ../figures/TB_2.pdf, page5 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page92#106| 
- []
-
-[92 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1948, page=6, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_2.pdf, page6 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_2.pdf, page6 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 6>
-Package pdftex.def Info: ../figures/TB_2.pdf, page6 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page93#107| 
- []
-
-[93 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1953, page=7, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_2.pdf, page7 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_2.pdf, page7 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 7>
-Package pdftex.def Info: ../figures/TB_2.pdf, page7 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page94#108| 
- []
-
-[94 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1966, page=8, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_2.pdf, page8 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_2.pdf, page8 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 8>
-Package pdftex.def Info: ../figures/TB_2.pdf, page8 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page95#109| 
- []
-
-[95 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1973, page=9, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_2.pdf, page9 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_2.pdf, page9 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 9>
-Package pdftex.def Info: ../figures/TB_2.pdf, page9 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page96#110| 
- []
-
-[96 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1978, page=10, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_2.pdf, page10 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_2.pdf, page10 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 10>
-Package pdftex.def Info: ../figures/TB_2.pdf, page10 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page97#111| 
- []
-
-[97 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1984, page=11, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_2.pdf, page11 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_2.pdf, page11 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 11>
-Package pdftex.def Info: ../figures/TB_2.pdf, page11 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page98#112| 
- []
-
-[98 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1990, page=12, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_2.pdf, page12 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_2.pdf, page12 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 12>
-Package pdftex.def Info: ../figures/TB_2.pdf, page12 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page99#113| 
- []
-
-[99 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=1995, page=13, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_2.pdf, page13 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_2.pdf, page13 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 13>
-Package pdftex.def Info: ../figures/TB_2.pdf, page13 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page100#114| 
- []
-
-[100 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=2000, page=14, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_2.pdf, page14 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_2.pdf, page14 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 14>
-Package pdftex.def Info: ../figures/TB_2.pdf, page14 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page101#115| 
- []
-
-[101 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=2007, page=15, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_2.pdf, page15 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_2.pdf, page15 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 15>
-Package pdftex.def Info: ../figures/TB_2.pdf, page15 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page102#116| 
- []
-
-[102 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=2012, page=16, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 16>
-Package pdftex.def Info: ../figures/TB_2.pdf, page16 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 16>
-Package pdftex.def Info: ../figures/TB_2.pdf, page16 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 16>
-Package pdftex.def Info: ../figures/TB_2.pdf, page16 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page103#117| 
- []
-
-[103 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=2017, page=17, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 17>
-Package pdftex.def Info: ../figures/TB_2.pdf, page17 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 17>
-Package pdftex.def Info: ../figures/TB_2.pdf, page17 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 17>
-Package pdftex.def Info: ../figures/TB_2.pdf, page17 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page104#118| 
- []
-
-[104 <../figures/TB_2.pdf>]
-<../figures/TB_2.pdf, id=2022, page=18, 614.295pt x 794.97pt>
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 18>
-Package pdftex.def Info: ../figures/TB_2.pdf, page18 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
- <use ../figures/TB_2.pdf, page 18>
-Package pdftex.def Info: ../figures/TB_2.pdf, page18 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-File: ../figures/TB_2.pdf Graphic file (type pdf)
-
-<use ../figures/TB_2.pdf, page 18>
-Package pdftex.def Info: ../figures/TB_2.pdf, page18 used on input line 864.
-(pdftex.def)             Requested size: 878.90385pt x 1137.40501pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page105#119| 
- []
-
-[105 <../figures/TB_2.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2032, 597.23125pt x 845.1575pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf used on input lin
-e 878.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf used on input lin
-e 878.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page106#120| 
- []
-
-[106]
-<../figures/20160928_Rational_FMJ.pdf, id=2039, page=1, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 1>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page1 used on in
-put line 878.
-(pdftex.def)             Requested size: 350.5364pt x 496.0594pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 1>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page1 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 1>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page1 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 1>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page1 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 1>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page1 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page107#121| 
- []
-
-[107 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2073, page=2, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 2>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page2 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 2>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page2 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 2>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page2 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page108#122| 
- []
-
-[108 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2083, page=3, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 3>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page3 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 3>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page3 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 3>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page3 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page109#123| 
- []
-
-[109 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2088, page=4, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 4>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page4 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 4>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page4 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 4>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page4 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page110#124| 
- []
-
-[110 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2093, page=5, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 5>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page5 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 5>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page5 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 5>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page5 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page111#125| 
- []
-
-[111 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2098, page=6, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 6>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page6 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 6>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page6 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 6>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page6 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page112#126| 
- []
-
-[112 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2227, page=7, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 7>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page7 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 7>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page7 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 7>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page7 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page113#127| 
- []
-
-[113 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2421, page=8, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 8>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page8 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 8>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page8 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 8>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page8 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page114#128| 
- []
-
-[114 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2426, page=9, 597.23125pt x 845.1575p
-t>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 9>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page9 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 9>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page9 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 9>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page9 used on in
-put line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page115#129| 
- []
-
-[115 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2435, page=10, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 10>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page10 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 10>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page10 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 10>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page10 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page116#130| 
- []
-
-[116 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2440, page=11, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 11>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page11 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 11>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page11 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 11>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page11 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page117#131| 
- []
-
-[117 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2445, page=12, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 12>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page12 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 12>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page12 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 12>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page12 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page118#132| 
- []
-
-[118 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2607, page=13, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 13>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page13 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 13>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page13 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 13>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page13 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page119#133| 
- []
-
-[119 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2613, page=14, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 14>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page14 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 14>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page14 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 14>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page14 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page120#134| 
- []
-
-[120 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2618, page=15, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 15>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page15 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 15>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page15 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 15>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page15 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page121#135| 
- []
-
-[121 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2623, page=16, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 16>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page16 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 16>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page16 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 16>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page16 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page122#136| 
- []
-
-[122 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2628, page=17, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 17>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page17 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 17>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page17 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 17>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page17 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page123#137| 
- []
-
-[123 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2633, page=18, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 18>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page18 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 18>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page18 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 18>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page18 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page124#138| 
- []
-
-[124 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2638, page=19, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 19>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page19 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 19>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page19 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 19>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page19 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page125#139| 
- []
-
-[125 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2644, page=20, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 20>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page20 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 20>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page20 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 20>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page20 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page126#140| 
- []
-
-[126 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2649, page=21, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 21>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page21 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 21>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page21 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 21>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page21 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page127#141| 
- []
-
-[127 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2654, page=22, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 22>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page22 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 22>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page22 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 22>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page22 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page128#142| 
- []
-
-[128 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2659, page=23, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 23>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page23 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 23>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page23 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 23>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page23 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page129#143| 
- []
-
-[129 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2664, page=24, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 24>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page24 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 24>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page24 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 24>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page24 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page130#144| 
- []
-
-[130 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2669, page=25, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 25>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page25 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 25>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page25 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 25>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page25 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page131#145| 
- []
-
-[131 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2675, page=26, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 26>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page26 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 26>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page26 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 26>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page26 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page132#146| 
- []
-
-[132 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2680, page=27, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 27>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page27 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 27>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page27 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 27>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page27 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page133#147| 
- []
-
-[133 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2685, page=28, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 28>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page28 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 28>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page28 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 28>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page28 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page134#148| 
- []
-
-[134 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2690, page=29, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 29>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page29 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 29>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page29 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 29>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page29 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page135#149| 
- []
-
-[135 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2695, page=30, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 30>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page30 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 30>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page30 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 30>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page30 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page136#150| 
- []
-
-[136 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2701, page=31, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 31>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page31 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 31>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page31 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 31>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page31 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page137#151| 
- []
-
-[137 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2707, page=32, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 32>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page32 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 32>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page32 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 32>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page32 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page138#152| 
- []
-
-[138 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2712, page=33, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 33>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page33 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 33>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page33 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 33>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page33 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page139#153| 
- []
-
-[139 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2717, page=34, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 34>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page34 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 34>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page34 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 34>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page34 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page140#154| 
- []
-
-[140 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2722, page=35, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 35>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page35 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 35>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page35 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 35>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page35 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page141#155| 
- []
-
-[141 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2727, page=36, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 36>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page36 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 36>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page36 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 36>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page36 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page142#156| 
- []
-
-[142 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2736, page=37, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 37>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page37 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 37>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page37 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 37>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page37 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page143#157| 
- []
-
-[143 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2742, page=38, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 38>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page38 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 38>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page38 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 38>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page38 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page144#158| 
- []
-
-[144 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2747, page=39, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 39>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page39 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 39>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page39 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 39>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page39 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page145#159| 
- []
-
-[145 <../figures/20160928_Rational_FMJ.pdf>]
-<../figures/20160928_Rational_FMJ.pdf, id=2752, page=40, 597.23125pt x 845.1575
-pt>
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
- <use ../figures/20160928_Rational_FMJ.pdf, page 40>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page40 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 40>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page40 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-File: ../figures/20160928_Rational_FMJ.pdf Graphic file (type pdf)
-
-<use ../figures/20160928_Rational_FMJ.pdf, page 40>
-Package pdftex.def Info: ../figures/20160928_Rational_FMJ.pdf, page40 used on i
-nput line 878.
-(pdftex.def)             Requested size: 854.48985pt x 1209.21089pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page146#160| 
- []
-
-[146 <../figures/20160928_Rational_FMJ.pdf>]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page147#161| 
- []
-
-[147
+[53
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page148#162| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page54#70| 
  []
 
-[148]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page149#163| 
- []
-
-[149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page150#164| 
- []
-
-[150]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page151#165| 
- []
-
-[151]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page152#166| 
- []
-
-[152]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page153#167| 
- []
-
-[153]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page154#168| 
- []
-
-[154]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page155#169| 
- []
-
-[155]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page156#170| 
- []
-
-[156]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page157#171| 
- []
-
-[157]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page158#172| 
- []
-
-[158]
-Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page159#173| 
- []
-
-[159
+[54
 
 ]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page160#174| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page55#71| 
  []
 
-[160
+[55
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page56#72| 
+ []
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page57#73| 
+ []
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page58#74| 
+ []
+
+[58]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page59#75| 
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 940--941
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page60#76| 
+ []
+
+[60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page61#77| 
+ []
+
+[61]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page62#78| 
+ []
+
+[62]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page63#79| 
+ []
+
+[63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page64#80| 
+ []
+
+[64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page65#81| 
+ []
+
+[65]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page66#82| 
+ []
+
+[66]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page67#83| 
+ []
+
+[67
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page68#84| 
+ []
+
+[68
 
 
 ]
 No file thesis.ind.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1031.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 1031.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1027.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1027.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page161#175| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page69#85| 
  []
 
-[161
+[69
 
 
 ]
-Underfull \hbox (badness 1742) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1742) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Opher Gileadi et al. \OT1/ptm/m/it/10.95 The sci-en-tific 
 im-pact of the Struc-tural Ge-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page162#176| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page70#86| 
  []
 
-[162]
+[70]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page163#177| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page71#87| 
  []
 
-[163]
+[71]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page164#178| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page72#88| 
  []
 
-[164]
+[72]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page165#179| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page73#89| 
  []
 
-[165]
+[73]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page166#180| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page74#90| 
  []
 
-[166]
+[74]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page167#181| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page75#91| 
  []
 
-[167]
+[75]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page168#182| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page76#92| 
  []
 
-[168]
-Underfull \hbox (badness 3138) in paragraph at lines 1032--1032
+[76]
+Underfull \hbox (badness 3138) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Sarah Hunter et al. []  In-ter-Pro: The in-te-gra-tive pro
 -tein sig-na-ture
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page169#183| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page77#93| 
  []
 
-[169]
+[77]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page170#184| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page78#94| 
  []
 
-[170]
+[78]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page171#185| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page79#95| 
  []
 
-[171]
+[79]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page172#186| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page80#96| 
  []
 
-[172]
+[80]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page173#187| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page81#97| 
  []
 
-[173]
-Underfull \hbox (badness 2221) in paragraph at lines 1032--1032
+[81]
+Underfull \hbox (badness 2221) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 J Drews. []  Drug dis-cov-ery: a his-tor-i-cal per-spec-ti
 ve.[] In: \OT1/ptm/m/it/10.95 Sci-ence
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page174#188| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page82#98| 
  []
 
-[174]
+[82]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page175#189| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page83#99| 
  []
 
-[175]
+[83]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page176#190| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page84#100| 
  []
 
-[176]
-Underfull \hbox (badness 1348) in paragraph at lines 1032--1032
+[84]
+Underfull \hbox (badness 1348) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 QSAR in Drug De-sign[]. In: \OT1/ptm/m/it/10.95 Cur-rent Top
 -ics in Medic-i-nal Chem-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page177#191| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page85#101| 
  []
 
-[177]
+[85]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page178#192| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page86#102| 
  []
 
-[178]
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Clare M. Lewandowski, New Co-investigator, and Clare M.
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1142) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 Lewandowski. []  WHO Global tu-ber-cu-lo-sis re-port 2015[].
  In: \OT1/ptm/m/it/10.95 WHO
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1762) in paragraph at lines 1028--1028
 \OT1/ptm/m/it/10.95 Global tu-ber-cu-lo-sis re-port 2015 \OT1/ptm/m/n/10.95 1 (
 2015), pp. 1689{1699. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m/n/10.95 :
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page179#193| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page87#103| 
  []
 
-[179]
-Underfull \hbox (badness 1062) in paragraph at lines 1032--1032
+[87]
+Underfull \hbox (badness 1062) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 2013), pp. 313{21. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m/n/10.9
 5 : 1860-7187. \OT1/ptm/m/sc/10.95 doi\OT1/ptm/m/n/10.95 : []$\OT1/pcr/m/n/10.9
 5 10 . 1002 / cmdc .
@@ -5109,77 +2786,77 @@ Underfull \hbox (badness 1062) in paragraph at lines 1032--1032
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page180#194| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page88#104| 
  []
 
-[180]
+[88]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page181#195| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page89#105| 
  []
 
-[181]
+[89]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page182#196| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page90#106| 
  []
 
-[182]
+[90]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page183#197| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page91#107| 
  []
 
-[183]
-Underfull \hbox (badness 4752) in paragraph at lines 1032--1032
+[91]
+Underfull \hbox (badness 4752) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Susanne M[]uller et al. []  The ins and outs of se-lec-tiv
 e ki-nase
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 in-hibitor de-vel-op-ment[]. In: \OT1/ptm/m/it/10.95 NA-TURE
  CHEM-I-CAL BI-OL-OGY
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1852) in paragraph at lines 1028--1028
 \OT1/ptm/m/it/10.95 www.nature.com/naturechemicalbiology \OT1/ptm/m/n/10.95 11.
 11 (2015), pp. 818{821.
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page184#198| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page92#108| 
  []
 
-[184]
+[92]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page185#199| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page93#109| 
  []
 
-[185]
+[93]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page186#200| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page94#110| 
  []
 
-[186]
-Underfull \hbox (badness 1845) in paragraph at lines 1032--1032
+[94]
+Underfull \hbox (badness 1845) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Rina Barouch-Bentov and Karsten Sauer. []  Mech-a-nisms of
  Drug-
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 1032--1032
+Underfull \hbox (badness 2173) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 ta-tion Con-fer-ring Pri-mary Re-sis-tance to Gefi-tinib in 
 Non--Small-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1275) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 Cell Lung Can-cer[]. In: \OT1/ptm/m/it/10.95 New Eng-land Jo
 ur-nal of Medicine \OT1/ptm/m/n/10.95 353.2
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 1032--1032
+Underfull \hbox (badness 1796) in paragraph at lines 1028--1028
 \OT1/ptm/m/n/10.95 (July 2005), pp. 207{208. \OT1/ptm/m/sc/10.95 issn\OT1/ptm/m
 /n/10.95 : 0028-4793. \OT1/ptm/m/sc/10.95 doi\OT1/ptm/m/n/10.95 : []$\OT1/pcr/m
 /n/10.95 10 . 1056 /
@@ -5187,41 +2864,41 @@ Underfull \hbox (badness 1796) in paragraph at lines 1032--1032
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page187#201| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page95#111| 
  []
 
-[187]
-Underfull \hbox (badness 1331) in paragraph at lines 1032--1032
+[95]
+Underfull \hbox (badness 1331) in paragraph at lines 1028--1028
 []\OT1/ptm/m/n/10.95 Matthew Van-ne-man and Glenn Dra-noff. []  Com-bin-ing im-
 munother-
  []
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page188#202| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page96#112| 
  []
 
-[188]
+[96]
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page189#203| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page97#113| 
  []
 
-[189]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1038.
+[97]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1034.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
- []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1115:14page190#204| 
+ []\OT1/ptm/m/n/10.95 ``thesis''2016/10/1316:46page98#114| 
  []
 
-[190]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1038.
+[98]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1034.
  (./thesis.aux
 LaTeX Info: Redefining \sptext on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1038.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1038.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1034.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1034.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 1CB2300E1E4FCCAD64220B517AADB7BC;4133.
@@ -5237,16 +2914,16 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1038.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1034.
  ) 
 Here is how much of TeX's memory you used:
- 27817 strings out of 495034
- 487890 string characters out of 6181677
- 1866009 words of memory out of 5000000
- 29947 multiletter control sequences out of 15000+600000
+ 27427 strings out of 495034
+ 474393 string characters out of 6181677
+ 1865954 words of memory out of 5000000
+ 29655 multiletter control sequences out of 15000+600000
  37537 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,18n,91p,4136b,2073s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,13n,91p,4136b,2073s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -5263,10 +2940,10 @@ exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
 e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (204 pages, 14836060 bytes).
+Output written on thesis.pdf (114 pages, 3565951 bytes).
 PDF statistics:
- 3768 PDF objects out of 4296 (max. 8388607)
- 3026 compressed objects within 31 object streams
- 560 named destinations out of 1000 (max. 500000)
- 1021 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2448 PDF objects out of 2487 (max. 8388607)
+ 2192 compressed objects within 22 object streams
+ 470 named destinations out of 1000 (max. 500000)
+ 501 words of extra memory for PDF output out of 10000 (max. 10000000)
 
