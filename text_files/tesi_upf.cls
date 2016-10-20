@@ -52,7 +52,7 @@
 %%   Grave accent  \`     Left brace    \{     Vertical bar  \|
 %%   Right brace   \}     Tilde         \~}
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{book}
+\ProvidesClass{article}
               [2005/09/16 v1.4f
  Standard LaTeX document class]
 \newcommand\@ptsize{}
@@ -208,6 +208,7 @@
   \let\footnoterule\relax
   \let \footnote \thanks
   \null\vfil
+  
 %  \vskip 60\p@
   \begin{flushleft}%
     {\LARGE \sffamily \@title \par}%
@@ -221,12 +222,12 @@
       \end{tabular}\par}%
       \rule{\linewidth}{1mm} \par
       \vskip 1cm%
-    {\large TESI DOCTORAL UPF / ANY \@thyear}\\[2cm]
-    {\normalsize DIRECTOR DE LA TESI}\par
-    {\large \@supervisor} {\large Departament \@department} \par
+    {\large TESI DOCTORAL UPF / \@thyear}\\[2cm]
+    {\normalsize THESIS SUPERVISOR}\par
+    {\large \@supervisor} \par
     \vspace{3cm}
    \centering  
-    \fbox{\includegraphics[scale=0.4]{../figures/logo_upf.png}}
+    \fbox{\includegraphics[scale=0.04]{../figures/logo_upf.png}}
    \end{flushleft}\par
 %  \@thanks
 % \vfil\null
@@ -261,11 +262,11 @@
         \twocolumn[\@maketitle]%
       \fi
     \else
-      \newpage
+      %\newpage
       \global\@topnum\z@   % Prevents figures from going at top of page.
       \@maketitle
     \fi
-    \thispagestyle{plain}\@thanks
+    \thispagestyle{empty}\@thanks
   \endgroup
   \setcounter{footnote}{0}%
   \global\let\thanks\relax

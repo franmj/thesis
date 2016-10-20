@@ -18,14 +18,14 @@
 
 %NOMÉS PER A OBTENIR INDICACIÓ DEL MARC EN MIDA B5
 \usepackage[b5paper]{geometry}
-\usepackage[cam,a4,center,frame]{crop}
+%\usepackage[cam,a4,center,frame]{crop}
 \usepackage{titlesec}
 \titleformat*{\section}{\Large\bfseries}
 \titleformat*{\subsection}{\large\bfseries}
 \titleformat*{\subsubsection}{\large\bfseries}
 %IDIOMES
 \usepackage[english,spanish]{babel}
-\usepackage[cam,a4,center,frame]{crop}
+
 \usepackage[colorlinks=false]{hyperref}
 \usepackage{graphicx}
 \usepackage{mathtools}
@@ -82,33 +82,29 @@
 
 
 \addbibresource{../bibliography/library.bib}
-
-
-
-
 \title{Structural study of the therapeutic potential of protein-ligand interactions}
+\author{Francisco Mart\'inez-Jim\'enez}
+\thyear{2016}
+\supervisor{Dr. Marc A. Marti-Renom}
 
-\author{Autor: Francisco Mart\'inez Jim\'enez}
-\thyear{L'any de la tesi: 2016}
-\department{Departament: Biomedicine}
-\supervisor{Director: Marc A. Marti-Renom}
+\pagestyle{empty}
+
+
 
 
 \begin{document}
 \sloppy
+\setcounter{page}{0}
 \captionsetup[table]{skip=20pt}
 \captionsetup[longtable]{skip=20pt}
-\frontmatter
 \selectlanguage{english}
-
-\maketitle
-\thispagestyle{empty}
 \cleardoublepage
-\thispagestyle{empty}
-
-
-
+\maketitle
+\frontmatter
+\newpage
+\null
 \clearpage
+\pagestyle{plain}
 \section*{Acknowledgments}
 \setcounter{page}{1}
 \addcontentsline{toc}{section}{Acknowledgments}
@@ -118,7 +114,7 @@ The first person that comes into my mind is my supervisor, Marc. Thank you for t
 I am also very grateful to all the people in the lab. I really enjoyed this experience with you guys. Thank you to Davide for helping me with the first steps in the lab, to Fransuuu for being so disastrous with names (we are not the exception but the rule!), to Yasmina for teaching Fransuuu how to properly dance, he is the master of the rhythm!; to Yannick for your good taste with wine and cheese, to Marco for patiently repeating the story of Sergio Roberto Alfredo, to David (\textit{Castillo}) for surprisingly showing that people supporting Barça may have some knowledge about football, to Silvia for all the chewing gums I've stolen, to Gireesh for all non-scientific activities we have shared over the PhD, to Irene for teaching this beautiful language called Irenico, to Mike for being such a nice guy and more importantly, such a great cook!; to David  (\textit{Praga}) for our long and instructive conversations about our shared topic of interest, and finally, thank you to Pauli, for listening, helping and having such a big heart despite of being so incredibly small. THANK YOU ALL GUYS!. \\
 Thank you also to the PRBB PhD community. Thank you to Lisa, Gireesh, Vero, Maria, Luis, Francesco, Jordi, Lorenzo, Nino, Marco... Life won't be the same without our insane PhD student retreats and parties. Special mention should be made to Juan (\textit{el Gallego}), the best storyteller I have ever met! I'll miss you guys! \\
 Thank you also to all the CNAG-CRG people who has helped me during this time. Thank you to Anna(s), Raul, Fernando, Steve, Santi, Angelika, Leo, Lukasz, Marie, Francesca, Miguel, Anibal...  Your help, as significant as it might look, was very important to me. \\
-Mención especial merece Giussele, tu fuiste el verdadero artífice y creador de SIGECO (con el beneplácito de Iñigo). Todos y cada uno de los integrantes de SIGECO sois responsables de que mi dia a dia sea mucho mas ameno, de que tenga ganas de sentarme para leer el correo, y de que diga, orgulloso, que conservo 14 amigos (más satélites) desde la universidad. Gracias a Nobelisco (como Giusele diría), a Eva, su futura novia; a Feliz, a los Excel de Feliz, a Soto, al hijo de Soto, al Isrraaa malo, a Juanin H.D.P., a Rafa, a los remos de Rafa, a Batxes, a Txula y a Argi; a Iñigo-GOD, a Markel,  al solar de Markel, a Rocamora y su ejercito de esclavos, a Juan Lu, a Santiago Puigdemont, a Sebas y su amiga chilena, a Patrón, al dueño de la Forja, a Kaku, a mini Kakus, etc.          \\ 
+Mención especial merece Giussele, tu fuiste el verdadero artífice y creador de SIGECO (con el beneplácito de Iñigo). Todos y cada uno de los integrantes de SIGECO sois responsables de que mi dia a dia sea mucho más ameno, de que tenga ganas de sentarme para leer el correo, y de que diga, orgulloso, que conservo 14 amigos (más satélites) desde la universidad. Gracias a Nobelisco (como Giusele diría), a Eva, su futura novia; a Feliz, a los Excel de Feliz, a Soto, al hijo de Soto, al Isrraaa malo, a Juanin H.D.P., a Rafa, a los remos de Rafa, a Batxes, a Txula y a Argi; a Iñigo-GOD, a Markel,  al solar de Markel, a Rocamora y su ejercito de esclavos, a Juan Lu, a Santiago Puigdemont, a Sebas y su amiga chilena, a Patrón, al dueño de la Forja, a Kaku, a mini Kakus, etc.          \\ 
 Agradecer tambien al resto de amigos, no necesariamente científicos, el hecho de haber compartido estos 4 años con vosotros. Gracias a la gente del pueblo (Lore, Gine, Peri, Belén, Mori, Rubio, Javi, Lorena, etc) por acogerme y tratarme tan bien cada vez que voy. Gracias a Carlos por soportar mis aventuras durante más de un año de convivencia.  Gracias a Enric por compartir conmigo su infinita sabiduría y por su labor encomiable recogiendo balones perdidos en la jungla. A Juan Carlos por haber aguantado estóicamente durante las tres semana de viaje a Costa Rica. Gracias a Nuria por su bipolaridad. Gracias también a Iñigo, y a su familia, por haber sido parte de un viaje único e irrepetible. Y como no, un gracias infinito a mis misiles. Gracias Juanlu por ser el mejor compañero de piso, compañero de futbol, compañero de gimnasio, de fiesta en Plataforma, de fiesta en cualquier otro lugar del territorio español... Gracias por permitirme practicar mi catalán en la intimidad, por imitar tan bien al bueno de Josep, en fin, gracias por ser mi amigo. Un gracias enorme a mi \textit{Weycito}, por haberme hecho vivir un año indescriptible, por las mil y una aventuras vividas juntos, por haberme hecho parte de tu familia (os quiero Gaby y Paty), por enseñarme que crear una amistad no requiere de mucho tiempo, te echo muchísimo de menos wey, tenemos que vernos pronto... Por último gracias a Vare, no hace falta que te diga mucho por qué, no?  Gracias por estar ahí durante más de 14 años, gracias por conocerme tan bien, gracias por las miles de aventuras que hemos vivido, y sobre todo, gracias por las que nos quedan por vivir! \\
 No creo en dios ni en el destino, pero estoy muy agradecido por haber conocido a Maria. Gracias,  María, por todo tu apoyo y ayuda, por comprender mis errores y ensalzar mis virtudes, gracias por hacerme ver las cosas que para mi no son sencillas, gracias por haber compartido un viaje tan maravilloso como el que hicimos, gracias por reirte de mí y conmigo. En fin, gracias, María, por ser la persona tan maravillosa que eres.\\ 
 Y por último lo más importante, gracias a mi familia. Gracias a mis tios y primos, a Juanita, a Alejandro y, sobretodo, a mis abuelos y a mi madre. Existen infinitas cosas por las que daros las gracias, pero sólo diré que gracias por todo lo que me habéis dado y por haberme educado para ser quien soy. Esta tesis es tan vuestra como mía.  
@@ -127,6 +123,7 @@ Y por último lo más importante, gracias a mi familia. Gracias a mis tios y pri
 
 
 \clearpage
+\newpage\null\thispagestyle{empty}\newpage
 \section*{Abstract}
 \addcontentsline{toc}{section}{Abstract}
 
@@ -839,7 +836,7 @@ This thesis aims to fulfil the following specific objectives:
 
 \clearpage
 
- %\includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/20150331_Martinez-Jumenez_etal_PLOSCB15.pdf}
+ \includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/nAnnolyze.pdf}
 
 
 
@@ -860,8 +857,10 @@ Manuscripts presented in this section:
 \end{tcolorbox}
 
 \clearpage
- %\includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/TB_1.pdf}
- %\includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/TB_2.pdf}
+ \includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/TB_1.pdf}
+ \cleardoublepage
+ \includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/TB_2.pdf}
+
 \subsection{Rational design of non-resistant targeted cancer therapies}\label{blending}
 
 \par  This chapter presents a computational model that predicts cancer associated mutations with the highest chance to confer resistance to a targeted therapy. Furthermore, for those mutations predicted as highly resistance-like it suggests alternative non-resistant compounds. The model exemplified it applicability in two targeted therapies: EGFR-gefitinib for the treatment of Lung adenocarcinoma and Lung Squamous Cell Carcinoma; and the ERK2-VTX11e therapy for the treatment of melanoma and colorectal cancer.  
@@ -875,7 +874,7 @@ Manuscripts presented in this section:
 \vspace*{7mm}
 \end{tcolorbox}
 
-%\includepdf[pages=-,pagecommand={},width=\textwidth]{../figures/20160928_Rational_FMJ.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}},width=\textwidth]{../figures/20160928_Rational_FMJ_MAMR.pdf}
 
 
 \clearpage
