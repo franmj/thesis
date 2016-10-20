@@ -476,6 +476,7 @@
 \leftmargin  \leftmargini
 \setlength\leftmarginii  {2.2em}
 \setlength\leftmarginiii {1.87em}
+%\setlength\leftmarginiii {2.em}
 \setlength\leftmarginiv  {1.7em}
 \if@twocolumn
   \setlength\leftmarginv  {.5em}

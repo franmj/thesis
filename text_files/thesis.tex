@@ -17,8 +17,15 @@
 %\usepackage[spanish,english]{babel}
 
 %NOMÉS PER A OBTENIR INDICACIÓ DEL MARC EN MIDA B5
-\usepackage[b5paper]{geometry}
-%\usepackage[cam,a4,center,frame]{crop}
+\usepackage{geometry}
+\geometry{b5paper,
+ total={176mm,250mm},
+ outer=25mm,
+ inner=30mm,
+ top=25mm,
+ bottom=25mm,
+ }
+\usepackage[cam,a4,center,noinfo]{crop}
 \usepackage{titlesec}
 \titleformat*{\section}{\Large\bfseries}
 \titleformat*{\subsection}{\large\bfseries}
@@ -94,16 +101,13 @@
 
 \begin{document}
 \sloppy
-\setcounter{page}{0}
+\setcounter{page}{1}
 \captionsetup[table]{skip=20pt}
 \captionsetup[longtable]{skip=20pt}
 \selectlanguage{english}
 \cleardoublepage
 \maketitle
 \frontmatter
-\newpage
-\null
-\clearpage
 \pagestyle{plain}
 \section*{Acknowledgments}
 \setcounter{page}{1}
