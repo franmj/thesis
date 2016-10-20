@@ -2182,4 +2182,72 @@
     <bcf:citekey order="221">Noble2004</bcf:citekey>
     <bcf:citekey order="222">Inhibitor2016</bcf:citekey>
     <bcf:citekey order="223">Inhibitor2016</bcf:citekey>
-    <bcf:citekey order="224">Guimaraes2011</bcf:cit
+    <bcf:citekey order="224">Guimaraes2011</bcf:citekey>
+    <bcf:citekey order="225">Morris2013</bcf:citekey>
+    <bcf:citekey order="226">Muller2015</bcf:citekey>
+    <bcf:citekey order="227">Muller2015</bcf:citekey>
+    <bcf:citekey order="228">Cohen2005</bcf:citekey>
+    <bcf:citekey order="229">Potashman2009</bcf:citekey>
+    <bcf:citekey order="230">Liu2013a</bcf:citekey>
+    <bcf:citekey order="231">Barf2012</bcf:citekey>
+    <bcf:citekey order="231">Liebler2008</bcf:citekey>
+    <bcf:citekey order="232">Okamoto2015</bcf:citekey>
+    <bcf:citekey order="233">Manning2002</bcf:citekey>
+    <bcf:citekey order="234">Davis2011</bcf:citekey>
+    <bcf:citekey order="235">Zhang2009a</bcf:citekey>
+    <bcf:citekey order="236">Holohan2013</bcf:citekey>
+    <bcf:citekey order="237">Gottesman2002</bcf:citekey>
+    <bcf:citekey order="238">Lowe2004</bcf:citekey>
+    <bcf:citekey order="239">Logue2012</bcf:citekey>
+    <bcf:citekey order="240">McMillin2013</bcf:citekey>
+    <bcf:citekey order="241">Maier2005</bcf:citekey>
+    <bcf:citekey order="242">Koivisto1997</bcf:citekey>
+    <bcf:citekey order="243">Schmitt2015</bcf:citekey>
+    <bcf:citekey order="244">Chen2011</bcf:citekey>
+    <bcf:citekey order="244">Barouch-Bentov2011a</bcf:citekey>
+    <bcf:citekey order="245">Gorre2001</bcf:citekey>
+    <bcf:citekey order="246">Soverini2016</bcf:citekey>
+    <bcf:citekey order="247">Soverini2016</bcf:citekey>
+    <bcf:citekey order="248">Shih2005</bcf:citekey>
+    <bcf:citekey order="249">Walter2013</bcf:citekey>
+    <bcf:citekey order="249">Cross2014</bcf:citekey>
+    <bcf:citekey order="250">Ercan2015</bcf:citekey>
+    <bcf:citekey order="251">Doebele2012</bcf:citekey>
+    <bcf:citekey order="251">Shaw2015</bcf:citekey>
+    <bcf:citekey order="252">Wu2016</bcf:citekey>
+    <bcf:citekey order="253">Schmitt2015</bcf:citekey>
+    <bcf:citekey order="254">Burrell2014</bcf:citekey>
+    <bcf:citekey order="255">Flaherty2012</bcf:citekey>
+    <bcf:citekey order="256">Cortes2016</bcf:citekey>
+    <bcf:citekey order="257">Vanneman2012</bcf:citekey>
+    <bcf:citekey order="257">Ribas2013</bcf:citekey>
+    <bcf:citekey order="258">Al-Lazikani2012</bcf:citekey>
+    <bcf:citekey order="259">Bozic2013</bcf:citekey>
+    <bcf:citekey order="259">Komarova2014</bcf:citekey>
+    <bcf:citekey order="260">Williams2016</bcf:citekey>
+    <bcf:citekey order="260">Attolini2010</bcf:citekey>
+    <bcf:citekey order="261">Chmielecki2011</bcf:citekey>
+    <bcf:citekey order="261">Huang2007</bcf:citekey>
+    <bcf:citekey order="262">Liu2007</bcf:citekey>
+    <bcf:citekey order="262">Bento2014</bcf:citekey>
+    <bcf:citekey order="262">Zhu2012</bcf:citekey>
+    <bcf:citekey order="263">Holohan2013</bcf:citekey>
+    <bcf:citekey order="264">Marti-Renom2007</bcf:citekey>
+    <bcf:citekey order="265">Marti-Renom2007</bcf:citekey>
+    <bcf:citekey order="266">Norvell2007</bcf:citekey>
+    <bcf:citekey order="267">GIleadi2007</bcf:citekey>
+    <bcf:citekey order="268">Dijkstra1959</bcf:citekey>
+    <bcf:citekey order="269">Chen2012</bcf:citekey>
+    <bcf:citekey order="270">Huang2013a</bcf:citekey>
+    <bcf:citekey order="271">Westphal1994</bcf:citekey>
+    <bcf:citekey order="272">Ling2015a</bcf:citekey>
+    <bcf:citekey order="273">Holohan2013</bcf:citekey>
+  </bcf:section>
+  <bcf:sortlist section="0" type="entry" label="none">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+</bcf:controlfile>
