@@ -156,6 +156,8 @@
 \def\department#1{\def\@department{#1}}
 \def\@supervisor{}
 \def\supervisor#1{\def\@supervisor{#1}}
+\def\@tutor{}
+\def\tutor#1{\def\@tutor{#1}}
 
 
 
@@ -225,6 +227,8 @@
     {\large TESI DOCTORAL UPF / \@thyear}\\[2cm]
     {\normalsize THESIS SUPERVISOR}\par
     {\large \@supervisor} \par
+    {\normalsize THESIS TUTOR}\par
+    {\large \@tutor} \par
     \vspace{3cm}
    \centering  
     \fbox{\includegraphics[scale=0.04]{../figures/logo_upf.png}}
