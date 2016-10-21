@@ -6,17 +6,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Acknowledgments}{\es@scroman {i}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Abstract}{\es@scroman {iv}}{Doc-Start}
+\contentsline {section}{Abstract}{\es@scroman {iii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resumen}{\es@scroman {iv}}{Doc-Start}
+\contentsline {section}{Resumen}{\es@scroman {iii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Preface}{\es@scroman {v}}{Doc-Start}
+\contentsline {section}{Preface}{\es@scroman {iv}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Index of figures}{\es@scroman {x}}{Doc-Start}
+\contentsline {section}{Index of figures}{\es@scroman {viii}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of tables}{\es@scroman {xi}}{Doc-Start}
+\contentsline {section}{List of tables}{\es@scroman {ix}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{List of publications}{\es@scroman {xii}}{Doc-Start}
+\contentsline {section}{List of publications}{\es@scroman {x}}{Doc-Start}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{1}{Item.6}
 \defcounter {refsection}{0}\relax 
